@@ -1,0 +1,55 @@
+name: Weekly featured article (MiniMax)
+
+on:
+  schedule:
+    # 每週一約香港時間 11:00（UTC 03:00）
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: automation/package-lock.json
+
+      - name: Install dependencies
+        run: |
+          cd automation
+          npm ci
+
+      - name: Generate weekly article
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_MODEL: ${{ secrets.MINIMAX_MODEL }}
+          MINIMAX_API_BASE: ${{ secrets.MINIMAX_API_BASE }}
+        run: |
+          cd automation
+          node weekly-article.mjs
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: 'chore(content): weekly featured article (MiniMax)'
+          title: 'Automated: weekly featured article'
+          body: |
+            此 PR 由 GitHub Actions 建立，可能包含：
+            - `data/weekly-article-meta.json`
+            - `blog-weekly-*.html`（本週新檔）
+
+            **請於合併前由負責人閱讀週報文稿**（聲明與參考來源已附於頁面）。
+
+            若未設定 `MINIMAX_API_KEY` repository secret，腳本會略過產文，通常不會產生任何變更（本步驟將不開新 PR）。
+          branch: automated/weekly-article
+          delete-branch: true

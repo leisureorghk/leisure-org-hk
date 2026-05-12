@@ -1,0 +1,33 @@
+# 新天地 - Robots 設定
+# leisure.org.hk
+
+# 允許所有正常搜尋引擎爬蟲
+User-agent: *
+Allow: /
+Disallow: /images/icons/
+Disallow: /css/
+
+# 網站地圖位置
+Sitemap: https://www.leisure.org.hk/sitemap.xml
+
+# 禁止惡意爬蟲
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: wget
+Disallow: /

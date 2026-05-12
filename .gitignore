@@ -1,0 +1,14 @@
+# Dependencies
+automation/node_modules/
+
+# Secrets / local env
+.env
+.env.*
+
+# OS / editor
+Thumbs.db
+.DS_Store
+*.log
+
+# Optional local tooling
+.cursor/

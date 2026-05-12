@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 60" width="100" height="60" fill="none">
+  <defs>
+    <linearGradient id="headerLogoBg" x1="22" y1="2" x2="78" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22c1ff"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="30" r="28" fill="url(#headerLogoBg)"/>
+  <path d="M36 39C40 35.5 44 34 50 34C56 34 60 35.5 64 39" stroke="white" stroke-width="3.8" stroke-linecap="round"/>
+  <path d="M33 45C38 41.5 43 40 50 40C57 40 62 41.5 67 45" stroke="white" stroke-width="3.4" stroke-linecap="round" opacity="0.95"/>
+  <path d="M43.5 31C43.5 25.3 46.2 21 50 18.5C53.8 21 56.5 25.3 56.5 31C56.5 34.4 53.6 37.2 50 37.2C46.4 37.2 43.5 34.4 43.5 31Z" fill="none" stroke="white" stroke-width="2.7"/>
+  <path d="M50 32.5V24" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M50 24L46.1 27.9" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M50 24L53.9 27.9" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M50 14L51.3 17L54.5 17.3L52 19.5L52.8 22.6L50 20.8L47.2 22.6L48 19.5L45.5 17.3L48.7 17L50 14Z" fill="#FDE68A"/>
+</svg>

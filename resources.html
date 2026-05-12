@@ -1,0 +1,318 @@
+﻿<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="新天地家長資源 - SEN教育資訊、親子游泳技巧、感統訓練指南。">
+    <meta name="keywords" content="SEN家長資源, 親子游泳技巧, 香港感統訓練指南, 自閉症教育資訊, ADHD家長支援, 新天地">
+    <title>家長資源 | 新天地</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Playfair+Display:ital,wght@0,600;1,500&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
+    <link rel="stylesheet" href="css/style.css?v=20260512f">
+</head>
+<body>
+    <div class="particles" aria-hidden="true">
+        <div class="particle particle-1"></div><div class="particle particle-2"></div><div class="particle particle-3"></div>
+        <div class="particle particle-4"></div><div class="particle particle-5"></div><div class="particle particle-6"></div>
+        <div class="particle particle-7"></div><div class="particle particle-8"></div><div class="particle particle-9"></div>
+        <div class="particle particle-10"></div>
+    </div>
+    <div class="loading" id="loading"><div class="loading-spinner"></div></div>
+
+        <div class="nav-backdrop" id="nav-backdrop"></div>
+
+    <header class="header" id="header">
+        <div class="header-inner">
+            <a href="index.html" class="logo">
+                <div class="logo-icon"><img src="images/icons/logo-header.svg" alt="新天地" onerror="this.parentElement.innerHTML='🏊'"></div>
+                <div class="logo-text">新天地<span>SEN學生游泳及多功能發展</span></div>
+            </a>
+            <nav class="nav" id="nav">
+                <div class="nav-drawer-header">
+                    <div class="logo-text">新天地<span>導航選單</span></div>
+                    <button class="nav-close-btn" id="nav-close-btn" aria-label="關閉選單">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+                    </button>
+                </div>
+                <div class="nav-drawer-links">
+                <a href="index.html" class="nav-link">首頁</a>
+                <a href="about.html" class="nav-link">關於我們</a>
+                <a href="services.html" class="nav-link">服務項目</a>
+                <a href="why-us.html" class="nav-link">為何選擇我們</a>
+                <a href="resources.html" class="nav-link active">家長資源</a>
+                <a href="blog.html" class="nav-link">教練專欄</a>
+                <a href="booking.html" class="nav-link">預約課程</a>
+                <a href="contact.html" class="nav-link">聯絡我們</a>
+                </div>
+                <div class="nav-drawer-footer">
+                    <a href="https://wa.me/85297083907?text=%E5%A4%9A%E8%AC%9D%E5%AE%B6%E9%95%B7%E7%9A%84%E6%9F%A5%E8%A9%A2" target="_blank" rel="noopener" class="btn btn-primary">WhatsApp 查詢</a>
+                </div>
+            </nav>
+            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="開啟選單">
+                <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+            </button>
+        </div>
+    </header>
+
+    <section class="page-header">
+        <div class="container">
+            <h1>家長資源</h1>
+            <p>實用資訊和建議，幫助你更好地支援孩子的發展</p>
+        </div>
+    </section>
+
+    <!-- Quick Tips Cards -->
+    <section class="section">
+        <div class="bg-decoration bg-circle-1"></div>
+        <div class="container">
+            <div class="section-header">
+                <h2>育兒錦囊</h2>
+                <p>從曹教練三十年經驗濃縮的實用建議</p>
+            </div>
+            <div class="features-grid">
+                <div class="card reveal stagger-1">
+                    <div class="custom-icon"><img src="images/icons/icon-bath.svg" alt="浴缸"></div>
+                    <h3>在家玩水小遊戲</h3>
+                    <p>孩子怕水？不妨先從家裡的浴缸開始。用杯子裝水慢慢倒在他手上、讓他用腳踢水、放一些浮水玩具——不需要去泳池，讓水變成有趣的東西就好。</p>
+                </div>
+                <div class="card reveal stagger-2">
+                    <div class="custom-icon green"><img src="images/icons/icon-routine.svg" alt="常規"></div>
+                    <h3>建立「游泳日」儀式感</h3>
+                    <p>SEN孩子對可預測的流程有安全感。你可以製作一個視覺時間表：收拾泳袋→穿衣服→出發→上課→洗澡→貼貼紙。讓他清楚知道每一步會發生什麼。</p>
+                </div>
+                <div class="card reveal stagger-3">
+                    <div class="custom-icon orange"><img src="images/icons/icon-hug.svg" alt="擁抱"></div>
+                    <h3>每次下課後的黃金五分鐘</h3>
+                    <p>下課後不要急著走。花五分鐘抱抱孩子，用簡單的句子回顧今天的課堂：「你今天踢水踢得很好！」「教練看到你舉手了，很棒！」這能幫助孩子建立自信。</p>
+                </div>
+                <div class="card reveal stagger-4">
+                    <div class="custom-icon gold"><img src="images/icons/icon-check.svg" alt="小步驟"></div>
+                    <h3>把大目標拆成小目標</h3>
+                    <p>不要對孩子說「你要學會游泳」。可以說「今天我們試試把臉放進水裡三秒鐘」。達成一個小目標比追求一個大目標更能建立自信。</p>
+                </div>
+                <div class="card reveal stagger-5">
+                    <div class="custom-icon teal"><img src="images/icons/icon-breath.svg" alt="呼吸"></div>
+                    <h3>面對拒絕，試試「再等五分鐘」</h3>
+                    <p>如果今天孩子說「我不要游泳」，不要強迫他。可以說：「好，我們先在池邊坐五分鐘，看看別人游。」很多時候，看著看著他就會想試了。如果五分鐘後他還是不想，那就尊重他，下次再試。</p>
+                </div>
+                <div class="card reveal stagger-6">
+                    <div class="custom-icon purple"><img src="images/icons/icon-journal.svg" alt="記錄"></div>
+                    <h3>記錄每一次小進步</h3>
+                    <p>拍照、寫日記、收集孩子的游泳貼紙。當孩子感到沮喪時，回顧這些進步的證據會讓他看到：原來我已經走了這麼遠。這對家長來說也是重要的鼓勵。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Downloadable Guides -->
+    <section class="section section-light">
+        <div class="container">
+            <div class="section-header">
+                <h2>免費資源下載</h2>
+                <p>實用工具，在家也能延續學習</p>
+            </div>
+            <div class="features-grid">
+                <div class="card reveal stagger-1">
+                    <div class="custom-icon"><img src="images/icons/icon-pdf.svg" alt="PDF"></div>
+                    <h3>「第一次游泳課」家長指南</h3>
+                    <p>帶孩子來上第一次游泳課前，這份指南幫助你了解該準備什麼、如何與孩子溝通、上課時可以怎樣配合教練。</p>
+                    <a href="download-parent-guide-first-swim.html" class="btn btn-outline" target="_blank" rel="noopener">開啟單張（可下載 PNG）</a>
+                </div>
+                <div class="card reveal stagger-2">
+                    <div class="custom-icon green"><img src="images/icons/icon-pdf.svg" alt="PDF"></div>
+                    <h3>感統遊戲手冊（家庭版）</h3>
+                    <p>在家中也能進行的簡單感統訓練遊戲，使用日常物品即可操作。適合在游泳課之間維持訓練效果。</p>
+                    <a href="download-sensory-games-home-guide.html" class="btn btn-outline" target="_blank" rel="noopener">開啟單張（可下載 PNG）</a>
+                </div>
+                <div class="card reveal stagger-3">
+                    <div class="custom-icon orange"><img src="images/icons/icon-pdf.svg" alt="PDF"></div>
+                    <h3>視覺提示卡套裝</h3>
+                    <p>可下載和打印的視覺提示卡，包括「今天我游泳」、「換衣服」、「熱身」、「下水」等常用詞彙，幫助孩子理解課堂流程。</p>
+                    <a href="download-visual-cue-cards-pack.html" class="btn btn-outline" target="_blank" rel="noopener">開啟單張（可下載 PNG）</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Extended -->
+    <section class="section">
+        <div class="bg-decoration bg-circle-2"></div>
+        <div class="container">
+            <div class="section-header">
+                <h2>常見問題詳細解答</h2>
+                <p>家長們最常問的問題，我在這裡一次過回答</p>
+            </div>
+            <div class="faq-list">
+                <div class="faq-item">
+                    <button class="faq-question">我的孩子有自閉症，可以學游泳嗎？</button>
+                    <div class="faq-answer"><div class="faq-answer-content"><strong>當然可以。</strong>事實上，自閉症孩子往往對水有特別的感受。有些孩子因為感官敏感而怕水，有些卻因為水的壓力提供了深層觸覺刺激而非常喜歡。我們會根據你孩子的感官特質來調整教學方式——例如使用視覺提示、預告流程、提供安靜的學習環境等。只要方法對了，自閉症孩子一樣可以成為出色的泳手。</div></div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question">ADHD的孩子坐不住，怎麼學游泳？</button>
+                    <div class="faq-answer"><div class="faq-answer-content">這是我最常遇到的問題之一。我的做法是：<strong>把運動量融入教學。</strong>ADHD孩子需要大量的身體活動來維持專注，所以我不會要他靜靜地聽我講解，而是讓他先在水裡動一動、跑一跑、跳一跳。然後在活動中嵌入教學內容——「你剛剛踢水的動作很棒，現在我們試試加上划手」。游泳本身就是一種極佳的體能活動，對ADHD孩子來說反而是優勢。</div></div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question">孩子有讀寫障礙，學習游泳會有困難嗎？</button>
+                    <div class="faq-answer"><div class="faq-answer-content">讀寫障礙主要影響文字處理能力，而游泳是動作學習，反而是讀寫障礙孩子的強項。不過，有些讀寫障礙孩子可能在左右協調和方向感方面需要多一些時間。我們的教學強調<strong>動作示範、觸覺引導和口訣記憶</strong>，用多感官方式幫助孩子掌握動作要領。很多讀寫障礙學生在游泳方面反而表現出色。</div></div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question">我的孩子已經10歲了，還不會游泳，現在學來得及嗎？</button>
+                    <div class="faq-answer"><div class="faq-answer-content">來得及。我教過最年長的初學者是35歲。學游泳沒有年齡限制。10歲的孩子反而有一些優勢——他們的理解能力和身體控制能力比幼童更好，只要克服了心理障礙，學習進度往往比年幼的孩子更快。<strong>不要因為「遲了」而不開始，因為現在開始就是最早的時機。</strong></div></div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question">課程需要穿泳衣、戴泳帽這些嗎？孩子很抗拒怎麼辦？</button>
+                    <div class="faq-answer"><div class="faq-answer-content">我完全理解這個問題。有些SEN孩子對泳衣的質地、泳帽的緊繃感非常敏感。我的建議是：<strong>慢慢適應。</strong>可以先讓孩子在家裡穿著泳衣玩耍，習慣這種觸感。泳帽可以選擇布料較柔軟的款式。如果還是抗拒，初期可以寬容一些——穿一般的運動短褲上課也沒問題。重要的是讓孩子願意下水，裝備問題可以逐步解決。</div></div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question">如果孩子上課中途情緒崩潰，會怎麼處理？</button>
+                    <div class="faq-answer"><div class="faq-answer-content">首先，<strong>這不是孩子的錯，也不是家長的錯。</strong>我們有處理情緒崩潰的標準程序：第一步是移除刺激源（帶離泳池、到安靜區域）；第二步是使用孩子慣用的安撫策略（可能是抱住、搖動、或給他喜歡的物品）；第三步是讓孩子有足夠的時間平復，不催促。如果需要暫停課程，我們會果斷暫停。<strong>保護孩子對游泳的正面感受比完成一堂課更重要。</strong>我們也會和家長討論觸發情緒的原因，調整未來的教學策略。</div></div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question">家長可以在旁邊觀課嗎？</button>
+                    <div class="faq-answer"><div class="faq-answer-content">當然可以。我們歡迎家長觀課，這對建立孩子的安全感很有幫助。不過我們會建議家長在指定的觀課區域安靜觀看，不要直接參與課堂，以免分散孩子的注意力。親子課程則歡迎家長下水與孩子一起參與。我們也會定期安排家長觀課日，讓家長了解孩子的學習進度。</div></div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question">你們建議泳池水溫是多少？對SEN學生有什麼特別設定？</button>
+                    <div class="faq-answer"><div class="faq-answer-content">我們的水溫維持在30-32°C，這比一般泳池（26-28°C）溫暖。較高的水溫可以提供更強的感官舒適感，減少冷刺激引起的不適，對感官敏感的SEN學生尤其重要。此外，我們的泳池設有較淺的教學區域（水深約0.6-0.8米），方便初學者建立安全感。</div></div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question">如果錯過了幾堂課，可以補課嗎？</button>
+                    <div class="faq-answer"><div class="faq-answer-content">可以。我們明白SEN孩子的健康狀況和情緒狀態有時難以預測。只要提前通知，我們會盡量安排補課。我們的政策是：<strong>提前24小時通知可以免費改期</strong>。臨時缺席則視情況而定。我們不希望家長因為擔心浪費學費而勉強帶孩子來上課，這樣對孩子的學習體驗也不好。</div></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Links and Partners -->
+    <section class="section section-light">
+        <div class="container">
+            <div class="section-header">
+                <h2>有用連結</h2>
+                <p>更多支援SEN學生的資源</p>
+            </div>
+            <div class="features-grid">
+                <div class="card reveal stagger-1">
+                    <div class="custom-icon"><img src="images/icons/icon-link.svg" alt="連結"></div>
+                    <h3>政府及機構資源</h3>
+                    <p>
+                        • <a href="https://sense.edb.gov.hk/" target="_blank" rel="noopener">教育局特殊教育資訊網</a><br>
+                        • <a href="https://www.dhcas.gov.hk/tc/index.html" target="_blank" rel="noopener">衛生署兒童體能智力測驗服務</a><br>
+                        • <a href="https://www.edb.gov.hk/tc/edu-system/special/index.html" target="_blank" rel="noopener">教育局特殊教育資源</a><br>
+                        • <a href="https://www.swd.gov.hk/tc/pubsvc/rehab/" target="_blank" rel="noopener">社會福利署康復服務</a>
+                    </p>
+                </div>
+                <div class="card reveal stagger-2">
+                    <div class="custom-icon green"><img src="images/icons/icon-link.svg" alt="連結"></div>
+                    <h3>非牟利機構</h3>
+                    <p>
+                        • <a href="https://www.heephong.org/" target="_blank" rel="noopener">協康會</a><br>
+                        • <a href="https://www.sahk1963.org.hk/" target="_blank" rel="noopener">香港耀能協會</a><br>
+                        • <a href="https://autism.hk/" target="_blank" rel="noopener">香港自閉症聯盟</a><br>
+                        • <a href="https://www.adhd.org.hk/" target="_blank" rel="noopener">香港專注力不足/過度活躍症協會</a><br>
+                        • <a href="https://asld.org.hk/" target="_blank" rel="noopener">香港特殊學習障礙協會</a>
+                    </p>
+                </div>
+                <div class="card reveal stagger-3">
+                    <div class="custom-icon orange"><img src="images/icons/icon-link.svg" alt="連結"></div>
+                    <h3>相關服務</h3>
+                    <p>
+                        • <a href="https://hkist.org.hk/zh/" target="_blank" rel="noopener">香港言語治療師公會（言語治療）</a><br>
+                        • <a href="https://www.hkota.org.hk/" target="_blank" rel="noopener">香港職業治療學會（職業治療）</a><br>
+                        • <a href="https://hongkongpa.com.hk/" target="_blank" rel="noopener">香港物理治療學會（物理治療）</a><br>
+                        • <a href="https://www.hkfws.org.hk/" target="_blank" rel="noopener">香港家庭福利會（兒童及家庭輔導）</a><br>
+                        • <a href="https://sense.edb.gov.hk/tc/integrated-education/information-for-parents-and-the-public/" target="_blank" rel="noopener">教育局 SEN 家長支援資訊平台</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="section section-primary">
+        <div class="container">
+            <div class="section-header">
+                <h2>還有其他問題？</h2>
+                <p>歡迎直接聯絡我們，曹教練很樂意親自為你解答</p>
+            </div>
+            <div class="text-center">
+                <a href="contact.html" class="btn btn-white btn-lg">聯絡我們</a>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-section"><h4>新天地</h4><p>香港首間專為SEN學生設立的游泳及多功能發展中心。</p>
+                    <div class="footer-social">
+                        <a href="https://wa.me/85297083907" class="footer-social-link" target="_blank" rel="noopener" aria-label="WhatsApp 查詢"><img src="images/icons/icon-whatsapp.svg" alt=""><span class="footer-social-label">WhatsApp</span></a>
+                    </div></div>
+                <div class="footer-section"><h4>快速連結</h4>
+                    <a href="index.html">首頁</a><a href="about.html">關於我們</a><a href="services.html">服務項目</a>
+                    <a href="why-us.html">為何選擇我們</a><a href="booking.html">預約課程</a><a href="blog.html">教練專欄</a><a href="contact.html">聯絡我們</a></div>
+                <div class="footer-section"><h4>服務類別</h4><p>游泳教學</p><p>感統訓練</p><p>社交技巧訓練</p><p>專注力訓練</p><p>親子游泳</p></div>
+                <div class="footer-section"><h4>聯絡我們</h4>
+                    <p><img src="images/icons/icon-phone.svg" alt="" style="width:16px;height:16px;filter:brightness(0)invert(0.7);display:inline;vertical-align:middle;margin-right:6px" onerror="this.outerHTML='📞'"> 3172 2535</p>
+                    <p><img src="images/icons/icon-email.svg" alt="" style="width:16px;height:16px;filter:brightness(0)invert(0.7);display:inline;vertical-align:middle;margin-right:6px" onerror="this.outerHTML='✉️'"> info@leisure.org.hk</p>
+                    <p><img src="images/icons/icon-time.svg" alt="" style="width:16px;height:16px;filter:brightness(0)invert(0.7);display:inline;vertical-align:middle;margin-right:6px" onerror="this.outerHTML='🕐'"> 星期一至六: 9:00 - 20:00</p></div>
+            </div>
+            <div class="footer-bottom"><p>&copy; 2026 新天地 SEN學生游泳及多功能發展中心 — 香港首間專為特殊教育需要（SEN）學生設立的游泳學校，提供自閉症游泳課程、ADHD專注力訓練、讀寫障礙游泳教學、感統訓練及社交技巧小組。服務範圍涵蓋香港各區，包括九龍、新界及港島。專業特殊教育游泳教練團隊，一對一或小組授課，WhatsApp查詢：9225 8614。 <a href="sitemap.xml" style="color:rgba(255,255,255,0.4);text-decoration:underline;">網站地圖</a></p></div>
+        </div>
+
+        <!-- SEO JSON-LD Structured Data -->
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "新天地 Leisure Organization HK",
+            "description": "香港首間專為SEN（特殊教育需要）學生設立的游泳及多功能發展中心，提供游泳教學、感統訓練、社交技巧訓練、專注力訓練等服務。",
+            "url": "https://www.leisure.org.hk",
+            "telephone": "+85231722535",
+            "email": "info@leisure.org.hk",
+            "areaServed": "香港",
+            "keywords": "SEN游泳, 特殊教育游泳, 自閉症游泳課程, ADHD游泳, 感統訓練, 香港游泳教學, 特殊需要兒童游泳, 新天地",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "香港",
+                "addressRegion": "Hong Kong"
+            },
+            "openingHoursSpecification": [
+                {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "20:00"},
+                {"@type": "OpeningHoursSpecification", "dayOfWeek": "Sunday", "opens": "10:00", "closes": "18:00"}
+            ],
+            "sameAs": [
+                "https://wa.me/85297083907"
+            ]
+        }
+        </script>
+    </footer>
+
+    <script src="js/security.js"></script>
+    <script>
+        function hideLoading(){const loading=document.getElementById('loading');if(loading)loading.classList.add('hidden')}
+        window.addEventListener('DOMContentLoaded',function(){setTimeout(hideLoading,300)});
+        window.addEventListener('load',function(){setTimeout(hideLoading,500)});
+        setTimeout(hideLoading,4000);
+        window.addEventListener('scroll',function(){document.getElementById('header').classList.toggle('scrolled',window.scrollY>50)});
+        const mobileMenuBtn=document.getElementById('mobile-menu-btn'),nav=document.getElementById('nav'),navBackdrop=document.getElementById('nav-backdrop'),navCloseBtn=document.getElementById('nav-close-btn');
+        function openNav(){nav.classList.add('active');navBackdrop.classList.add('active');document.body.style.overflow='hidden';}
+        function closeNav(){nav.classList.remove('active');navBackdrop.classList.remove('active');document.body.style.overflow='';}
+        mobileMenuBtn&&mobileMenuBtn.addEventListener('click',openNav);
+        navCloseBtn&&navCloseBtn.addEventListener('click',closeNav);
+        navBackdrop&&navBackdrop.addEventListener('click',closeNav);
+        document.querySelectorAll('.nav-link').forEach(function(l){l.addEventListener('click',closeNav);});
+        const faqItems = document.querySelectorAll('.faq-item');
+        faqItems.forEach(item => {
+            const question = item.querySelector('.faq-question');
+            question.addEventListener('click', () => {
+                faqItems.forEach(otherItem => {
+                    if (otherItem !== item) otherItem.classList.remove('active');
+                });
+                item.classList.toggle('active');
+            });
+        });
+        const r=document.querySelectorAll('.reveal');function c(){const h=window.innerHeight;r.forEach(e=>{if(e.getBoundingClientRect().top<h-100)e.classList.add('visible')})}
+        window.addEventListener('scroll',c);window.addEventListener('load',c);setTimeout(c,100);
+    </script>
+</body>
+</html>

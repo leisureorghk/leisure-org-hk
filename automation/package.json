@@ -1,0 +1,9 @@
+{
+  "name": "leisure-org-automation",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "rss-parser": "^3.13.0"
+  }
+}

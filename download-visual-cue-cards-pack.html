@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>新天地｜視覺提示卡套裝</title>
+  <style>
+    :root { --blue:#0b6fb3; --light:#eef6ff; --text:#17324a; --green:#1a9b6b; }
+    body { margin:0; font-family:"Noto Sans TC", Arial, sans-serif; color:var(--text); background:#f2f8ff; }
+    .sheet { max-width:920px; margin:20px auto; background:#fff; border-radius:16px; padding:28px; box-shadow:0 8px 28px rgba(0,0,0,.08);}
+    .head { background:linear-gradient(135deg,#0ea5e9,#0b6fb3); color:#fff; border-radius:12px; padding:18px 20px; }
+    h1 { margin:0 0 6px; font-size:1.75rem; }
+    .tips { margin-top:14px; background:#e9fff5; border-left:5px solid var(--green); border-radius:10px; padding:10px 12px; }
+    .tips ul { margin:0; padding-left:18px; line-height:1.6; }
+    .grid { display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-top:14px; }
+    .card { background:var(--light); border-left:5px solid var(--blue); border-radius:10px; padding:10px 12px; }
+    h3 { margin:0 0 8px; color:var(--blue); font-size:1rem; }
+    .list { margin:0; line-height:1.55; }
+    .foot { margin-top:14px; padding:10px 12px; border-radius:10px; background:#fff8e1; border-left:5px solid #f7c948; }
+    .actions { position: sticky; top: 10px; z-index: 20; display:flex; gap:8px; justify-content:flex-end; margin:10px auto 0; max-width:920px; padding:0 8px; }
+    .btn { border:0; border-radius:999px; padding:9px 14px; font-weight:700; cursor:pointer; }
+    .btn-primary { background:var(--blue); color:#fff; }
+    .btn-light { background:#fff; color:var(--blue); border:1px solid #b7d9ef; }
+    @media print { body{background:#fff;} .sheet{box-shadow:none; margin:0; border-radius:0;} }
+    @media (max-width:780px){ .grid{grid-template-columns:1fr;} }
+  </style>
+</head>
+<body>
+  <div class="actions">
+    <button class="btn btn-light" onclick="window.print()">列印 / 另存 PDF</button>
+    <button class="btn btn-primary" onclick="downloadAsPng()">下載 PNG</button>
+  </div>
+  <main class="sheet">
+    <header class="head">
+      <h1>新天地｜視覺提示卡套裝</h1>
+      <p>可列印參考版（文字卡）</p>
+    </header>
+
+    <section class="tips">
+      <strong>使用方法</strong>
+      <ul>
+        <li>列印後剪開，一次只展示 1-2 張</li>
+        <li>搭配固定語句，保持一致</li>
+        <li>每完成一張卡，給口頭讚賞或貼紙</li>
+      </ul>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <h3>A. 課前流程卡</h3>
+        <p class="list">[1] 今日去游泳<br>[2] 換衣服<br>[3] 戴泳帽<br>[4] 去泳池<br>[5] 見教練</p>
+      </article>
+      <article class="card">
+        <h3>B. 課中指令卡</h3>
+        <p class="list">[1] 坐好等候<br>[2] 聽指令<br>[3] 先看示範<br>[4] 輪到你<br>[5] 慢慢來<br>[6] 做得好</p>
+      </article>
+      <article class="card">
+        <h3>C. 水中動作卡</h3>
+        <p class="list">[1] 扶池邊<br>[2] 踢腳<br>[3] 吹泡泡<br>[4] 臉碰水<br>[5] 漂浮<br>[6] 划手</p>
+      </article>
+      <article class="card">
+        <h3>D. 情緒調節卡</h3>
+        <p class="list">[1] 停一停<br>[2] 深呼吸<br>[3] 喝口水<br>[4] 休息 2 分鐘<br>[5] 我可以再試一次</p>
+      </article>
+      <article class="card">
+        <h3>E. 課後收尾卡</h3>
+        <p class="list">[1] 上水<br>[2] 沖身<br>[3] 換衣服<br>[4] 今日完成<br>[5] 下次再見</p>
+      </article>
+      <article class="card">
+        <h3>家長小提示</h3>
+        <p class="list">1) 狀態不穩時，先用情緒調節卡<br>2) 用肯定句代替否定句（如：雙手放前面）<br>3) 課後保留 1 張成功卡回顧</p>
+      </article>
+    </section>
+
+    <div class="foot"><strong>新天地 家長資源</strong>｜建議列印 A4 使用</div>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <script>
+    async function downloadAsPng() {
+      const sheet = document.querySelector('.sheet');
+      const canvas = await html2canvas(sheet, { scale: 2, backgroundColor: '#ffffff', useCORS: true });
+      const a = document.createElement('a');
+      a.href = canvas.toDataURL('image/png');
+      a.download = '視覺提示卡套裝.png';
+      a.click();
+    }
+  </script>
+</body>
+</html>

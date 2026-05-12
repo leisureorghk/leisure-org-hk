@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maskable: same layers as logo-app, 128 canvas, logo at translate(14,14) for safe zone. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="none">
+  <defs>
+    <linearGradient id="logoGradient" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="50%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" fill="url(#logoGradient)"/>
+  <g transform="translate(14,14)">
+    <rect width="100" height="100" fill="url(#logoGradient)"/>
+    <circle cx="50" cy="50" r="45" fill="url(#logoGradient)"/>
+    <path d="M28 67C34 62 40 60 50 60C60 60 66 62 72 67" stroke="white" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M24 76C31 71 39 69 50 69C61 69 69 71 76 76" stroke="rgba(255,255,255,0.88)" stroke-width="4" stroke-linecap="round"/>
+    <path d="M39 56C39 48 43 42 50 38C57 42 61 48 61 56C61 61 56 65 50 65C44 65 39 61 39 56Z" fill="rgba(255,255,255,0.16)" stroke="white" stroke-width="3"/>
+    <path d="M50 58V46" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M50 46L44.5 51.5" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M50 46L55.5 51.5" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M50 34L51.8 38.2L56.3 38.6L52.9 41.6L54 46L50 43.5L46 46L47.1 41.6L43.7 38.6L48.2 38.2L50 34Z" fill="#FDE68A"/>
+  </g>
+</svg>

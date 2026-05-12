@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>新天地｜感統遊戲手冊（家庭版）</title>
+  <style>
+    :root { --teal:#0e9488; --blue:#0b6fb3; --light:#ebfffb; --text:#17324a; }
+    body { margin:0; font-family:"Noto Sans TC", Arial, sans-serif; color:var(--text); background:#f4fbfa; }
+    .sheet { max-width:900px; margin:20px auto; background:#fff; border-radius:16px; padding:28px; box-shadow:0 8px 28px rgba(0,0,0,.08);}
+    .head { background:linear-gradient(135deg,var(--teal),var(--blue)); color:#fff; border-radius:12px; padding:18px 20px; }
+    h1 { margin:0 0 6px; font-size:1.75rem; }
+    .sub { margin:0; opacity:.95; }
+    .grid { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-top:16px; }
+    .card { background:var(--light); border-left:5px solid var(--teal); border-radius:10px; padding:12px 14px; }
+    h3 { margin:0 0 8px; color:var(--teal); font-size:1.02rem; }
+    ul { margin:0; padding-left:18px; line-height:1.6; }
+    .foot { margin-top:16px; padding:10px 12px; border-radius:10px; background:#eef5ff; border-left:5px solid var(--blue);}
+    .actions { position: sticky; top: 10px; z-index: 20; display:flex; gap:8px; justify-content:flex-end; margin:10px auto 0; max-width:900px; padding:0 8px; }
+    .btn { border:0; border-radius:999px; padding:9px 14px; font-weight:700; cursor:pointer; }
+    .btn-primary { background:var(--blue); color:#fff; }
+    .btn-light { background:#fff; color:var(--blue); border:1px solid #b7d9ef; }
+    @media print { body{background:#fff;} .sheet{box-shadow:none; margin:0; border-radius:0;} }
+    @media (max-width:780px){ .grid{grid-template-columns:1fr;} }
+  </style>
+</head>
+<body>
+  <div class="actions">
+    <button class="btn btn-light" onclick="window.print()">列印 / 另存 PDF</button>
+    <button class="btn btn-primary" onclick="downloadAsPng()">下載 PNG</button>
+  </div>
+  <main class="sheet">
+    <header class="head">
+      <h1>新天地｜感統遊戲手冊（家庭版）</h1>
+      <p class="sub">適用 2-12 歲 SEN 兒童｜每週 3-5 次，每次 10-20 分鐘</p>
+    </header>
+
+    <section class="grid">
+      <article class="card">
+        <h3>一、水感覺遊戲</h3>
+        <ul>
+          <li>杯子倒水接力（觸覺適應、手眼協調）</li>
+          <li>海綿擠水比賽（手部力量、本體覺）</li>
+          <li>吹泡泡過河（呼吸控制、口肌協調）</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>二、前庭與平衡</h3>
+        <ul>
+          <li>抱枕平衡路（平衡與控制）</li>
+          <li>慢速旋轉椅（每次 10-20 秒）</li>
+          <li>青蛙跳 + 停住 3 秒（啟動與抑制）</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>三、本體覺與重力工作</h3>
+        <ul>
+          <li>推牆 10 下 x 3 組</li>
+          <li>搬運小物件分類</li>
+          <li>毛巾拉力遊戲（注意安全距離）</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>四、專注力小任務</h3>
+        <ul>
+          <li>兩步驟指令：先拿藍色杯，再放桌上</li>
+          <li>三選一任務板：讓孩子先選任務</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>五、進階建議</h3>
+        <ul>
+          <li>由易到難：5 分鐘逐步加到 15 分鐘</li>
+          <li>每次只調整一個變數（時間/難度/環境）</li>
+          <li>記錄孩子反應，找出最有效活動</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>六、安全提醒</h3>
+        <ul>
+          <li>所有水上活動需成人陪同</li>
+          <li>若孩子不適，立即停止</li>
+          <li>穩定情緒優先於完成任務</li>
+        </ul>
+      </article>
+    </section>
+
+    <div class="foot"><strong>新天地 家長資源</strong>｜建議列印 A4 使用</div>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <script>
+    async function downloadAsPng() {
+      const sheet = document.querySelector('.sheet');
+      const canvas = await html2canvas(sheet, { scale: 2, backgroundColor: '#ffffff', useCORS: true });
+      const a = document.createElement('a');
+      a.href = canvas.toDataURL('image/png');
+      a.download = '感統遊戲手冊_家庭版.png';
+      a.click();
+    }
+  </script>
+</body>
+</html>

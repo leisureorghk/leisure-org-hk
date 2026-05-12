@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>新天地｜第一次游泳課家長指南</title>
+  <style>
+    :root { --blue:#0b6fb3; --light:#eaf6ff; --gold:#f7c948; --text:#17324a; }
+    body { margin:0; font-family:"Noto Sans TC", Arial, sans-serif; color:var(--text); background:#f4f9fd; }
+    .sheet { max-width:900px; margin:20px auto; background:#fff; border-radius:16px; padding:28px; box-shadow:0 8px 28px rgba(0,0,0,.08);}
+    .head { background:linear-gradient(135deg,#0ea5e9,#0b6fb3); color:#fff; border-radius:12px; padding:18px 20px; }
+    h1 { margin:0 0 6px; font-size:1.8rem; }
+    .sub { margin:0; opacity:.95; }
+    .grid { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-top:16px; }
+    .card { background:var(--light); border-left:5px solid var(--blue); border-radius:10px; padding:12px 14px; }
+    h3 { margin:0 0 8px; color:var(--blue); font-size:1.05rem; }
+    ul { margin:0; padding-left:18px; line-height:1.6; }
+    .foot { margin-top:16px; padding:10px 12px; border-radius:10px; background:#fff8e1; border-left:5px solid var(--gold);}
+    .actions { position: sticky; top: 10px; z-index: 20; display:flex; gap:8px; justify-content:flex-end; margin:10px auto 0; max-width:900px; padding:0 8px; }
+    .btn { border:0; border-radius:999px; padding:9px 14px; font-weight:700; cursor:pointer; }
+    .btn-primary { background:var(--blue); color:#fff; }
+    .btn-light { background:#fff; color:var(--blue); border:1px solid #b7d9ef; }
+    @media print { body{background:#fff;} .sheet{box-shadow:none; margin:0; border-radius:0;} }
+    @media (max-width:780px){ .grid{grid-template-columns:1fr;} }
+  </style>
+</head>
+<body>
+  <div class="actions">
+    <button class="btn btn-light" onclick="window.print()">列印 / 另存 PDF</button>
+    <button class="btn btn-primary" onclick="downloadAsPng()">下載 PNG</button>
+  </div>
+  <main class="sheet">
+    <header class="head">
+      <h1>新天地｜第一次游泳課家長指南</h1>
+      <p class="sub">給家長的快速準備與課堂配合重點</p>
+    </header>
+
+    <section class="grid">
+      <article class="card">
+        <h3>一、上課前一天準備清單</h3>
+        <ul>
+          <li>泳衣、泳帽、毛巾、拖鞋</li>
+          <li>水樽（小朋友熟悉款式）</li>
+          <li>乾淨替換衣物</li>
+          <li>安撫物（小毛巾、小玩具）</li>
+          <li>耳塞、護目鏡、防水膠布（如有需要）</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>二、出發前和孩子溝通</h3>
+        <ul>
+          <li>用簡短句子預告流程</li>
+          <li>換衣服 → 見教練 → 洗澡回家</li>
+          <li>先說「做什麼」，再說「多久完成」</li>
+          <li>配合圖片提示或時間表</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>三、到場後家長配合</h3>
+        <ul>
+          <li>先觀察環境 3-5 分鐘</li>
+          <li>避免一次下太多指令</li>
+          <li>多用肯定語：「你願意試已經好叻」</li>
+          <li>課堂以教練主導，家長在旁支援</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>四、孩子情緒起伏時</h3>
+        <ul>
+          <li>先降刺激：安靜、慢語速</li>
+          <li>用「休息一下再試」代替催促</li>
+          <li>必要時可暫停，以正面感受優先</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>五、課後 5 分鐘回顧</h3>
+        <ul>
+          <li>只講 1-2 個具體進步</li>
+          <li>記錄「今日做到什麼」</li>
+          <li>記錄「下次想試什麼」</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>六、給家長的提醒</h3>
+        <ul>
+          <li>每個孩子進度不同</li>
+          <li>游泳不只學動作</li>
+          <li>更在建立安全感、自信與專注力</li>
+        </ul>
+      </article>
+    </section>
+
+    <div class="foot"><strong>新天地 家長資源</strong>｜建議列印 A4 使用</div>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <script>
+    async function downloadAsPng() {
+      const sheet = document.querySelector('.sheet');
+      const canvas = await html2canvas(sheet, { scale: 2, backgroundColor: '#ffffff', useCORS: true });
+      const a = document.createElement('a');
+      a.href = canvas.toDataURL('image/png');
+      a.download = '第一次游泳課家長指南.png';
+      a.click();
+    }
+  </script>
+</body>
+</html>

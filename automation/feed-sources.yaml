@@ -1,0 +1,64 @@
+# RSS 來源白名單（僅使用公開 RSS／摘要，站內顯示標題＋摘要＋原文連結）
+# 可自行增刪；digest 使用全部 sources；weekly 僅使用 weeklyPool: true
+
+settings:
+  digestMaxItems: 20
+  maxItemsPerSource: 4
+  requestTimeoutMs: 22000
+
+sources:
+  - id: bbc-health
+    name: "BBC News — Health"
+    rssUrl: "https://feeds.bbci.co.uk/news/health/rss.xml"
+    language: en
+    tags: [health, swimming, sen]
+    weeklyPool: true
+
+  - id: who-news
+    name: "WHO — News"
+    rssUrl: "https://www.who.int/rss-feeds/news-english.xml"
+    language: en
+    tags: [health, policy]
+    weeklyPool: true
+
+  - id: sciencedaily-mental
+    name: "ScienceDaily — Mind & Brain"
+    rssUrl: "https://www.sciencedaily.com/rss/mind_brain/mental_health.xml"
+    language: en
+    tags: [sen, mental-health, research]
+    weeklyPool: true
+
+  - id: sciencedaily-fitness
+    name: "ScienceDaily — Fitness"
+    rssUrl: "https://www.sciencedaily.com/rss/health_medicine/fitness.xml"
+    language: en
+    tags: [swimming, fitness, research]
+    weeklyPool: true
+
+  - id: un-news
+    name: "UN News"
+    rssUrl: "https://news.un.org/feed/subscribe/en/news/all/rss.xml"
+    language: en
+    tags: [children, policy, news]
+    weeklyPool: true
+
+  - id: bbc-disability
+    name: "BBC News — Disability"
+    rssUrl: "https://feeds.bbci.co.uk/news/disability/rss.xml"
+    language: en
+    tags: [sen, disability, news]
+    weeklyPool: true
+
+  - id: guardian-education
+    name: "The Guardian — Education"
+    rssUrl: "https://www.theguardian.com/education/rss"
+    language: en
+    tags: [sen, children, education]
+    weeklyPool: true
+
+  - id: bbc-swimming
+    name: "BBC Sport — Swimming"
+    rssUrl: "https://feeds.bbci.co.uk/sport/swimming/rss.xml"
+    language: en
+    tags: [swimming, coaching]
+    weeklyPool: true

@@ -1,0 +1,57 @@
+# ============================================
+# 暢泳天地 - Apache 伺服器保安設定
+# ============================================
+
+# 啟用重寫引擎
+RewriteEngine On
+
+# ==================== 1. 防止 Hotlinking（圖片盜連） ====================
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^https?://(www\.)?leisure\.org\.hk [NC]
+RewriteCond %{HTTP_REFERER} !^https?://(www\.)?google\.com [NC]
+RewriteCond %{HTTP_REFERER} !^https?://(www\.)?bing\.com [NC]
+RewriteCond %{HTTP_REFERER} !^https?://(www\.)?yahoo\.com [NC]
+RewriteRule \.(jpg|jpeg|png|gif|webp|svg|ico)$ - [F,L]
+
+# ==================== 2. 防止點擊劫持（Clickjacking） ====================
+Header always append X-Frame-Options SAMEORIGIN
+
+# ==================== 3. 啟用 XSS 保護 ====================
+Header set X-XSS-Protection "1; mode=block"
+
+# ==================== 4. 防止 MIME 類型嗅探 ====================
+Header set X-Content-Type-Options "nosniff"
+
+# ==================== 5. 嚴格傳輸安全 (HSTS) ====================
+Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+
+# ==================== 6. 內容安全策略 (CSP) ====================
+Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; script-src-elem 'self' 'unsafe-inline' https://cdn.jsdelivr.net; script-src-attr 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'"
+
+# ==================== 7. 禁止目錄瀏覽 ====================
+Options -Indexes
+
+# ==================== 8. 保護敏感檔案 ====================
+<FilesMatch "\.(htaccess|htpasswd|ini|log|sh|sql|bak|old|env)$">
+    Require all denied
+</FilesMatch>
+
+# ==================== 9. 防止存取 .git 資料夾 ====================
+RedirectMatch 404 /\.git
+
+# ==================== 10. 壓縮靜態資源（提升效能） ====================
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json application/xml
+</IfModule>
+
+# ==================== 11. 快取設定 ====================
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType text/css "access plus 0 seconds"
+    ExpiresByType application/javascript "access plus 0 seconds"
+    ExpiresByType text/html "access plus 0 seconds"
+</IfModule>
