@@ -5,6 +5,12 @@ settings:
   digestMaxItems: 20
   maxItemsPerSource: 4
   requestTimeoutMs: 22000
+  # 有 MINIMAX_API_KEY 時：前 N 則自 RSS 全文 HTML 抽取段落並譯為繁中（digest-article 詳情頁）；圖片取自 RSS 內嵌圖
+  digestDetailTranslateMax: 12
+  digestBodyPlainMaxChars: 12000
+  # RSS 內文不足或無圖時，嘗試抓取文章頁 HTML（供擷取圖片與較長純文字；部分網站可能阻擋）
+  digestTryFetchArticlePage: true
+  digestFetchArticleTimeoutMs: 9000
 
 sources:
   - id: bbc-health

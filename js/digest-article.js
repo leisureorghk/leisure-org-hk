@@ -1,11 +1,19 @@
 /**
- * 產業摘要詳情：依 ?u= 之原文網址在 data/sen-swim-digest.json 中查找，顯示站內繁中版面；「閱讀原文」才開外連。
+ * 產業摘要詳情：依 ?u= 之原文網址在 data/sen-swim-digest.json 中查找，顯示站內繁中版面；
+ * 若有 bodyZh／images（由排程 build-digest 產生）則顯示全文譯文與圖片；「閱讀原文」才開外連。
  */
 (function () {
   function esc(s) {
     var d = document.createElement('div');
     d.textContent = s == null ? '' : String(s);
     return d.innerHTML;
+  }
+
+  function escAttr(s) {
+    return String(s || '')
+      .replace(/&/g, '&amp;')
+      .replace(/"/g, '&quot;')
+      .replace(/</g, '&lt;');
   }
 
   function softenDisplayText(s) {
@@ -26,22 +34,48 @@
     }
   }
 
-  function summaryToParagraphs(text) {
+  function textToParagraphs(text) {
     var t = String(text || '').trim();
-    if (!t) return '<p>（此則暫無摘要文字。）</p>';
-    var parts = t.split(/\n+/).map(function (p) {
+    if (!t) return '<p>（此則暫無內文。）</p>';
+    var parts = t.split(/\n{2,}/).map(function (p) {
       return p.trim();
     }).filter(Boolean);
-    if (!parts.length) return '<p>（此則暫無摘要文字。）</p>';
+    if (!parts.length) return '<p>（此則暫無內文。）</p>';
     return parts.map(function (p) {
       return '<p>' + esc(softenDisplayText(p)) + '</p>';
     }).join('');
+  }
+
+  function renderImageGallery(images) {
+    if (!images || !images.length) return '';
+    var html =
+      '<div class="digest-article-gallery" role="group" aria-label="文章附圖">';
+    for (var i = 0; i < images.length; i++) {
+      var im = images[i];
+      var src = im && im.src ? String(im.src) : '';
+      if (!src) continue;
+      var alt = im && im.alt != null ? String(im.alt) : '';
+      html +=
+        '<figure class="digest-article-fig">' +
+        '<img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="' +
+        escAttr(src) +
+        '" alt="' +
+        esc(alt) +
+        '">' +
+        '</figure>';
+    }
+    html += '</div>';
+    return html;
   }
 
   var root = document.getElementById('digest-article-root');
   var breadcrumb = document.getElementById('digest-article-breadcrumb');
   var statusEl = document.getElementById('digest-article-status');
   if (!root) return;
+
+  function digestJsonUrl() {
+    return 'data/sen-swim-digest.json?_=' + String(Date.now());
+  }
 
   var params = new URLSearchParams(window.location.search);
   var rawU = params.get('u') || '';
@@ -86,7 +120,7 @@
 
   showStatus('載入中…', false);
 
-  fetch('data/sen-swim-digest.json', { cache: 'no-cache' })
+  fetch(digestJsonUrl(), { cache: 'no-store' })
     .then(function (r) {
       if (!r.ok) throw new Error('HTTP ' + r.status);
       return r.json();
@@ -116,8 +150,17 @@
       var source = it.sourceName || it.sourceId || '來源';
       var dateStr = fmtDate(it.publishedAt) || '';
       var orig = String(it.url || '').trim();
+      var bodyZh = String(it.bodyZh || '').trim();
+      var images = Array.isArray(it.images) ? it.images : [];
+      var mainBody = bodyZh ? textToParagraphs(bodyZh) : textToParagraphs(it.summary || '');
+      var gallery = renderImageGallery(images);
 
       document.title = title + ' | 產業摘要 | 新天地';
+
+      var note =
+        bodyZh || images.length
+          ? '<strong>說明</strong>：正文為自動擷取與翻譯（若有），可能節錄；圖片連結至原站資源。完整內容、數據與立場請以「閱讀原文」核對，版權歸原發布者。'
+          : '<strong>說明</strong>：本站僅整理公開 RSS 之繁中標題與摘要，方便家長瀏覽；完整論述請以「閱讀原文」前往原網站核對，版權歸原發布者。';
 
       var h1Id = 'digest-article-title';
       root.innerHTML =
@@ -135,11 +178,12 @@
         '" class="digest-article-title">' +
         esc(title) +
         '</h1>' +
+        gallery +
         '<div class="digest-article-body">' +
-        summaryToParagraphs(it.summary || '') +
+        mainBody +
         '</div>' +
         '<div class="highlight-box digest-article-note">' +
-        '<strong>說明</strong>：本站僅整理公開 RSS 之繁中標題與摘要，方便家長瀏覽；完整論述、數據與立場請以「閱讀原文」前往原網站核對，版權歸原發布者。' +
+        note +
         '</div>' +
         '<div class="digest-article-actions">' +
         (orig

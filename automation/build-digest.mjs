@@ -11,6 +11,7 @@ import {
   minimaxChat,
   normalizeMinimaxApiKey,
   minimaxApiKeySanityHint,
+  stripMinimaxMessageContent,
 } from './minimax-chat.mjs';
 import { isSenOrSwimRelevant } from './sen-swim-relevance.mjs';
 
@@ -26,6 +27,70 @@ function stripHtml(html) {
     .replace(/\s+/g, ' ')
     .trim()
     .slice(0, 360);
+}
+
+/** 自 RSS／HTML 擷取較長純文字供全文翻譯（不含 script/style） */
+function extractPlainFromHtml(html, maxLen) {
+  const cap = Math.min(Math.max(maxLen || 12000, 2000), 50000);
+  let t = String(html || '')
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]+>/g, '\n')
+    .replace(/\u00a0/g, ' ')
+    .replace(/[ \t]+\n/g, '\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .replace(/[ \t]{2,}/g, ' ')
+    .trim();
+  if (t.length > cap) t = `${t.slice(0, cap)}\n\n（以下節錄；完整內容請見「閱讀原文」）`;
+  return t;
+}
+
+/** 自 HTML 擷取圖片網址（絕對化）；略過 data: */
+function extractImagesFromHtml(html, baseUrl, maxN) {
+  const n = Math.min(Math.max(maxN || 8, 1), 20);
+  const out = [];
+  const re = /<img\b[^>]*>/gi;
+  let m;
+  while ((m = re.exec(String(html || ''))) && out.length < n) {
+    const tag = m[0];
+    const sm = tag.match(/\ssrc\s*=\s*["']([^"']+)["']/i) || tag.match(/\ssrc\s*=\s*([^\s>]+)/i);
+    const am = tag.match(/\salt\s*=\s*["']([^"']*)["']/i);
+    if (!sm) continue;
+    let src = String(sm[1] || '').trim();
+    if (!src || src.startsWith('data:')) continue;
+    try {
+      src = new URL(src, baseUrl).href;
+    } catch {
+      continue;
+    }
+    if (!/^https?:\/\//i.test(src)) continue;
+    const alt = am ? String(am[1] || '').trim() : '';
+    if (out.some((x) => x.src === src)) continue;
+    out.push({ src, alt });
+  }
+  return out;
+}
+
+/** 自 RSS item 取最長的 HTML 片段（含 content:encoded 等欄位） */
+function pickRssContentHtml(it) {
+  const parts = [];
+  for (const k of Object.keys(it || {})) {
+    const v = it[k];
+    if (typeof v !== 'string' || !v.trim()) continue;
+    if (/<[a-z][\s\S]*>/i.test(v)) parts.push(v.trim());
+  }
+  const also = [
+    it.content,
+    it.contentEncoded,
+    it['content:encoded'],
+    it.description,
+    it.summary,
+  ]
+    .map((x) => String(x || '').trim())
+    .filter(Boolean);
+  parts.push(...also);
+  if (!parts.length) return '';
+  return parts.reduce((a, b) => (b.length > a.length ? b : a), '');
 }
 
 function normalizeUrl(u) {
@@ -203,6 +268,105 @@ async function translateDigestItems(items, { apiKey, base, model }) {
   return out;
 }
 
+/**
+ * 將 RSS 全文純文字譯為繁中（香港書面語），供 digest 詳情頁。
+ */
+async function translateBodyToZh(plain, { apiKey, base, model }) {
+  const chunk = String(plain || '').trim();
+  if (!chunk || chunk.length < 80) return '';
+  const system = `你是繁體中文（香港）翻譯。只輸出一個 JSON 物件，僅含鍵 bodyZh；不要 markdown、不要其它字。
+bodyZh 為譯文正文：段落之間用兩個換行 \\n\\n 分隔；保留數字、專有名詞可夾英文；總長建議在 6000 個中文字以內，可節譯次要細節但保留主論點與結論。`;
+  const user = `請翻譯以下英文／多語正文為繁體中文（香港書面語）：\n\n${chunk.slice(0, 14000)}`;
+  try {
+    const raw = await minimaxChat({
+      apiKey,
+      base,
+      model,
+      system,
+      user,
+      temperature: 0.25,
+      max_completion_tokens: 12000,
+    });
+    const obj = looseJsonParse(stripMinimaxMessageContent(raw));
+    if (!obj || typeof obj !== 'object') return '';
+    const bodyZh = String(obj.bodyZh || '').trim();
+    return bodyZh;
+  } catch (e) {
+    console.error('translateBodyToZh:', e.message || e);
+    return '';
+  }
+}
+
+/** 抓取文章頁 HTML（節錄），供圖片／長文擷取；失敗回傳空字串 */
+async function tryFetchArticlePageHtml(url, timeoutMs) {
+  const u = String(url || '').trim();
+  if (!/^https?:\/\//i.test(u)) return '';
+  const ms = Math.min(Math.max(Number(timeoutMs) || 9000, 3000), 30000);
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), ms);
+  try {
+    const r = await fetch(u, {
+      signal: ctrl.signal,
+      redirect: 'follow',
+      headers: {
+        'User-Agent': 'LeisureOrgHK-digest-bot/1.0 (+https://www.leisure.org.hk)',
+        Accept: 'text/html,application/xhtml+xml;q=0.9,*/*;q=0.8',
+      },
+    });
+    if (!r.ok) return '';
+    const ct = r.headers.get('content-type') || '';
+    if (!/html/i.test(ct)) return '';
+    const raw = await r.text();
+    return raw.slice(0, 450000);
+  } catch {
+    return '';
+  } finally {
+    clearTimeout(timer);
+  }
+}
+/** 附加圖片列表；有 API 金鑰時為前 N 則附加全文繁中 bodyZh；必要時抓取文章頁 HTML */
+async function enrichDigestItemsWithDetail(items, {
+  apiKey,
+  base,
+  model,
+  detailMax,
+  plainMaxChars,
+  tryFetchArticlePage,
+  fetchArticleTimeoutMs,
+}) {
+  const maxIdx = Math.max(0, Number(detailMax) || 0);
+  const out = [];
+  for (let i = 0; i < items.length; i++) {
+    const it = items[i];
+    let html = String(it.contentHtml || '').trim();
+    const { contentHtml: _drop, ...rest } = it;
+
+    if (tryFetchArticlePage && it.url) {
+      const short = html.length < 2200 || !/<img\b/i.test(html);
+      if (short) {
+        const fetched = await tryFetchArticlePageHtml(it.url, fetchArticleTimeoutMs);
+        if (fetched.length > html.length) html = fetched;
+        await sleep(320);
+      }
+    }
+
+    const images = extractImagesFromHtml(html, it.url, 10);
+    const plain = extractPlainFromHtml(html, plainMaxChars);
+    let bodyZh = '';
+    if (apiKey && i < maxIdx && plain.length > 400) {
+      console.error(`translate body ${i + 1}/${items.length} (${String(it.url || '').slice(0, 60)}…)`);
+      bodyZh = await translateBodyToZh(plain, { apiKey, base, model });
+      await sleep(450);
+    }
+    out.push({
+      ...rest,
+      ...(images.length ? { images } : {}),
+      ...(bodyZh ? { bodyZh } : {}),
+    });
+  }
+  return out;
+}
+
 async function fetchFeed(parser, src, timeoutMs) {
   const timeout = new Promise((_, rej) =>
     setTimeout(() => rej(new Error('timeout')), timeoutMs)
@@ -220,6 +384,7 @@ async function fetchFeed(parser, src, timeoutMs) {
       summary: stripHtml(it.contentSnippet || it.summary || it.description || ''),
       sourceName: src.name,
       sourceId: src.id,
+      contentHtml: pickRssContentHtml(it).slice(0, 200000),
     });
   }
   return items;
@@ -239,11 +404,18 @@ async function main() {
   const digestMaxItems = settings.digestMaxItems ?? 20;
   const maxItemsPerSource = settings.maxItemsPerSource ?? 4;
   const timeoutMs = settings.requestTimeoutMs ?? 22000;
+  const digestDetailTranslateMax = settings.digestDetailTranslateMax ?? 12;
+  const digestBodyPlainMaxChars = settings.digestBodyPlainMaxChars ?? 12000;
+  const digestTryFetchArticlePage = settings.digestTryFetchArticlePage !== false;
+  const digestFetchArticleTimeoutMs = settings.digestFetchArticleTimeoutMs ?? 9000;
   const sources = Array.isArray(doc.sources) ? doc.sources : [];
 
   const parser = new Parser({
     timeout: timeoutMs,
     headers: { 'User-Agent': 'LeisureOrgHK-digest-bot/1.0 (+https://www.leisure.org.hk)' },
+    customFields: {
+      item: [['content:encoded', 'contentEncoded']],
+    },
   });
 
   const all = [];
@@ -289,11 +461,21 @@ async function main() {
     console.error('MINIMAX_API_KEY 未設定：摘要維持 RSS 原文語言。');
   }
 
+  items = await enrichDigestItemsWithDetail(items, {
+    apiKey,
+    base,
+    model,
+    detailMax: digestDetailTranslateMax,
+    plainMaxChars: digestBodyPlainMaxChars,
+    tryFetchArticlePage: digestTryFetchArticlePage,
+    fetchArticleTimeoutMs: digestFetchArticleTimeoutMs,
+  });
+
   const out = {
     updatedAt: new Date().toISOString(),
     disclaimer: apiKey
-      ? '僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中，請以「閱讀原文」核對內容與版權歸屬。'
-      : '僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要為各來源原文。設定 MINIMAX_API_KEY 後可由排程譯為繁中。',
+      ? '僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。'
+      : '僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要為各來源原文。設定 MINIMAX_API_KEY 後可由排程譯為繁中；詳情頁可顯示 RSS 內嵌圖片（若有）。',
     items,
   };
 

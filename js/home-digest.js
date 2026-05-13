@@ -30,17 +30,18 @@
   var grid = document.getElementById('home-digest-grid');
   if (!section || !grid) return;
 
-  function hideSection() {
-    section.hidden = true;
-    section.setAttribute('aria-hidden', 'true');
-  }
-
   function showSection() {
     section.hidden = false;
     section.removeAttribute('aria-hidden');
   }
 
-  fetch('data/sen-swim-digest.json', { cache: 'no-cache' })
+  function digestJsonUrl() {
+    return 'data/sen-swim-digest.json?_=' + String(Date.now());
+  }
+
+  grid.innerHTML = '<p class="digest-loading-msg" role="status">載入摘要中…</p>';
+
+  fetch(digestJsonUrl(), { cache: 'no-store' })
     .then(function (r) {
       if (!r.ok) throw new Error('HTTP ' + r.status);
       return r.json();
@@ -48,7 +49,9 @@
     .then(function (data) {
       var items = (data.items || []).slice(0, 3);
       if (!items.length) {
-        hideSection();
+        showSection();
+        grid.innerHTML =
+          '<p class="digest-empty" role="status">目前沒有可顯示的相關摘要。請稍後再試，或前往<a href="blog.html">教練專欄</a>查看完整清單。</p>';
         return;
       }
       var stagger = ['stagger-1', 'stagger-2', 'stagger-3'];
@@ -112,6 +115,8 @@
       }
     })
     .catch(function () {
-      hideSection();
+      showSection();
+      grid.innerHTML =
+        '<p class="digest-error" role="alert">無法載入摘要（可能為網路或快取問題）。請重新整理頁面，或前往<a href="blog.html">教練專欄</a>查看。</p>';
     });
 })();

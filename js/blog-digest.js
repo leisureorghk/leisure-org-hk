@@ -38,7 +38,11 @@
   }
 
   if (grid) {
-    fetch('data/sen-swim-digest.json', { cache: 'no-cache' })
+    function digestJsonUrl() {
+      return 'data/sen-swim-digest.json?_=' + String(Date.now());
+    }
+
+    fetch(digestJsonUrl(), { cache: 'no-store' })
       .then(function (r) {
         if (!r.ok) throw new Error('HTTP ' + r.status);
         return r.json();
