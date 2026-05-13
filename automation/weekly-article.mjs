@@ -5,7 +5,7 @@
  * 環境變數：
  *   MINIMAX_API_KEY（必填才會產出週報 HTML）
  *   MINIMAX_MODEL（預設 MiniMax-M2.5）
- *   MINIMAX_API_BASE（預設 https://api.minimax.io）
+ *   MINIMAX_API_BASE（預設 https://api.minimax.io；可設 https://api.minimaxi.com/v1）
  */
 import fs from 'fs';
 import path from 'path';

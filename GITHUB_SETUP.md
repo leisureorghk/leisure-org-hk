@@ -54,9 +54,9 @@ git push -u origin main
 
 ---
 
-## 五、設定 Secrets（只有「每週專題」需要；每日摘要不用）
+## 五、設定 Secrets（`MINIMAX_API_KEY`：每週專題必填；每日摘要若要「英→繁」也需同一筆）
 
-你要做的是：在 GitHub **網頁**上新增一筆「倉庫密鑰」，讓週報 workflow 能讀取 MiniMax 的金鑰。**路徑與你截圖相同**（Settings → Secrets and variables → **Actions** → **Secrets** 分頁 → **New repository secret**）。
+你要做的是：在 GitHub **網頁**上新增一筆「倉庫密鑰」，讓週報與（選用）摘要翻譯能讀取 MiniMax 的金鑰。**路徑與你截圖相同**（Settings → Secrets and variables → **Actions** → **Secrets** 分頁 → **New repository secret**）。
 
 ### 正確填法（請對照）
 
@@ -65,7 +65,7 @@ git push -u origin main
 
    `MINIMAX_API_KEY`
 
-   **不要**寫成 `MINIMAX`、`minimax`、`MINIMAX_KEY` 等——名稱若不同，Actions 讀不到，週報 workflow 會當作沒有金鑰而略過產文。
+   **不要**寫成 `MINIMAX`、`minimax`、`MINIMAX_KEY` 等——名稱若不同，Actions 讀不到；週報 workflow 會略過產文，**每日摘要 workflow 也不會做英→繁翻譯**（JSON 內會維持 RSS 原文）。
 
 3. **Secret（內容）**：貼上你在 [MiniMax 平台](https://platform.minimax.io) 複製的 **API Key**（一整串字元）。  
 4. 按 **Add secret** 儲存。
@@ -77,7 +77,17 @@ git push -u origin main
 | Name | 說明 |
 |------|------|
 | `MINIMAX_MODEL` | 不設則腳本用預設模型。 |
-| `MINIMAX_API_BASE` | 不設則用官方 `https://api.minimax.io`。 |
+| `MINIMAX_API_BASE` | 不設則用 `https://api.minimax.io`。若需 **`https://api.minimaxi.com/v1`**（國內／另一線路），請設為該字串（可含結尾 `/v1`）。 |
+
+### 若出現 `401`／`invalid api key`（錯誤碼 **2049**）
+
+代表 MiniMax **不承認**目前送出的金鑰，請依序檢查：
+
+1. **金鑰種類**：在 [MiniMax 平台](https://platform.minimax.io) → **帳戶／API Keys**（或「介面金鑰」）複製 **API Key**（常見為 **`sk-` 開頭**）。若你拿到的是 **`ey` 開頭的 JWT**，多半不能當作本專案用的 Bearer Key，請改建立或選用 **sk-** 類型。  
+2. **完整貼上**：不要缺字、前後不要多空格；PowerShell 建議 `$env:MINIMAX_API_KEY = '貼上整串'`（單引號可避免 `$` 被解讀）。  
+3. **不要重複加 `Bearer`**：程式已會加上 `Bearer`，環境變數裡**只放金鑰本身**。  
+4. **端點**：預設 `https://api.minimax.io`。若平台給的是 **`https://api.minimaxi.com/v1`**，請設 **`MINIMAX_API_BASE`** 為該網址（專案會自動接上 `chat/completions`，不會變成 `/v1/v1/`）。  
+5. **帳戶狀態**：金鑰已撤銷、過期或餘額不足時，也可能出現類似訊息；請在平台確認。
 
 詳見根目錄 [`AUTOMATION.md`](./AUTOMATION.md)。
 

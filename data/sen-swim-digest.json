@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-05-13T04:37:15.992Z",
-  "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要為各來源原文。設定 MINIMAX_API_KEY 後可由排程譯為繁中。",
+  "updatedAt": "2026-05-13T05:27:36.592Z",
+  "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中，請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "Access All: Disability News and Mental Health",
+      "title": "全面存取：殘疾新聞與心理健康",
       "url": "https://www.bbc.co.uk/sounds/play/p0njhyll?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-05T23:01:00.000Z",
-      "summary": "… And actress Kimberley Nixon on perinatal OCD",
+      "summary": "節目探討殘疾相关新闻及心理健康，並邀请女演員金伯利·尼克松談論產前強迫症",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability"
     },
     {
-      "title": "'Politics is for everyone' - Disabled candidates on the barriers they face standing for election",
+      "title": "「政治屬於每個人」－ 殘疾候選人談論參選障礙",
       "url": "https://www.bbc.com/news/articles/c052j7qyrlmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-04T06:05:42.000Z",
-      "summary": "Disabled election candidates speak about their own personal experiences of disability and politics.",
+      "summary": "殘疾選舉候選人講述他們在殘疾與政治方面的個人經歷。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability"
     },
     {
-      "title": "Scientists reveal the best exercise for knee arthritis pain relief",
+      "title": "科學家揭示膝關節炎疼痛緩解的最佳運動",
       "url": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
       "publishedAt": "2026-04-30T07:30:17.000Z",
-      "summary": "A major review of 217 trials shows that aerobic exercise is the most effective option for managing knee osteoarthritis. Activities like walking, cycling, and swimming outperformed other exercise types in reducing pain and improving movement. While alternatives like strength training and mind-body exercises help, they are best used alongside aerobic workouts.",
+      "summary": "一項涉及217項試驗的大型綜述顯示，有氧運動是管理膝關節炎最有效的選擇。步行、騎單車和游泳等活動在減痛和改善活動能力方面優於其他運動類型。雖然力量訓練和身心運動也有幫助，但最好與有氧運動配合使用。",
       "sourceName": "《科學日報》健康與體能",
       "sourceId": "sciencedaily-fitness"
     },
     {
-      "title": "Scott eager to write new chapter in Glasgow story",
+      "title": "斯科特急於書寫格拉斯哥故事新篇章",
       "url": "https://www.bbc.com/sport/swimming/articles/c4g5eq744ypo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-04-29T07:33:43.000Z",
-      "summary": "Duncan Scott can't wait for his return to Glasgow's Tollcross pool, which holds many great memories for Scotland's most decorated Commonwealth Games athlete.",
+      "summary": "鄧肯·斯科特迫不及待想回到格拉斯哥的托爾克羅斯游泳池，這裡這位蘇格蘭獲獎最多的英聯邦運動會運動員擁有許多美好回憶。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming"
     },
     {
-      "title": "Wiffen moves training base from California to Dublin",
+      "title": "威芬將訓練基地從加州遷至都柏林",
       "url": "https://www.bbc.com/sport/swimming/articles/cedp1vlev28o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-04-29T06:27:17.000Z",
-      "summary": "Olympic gold medallist Daniel Wiffen says he is looking at his training base move from University of California, Berkley to Dublin with Swim Ireland as a \"permanent one\".",
+      "summary": "奧運金牌得主丹尼爾·威芬表示，他正在考慮將訓練基地從加州大學伯克利分校遷至都柏林，並與愛爾蘭游泳協會進行「永久性」的轉會。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming"
     },
     {
-      "title": "Scots Paralympic medallists selected for Glasgow 2026 Para-swimming",
+      "title": "蘇格蘭帕拉林匹克獎牌得主獲選參加2026年格拉斯哥傷健游泳賽",
       "url": "https://www.bbc.com/sport/swimming/articles/cly07jm703po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-04-22T09:05:10.000Z",
-      "summary": "Paralympic medallists Faye Rogers, Toni Shaw and James and Stephen Clegg have been selected as part of Scotland's seven-strong Para-swimming team for this summer's Commonwealth Games in Glasgow.",
+      "summary": "帕拉林匹克獎牌得主菲伊·羅傑斯、托尼·肖及詹姆斯與斯蒂芬·克萊格已獲選為蘇格蘭七人傷健游泳代表隊成員，參加今夏在格拉斯哥舉行的英聯邦運動會。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming"
     },
     {
-      "title": "Norway joins Poland in protesting return of Russian swimmers",
+      "title": "挪威與波蘭聯手反對俄羅斯泳手重返賽場",
       "url": "https://www.bbc.com/sport/swimming/articles/cg549zmdn1zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-04-21T15:07:34.000Z",
-      "summary": "Norway will not host international swimming as long as athletes from Russia and Belarus area allowed to to compete.",
+      "summary": "挪威表態，只要俄羅斯和白俄羅斯運動員獲准參賽，該國將不會主辦任何國際游泳賽事。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming"
     },
     {
-      "title": "Access All: Disability News and Mental Health",
+      "title": "全方位：傷健新聞與心理健康",
       "url": "https://www.bbc.co.uk/sounds/play/p0nb41nf?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-04-01T23:01:00.000Z",
-      "summary": "... and why autistic readers tell Elle McNicoll her novels saved their life.",
+      "summary": "講述自閉症讀者如何告訴作家埃爾·麥尼科爾，她的小說拯救了他們的生命。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability"
     },
     {
-      "title": "Access All: Disability News and Mental Health",
+      "title": "全方位：傷健新聞與心理健康",
       "url": "https://www.bbc.co.uk/sounds/play/p0n4nkyj?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-03-05T00:01:00.000Z",
-      "summary": "And Bridgerton's Gracie McGonigal on Regency London and limb difference",
+      "summary": "《布里格納頓》演員格蕾西·麥戈尼加拉暢談攝政時期倫敦與肢體差異。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability"
     },
     {
-      "title": "Exercise may be one of the most powerful treatments for depression and anxiety",
+      "title": "運動或是治療抑鬱與焦慮最有效的療法之一",
       "url": "https://www.sciencedaily.com/releases/2026/02/260213020412.htm",
       "publishedAt": "2026-02-16T06:58:04.000Z",
-      "summary": "A sweeping review of global research suggests that exercise—especially aerobic activities like running, swimming, and dancing—can be one of the most powerful ways to ease depression and anxiety. Across tens of thousands of people aged 10 to 90, exercise consistently reduced symptoms, often matching or even outperforming medication and talk therapy.",
+      "summary": "一項涵蓋全球研究的綜合分析顯示，運動——尤其是跑步、游泳和跳舞等有氧活動——可能是舒緩抑鬱與焦慮最有效的療法之一。從一萬多名年齡介乎10至90歲的受訪者來看，運動持續減輕症狀，效果往往與藥物治療或心理治療相當，甚至更佳。",
       "sourceName": "《科學日報》健康與體能",
       "sourceId": "sciencedaily-fitness"
     },
     {
-      "title": "The hidden health impact of growing up with ADHD traits",
+      "title": "伴隨ADHD特質成長的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "A large, decades-long study suggests that signs of ADHD in childhood may have consequences that extend well beyond school and behavior. Researchers followed nearly 11,000 people from childhood into midlife and found that those with strong ADHD traits at age 10 were more likely to experience multiple physical health problems and health-related disability by t",
+      "summary": "一項長達數十年的大型研究表明，兒童時期的ADHD跡象可能帶來超越學業和行為問題的後果。研究人員追蹤近11,000人從童年到中年，發現10歲時具有強烈ADHD特質的人在中年時更有可能出現多種身體健康問題及與健康相關的殘疾。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental"
     },
     {
-      "title": "Researchers find ADHD strengths linked to better mental health",
+      "title": "研究發現ADHD特質優勢與更好的心理健康有關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "New research reveals a brighter side of ADHD, showing that adults who recognize and use their strengths feel happier, healthier, and less stressed. People with ADHD were more likely to identify traits like creativity, humor, and hyperfocus as personal strengths. Across the board, using these strengths was linked to better quality of life and fewer mental hea",
+      "summary": "新研究揭示了ADHD較為光明的一面，表明承認並善用自身優勢的成年人會更快樂、更健康且壓力较小。ADHD患者更有可能將創意、幽默和過度專注等特質視為個人優勢。總體而言，運用這些特質與更好的生活質量及較少的心理健康問題有關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental"
     },
     {
-      "title": "ADHD drugs don’t work the way we thought",
+      "title": "ADHD藥物並非我們所想的那樣運作",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD stimulants appear to work less by sharpening focus and more by waking up the brain. Brain scans revealed that these medications activate reward and alertness systems, helping children stay interested in tasks they would normally avoid. The drugs even reversed brain patterns linked to sleep deprivation. Researchers say this could complicate ADHD diagnose",
+      "summary": "ADHD興奮劑似乎並非主要通過提高專注力起作用，而是通過喚醒大腦。腦部掃描顯示，這些藥物激活了獎勵和警覺系統，幫助孩子對通常會逃避的任務保持專注。這些藥物甚至逆轉了與睡眠剝奪相關的腦部模式。研究人員表示，這可能使ADHD診斷變得複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental"
     },
     {
-      "title": "Why so many young kids with ADHD are getting the wrong treatment",
+      "title": "為何這麼多ADHD幼童接受錯誤治療",
       "url": "https://www.sciencedaily.com/releases/2025/09/250915202839.htm",
       "publishedAt": "2025-09-16T09:10:52.000Z",
-      "summary": "Preschoolers with ADHD are often given medication right after diagnosis, against medical guidelines that recommend starting with behavioral therapy. Limited access to therapy and physician pressures drive early prescribing, despite risks and reduced effectiveness in young children.",
+      "summary": "ADHD學齡前兒童在確診後常被立即給藥，這違反了建議先進行行為治療的醫療準則。尽管風險較大且對幼童效果較差，但治療資源有限及醫生壓力促使過早開藥。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental"
     }

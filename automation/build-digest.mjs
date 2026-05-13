@@ -7,7 +7,11 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import yaml from 'js-yaml';
 import Parser from 'rss-parser';
-import { minimaxChat } from './minimax-chat.mjs';
+import {
+  minimaxChat,
+  normalizeMinimaxApiKey,
+  minimaxApiKeySanityHint,
+} from './minimax-chat.mjs';
 import { isSenOrSwimRelevant } from './sen-swim-relevance.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -52,6 +56,28 @@ function toIso(ms) {
   }
 }
 
+function looseJsonParse(s) {
+  let t = String(s || '')
+    .trim()
+    .replace(/^```(?:json)?\s*/i, '')
+    .replace(/```$/m, '')
+    .trim()
+    .replace(/,\s*]/g, ']')
+    .replace(/,\s*}/g, '}');
+  try {
+    return JSON.parse(t);
+  } catch {
+    const start = t.indexOf('{');
+    const end = t.lastIndexOf('}');
+    if (start === -1 || end <= start) return null;
+    try {
+      return JSON.parse(t.slice(start, end + 1));
+    } catch {
+      return null;
+    }
+  }
+}
+
 function extractJsonArray(text) {
   const raw = String(text || '').trim();
   const fence = raw.match(/```(?:json)?\s*([\s\S]*?)```/i);
@@ -67,13 +93,57 @@ function extractJsonArray(text) {
   }
 }
 
+/** 從模型輸出取出與輸入等長的 {title,summary}[] */
+function extractTranslatedRows(text, expectedLen) {
+  const cleaned = String(text || '').trim();
+  const obj = looseJsonParse(cleaned);
+  if (obj && typeof obj === 'object' && Array.isArray(obj.rows)) {
+    if (obj.rows.length >= expectedLen) return obj.rows.slice(0, expectedLen);
+  }
+  const arr = extractJsonArray(cleaned);
+  if (arr && arr.length >= expectedLen) return arr.slice(0, expectedLen);
+  return null;
+}
+
+function sleep(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
+async function translateDigestOneItem(it, { apiKey, base, model }) {
+  const system = `你是繁體中文（香港）翻譯。只輸出一個 JSON 物件，僅含鍵 title、summary；不要 markdown、不要其它字。
+將下列英文標題與摘要譯為繁體中文；summary 壓縮在 280 個中文字以內；專有名詞可保留英文。`;
+  const user = JSON.stringify({
+    title: (it.title || '').slice(0, 500),
+    summary: (it.summary || '').slice(0, 900),
+  });
+  const raw = await minimaxChat({
+    apiKey,
+    base,
+    model,
+    system,
+    user,
+    temperature: 0.2,
+    max_completion_tokens: 2048,
+  });
+  const obj = looseJsonParse(raw);
+  if (!obj || typeof obj !== 'object') return it;
+  const title = String(obj.title || '').trim();
+  const summary = String(obj.summary || '').trim();
+  return {
+    ...it,
+    ...(title ? { title } : {}),
+    ...(summary ? { summary } : {}),
+  };
+}
+
 /**
- * 分批呼叫 MiniMax，將 title／summary 譯為繁中；失敗則保留原文。
+ * 分批呼叫 MiniMax，將 title／summary 譯為繁中；批次 JSON 失敗則改逐筆。
  */
 async function translateDigestItems(items, { apiKey, base, model }) {
   if (!items.length) return items;
   const batchSize = 5;
   const out = [...items];
+  const ctx = { apiKey, base, model };
 
   for (let off = 0; off < items.length; off += batchSize) {
     const slice = items.slice(off, off + batchSize);
@@ -81,14 +151,16 @@ async function translateDigestItems(items, { apiKey, base, model }) {
       title: (it.title || '').slice(0, 500),
       summary: (it.summary || '').slice(0, 900),
     }));
+    const n = payload.length;
 
-    const system = `你是專業中譯員。只輸出合法 JSON，不要 markdown、不要前言後語。
-輸出格式：一個陣列，長度必須等於輸入筆數，順序與輸入完全一致。
-陣列中每個物件僅含兩個鍵："title"、"summary"，內容為繁體中文（香港書面語）。
-將英文標題與摘要忠實譯出；summary 請壓縮在 280 個中文字以內；人名、機構、地名可保留英文或常見譯名；不可加入原文沒有的評論或連結。`;
+    const system = `你是繁體中文（香港）翻譯助理。只輸出一個 JSON 物件，不要 markdown、不要前言。
+格式嚴格如下（rows 陣列長度必須為 ${n}，順序與輸入相同）：
+{"rows":[{"title":"…","summary":"…"}, … 共 ${n} 個元素]}
+每個 title、summary 為對應輸入的繁體中文譯文；summary 請壓縮在 280 個中文字以內。`;
 
-    const user = `請翻譯以下 ${payload.length} 筆（依序輸出 ${payload.length} 個物件）：\n${JSON.stringify(payload)}`;
+    const user = `請翻譯下列 in 陣列（長度 ${n}），輸出符合上述格式的 JSON：\n${JSON.stringify({ in: payload })}`;
 
+    let batchOk = false;
     try {
       const raw = await minimaxChat({
         apiKey,
@@ -97,21 +169,34 @@ async function translateDigestItems(items, { apiKey, base, model }) {
         system,
         user,
         temperature: 0.25,
-        max_completion_tokens: 4096,
+        max_completion_tokens: 8192,
       });
-      const arr = extractJsonArray(raw);
-      if (!arr || arr.length !== slice.length) {
-        console.error('translate batch: JSON 長度不符，略過此批');
-        continue;
-      }
-      for (let j = 0; j < slice.length; j++) {
-        const t = String(arr[j]?.title || '').trim();
-        const sum = String(arr[j]?.summary || '').trim();
-        if (t) out[off + j] = { ...out[off + j], title: t };
-        if (sum) out[off + j] = { ...out[off + j], summary: sum };
+      const rows = extractTranslatedRows(raw, n);
+      if (rows && rows.length === n) {
+        batchOk = true;
+        for (let j = 0; j < n; j++) {
+          const t = String(rows[j]?.title || '').trim();
+          const sum = String(rows[j]?.summary || '').trim();
+          if (t) out[off + j] = { ...out[off + j], title: t };
+          if (sum) out[off + j] = { ...out[off + j], summary: sum };
+        }
+      } else {
+        console.error(`translate batch: 無法解析或長度不符（期望 ${n}）`);
       }
     } catch (e) {
       console.error('translate batch:', e.message || e);
+    }
+
+    if (!batchOk) {
+      console.error(`translate: 改逐筆翻譯第 ${off + 1}–${off + n} 則`);
+      for (let j = 0; j < slice.length; j++) {
+        try {
+          out[off + j] = await translateDigestOneItem(out[off + j], ctx);
+        } catch (e) {
+          console.error('translate one:', e.message || e);
+        }
+        await sleep(350);
+      }
     }
   }
 
@@ -141,9 +226,12 @@ async function fetchFeed(parser, src, timeoutMs) {
 }
 
 async function main() {
-  const apiKey = (process.env.MINIMAX_API_KEY || '').trim();
+  const apiKey = normalizeMinimaxApiKey(process.env.MINIMAX_API_KEY);
   const model = process.env.MINIMAX_MODEL || 'MiniMax-M2.5';
   const base = process.env.MINIMAX_API_BASE || 'https://api.minimax.io';
+
+  const keyHint = minimaxApiKeySanityHint(apiKey);
+  if (keyHint) console.error('MiniMax 金鑰提醒：', keyHint);
 
   const raw = fs.readFileSync(yamlPath, 'utf8');
   const doc = yaml.load(raw);
