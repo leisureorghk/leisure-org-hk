@@ -111,6 +111,7 @@ body {
     background-color: var(--bg-primary);
     overflow-x: hidden;
     position: relative;
+    padding-bottom: env(safe-area-inset-bottom, 0px);
 }
 
 img { max-width: 100%; height: auto; display: block; }
@@ -276,9 +277,9 @@ p { margin-bottom: var(--spacing-sm); }
 
 /* ========== Container ========== */
 .container {
-    max-width: 1200px;
+    max-width: 1280px;
     margin: 0 auto;
-    padding: 0 var(--spacing-md);
+    padding: 0 calc(var(--spacing-md) + env(safe-area-inset-right, 0px)) 0 calc(var(--spacing-md) + env(safe-area-inset-left, 0px));
     position: relative;
     z-index: 1;
 }
@@ -588,6 +589,9 @@ p { margin-bottom: var(--spacing-sm); }
     top: 0;
     left: 0;
     right: 0;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-left: env(safe-area-inset-left, 0px);
+    padding-right: env(safe-area-inset-right, 0px);
     background: rgba(255, 252, 245, 0.85);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
@@ -733,6 +737,7 @@ p { margin-bottom: var(--spacing-sm); }
 .hero {
     position: relative;
     min-height: 100vh;
+    min-height: 100dvh;
     display: flex;
     align-items: center;
     overflow: hidden;
@@ -2805,8 +2810,8 @@ p { margin-bottom: var(--spacing-sm); }
 
 /* ========== Responsive Design ========== */
 
-/* ---- Desktop (≥1201px): 橫向主選單（連結在 .nav-drawer-links 內，勿隱藏該層） ---- */
-@media (min-width: 1201px) {
+/* ---- Desktop (≥1024px): 橫向主選單（連結在 .nav-drawer-links 內，勿隱藏該層） ---- */
+@media (min-width: 1024px) {
     .mobile-menu-btn {
         display: none !important;
         visibility: hidden !important;
@@ -2859,10 +2864,22 @@ p { margin-bottom: var(--spacing-sm); }
     }
 }
 
+/* 窄桌面／小平板橫向：導覽較擠時略縮字級與間距 */
+@media (min-width: 1024px) and (max-width: 1200px) {
+    .nav-drawer-links {
+        gap: 0.25rem;
+    }
+
+    .nav-drawer-links .nav-link {
+        padding: var(--spacing-xs) 0.45rem;
+        font-size: 0.8125rem;
+    }
+}
+
 /* ---- Tablet: iPad Mini (744px), iPad (768px), small laptops (up to 1200px) ---- */
 @media (min-width: 744px) and (max-width: 1200px) {
     .container {
-        padding: 0 var(--spacing-lg);
+        padding: 0 calc(var(--spacing-lg) + env(safe-area-inset-right, 0px)) 0 calc(var(--spacing-lg) + env(safe-area-inset-left, 0px));
     }
 
     .section {
@@ -2898,7 +2915,7 @@ p { margin-bottom: var(--spacing-sm); }
         font-size: 1rem;
     }
 
-    /* 平板與手機共用 max-width:1200 的抽屜選單，此處不再強制隱藏漢堡 */
+    /* 平板與手機共用 <1024px 的抽屜選單，此處不再強制隱藏漢堡 */
 
     /* Two-column grids for tablet */
     .features-grid,
@@ -2918,8 +2935,8 @@ p { margin-bottom: var(--spacing-sm); }
     }
 }
 
-/* ---- 平板與中寬螢幕以下：側欄抽屜 + 漢堡（與手機共用）---- */
-@media (max-width: 1200px) {
+/* ---- 平板與中寬螢幕以下：側欄抽屜 + 漢堡（與手機共用，<1024px）---- */
+@media (max-width: 1023px) {
     .header-inner {
         padding: 0.7rem var(--spacing-md);
     }
@@ -2978,7 +2995,7 @@ p { margin-bottom: var(--spacing-sm); }
         transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
         overflow-y: auto;
         overscroll-behavior: contain;
-        padding: 0;
+        padding: 0 0 env(safe-area-inset-bottom, 0px);
         pointer-events: none;
     }
 
@@ -2991,7 +3008,7 @@ p { margin-bottom: var(--spacing-sm); }
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding: 0.9rem var(--spacing-md);
+        padding: calc(0.9rem + env(safe-area-inset-top, 0px)) var(--spacing-md) 0.9rem;
         border-bottom: 1px solid var(--gray-mist);
         background: var(--cream);
         position: sticky;
@@ -3082,7 +3099,25 @@ p { margin-bottom: var(--spacing-sm); }
     }
 
     .hero {
-        padding-top: 72px;
+        padding-top: calc(72px + env(safe-area-inset-top, 0px));
+    }
+}
+
+@media (min-width: 745px) and (max-width: 1023px) {
+    .nav {
+        width: min(380px, 88vw);
+    }
+}
+
+@media (min-width: 1280px) {
+    .hero-content h1 {
+        font-size: clamp(2.5rem, 3.6vw, 3.65rem);
+    }
+}
+
+@media (min-width: 1920px) {
+    .section {
+        padding: calc(var(--spacing-xxxl) + 0.75rem) 0;
     }
 }
 
@@ -3118,8 +3153,8 @@ p { margin-bottom: var(--spacing-sm); }
 
     /* Hero */
     .hero {
-        min-height: auto;
-        padding-top: 68px;
+        min-height: min(100dvh, 58rem);
+        padding-top: calc(68px + env(safe-area-inset-top, 0px));
     }
 
     .hero-content {
@@ -3225,7 +3260,7 @@ p { margin-bottom: var(--spacing-sm); }
 
     /* Page header */
     .page-header {
-        padding: calc(68px + var(--spacing-lg)) 0 var(--spacing-lg);
+        padding: calc(68px + env(safe-area-inset-top, 0px) + var(--spacing-lg)) 0 var(--spacing-lg);
     }
 
     .page-header p {
