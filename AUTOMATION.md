@@ -13,7 +13,7 @@
 1. **（若還沒做）** 依 `GITHUB_SETUP.md` 開好倉庫，並在 **Settings → Actions → General** 把 **Workflow permissions** 設成可寫入、允許建立 PR，否則下面的排程無法幫你開 Pull Request。
 2. **（可選，但建議）** 打開瀏覽器 → 你的倉庫 → **Settings** → 左欄 **Secrets and variables** → **Actions** → **New repository secret**。
 3. **若只要「每日產業摘要」且標題／摘要維持 RSS 原文語言**：**不必**新增任何 Secret；排程仍會跑，會開 PR 更新 `data/sen-swim-digest.json`（合併後網站才會看到新摘要）。
-4. **若要「每週專題文章」或「摘要英→繁」**：新增一筆 Secret，**Name** 填 `MINIMAX_API_KEY`，**Secret** 貼上你在 MiniMax 平台複製的金鑰；存檔即可。`daily-digest` 與 `weekly-article` 會共用此金鑰（摘要翻譯與週報撰寫）。其餘 `MINIMAX_MODEL`、`MINIMAX_API_BASE` **可不填**（用預設即可）。
+4. **若要「每週專題文章」或「摘要英→繁」**：新增一筆 Secret，**Name** 填 `MINIMAX_API_KEY`，**Secret** 貼上你在 MiniMax 平台複製的金鑰；存檔即可。`daily-digest` 與 `weekly-article` 會共用此金鑰（摘要翻譯與週報撰寫）。其餘 `MINIMAX_MODEL`、`MINIMAX_API_BASE` **可不填**（用預設即可）。**若本機或 Actions 出現 `401 invalid api key`，金鑰已確認無誤時**，請再新增 Secret **`MINIMAX_API_BASE`**，值設為 **`https://api.minimaxi.com/v1`**（與本機 PowerShell `$env:MINIMAX_API_BASE` 相同效果）。
 5. 到倉庫 **Actions** 分頁，可手動點 **Run workflow** 測試 **Daily digest** 或 **Weekly featured article**，成功後會出現 **Pull Request**，你（或同事）在 GitHub 上 **Merge** 後，再依 `GITHUB_SETUP.md` 讓網站重新部署，讀者才會看到更新。
 
 ---
@@ -28,7 +28,7 @@
 |--------|------|------|
 | `MINIMAX_API_KEY` | 週報必填；**摘要若要英→繁亦必填**（同一筆） | [MiniMax 平台](https://platform.minimax.io) 取得之 API Key；Bearer 驗證。 |
 | `MINIMAX_MODEL` | 否 | 預設為 `MiniMax-M2.5`；可改為文件支援之其他模型。 |
-| `MINIMAX_API_BASE` | 否 | 預設 `https://api.minimax.io`。若文件或帳戶要求使用 **`https://api.minimaxi.com/v1`**（結尾含 `/v1` 亦可），請設此 Secret；腳本會正確接上 `chat/completions`。 |
+| `MINIMAX_API_BASE` | 否 | 預設 `https://api.minimax.io`。部分帳戶／地區需改為 **`https://api.minimaxi.com/v1`** 才能通過驗證（否則可能出現 **401 invalid api key**）；設為此值時腳本會正確接上 `chat/completions`。 |
 
 未設定 `MINIMAX_API_KEY` 時，`automation/weekly-article.mjs` 會**安靜結束**（exit 0），不會更新週報檔案；週期 workflow 仍會成功，但不會產生可合併的變更。`build-digest.mjs` 則不會翻譯，摘要 JSON 內標題／摘要維持 RSS 原文。
 
@@ -55,3 +55,4 @@
 
 - RSS 單一來源失敗時，`build-digest.mjs` 會記錄於 log 並繼續其他來源。
 - MiniMax 請求失敗時 `weekly-article.mjs` 以 **exit 1** 結束，該次 workflow 顯示失敗，可於 Actions 介面重跑。
+- MiniMax 出現 **`401`／`invalid api key`** 而金鑰種類與複製內容已確認正確時：本機設 `$env:MINIMAX_API_BASE="https://api.minimaxi.com/v1"`（或 bash `export …`）後重跑；GitHub 則新增 Repository secret **`MINIMAX_API_BASE`** 同上值，再 **Re-run workflow**。

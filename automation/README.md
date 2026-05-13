@@ -27,12 +27,23 @@ npm install
 node build-digest.mjs
 ```
 
-週報（需環境變數 `MINIMAX_API_KEY`）：
+摘要翻譯／週報（需環境變數 `MINIMAX_API_KEY`）。若出現 **401 invalid api key** 且金鑰正確，請一併指定 API 網域（與 [MiniMax 文件](https://platform.minimax.io) 帳戶所屬端點一致）：
 
 ```bash
 export MINIMAX_API_KEY="你的金鑰"
+export MINIMAX_API_BASE="https://api.minimaxi.com/v1"
 export MINIMAX_MODEL="MiniMax-M2.5"   # 可選，預設見腳本
+node build-digest.mjs
+# 或
 node weekly-article.mjs
+```
+
+Windows PowerShell 範例：
+
+```powershell
+$env:MINIMAX_API_KEY="你的金鑰"
+$env:MINIMAX_API_BASE="https://api.minimaxi.com/v1"
+node build-digest.mjs
 ```
 
 ## 相關文件
