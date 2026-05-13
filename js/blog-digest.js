@@ -61,14 +61,18 @@
             var sum = softenDisplayText((it.summary || '').trim());
             if (sum.length > 220) sum = sum.slice(0, 217) + '…';
             var title = softenDisplayText(it.title || '（無標題）');
+            var detailHref =
+              'digest-article.html?u=' +
+              encodeURIComponent(it.url || '') +
+              '&from=blog';
             return (
               '<article class="digest-card">' +
               '<div class="digest-card-source">' +
               esc(it.sourceName || it.sourceId || '來源') +
               '</div>' +
               '<h3 class="digest-card-title"><a href="' +
-              esc(it.url) +
-              '" target="_blank" rel="noopener noreferrer">' +
+              esc(detailHref) +
+              '">' +
               esc(title) +
               '</a></h3>' +
               '<p class="digest-card-summary">' +

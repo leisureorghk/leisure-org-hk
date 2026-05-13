@@ -57,6 +57,10 @@
           var sum = softenDisplayText((it.summary || '').trim());
           if (sum.length > 160) sum = sum.slice(0, 157) + '…';
           var title = softenDisplayText(it.title || '（無標題）');
+          var detailHref =
+            'digest-article.html?u=' +
+            encodeURIComponent(it.url || '') +
+            '&from=home';
           var st = stagger[Math.min(i, stagger.length - 1)];
           return (
             '<article class="digest-card reveal ' +
@@ -66,8 +70,8 @@
             esc(it.sourceName || it.sourceId || '來源') +
             '</div>' +
             '<h3 class="digest-card-title"><a href="' +
-            esc(it.url) +
-            '" target="_blank" rel="noopener noreferrer">' +
+            esc(detailHref) +
+            '">' +
             esc(title) +
             '</a></h3>' +
             '<p class="digest-card-summary home-digest-card-summary">' +
