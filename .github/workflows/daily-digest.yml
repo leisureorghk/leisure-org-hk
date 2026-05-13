@@ -15,6 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+      MINIMAX_MODEL: ${{ secrets.MINIMAX_MODEL }}
+      MINIMAX_API_BASE: ${{ secrets.MINIMAX_API_BASE }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6

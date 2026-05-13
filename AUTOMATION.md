@@ -1,10 +1,26 @@
 # 自動化與 GitHub Actions 說明
 
-首次建立 Git 遠端倉庫、啟用 Pages、Actions 權限與推送流程，請見 **[GITHUB_SETUP.md](./GITHUB_SETUP.md)**。
+## 這份文件在講什麼？
 
-本專案透過 **GitHub Actions** 每日彙整公開 RSS 摘要，以及每週（可選）使用 **MiniMax API** 產出原創繁中週報 HTML。
+**`AUTOMATION.md` 只負責兩件事：**（1）要在 GitHub 哪裡填哪些 **Secrets**；（2）兩個排程（每日摘要、每週專題）各自做什麼、合併 PR 時要注意什麼。
 
-## Repository secrets
+**第一次把專案放上 GitHub**（建立倉庫、`git push`、開 Pages、開 Actions 寫入權限）請先看 **[GITHUB_SETUP.md](./GITHUB_SETUP.md)**，那份才是「從零到網站上線」的完整步驟。`AUTOMATION.md` 假設你**已經**有 GitHub 倉庫，只是要開自動化。
+
+---
+
+## 你要設定的其實只有這幾步（對照做即可）
+
+1. **（若還沒做）** 依 `GITHUB_SETUP.md` 開好倉庫，並在 **Settings → Actions → General** 把 **Workflow permissions** 設成可寫入、允許建立 PR，否則下面的排程無法幫你開 Pull Request。
+2. **（可選，但建議）** 打開瀏覽器 → 你的倉庫 → **Settings** → 左欄 **Secrets and variables** → **Actions** → **New repository secret**。
+3. **若只要「每日產業摘要」**：**不必**新增任何 Secret；排程仍會跑，會開 PR 更新 `data/sen-swim-digest.json`（合併後網站才會看到新摘要）。
+4. **若要「每週專題文章」**：新增一筆 Secret，**Name** 填 `MINIMAX_API_KEY`，**Secret** 貼上你在 MiniMax 平台複製的金鑰；存檔即可。其餘 `MINIMAX_MODEL`、`MINIMAX_API_BASE` **可不填**（用預設即可）。
+5. 到倉庫 **Actions** 分頁，可手動點 **Run workflow** 測試 **Daily digest** 或 **Weekly featured article**，成功後會出現 **Pull Request**，你（或同事）在 GitHub 上 **Merge** 後，再依 `GITHUB_SETUP.md` 讓網站重新部署，讀者才會看到更新。
+
+---
+
+**本機改完如何同步到 GitHub Pages**：見 [`GITHUB_SETUP.md`](./GITHUB_SETUP.md) **第十節**。
+
+## Repository secrets（在 GitHub 網頁上設定）
 
 在 GitHub 倉庫 **Settings → Secrets and variables → Actions** 新增：
 

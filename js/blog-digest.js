@@ -31,6 +31,12 @@
   var metaBar = document.getElementById('digest-meta-bar');
   var weeklyBox = document.getElementById('weekly-article-promo');
 
+  function hideWeeklyPromo() {
+    if (!weeklyBox) return;
+    weeklyBox.innerHTML = '';
+    weeklyBox.hidden = true;
+  }
+
   if (grid) {
     fetch('data/sen-swim-digest.json', { cache: 'no-cache' })
       .then(function (r) {
@@ -40,14 +46,14 @@
       .then(function (data) {
         if (metaBar && data.updatedAt) {
           metaBar.innerHTML =
-            '<span class="digest-badge" role="status">RSS 摘要</span>' +
+            '<span class="digest-badge" role="status">摘要清單</span>' +
             '<span class="digest-updated">最後更新：' +
             esc(fmtDate(data.updatedAt)) +
             '</span>';
         }
         var items = data.items || [];
         if (!items.length) {
-          grid.innerHTML = '<p class="digest-empty" role="status">暫無摘要資料。請稍後再試，或確認已執行自動化更新。</p>';
+          grid.innerHTML = '<p class="digest-empty" role="status">暫無摘要。請稍後再試或確認已執行更新。</p>';
           return;
         }
         grid.innerHTML = items
@@ -82,7 +88,7 @@
       })
       .catch(function () {
         grid.innerHTML =
-          '<p class="digest-error" role="alert">無法載入摘要列表。請檢查網路連線，或確認 <code>data/sen-swim-digest.json</code> 是否存在。</p>';
+          '<p class="digest-error" role="alert">無法載入摘要。</p>';
       });
   }
 
@@ -95,11 +101,10 @@
       .then(function (meta) {
         var latest = meta.latest;
         if (!latest || !latest.slug) {
-          weeklyBox.innerHTML =
-            '<h3>每週專題精選</h3>' +
-            '<p>尚未產生週報。於 GitHub 設定週報產生所需之倉庫密鑰後，每週排程會撰寫一篇參考國際公開資訊的原創文章（合併 PR 後此處會顯示連結）。</p>';
+          hideWeeklyPromo();
           return;
         }
+        weeklyBox.hidden = false;
         weeklyBox.innerHTML =
           '<h3>每週專題精選</h3>' +
           '<p>' +
@@ -113,8 +118,7 @@
           '">閱讀本週專題</a>';
       })
       .catch(function () {
-        weeklyBox.innerHTML =
-          '<h3>每週專題精選</h3><p class="digest-error">無法載入週報資訊。</p>';
+        hideWeeklyPromo();
       });
   }
 })();

@@ -8,56 +8,56 @@ settings:
 
 sources:
   - id: bbc-health
-    name: "BBC News — Health"
+    name: "BBC 新聞（健康）"
     rssUrl: "https://feeds.bbci.co.uk/news/health/rss.xml"
     language: en
     tags: [health, swimming, sen]
     weeklyPool: true
 
   - id: who-news
-    name: "WHO — News"
+    name: "世衛新聞"
     rssUrl: "https://www.who.int/rss-feeds/news-english.xml"
     language: en
     tags: [health, policy]
     weeklyPool: true
 
   - id: sciencedaily-mental
-    name: "ScienceDaily — Mind & Brain"
+    name: "《科學日報》心理與大腦"
     rssUrl: "https://www.sciencedaily.com/rss/mind_brain/mental_health.xml"
     language: en
     tags: [sen, mental-health, research]
     weeklyPool: true
 
   - id: sciencedaily-fitness
-    name: "ScienceDaily — Fitness"
+    name: "《科學日報》健康與體能"
     rssUrl: "https://www.sciencedaily.com/rss/health_medicine/fitness.xml"
     language: en
     tags: [swimming, fitness, research]
     weeklyPool: true
 
   - id: un-news
-    name: "UN News"
+    name: "聯合國新聞"
     rssUrl: "https://news.un.org/feed/subscribe/en/news/all/rss.xml"
     language: en
     tags: [children, policy, news]
     weeklyPool: true
 
   - id: bbc-disability
-    name: "BBC News — Disability"
+    name: "BBC 新聞（障礙）"
     rssUrl: "https://feeds.bbci.co.uk/news/disability/rss.xml"
     language: en
     tags: [sen, disability, news]
     weeklyPool: true
 
   - id: guardian-education
-    name: "The Guardian — Education"
+    name: "《衛報》教育"
     rssUrl: "https://www.theguardian.com/education/rss"
     language: en
     tags: [sen, children, education]
     weeklyPool: true
 
   - id: bbc-swimming
-    name: "BBC Sport — Swimming"
+    name: "BBC 運動（游泳）"
     rssUrl: "https://feeds.bbci.co.uk/sport/swimming/rss.xml"
     language: en
     tags: [swimming, coaching]

@@ -54,29 +54,86 @@ git push -u origin main
 
 ---
 
-## 五、設定 Secrets（週報需要）
+## 五、設定 Secrets（只有「每週專題」需要；每日摘要不用）
 
-1. 倉庫 **Settings** → **Secrets and variables** → **Actions** → **New repository secret**。  
-2. 新增：
+你要做的是：在 GitHub **網頁**上新增一筆「倉庫密鑰」，讓週報 workflow 能讀取 MiniMax 的金鑰。**路徑與你截圖相同**（Settings → Secrets and variables → **Actions** → **Secrets** 分頁 → **New repository secret**）。
+
+### 正確填法（請對照）
+
+1. 按 **New repository secret**。  
+2. **Name（名稱）**：請**完整、逐字**輸入（大小寫一致）：
+
+   `MINIMAX_API_KEY`
+
+   **不要**寫成 `MINIMAX`、`minimax`、`MINIMAX_KEY` 等——名稱若不同，Actions 讀不到，週報 workflow 會當作沒有金鑰而略過產文。
+
+3. **Secret（內容）**：貼上你在 [MiniMax 平台](https://platform.minimax.io) 複製的 **API Key**（一整串字元）。  
+4. 按 **Add secret** 儲存。
+
+若你已新增名稱為 **`MINIMAX`** 的那一筆：請在列表中**刪除**它，再依上表**重新新增**一筆，**Name** 必須是 **`MINIMAX_API_KEY`**。
+
+### 選填（可不設）
 
 | Name | 說明 |
 |------|------|
-| `MINIMAX_API_KEY` | 於 [MiniMax 平台](https://platform.minimax.io) 取得之 API Key（週報腳本使用）。 |
+| `MINIMAX_MODEL` | 不設則腳本用預設模型。 |
+| `MINIMAX_API_BASE` | 不設則用官方 `https://api.minimax.io`。 |
 
-選填：`MINIMAX_MODEL`、`MINIMAX_API_BASE`（見根目錄 `AUTOMATION.md`）。
+詳見根目錄 [`AUTOMATION.md`](./AUTOMATION.md)。
 
 ---
 
-## 六、啟用 GitHub Pages（靜態網站網址）
+## 六、啟用 GitHub Pages（靜態網站網址）— 詳細步驟
 
-1. **Settings** → **Pages**。  
-2. **Build and deployment** → **Source** 選 **GitHub Actions**（不要選 Deploy from a branch，除非你改用手動 branch 部署）。  
-3. 儲存後，到 **Actions** 分頁，手動執行一次 **Deploy GitHub Pages**（或再 `push` 到 `main` 觸發）。  
-4. 完成後 Pages 網址約為：  
-   `https://你的帳號.github.io/leisure-org-hk/`  
-   （若倉庫名為 `username.github.io` 則網域規則不同，請依 GitHub 說明。）
+本專案已內建 [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml)：每次 **`main` 分支有新推送**時，會把倉庫**根目錄**的靜態檔（`index.html`、`css/`、`data/` 等）打包上傳到 **GitHub Pages**。因此 Pages 的「來源」要選 **GitHub Actions**，而不是「從某個 branch 資料夾直接發布」。
 
-**注意**：站內連結若為相對路徑（如 `css/style.css`），在子路徑 Pages 下通常可正常運作；若你改用自訂網域，再於 DNS 與 Pages 設定綁定即可。
+### 步驟 A：在 Settings 裡指定用 Actions 建置
+
+1. 打開你的 GitHub **倉庫**（不是個人帳號總覽）。  
+2. 點頂部選單 **Settings**（設定）。  
+3. 左側選單往下找 **Pages**（頁面）。  
+4. 在 **Build and deployment**（建置與部署）區塊：  
+   - **Source**（來源）下拉選單：選 **GitHub Actions**。  
+   - 若原本是 **Deploy from a branch**，請改成 **GitHub Actions**（與本專案 workflow 設計一致）。  
+5. 若頁面有 **Save**（儲存）按鈕，請按一下儲存。（有時變更會自動生效，視介面版本而定。）
+
+### 步驟 B：觸發第一次部署
+
+GitHub 要知道用哪個 workflow 來「建 Pages」。第一次請**手動跑一次**：
+
+1. 點倉庫頂部 **Actions**。  
+2. 左側列表點 **Deploy GitHub Pages**（名稱須與 `.github/workflows/deploy-pages.yml` 裡的 `name:` 一致）。  
+3. 右側點 **Run workflow** → 確認分支為 **`main`** → 再按綠色 **Run workflow**。  
+4. 等約 1–3 分鐘，點入該次執行記錄：全部步驟打綠勾即成功。若失敗，點進紅色步驟查看 **log** 錯誤訊息。
+
+之後只要有人 **`git push` 到 `main`**，同一個 workflow 會**自動再部署**，不必每次手動（除非你想立刻重跑）。
+
+### 步驟 C：查看網站網址
+
+1. 再回到 **Settings** → **Pages**。  
+2. 成功後，頁面上方或 **Build and deployment** 附近會出現類似 **「Your site is live at …」** 的綠色提示，裡面就是公開網址。  
+3. 一般格式為：
+
+   `https://<你的-GitHub-使用者名稱>.github.io/<倉庫名稱>/`
+
+   例：使用者名 `jeffcho`、倉庫名 `leisure-org-hk` →  
+   `https://jeffcho.github.io/leisure-org-hk/`
+
+4. **特別情況**：若倉庫名稱剛好是 `<使用者名>.github.io`，網址規則會變成使用者頁（根網域），請依 [GitHub 官方說明：GitHub Pages 類型](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites) 對照。
+
+### 與站內連結的關係
+
+- 本站多用**相對路徑**（例如 `css/style.css`、`data/sen-swim-digest.json`），在 `https://使用者.github.io/倉庫名/` 這種**子路徑**底下，瀏覽器會自動對應到正確檔案，**通常不必改 HTML**。  
+- 若日後改用**自訂網域**（例如 `www.leisure.org.hk`），需在網域商設定 **DNS**（如 `CNAME` 或 `A` 記錄），並在 **Settings → Pages → Custom domain** 填寫網域；GitHub 會引導 HTTPS 憑證申請。
+
+### 常見問題
+
+| 情況 | 可檢查 |
+|------|--------|
+| Actions 顯示成功但網址 404 | 等 1–5 分鐘再重新整理；或確認 Pages **Source** 仍是 **GitHub Actions**。 |
+| 沒有出現 **Deploy GitHub Pages** | 確認 `main` 上已有 `.github/workflows/deploy-pages.yml` 並已 push。 |
+| 只想用 branch 發布、不用 Actions | 須另改部署方式；與本專案目前文件不一致，不建議混用除非你知道差異。 |
+| **Annotations 仍出現「Node.js 20…checkout@v4」等** | 警告內若仍寫 **v4／v5 舊版 action**，代表 GitHub 跑的是**舊提交**：請在本機 `git pull`／確認已 **`git push` 到 `main`**，再開**最新一次** workflow run；舊 run 的警告不會消失。亦可到倉庫網頁打開 `.github/workflows/deploy-pages.yml` 確認是否已為 `checkout@v6`、`deploy-pages@v5` 等。 |
 
 ---
 
@@ -108,3 +165,48 @@ git push -u origin main
 - **週報 PR**：務必先閱讀 HTML 內文再合併。
 
 更細的合規與重試說明見 [`AUTOMATION.md`](./AUTOMATION.md)。
+
+---
+
+## 十、本機日常更新與同步（請記錄此流程）
+
+### 重點：本機改檔**不會**自動上 GitHub
+
+你在電腦（本機）用編輯器改 `index.html`、`css/style.css` 等，**儲存後不會**自動同步到 GitHub，也**不會**自動更新公開網址（例如 `https://leisureorghk.github.io/leisure-org-hk/`）。
+
+必須執行 **Git 提交 + 推送到 `main`**，GitHub 才會收到新版本；推送後 **Deploy GitHub Pages** 會自動再部署，數分鐘內網站才會跟新。
+
+### 每次本機改完網站後（建議照做）
+
+在專案資料夾 `leisure_org_hk` 開啟終端機：
+
+```powershell
+cd "c:\Users\Jeff Cho\Hkcompass\Communication site - 文件\AI_Project\Project\leisure_org_hk"
+
+git status
+git add .
+git commit -m "說明本次修改（例如：更新聯絡電話）"
+git push origin main
+```
+
+- `git status`：確認有哪些檔案被改動。  
+- `git add .`：把變更加入本次提交（若有不想提交的檔案，可改為只 `git add` 指定路徑）。  
+- `git commit`：建立一個版本紀錄。  
+- `git push origin main`：上傳到 GitHub 的 **main** 分支。
+
+推送成功後，到倉庫 **Actions** 可看到 **Deploy GitHub Pages** 自動執行；完成後重新整理 Pages 網址即可看到更新。
+
+### 若 GitHub 上曾有「自動化 PR」（digest／週報）
+
+他人或 Actions 在 GitHub 上合併了 PR 後，**遠端 `main` 會比你本機新**。下次在本機開工前建議先：
+
+```powershell
+git pull origin main
+```
+
+再開始編輯，可減少之後 `push` 時的合併衝突。
+
+### 與 FTP／舊上傳方式的分別
+
+以前若習慣用 FTP 直接覆蓋主機檔案：現在**以 GitHub 為準**；本機改完一定要 **`push`**，公開站才會變。
+

@@ -1,11 +1,14 @@
 /**
- * 讀取 feed-sources.yaml，抓取各 RSS，合併去重後輸出 data/sen-swim-digest.json
+ * 讀取 feed-sources.yaml，抓取各 RSS，合併去重後輸出 data/sen-swim-digest.json。
+ * 僅收錄與 SEN／游泳相關之項目；若設 MINIMAX_API_KEY，標題與摘要譯為繁體中文（香港書面語）。
  */
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import yaml from 'js-yaml';
 import Parser from 'rss-parser';
+import { minimaxChat } from './minimax-chat.mjs';
+import { isSenOrSwimRelevant } from './sen-swim-relevance.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
@@ -49,6 +52,72 @@ function toIso(ms) {
   }
 }
 
+function extractJsonArray(text) {
+  const raw = String(text || '').trim();
+  const fence = raw.match(/```(?:json)?\s*([\s\S]*?)```/i);
+  const body = fence ? fence[1].trim() : raw;
+  const start = body.indexOf('[');
+  const end = body.lastIndexOf(']');
+  if (start === -1 || end <= start) return null;
+  try {
+    const parsed = JSON.parse(body.slice(start, end + 1));
+    return Array.isArray(parsed) ? parsed : null;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * 分批呼叫 MiniMax，將 title／summary 譯為繁中；失敗則保留原文。
+ */
+async function translateDigestItems(items, { apiKey, base, model }) {
+  if (!items.length) return items;
+  const batchSize = 5;
+  const out = [...items];
+
+  for (let off = 0; off < items.length; off += batchSize) {
+    const slice = items.slice(off, off + batchSize);
+    const payload = slice.map((it) => ({
+      title: (it.title || '').slice(0, 500),
+      summary: (it.summary || '').slice(0, 900),
+    }));
+
+    const system = `你是專業中譯員。只輸出合法 JSON，不要 markdown、不要前言後語。
+輸出格式：一個陣列，長度必須等於輸入筆數，順序與輸入完全一致。
+陣列中每個物件僅含兩個鍵："title"、"summary"，內容為繁體中文（香港書面語）。
+將英文標題與摘要忠實譯出；summary 請壓縮在 280 個中文字以內；人名、機構、地名可保留英文或常見譯名；不可加入原文沒有的評論或連結。`;
+
+    const user = `請翻譯以下 ${payload.length} 筆（依序輸出 ${payload.length} 個物件）：\n${JSON.stringify(payload)}`;
+
+    try {
+      const raw = await minimaxChat({
+        apiKey,
+        base,
+        model,
+        system,
+        user,
+        temperature: 0.25,
+        max_completion_tokens: 4096,
+      });
+      const arr = extractJsonArray(raw);
+      if (!arr || arr.length !== slice.length) {
+        console.error('translate batch: JSON 長度不符，略過此批');
+        continue;
+      }
+      for (let j = 0; j < slice.length; j++) {
+        const t = String(arr[j]?.title || '').trim();
+        const sum = String(arr[j]?.summary || '').trim();
+        if (t) out[off + j] = { ...out[off + j], title: t };
+        if (sum) out[off + j] = { ...out[off + j], summary: sum };
+      }
+    } catch (e) {
+      console.error('translate batch:', e.message || e);
+    }
+  }
+
+  return out;
+}
+
 async function fetchFeed(parser, src, timeoutMs) {
   const timeout = new Promise((_, rej) =>
     setTimeout(() => rej(new Error('timeout')), timeoutMs)
@@ -72,6 +141,10 @@ async function fetchFeed(parser, src, timeoutMs) {
 }
 
 async function main() {
+  const apiKey = (process.env.MINIMAX_API_KEY || '').trim();
+  const model = process.env.MINIMAX_MODEL || 'MiniMax-M2.5';
+  const base = process.env.MINIMAX_API_BASE || 'https://api.minimax.io';
+
   const raw = fs.readFileSync(yamlPath, 'utf8');
   const doc = yaml.load(raw);
   const settings = doc.settings || {};
@@ -108,6 +181,8 @@ async function main() {
   const perSource = {};
 
   for (const it of all) {
+    const blob = `${it.title || ''} ${it.summary || ''}`;
+    if (!isSenOrSwimRelevant(blob)) continue;
     const u = normalizeUrl(it.url);
     if (seenUrl.has(u)) continue;
     const c = perSource[it.sourceId] || 0;
@@ -118,16 +193,25 @@ async function main() {
     if (picked.length >= digestMaxItems) break;
   }
 
+  let items = picked;
+  if (apiKey && items.length) {
+    console.error('Translating digest via Minimax...');
+    items = await translateDigestItems(items, { apiKey, base, model });
+  } else if (!apiKey) {
+    console.error('MINIMAX_API_KEY 未設定：摘要維持 RSS 原文語言。');
+  }
+
   const out = {
     updatedAt: new Date().toISOString(),
-    disclaimer:
-      '本摘要由公開 RSS 自動彙整，僅列出標題與短摘要並連結至原文；版權歸各來源網站所有。',
-    items: picked,
+    disclaimer: apiKey
+      ? '僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中，請以「閱讀原文」核對內容與版權歸屬。'
+      : '僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要為各來源原文。設定 MINIMAX_API_KEY 後可由排程譯為繁中。',
+    items,
   };
 
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
   fs.writeFileSync(outPath, JSON.stringify(out, null, 2), 'utf8');
-  console.error(`Wrote ${picked.length} items -> ${outPath}`);
+  console.error(`Wrote ${items.length} items -> ${outPath}`);
 }
 
 main().catch((e) => {

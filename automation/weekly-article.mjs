@@ -3,7 +3,7 @@
  * 產出繁中原創 HTML 文章與 weekly-article-meta.json。
  *
  * 環境變數：
- *   MINIMAX_API_KEY（必填才會寫檔）
+ *   MINIMAX_API_KEY（必填才會產出週報 HTML）
  *   MINIMAX_MODEL（預設 MiniMax-M2.5）
  *   MINIMAX_API_BASE（預設 https://api.minimax.io）
  */
@@ -12,6 +12,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import yaml from 'js-yaml';
 import Parser from 'rss-parser';
+import { minimaxChat } from './minimax-chat.mjs';
+import { isSenOrSwimRelevant } from './sen-swim-relevance.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
@@ -94,35 +96,7 @@ async function fetchFeedItems(parser, src, limit, timeoutMs) {
     if (out.length >= limit) break;
   }
   out.sort((a, b) => b.sortKey - a.sortKey);
-  return out;
-}
-
-async function callMinimax({ apiKey, base, model, system, user }) {
-  const url = `${base.replace(/\/$/, '')}/v1/chat/completions`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      Authorization: `Bearer ${apiKey}`,
-    },
-    body: JSON.stringify({
-      model,
-      messages: [
-        { role: 'system', content: system },
-        { role: 'user', content: user },
-      ],
-      temperature: 0.65,
-      max_completion_tokens: 2048,
-    }),
-  });
-  const data = await res.json().catch(() => ({}));
-  if (!res.ok) {
-    const msg = data?.error?.message || data?.message || JSON.stringify(data).slice(0, 400);
-    throw new Error(`Minimax HTTP ${res.status}: ${msg}`);
-  }
-  const content = data?.choices?.[0]?.message?.content;
-  if (!content) throw new Error('Minimax: empty choices[0].message.content');
-  return String(content);
+  return out.filter((row) => isSenOrSwimRelevant(`${row.title} ${row.summary}`));
 }
 
 function buildStandalonePage({ title, bodyHtml, refs, slug }) {
@@ -188,7 +162,7 @@ function buildStandalonePage({ title, bodyHtml, refs, slug }) {
     <p style="font-size:0.85rem;color:var(--text-muted);margin-bottom:0.5rem;">${esc(slug)}</p>
     <h1 style="font-size:clamp(1.35rem,4vw,1.85rem);color:var(--text-dark);margin-bottom:1rem;line-height:1.3;">${esc(title)}</h1>
     <div class="weekly-ai-banner">
-      <strong>聲明：</strong>本篇依多個公開 RSS 摘要與連結作為靈感參考，由撰寫流程輔助以繁體中文重新組織與改寫，旨在分享與 SEN／游泳教學相關的觀察與建議，<strong>非原文翻譯或抄襲</strong>。內容可能仍有疏漏，請讀者自行查證原文；發布前建議由機構負責人審閱。
+      <strong>聲明：</strong>本篇依多個公開 RSS 摘要與連結作為靈感參考，由撰寫流程輔助以繁體中文重新組織與改寫，主題<strong>僅限 SEN 學童／青少年與游泳教學實務</strong>，<strong>非原文翻譯或抄襲</strong>。內容可能仍有疏漏，請讀者自行查證原文；發布前建議由機構負責人審閱。
     </div>
     <div class="weekly-ai-body">
       <article>
@@ -235,7 +209,7 @@ async function main() {
   const bucket = [];
   for (const src of pickedSources) {
     try {
-      const rows = await fetchFeedItems(parser, src, 8, timeoutMs);
+      const rows = await fetchFeedItems(parser, src, 24, timeoutMs);
       bucket.push(...rows);
       console.error(`weekly pool ${src.id}: +${rows.length}`);
     } catch (e) {
@@ -244,7 +218,7 @@ async function main() {
   }
 
   if (bucket.length < 2) {
-    console.error('無法取得足夠 RSS 項目，中止。');
+    console.error('篩選後與 SEN／游泳相關的 RSS 不足 2 則，中止。');
     process.exit(1);
   }
 
@@ -258,6 +232,11 @@ async function main() {
 
   const system = `你是「新天地」香港 SEN 游泳及多功能發展中心的寫作助理。
 寫作語言：繁體中文（香港書面語習慣）。
+
+主題範圍（必須嚴格遵守，不可偏題）：
+- 全文只討論「有特殊教育需要（SEN）的學童／青少年」以及「游泳」相關內容，例如：水中適應、泳姿學習節奏、安全感、小組／個別化安排、家長溝通、教練策略、泳池環境與安全、與 SEN 常見特質（如感官、專注、焦慮）在「游泳課」情境下的連結。
+- 禁止寫與 SEN／游泳無明顯關聯的議題（例如：一般成人健身減重、無關的傳染病新聞、泛泛的國際政治經濟、純學科升學策略等）。若參考摘要偏離主題，請忽略該部分，仍只圍繞 SEN＋游泳寫作。
+
 硬性規則：
 - 絕對禁止逐句翻譯或複製英文原文；不可出現長段外文引句。
 - 必須重新組織論點，加入與「SEN 學童／家長／游泳教學現場」相關的在地化例子與實務建議（可合理虛構教學情境，但不可捏造醫療或法規「新聞」）。
@@ -266,9 +245,9 @@ async function main() {
 - 篇幅約 900–1300 字（中文）。
 - 正文語氣以機構教練觀點撰寫，避免提及「自動程式撰稿」或類似技術製作描述。`;
 
-  const user = `以下是本週隨機選出的公開 RSS 摘要（僅作靈感，請勿抄寫句子）：\n\n${refText}\n\n請根據以上主題方向，撰寫一篇獨立文章，協助家長與教練理解相關議題並能應用在游泳／感統／情緒支持場景。`;
+  const user = `以下是本週隨機選出、且已篩選為與 SEN 或游泳相關的公開 RSS 摘要（僅作靈感，請勿抄寫句子）：\n\n${refText}\n\n請撰寫一篇獨立文章，協助家長與教練，且全文必須只圍繞 SEN 與游泳（含水中安全與教學實務）；不要引入與游泳無關的長篇醫療或新聞敘述。`;
 
-  const rawHtml = await callMinimax({ apiKey, base, model, system, user });
+  const rawHtml = await minimaxChat({ apiKey, base, model, system, user });
   const bodyHtml = softenPublicArticleHtml(sanitizeArticleHtml(rawHtml));
 
   const titleMatch = bodyHtml.match(/<h2[^>]*>([\s\S]*?)<\/h2>/i);

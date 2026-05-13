@@ -66,12 +66,12 @@
         <div class="container">
             <div class="section-header">
                 <h2 id="digest-heading">產業資訊摘要</h2>
-                <p>每日從公開 RSS 自動彙整（約 20 則），僅顯示標題與短摘要，請點「閱讀原文」前往來源網站</p>
+                <p>約 20 則公開 RSS；標題與摘要為各來源原文，請以「閱讀原文」前往網站。</p>
             </div>
-            <p class="digest-intro">內容來自第三方網站之公開摘要，版權與立場歸原發布者；本站不對原文背書。資料由 GitHub Actions 排程更新，更新後需合併 PR 並重新部署靜態站。</p>
+            <p class="digest-intro">第三方公開摘要；版權與立場歸原發布者。</p>
             <div class="digest-meta-bar" id="digest-meta-bar" aria-live="polite"></div>
             <div class="digest-grid" id="digest-grid"></div>
-            <div id="weekly-article-promo" class="digest-weekly-promo card reveal"></div>
+            <div id="weekly-article-promo" class="digest-weekly-promo card reveal" hidden></div>
         </div>
     </section>
 
@@ -305,7 +305,7 @@
     </footer>
 
     <script src="js/security.js"></script>
-    <script src="js/blog-digest.js"></script>
+    <script src="js/blog-digest.js?v=20260512w"></script>
     <script>
         function hideLoading(){const loading=document.getElementById('loading');if(loading)loading.classList.add('hidden')}
         window.addEventListener('DOMContentLoaded',function(){setTimeout(hideLoading,300)});
