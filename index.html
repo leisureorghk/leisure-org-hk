@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Playfair+Display:ital,wght@0,600;1,500&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
-    <link rel="stylesheet" href="css/style.css?v=20260512f">
+    <link rel="stylesheet" href="css/style.css?v=20260513a">
     <style>
         .hero { background-image: linear-gradient(135deg, rgba(30,87,153,0.92) 0%, rgba(0,153,153,0.88) 100%), url('images/hero-banner.webp'); background-size: cover; background-position: center; }
     </style>
@@ -93,6 +93,21 @@
                     <a href="https://wa.me/85297083907?text=%E5%A4%9A%E8%AC%9D%E5%AE%B6%E9%95%B7%E7%9A%84%E6%9F%A5%E8%A9%A2%EF%BC%8C%E8%AB%8B%E5%A1%AB%E5%AF%AB%E4%BB%A5%E4%B8%8B%E8%B3%87%E6%96%99%0A%23%23%23%23%23%23%23%23%23%23%23%0A%E5%AD%B8%E7%94%9F%E5%90%8D%EF%BC%9A%0A%E5%B9%B4%E9%BD%A1/%E6%97%A5%E6%9C%9F%EF%BC%9A%0A%E5%B0%B1%E8%AE%80%EF%BC%9A%0ASen%20%E9%A1%9E%E5%88%A5%EF%BC%9A%0A%E4%BD%8F%E5%9C%B0%E5%8D%80%EF%BC%9A%0A%E4%BB%8B%E7%B4%B9%E4%BA%BA/%E9%80%94%E7%B6%93%EF%BC%9A%0A%23%23%23%23%23%23%23%23%23%23%23%0A%E6%84%9F%E8%AC%9D%2C%20%E6%88%91%E5%80%91%E6%9C%832%E5%A4%A9%E5%85%A7%E5%9B%9E%E8%A6%86" target="_blank" rel="noopener" class="btn btn-primary btn-lg">立即預約免費試堂</a>
                     <a href="services.html" class="btn btn-secondary btn-lg">了解更多服務</a>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 首頁精選：產業摘要 3 則（data/sen-swim-digest.json，由 js/home-digest.js 載入） -->
+    <section class="section home-digest-section" id="home-digest-section" aria-labelledby="home-digest-heading" hidden aria-hidden="true">
+        <div class="container">
+            <div class="section-header">
+                <h2 id="home-digest-heading">SEN・游泳相關資訊</h2>
+                <p>摘自公開來源，供家長與教練快速瀏覽</p>
+            </div>
+            <div class="home-digest-grid" id="home-digest-grid"></div>
+            <p class="digest-intro home-digest-disclaimer">第三方公開摘要；版權與立場歸原發布者。</p>
+            <div class="text-center home-digest-actions">
+                <a href="blog.html" class="btn btn-outline">前往教練專欄看更多摘要</a>
             </div>
         </div>
     </section>
@@ -510,6 +525,7 @@
     </footer>
 
     <script src="js/security.js"></script>
+    <script src="js/home-digest.js?v=20260513a"></script>
     <script>
         // Loading Animation (with fail-safe to prevent infinite spinner)
         function hideLoading() {

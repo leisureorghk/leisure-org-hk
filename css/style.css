@@ -2456,6 +2456,56 @@ p { margin-bottom: var(--spacing-sm); }
     min-height: 48px;
 }
 
+/* ========== 首頁精選：產業摘要（最多 3 則）========== */
+.home-digest-section {
+    border-top: 1px solid var(--gray-mist);
+    background: linear-gradient(180deg, rgba(30, 87, 153, 0.06) 0%, transparent 58%);
+}
+
+.home-digest-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--spacing-md);
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+@media (min-width: 640px) {
+    .home-digest-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 960px) {
+    .home-digest-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.home-digest-section .digest-card {
+    margin: 0;
+}
+
+.home-digest-section .digest-card-title {
+    font-size: clamp(0.95rem, 2.1vw, 1.05rem);
+}
+
+.home-digest-card-summary {
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+}
+
+.home-digest-disclaimer {
+    margin-top: var(--spacing-lg) !important;
+    margin-bottom: 0 !important;
+    max-width: 40rem;
+    font-size: var(--text-xs) !important;
+}
+
+.home-digest-actions {
+    margin-top: var(--spacing-md);
+}
+
 /* 教練專欄：精選文章外殼（取代過多 inline） */
 .featured-article-shell {
     max-width: 800px;
