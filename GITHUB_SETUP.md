@@ -1,6 +1,6 @@
 # GitHub 完整設定步驟（新天地靜態站 + Actions + Pages）
 
-我無法代替你登入 GitHub，請依下列順序在瀏覽器與終端機完成。**約 15–20 分鐘**可做完。
+我無法代替你登入 GitHub，請依下列順序在瀏覽器與終端機完成。**約 15–20 分鐘**可做完。完成後，日常只要在本機改檔、`commit`、`push` 到 `main`，**Deploy GitHub Pages** 會自動更新公開站（含自訂網域，DNS 與 Pages 設定正確時）。
 
 ---
 
@@ -97,6 +97,8 @@ git push -u origin main
 
 本專案已內建 [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml)：每次 **`main` 分支有新推送**時，會把倉庫**根目錄**的靜態檔（`index.html`、`css/`、`data/` 等）打包上傳到 **GitHub Pages**。因此 Pages 的「來源」要選 **GitHub Actions**，而不是「從某個 branch 資料夾直接發布」。
 
+以下除啟用步驟、自訂網域與常見問題外，並含**部署完成後**的站內維護備忘（CSS 快取字串、預約入口與對外用語）。
+
 ### 步驟 A：在 Settings 裡指定用 Actions 建置
 
 1. 打開你的 GitHub **倉庫**（不是個人帳號總覽）。  
@@ -135,12 +137,78 @@ GitHub 要知道用哪個 workflow 來「建 Pages」。第一次請**手動跑�
 
 - 本站多用**相對路徑**（例如 `css/style.css`、`data/sen-swim-digest.json`），在 `https://使用者.github.io/倉庫名/` 這種**子路徑**底下，瀏覽器會自動對應到正確檔案，**通常不必改 HTML**。  
 - 若日後改用**自訂網域**（例如 `www.leisure.org.hk`），需在網域商設定 **DNS**（如 `CNAME` 或 `A` 記錄），並在 **Settings → Pages → Custom domain** 填寫網域；GitHub 會引導 HTTPS 憑證申請。
+- 本倉庫根目錄已含 **`CNAME`** 檔（內容為 `www.leisure.org.hk`），與 GitHub Pages 官方建議一致；部署後請仍須在 **Pages** 設定中確認自訂網域與 **Enforce HTTPS**（憑證就緒後才可勾選）。
+
+### 部署後維護：CSS `?v=`、預約與對外用語
+
+以下不影響 Actions 是否部署成功，但常解釋「為何訪客仍看到舊樣式或舊文案」。
+
+**CSS 快取（`?v=`）**  
+多個 HTML 以 `css/style.css?v=…` 查詢字串避免瀏覽器長期快取舊 CSS。若**只修改** [`css/style.css`](./css/style.css) 而沒有更新各頁 `<link>` 上的版本參數，部分訪客可能仍看到舊版面。建議在**較大樣式變更**時，**統一**將各頁（含 [`automation/weekly-article.mjs`](./automation/weekly-article.mjs) 產文模板若有用到）的 `?v=` 改成新後綴，再一併提交並 `push`。
+
+**預約與 WhatsApp**  
+- **網上表單**：[根目錄 `booking.html`](./booking.html)（導覽列「預約課程」）；送出後會組好訊息並以 **WhatsApp** 開啟對話。  
+- **主要轉換**：首頁與多數內頁以 **WhatsApp** 為主按鈕，表單為輔助路徑。
+
+**對外用語**  
+全站行銷與 CTA 已統一為「**預約合適課程**」，**不再**使用「免費試堂」作為承諾或按鈕主文案。若日後調整說法，請同步檢查 `index.html`、`booking.html`、`services.html`、`contact.html` 及頁尾 CTA 區塊。收費與優惠以各頁實際文字為準。
+
+### 自訂網域出現 Firefox「HSTS／憑證錯誤」或 `SEC_E_WRONG_PRINCIPAL`
+
+代表瀏覽器收到的 **TLS 憑證主體與網址不符**。常見情況是 DNS 已指向 GitHub Pages，但 **尚未在「實際發佈 Pages 的倉庫」完成自訂網域綁定**，邊緣節點仍回傳 **`*.github.io`** 預設憑證。
+
+請依序檢查（皆在**負責部署本站**的 GitHub 倉庫操作）：
+
+1. **Settings → Pages → Custom domain** 填寫 **`www.leisure.org.hk`**，儲存後等待 **DNS 檢查** 通過（綠勾）。  
+2. **網域商 DNS**：`www` 使用 **CNAME** 指向 **`<你的-GitHub-使用者名稱>.github.io`**（專案站亦用此格式；勿指向舊 FTP 主機）。  
+3. 憑證由 GitHub 簽發，**需數分鐘至數小時**；就緒後再勾選 **Enforce HTTPS**。  
+4. 確認 **`main` 已含根目錄 `CNAME` 檔**（與上方自訂網域一致），並已成功跑過 **Deploy GitHub Pages**。  
+5. 若曾用錯誤憑證測試，Firefox 可至 `about:networking#dns` 或清除該站 **HSTS** 快取後再試（根本修復仍須憑證正確）。
+
+### GitHub 顯示「NotServedByPagesError」／`leisure.org.hk is improperly configured`
+
+代表你在 **Settings → Pages → Custom domain** 填的是 **頂層網域**（`leisure.org.hk`，沒有 `www`），但 **DNS 的 `@`（apex）尚未指向 GitHub Pages**。僅把 `www` 設成 CNAME **不夠**，GitHub 檢查頂層時仍會失敗。
+
+請擇一處理：
+
+**做法一（建議與本站 `CNAME` 檔一致）：只用 `www` 當自訂網域**
+
+1. Pages 的 **Custom domain** 改填 **`www.leisure.org.hk`**（不要填 `leisure.org.hk`），儲存。  
+2. 網域商保留 **`www` → CNAME → `<使用者名>.github.io`**。  
+3. 頂層 `leisure.org.hk` 若要導向 `www`，在網域商加 **URL 轉址／轉址規則**（若有），或之後再補 apex 的 A 記錄後改回頂層為主網域。
+
+**做法二：要讓 `leisure.org.hk`（頂層）直接開 GitHub Pages**
+
+在網域商為 **`@`（或主機名留空、代表 apex）** 新增 **四筆 `A` 記錄**，值分別為（與 [GitHub 官方文件](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain) 一致）：
+
+| 類型 | 名稱 | 值 |
+|------|------|-----|
+| A | `@` | `185.199.108.153` |
+| A | `@` | `185.199.109.153` |
+| A | `@` | `185.199.110.153` |
+| A | `@` | `185.199.111.153` |
+
+- 若網域商支援 **ALIAS／ANAME／Flattening**，也可把 `@` 指到 **`<使用者名>.github.io`**（依該商介面說明）。  
+- 刪除或改掉仍指向 **舊主機／FTP／停車頁** 的 `@` 記錄，否則永遠不會通過檢查。  
+- DNS 傳播可能 **數分鐘至 24 小時**；完成後回到 GitHub **Save** 或重新整理 Pages，直到綠勾出現。
+
+**以 Actions 部署時**：官方說明指出 **不必**依賴倉庫內的 `CNAME` 檔也能設自訂網域；但 **`Custom domain` 欄位填的網址**必須與你實際要給訪客使用的 **DNS 記錄**一致（`www` 用 CNAME；`apex` 用 A 或 ALIAS）。
+
+Windows 本機可粗查 apex 是否已指到 GitHub：
+
+```powershell
+Resolve-DnsName leisure.org.hk -Type A
+```
+
+若回傳的 IPv4 為上表四個之一（或輪詢到其中幾個），再回 GitHub 重試儲存自訂網域。
 
 ### 常見問題
 
 | 情況 | 可檢查 |
 |------|--------|
 | Actions 顯示成功但網址 404 | 等 1–5 分鐘再重新整理；或確認 Pages **Source** 仍是 **GitHub Actions**。 |
+| **`NotServedByPagesError`／頂層網域未指向 Pages** | 見上一節；`leisure.org.hk` 須為 `@` 設四筆 GitHub **A** 記錄（或 ALIAS 至 **`<使用者名>.github.io`**），或改只用 **`www.leisure.org.hk`** 為 Custom domain。 |
+| **HTTPS 錯誤、憑證顯示 `*.github.io`** | 見上一節「自訂網域出現 Firefox HSTS…」；完成 Pages 自訂網域與 `CNAME` 檔後重新部署。 |
 | 沒有出現 **Deploy GitHub Pages** | 確認 `main` 上已有 `.github/workflows/deploy-pages.yml` 並已 push。 |
 | 只想用 branch 發布、不用 Actions | 須另改部署方式；與本專案目前文件不一致，不建議混用除非你知道差異。 |
 | **Annotations 仍出現「Node.js 20…checkout@v4」等** | 警告內若仍寫 **v4／v5 舊版 action**，代表 GitHub 跑的是**舊提交**：請在本機 `git pull`／確認已 **`git push` 到 `main`**，再開**最新一次** workflow run；舊 run 的警告不會消失。亦可到倉庫網頁打開 `.github/workflows/deploy-pages.yml` 確認是否已為 `checkout@v6`、`deploy-pages@v5` 等。 |
@@ -195,7 +263,7 @@ cd "c:\Users\Jeff Cho\Hkcompass\Communication site - 文件\AI_Project\Project\l
 
 git status
 git add .
-git commit -m "說明本次修改（例如：更新聯絡電話）"
+git commit -m "說明本次修改（例如：更新聯絡電話或統一 css/style.css 的 ?v= 版本）"
 git push origin main
 ```
 
@@ -219,4 +287,3 @@ git pull origin main
 ### 與 FTP／舊上傳方式的分別
 
 以前若習慣用 FTP 直接覆蓋主機檔案：現在**以 GitHub 為準**；本機改完一定要 **`push`**，公開站才會變。
-

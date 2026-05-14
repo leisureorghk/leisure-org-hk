@@ -124,7 +124,7 @@ function buildStandalonePage({ title, bodyHtml, refs, slug }) {
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
-  <link rel="stylesheet" href="css/style.css?v=20260512f">
+  <link rel="stylesheet" href="css/style.css?v=20260514a">
   <style>
     .weekly-ai-shell { max-width: 820px; margin: 0 auto; padding: 2rem 1rem 4rem; }
     .weekly-ai-banner {

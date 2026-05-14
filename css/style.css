@@ -1259,6 +1259,31 @@ p { margin-bottom: var(--spacing-sm); }
     animation: statPulse 3s ease-in-out infinite;
 }
 
+/* 質化標語（首頁統計區等），避免過長中文被過大標題字裁切 */
+.stat-number--qual {
+    font-size: clamp(1.35rem, 3.5vw, 2rem);
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+}
+
+.hero-booking-hint {
+    margin-top: var(--spacing-md);
+    font-size: var(--text-sm);
+    color: rgba(255, 255, 255, 0.78);
+    max-width: 36rem;
+    line-height: 1.6;
+    animation: fadeUp 1s ease 0.55s forwards;
+    opacity: 0;
+}
+
+.section-primary .cta-dual-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-sm);
+    justify-content: center;
+    align-items: center;
+}
+
 @keyframes statPulse {
     0%, 100% { transform: scale(1); }
     50% { transform: scale(1.03); }
@@ -1635,6 +1660,16 @@ p { margin-bottom: var(--spacing-sm); }
     padding: 0 var(--spacing-md) var(--spacing-md);
     color: var(--text-muted);
     line-height: 2;
+}
+
+.faq-answer-content a {
+    color: var(--ocean-blue);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.faq-answer-content a:hover {
+    color: var(--ocean-deep);
 }
 
 /* ========== Booking Form ========== */
