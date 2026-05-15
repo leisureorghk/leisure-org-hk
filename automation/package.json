@@ -2,6 +2,9 @@
   "name": "leisure-org-automation",
   "private": true,
   "type": "module",
+  "scripts": {
+    "seo": "node apply-seo.mjs"
+  },
   "dependencies": {
     "js-yaml": "^4.1.0",
     "rss-parser": "^3.13.0"

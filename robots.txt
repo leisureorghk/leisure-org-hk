@@ -1,16 +1,37 @@
 # 新天地 - Robots 設定
-# leisure.org.hk
+# https://www.leisure.org.hk
 
-# 允許所有正常搜尋引擎爬蟲
+# 主要搜尋引擎（Google、Bing、Yahoo 等）
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
 User-agent: *
 Allow: /
-Disallow: /images/icons/
+Disallow: /automation/
+Disallow: /data/
 Disallow: /css/
+Disallow: /js/
+Disallow: /images/icons/
 
-# 網站地圖位置
+# 網站地圖
 Sitemap: https://www.leisure.org.hk/sitemap.xml
 
-# 禁止惡意爬蟲
+# 禁止惡意或過度爬蟲
 User-agent: MJ12bot
 Disallow: /
 

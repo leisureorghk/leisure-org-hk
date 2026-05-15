@@ -1,0 +1,203 @@
+{
+  "site": {
+    "baseUrl": "https://www.leisure.org.hk",
+    "name": "新天地",
+    "nameFull": "新天地 SEN學生游泳及多功能發展中心",
+    "locale": "zh_Hant_HK",
+    "language": "zh-Hant-HK",
+    "defaultImage": "/images/hero-banner.webp",
+    "telephone": "+85297083907",
+    "email": "info@leisure.org.hk",
+    "areaServed": "香港",
+    "sameAs": [
+      "https://wa.me/85297083907"
+    ],
+    "contentLastmod": "2026-05-15",
+    "googleSiteVerification": "6eT8B5wew1o97FH2hJRpmKznvw9qpp_qnII0puP40Ks"
+  },
+  "pages": [
+    {
+      "file": "index.html",
+      "path": "/",
+      "title": "新天地 | SEN學生游泳及多功能發展中心 — 香港",
+      "description": "新天地 — 香港首間專為 SEN（特殊教育需要）學生設立的游泳及多功能發展中心。三十年經驗、個人化游泳教學、感統訓練、自閉症與 ADHD 專項課程。",
+      "keywords": "SEN游泳, 香港特殊教育游泳, 自閉症游泳課程, ADHD游泳, 感統訓練, 特殊需要兒童游泳, 新天地",
+      "ogType": "website",
+      "priority": 1.0,
+      "changefreq": "weekly",
+      "breadcrumb": [],
+      "schemas": ["website", "faq", "localBusiness"]
+    },
+    {
+      "file": "about.html",
+      "path": "/about.html",
+      "title": "關於我們 | 新天地 — 香港 SEN 游泳中心",
+      "description": "了解新天地的專業教練團隊、三十年 SEN 游泳教學理念與發展歷程。香港首間專為特殊教育需要學生設立的游泳及多功能發展中心。",
+      "keywords": "SEN游泳, 新天地, 曹柏林教練, 特殊教育游泳, 自閉症游泳課程, ADHD游泳教學, 香港游泳中心",
+      "ogType": "website",
+      "priority": 0.8,
+      "changefreq": "monthly",
+      "breadcrumb": [{ "name": "關於我們", "path": "/about.html" }],
+      "schemas": ["breadcrumb", "localBusiness"]
+    },
+    {
+      "file": "services.html",
+      "path": "/services.html",
+      "title": "服務項目 | 新天地 — SEN 游泳、感統與社交訓練",
+      "description": "新天地提供 SEN 學生游泳教學、感統訓練、專注力訓練、社交技巧小組及親子游泳等多元化課程，一對一或小組授課。",
+      "keywords": "SEN游泳課程, 香港感統訓練, 自閉症游泳教學, ADHD專注力訓練, 社交技巧小組, 親子游泳",
+      "ogType": "website",
+      "priority": 0.9,
+      "changefreq": "monthly",
+      "breadcrumb": [{ "name": "服務項目", "path": "/services.html" }],
+      "schemas": ["breadcrumb", "localBusiness"]
+    },
+    {
+      "file": "why-us.html",
+      "path": "/why-us.html",
+      "title": "為何選擇新天地 | 香港 SEN 游泳專業團隊",
+      "description": "三十年 SEN 游泳教學經驗、個人化課程設計、專業特殊教育教練團隊。了解家長為何選擇新天地作為孩子學泳的首選。",
+      "keywords": "新天地優勢, 香港SEN游泳學校, 曹柏林教練團隊, 個人化游泳教學, 特殊教育游泳",
+      "ogType": "website",
+      "priority": 0.7,
+      "changefreq": "monthly",
+      "breadcrumb": [{ "name": "為何選擇我們", "path": "/why-us.html" }],
+      "schemas": ["breadcrumb", "localBusiness"]
+    },
+    {
+      "file": "resources.html",
+      "path": "/resources.html",
+      "title": "家長資源 | 新天地 — SEN 育兒與游泳指南",
+      "description": "新天地家長資源：SEN 教育資訊、親子游泳技巧、感統訓練指南與免費下載教材，支援香港特殊需要兒童家長。",
+      "keywords": "SEN家長資源, 親子游泳技巧, 香港感統訓練指南, 自閉症教育資訊, ADHD家長支援",
+      "ogType": "website",
+      "priority": 0.7,
+      "changefreq": "monthly",
+      "breadcrumb": [{ "name": "家長資源", "path": "/resources.html" }],
+      "schemas": ["breadcrumb", "localBusiness"]
+    },
+    {
+      "file": "blog.html",
+      "path": "/blog.html",
+      "title": "教練專欄 | 新天地 — SEN 游泳教學心得",
+      "description": "曹柏林教練與團隊分享 SEN 游泳教學心得、自閉症與 ADHD 育兒建議、感統訓練與香港游泳教育專業文章。",
+      "keywords": "SEN游泳教學心得, 自閉症游泳, ADHD專注力, 曹柏林教練, 香港游泳教練專欄",
+      "ogType": "website",
+      "priority": 0.8,
+      "changefreq": "weekly",
+      "breadcrumb": [{ "name": "教練專欄", "path": "/blog.html" }],
+      "schemas": ["breadcrumb", "localBusiness"]
+    },
+    {
+      "file": "booking.html",
+      "path": "/booking.html",
+      "title": "預約課程 | 新天地 — 香港 SEN 游泳報名",
+      "description": "線上預約新天地 SEN 游泳及多功能發展課程。自閉症、ADHD、讀寫障礙等學生均可查詢合適班別，WhatsApp 即時回覆。",
+      "keywords": "香港SEN游泳預約, 自閉症游泳課程預約, ADHD游泳報名, 新天地預約",
+      "ogType": "website",
+      "priority": 0.9,
+      "changefreq": "monthly",
+      "breadcrumb": [{ "name": "預約課程", "path": "/booking.html" }],
+      "schemas": ["breadcrumb", "localBusiness"]
+    },
+    {
+      "file": "contact.html",
+      "path": "/contact.html",
+      "title": "聯絡我們 | 新天地 — 香港 SEN 游泳查詢",
+      "description": "聯絡新天地：課程查詢、預約合適班別、合作洽談。電話 9708 3907、電郵 info@leisure.org.hk，服務香港各區。",
+      "keywords": "香港SEN游泳查詢, 新天地預約, 自閉症游泳課程, ADHD課程, 香港游泳教練聯絡",
+      "ogType": "website",
+      "priority": 0.7,
+      "changefreq": "monthly",
+      "breadcrumb": [{ "name": "聯絡我們", "path": "/contact.html" }],
+      "schemas": ["breadcrumb", "localBusiness"]
+    },
+    {
+      "file": "download-parent-guide-first-swim.html",
+      "path": "/download-parent-guide-first-swim.html",
+      "title": "第一次游泳課家長指南（免費下載）| 新天地",
+      "description": "免費下載：SEN 孩子第一次游泳課家長準備清單、情緒安撫技巧與與教練溝通要點，由新天地專業團隊編製。",
+      "keywords": "SEN游泳家長指南, 第一次游泳課, 特殊需要兒童游泳準備",
+      "ogType": "article",
+      "priority": 0.5,
+      "changefreq": "yearly",
+      "breadcrumb": [
+        { "name": "家長資源", "path": "/resources.html" },
+        { "name": "第一次游泳課家長指南", "path": "/download-parent-guide-first-swim.html" }
+      ],
+      "schemas": ["breadcrumb"]
+    },
+    {
+      "file": "download-sensory-games-home-guide.html",
+      "path": "/download-sensory-games-home-guide.html",
+      "title": "家居感統遊戲指南（免費下載）| 新天地",
+      "description": "免費下載家居感統訓練遊戲指南，適合 SEN 兒童在家練習，配合游泳課程前的感覺統合準備。",
+      "keywords": "感統訓練, 家居感統遊戲, SEN兒童, 香港感統",
+      "ogType": "article",
+      "priority": 0.5,
+      "changefreq": "yearly",
+      "breadcrumb": [
+        { "name": "家長資源", "path": "/resources.html" },
+        { "name": "家居感統遊戲指南", "path": "/download-sensory-games-home-guide.html" }
+      ],
+      "schemas": ["breadcrumb"]
+    },
+    {
+      "file": "download-visual-cue-cards-pack.html",
+      "path": "/download-visual-cue-cards-pack.html",
+      "title": "視覺提示卡套裝（免費下載）| 新天地",
+      "description": "免費下載 SEN 游泳課視覺提示卡，協助自閉症及語言發展較慢的孩子理解課堂流程，由新天地教練團隊設計。",
+      "keywords": "視覺提示卡, 自閉症游泳, SEN游泳教具, 圖卡教材",
+      "ogType": "article",
+      "priority": 0.5,
+      "changefreq": "yearly",
+      "breadcrumb": [
+        { "name": "家長資源", "path": "/resources.html" },
+        { "name": "視覺提示卡套裝", "path": "/download-visual-cue-cards-pack.html" }
+      ],
+      "schemas": ["breadcrumb"]
+    },
+    {
+      "file": "digest-article.html",
+      "path": "/digest-article.html",
+      "title": "產業摘要 | 新天地",
+      "description": "新天地產業摘要：SEN 與游泳相關公開資訊之繁中整理（僅供參考，非原創教學內容）。",
+      "keywords": "SEN游泳新聞, 特殊教育資訊摘要",
+      "ogType": "article",
+      "robots": "noindex, follow",
+      "priority": 0.3,
+      "changefreq": "daily",
+      "breadcrumb": [
+        { "name": "教練專欄", "path": "/blog.html" },
+        { "name": "產業摘要", "path": "/digest-article.html" }
+      ],
+      "schemas": ["breadcrumb"]
+    }
+  ],
+  "faq": [
+    {
+      "question": "我的孩子幾歲可以開始學習游泳？",
+      "answer": "一般建議4歲以上的兒童可以開始參加游泳課程。對於SEN學生，我們會根據孩子的個別發展情況和準備程度來建議最適合的入學時間。"
+    },
+    {
+      "question": "孩子非常害怕水，連下水都不敢，怎麼辦？",
+      "answer": "我們不急、不逼、不怕慢，先讓孩子在池邊以遊戲方式熟悉水，有些孩子需要數堂課或數個月才願意下水，我們願意配合每個孩子的節奏。"
+    },
+    {
+      "question": "我的孩子在普通泳班被拒絕過，你們真的收SEN學生嗎？",
+      "answer": "新天地從創立第一天即專為SEN學生而設，教練均受特殊教育培訓，能處理各種行為與情緒狀況，SEN是我們的專業而非障礙。"
+    },
+    {
+      "question": "孩子上課時情緒崩潰怎麼辦？你們有經驗處理嗎？",
+      "answer": "教練能識別情緒升溫的早期信號，會降低刺激、帶至安靜區並使用家長提供的安撫策略；必要時暫停課程，保護孩子對水的正面感受比完成動作更重要。"
+    },
+    {
+      "question": "課程收費是多少？",
+      "answer": "個別教學、小組及親子課程收費各有不同，請瀏覽服務項目或預約頁面留下資料，我們會聯絡提供最新收費與優惠。"
+    },
+    {
+      "question": "需要準備什麼物品？",
+      "answer": "建議攜帶泳衣、泳帽、泳鏡（如有）和浴巾；中心有更衣室與淋浴設施，並提供少量泳具借用，如有特殊需要請提前告知。"
+    }
+  ]
+}

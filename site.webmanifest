@@ -1,0 +1,24 @@
+{
+  "name": "新天地 SEN學生游泳及多功能發展中心",
+  "short_name": "新天地",
+  "description": "香港首間專為 SEN 學生設立的游泳及多功能發展中心",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f9fd",
+  "theme_color": "#1e5799",
+  "lang": "zh-Hant-HK",
+  "icons": [
+    {
+      "src": "/images/icons/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/logo-app-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

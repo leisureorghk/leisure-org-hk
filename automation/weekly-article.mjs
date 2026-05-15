@@ -14,6 +14,12 @@ import yaml from 'js-yaml';
 import Parser from 'rss-parser';
 import { minimaxChat } from './minimax-chat.mjs';
 import { isSenOrSwimRelevant } from './sen-swim-relevance.mjs';
+import {
+  loadSeoConfig,
+  renderSeoHead,
+  renderHeadJsonLd,
+  absUrl,
+} from './seo-lib.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
@@ -99,13 +105,32 @@ async function fetchFeedItems(parser, src, limit, timeoutMs) {
   return out.filter((row) => isSenOrSwimRelevant(`${row.title} ${row.summary}`));
 }
 
-function buildStandalonePage({ title, bodyHtml, refs, slug }) {
+function buildStandalonePage({ title, bodyHtml, refs, slug, site }) {
   const esc = (s) =>
     String(s || '')
       .replace(/&/g, '&amp;')
       .replace(/</g, '&lt;')
       .replace(/>/g, '&gt;')
       .replace(/"/g, '&quot;');
+
+  const pagePath = `/${slug}`;
+  const description = `${title} — 新天地教練專欄每週原創文章，聚焦香港 SEN 學童游泳教學與家長實務。`;
+  const seoPage = {
+    path: pagePath,
+    title: `${title} | 新天地教練專欄`,
+    description,
+    keywords: 'SEN游泳, 教練專欄, 特殊教育游泳, 自閉症游泳, 香港游泳',
+    ogType: 'article',
+    breadcrumb: [
+      { name: '教練專欄', path: '/blog.html' },
+      { name: title.slice(0, 40), path: pagePath },
+    ],
+    schemas: ['breadcrumb'],
+  };
+  const seoHead = site ? renderSeoHead(site, seoPage) : '';
+  const seoJsonLd = site
+    ? renderHeadJsonLd(site, seoPage, { faq: [] })
+    : '';
 
   const refBlock = refs
     .map(
@@ -114,12 +139,37 @@ function buildStandalonePage({ title, bodyHtml, refs, slug }) {
     )
     .join('\n');
 
+  const articleJsonLd = site
+    ? `  <script type="application/ld+json">
+  ${JSON.stringify(
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      headline: title,
+      description,
+      url: absUrl(site, pagePath),
+      inLanguage: 'zh-Hant-HK',
+      author: { '@type': 'Organization', name: site.nameFull },
+      publisher: { '@id': `${site.baseUrl}/#organization` },
+      isPartOf: { '@id': `${site.baseUrl}/#website` },
+    },
+    null,
+    2
+  )}
+  </script>`
+    : '';
+
   return `<!DOCTYPE html>
-<html lang="zh-HK">
+<html lang="zh-Hant-HK">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${esc(title)} | 新天地</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="${esc(description)}">
+  <meta name="keywords" content="${esc(seoPage.keywords)}">
+  <title>${esc(seoPage.title)}</title>
+${seoHead}
+${seoJsonLd}
+${articleJsonLd}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
@@ -257,11 +307,13 @@ async function main() {
 
   const { slug } = isoWeekInfo();
   const outHtmlPath = path.join(root, slug);
+  const seoConfig = loadSeoConfig(root);
   const page = buildStandalonePage({
     title: titlePlain,
     bodyHtml,
     refs,
     slug,
+    site: seoConfig.site,
   });
 
   fs.writeFileSync(outHtmlPath, page, 'utf8');
@@ -279,6 +331,10 @@ async function main() {
   meta.history = [entry, ...(meta.history || []).filter((h) => h.slug !== slug)].slice(0, 36);
   fs.writeFileSync(metaPath, JSON.stringify(meta, null, 2), 'utf8');
   console.error('Updated', metaPath);
+
+  const { writeSitemap, collectWeeklyArticleUrls } = await import('./seo-lib.mjs');
+  writeSitemap(root, seoConfig, collectWeeklyArticleUrls(root));
+  console.error('Updated sitemap.xml');
 }
 
 main().catch((e) => {

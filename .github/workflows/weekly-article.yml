@@ -40,6 +40,9 @@ jobs:
           cd automation
           node weekly-article.mjs
 
+      - name: Apply site SEO tags and sitemap
+        run: node automation/apply-seo.mjs
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v8
         with:
