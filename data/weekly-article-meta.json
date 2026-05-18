@@ -1,5 +1,15 @@
 {
-  "latest": null,
-  "history": [],
+  "latest": {
+    "slug": "blog-weekly-2026-W21.html",
+    "title": "游泳如何成為SEN學童的成長助力：教練與家長的實務指南",
+    "publishedAt": "2026-05-18T14:46:47.076Z"
+  },
+  "history": [
+    {
+      "slug": "blog-weekly-2026-W21.html",
+      "title": "游泳如何成為SEN學童的成長助力：教練與家長的實務指南",
+      "publishedAt": "2026-05-18T14:46:47.076Z"
+    }
+  ],
   "note": "由 automation/weekly-article.mjs 於每週 workflow 成功執行後更新；latest 指向最新 HTML 檔名與標題。"
 }
