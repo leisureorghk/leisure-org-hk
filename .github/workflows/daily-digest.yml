@@ -8,7 +8,10 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
+
+concurrency:
+  group: digest-main
+  cancel-in-progress: false
 
 jobs:
   digest:
@@ -21,6 +24,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          ref: main
 
       - name: Setup Node.js
         uses: actions/setup-node@v6
@@ -35,17 +40,14 @@ jobs:
           npm ci
           node build-digest.mjs
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v8
-        with:
-          commit-message: 'chore(data): update SEN/swim RSS digest'
-          title: 'Automated: daily RSS digest update'
-          body: |
-            此 PR 由 GitHub Actions 自動建立，更新 `data/sen-swim-digest.json`。
-
-            - 合併前可快速檢查 JSON 與來源是否合理。
-            - 合併後 GitHub Pages（或您的靜態主機）重新部署即可在「教練專欄」看到摘要。
-          branch: automated/digest-update
-          delete-branch: true
-          add-paths: |
-            data/sen-swim-digest.json
+      - name: Commit and push to main (自動上線，無需手動合併 PR)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/sen-swim-digest.json; then
+            echo "Digest unchanged; skip push."
+            exit 0
+          fi
+          git add data/sen-swim-digest.json
+          git commit -m "chore(data): update SEN/swim RSS digest [automated]"
+          git push origin HEAD:main

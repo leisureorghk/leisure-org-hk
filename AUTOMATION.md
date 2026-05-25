@@ -36,14 +36,14 @@
 
 | 檔案 | 排程 | 說明 |
 |------|------|------|
-| [`.github/workflows/daily-digest.yml`](.github/workflows/daily-digest.yml) | 每日 UTC 01:00（約香港 09:00） | 執行 `automation/build-digest.mjs`，更新 [`data/sen-swim-digest.json`](data/sen-swim-digest.json)，並以 **Pull Request** 提交（預設分支 `automated/digest-update`）。 |
+| [`.github/workflows/daily-digest.yml`](.github/workflows/daily-digest.yml) | 每日 UTC 01:00（約香港 09:00） | 執行 `automation/build-digest.mjs`，更新 [`data/sen-swim-digest.json`](data/sen-swim-digest.json)，**直接 commit 並 push 到 `main`**（觸發 Pages 部署；無需手動合併 PR）。 |
 | [`.github/workflows/weekly-article.yml`](.github/workflows/weekly-article.yml) | 每週一 UTC 03:00（約香港 11:00） | 執行 `automation/weekly-article.mjs`；若有變更則開 PR `automated/weekly-article`。 |
 
 兩者皆支援 **Actions 手動執行**（`workflow_dispatch`）。
 
 ## 審核與合規建議
 
-1. **每日 digest PR**：快速檢查 JSON 內來源與連結是否正常即可合併。
+1. **每日 digest**：已自動 push 至 `main`；若需抽查，可在 Actions 日誌或 `data/sen-swim-digest.json` 的 `updatedAt` 確認。
 2. **每週專題 PR**：務必由機構負責人閱讀全文；頁面已含「非抄襲／參考來源」聲明，仍可能有事實錯誤。
 3. **著作權**：摘要僅使用 RSS 之標題與短描述並連結至原文；站內不轉載全文。週報為模型依摘要**改寫與在地化**之文稿，文末列出參考連結。
 

@@ -237,10 +237,11 @@ Resolve-DnsName leisure.org.hk -Type A
 
 ---
 
-## 九、合併自動化 PR 的習慣
+## 九、自動化內容如何出現在網站
 
-- **digest PR**：檢查 JSON 與來源合理後合併，再觸發或等待 **Deploy GitHub Pages**，網站即更新摘要。  
-- **週報 PR**：務必先閱讀 HTML 內文再合併。
+- **每日游泳／SEN 摘要**（`data/sen-swim-digest.json`）：`daily-digest` workflow 會**直接 push 到 `main`**，合併後 **Deploy GitHub Pages** 自動部署，首頁與教練專欄的「SEN・游泳相關資訊」即會更新（約數分鐘）。**不必再手動合併 digest PR**。
+- **每週專題文章**：仍會開 **Pull Request**（`automated/weekly-article`），請負責人閱讀後合併，網站才會顯示新週報。
+- 若曾累積未合併的舊 **digest PR**（例如 #1），可關閉即可，與現行流程無關。
 
 更細的合規與重試說明見 [`AUTOMATION.md`](./AUTOMATION.md)。
 
