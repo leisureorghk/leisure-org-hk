@@ -12,6 +12,7 @@
     <link rel="alternate" hreflang="x-default" href="https://www.leisure.org.hk/blog.html">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="https://www.leisure.org.hk/sitemap.xml">
     <link rel="manifest" href="https://www.leisure.org.hk/site.webmanifest">
+    <link rel="alternate" type="application/rss+xml" title="新天地 教練專欄" href="https://www.leisure.org.hk/rss.xml">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="bingbot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
@@ -55,8 +56,9 @@
     }
     </script>
     <!-- /seo-jsonld -->
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Playfair+Display:ital,wght@0,600;1,500&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
     <link rel="stylesheet" href="css/style.css?v=20260514a">
 </head>
@@ -119,6 +121,11 @@
                 <p>約 20 則公開 RSS；點選標題可於本站閱讀繁中整理版面，再以「閱讀原文」前往原網站核對。</p>
             </div>
             <p class="digest-intro">第三方公開摘要；版權與立場歸原發布者。</p>
+            <div class="blog-search-bar" style="margin-bottom:1.25rem">
+                <label for="blog-search-input" class="visually-hidden">搜尋摘要標題</label>
+                <input type="search" id="blog-search-input" class="form-control" placeholder="搜尋摘要關鍵字（例：游泳、自閉症、ADHD）" autocomplete="off" style="max-width:420px;width:100%;padding:0.65rem 1rem;border-radius:999px;border:1px solid var(--gray-mist)">
+                <p id="blog-search-status" class="digest-intro" style="margin-top:0.5rem;margin-bottom:0" aria-live="polite"></p>
+            </div>
             <div class="digest-meta-bar" id="digest-meta-bar" aria-live="polite"></div>
             <div class="digest-grid" id="digest-grid"></div>
             <div id="weekly-article-promo" class="digest-weekly-promo card reveal" hidden></div>
@@ -133,18 +140,8 @@
                 <h2>最新文章</h2>
                 <p>曹教練的最新分享</p>
             </div>
-            <div class="reveal card featured-blog featured-article-shell">
-                <div class="custom-icon round teal" style="margin:0 auto 1rem"><img src="images/icons/icon-pen.svg" alt="筆"></div>
-                <div class="blog-meta" style="text-align:center;margin-bottom:0.75rem"><span style="color:var(--text-muted);font-size:0.9rem">2026年4月 · 曹柏林教練</span></div>
-                <h3 class="featured-article-title">「看著水，不要怕水」——寫給每一個怕水的孩子</h3>
-                <div class="featured-article-body">
-                    <p>昨天，一個媽媽帶着她四歲的兒子第一次來中心。男孩從進門就緊緊抓着媽媽的手，到了池邊，整個人像樹熊一樣抱住媽媽的腿，怎麼也不肯放。媽媽有點尷尬，跟我說：「他從小就特別怕水，洗澡都要用毛巾擦，不肯淋浴。」</p>
-                    <p>我蹲下來，沒有靠近他，保持了一點距離。我從口袋裡拿出一個小小的水槍，在離他一米遠的地方，朝池裡射了一槍。水柱打在水面上，濺起小小的水花。他偷偷看了一眼。</p>
-                    <p>我又射了一槍，這次水花濺到了他的腳趾上。他縮了一下腳，但沒有哭。我又射了一槍，然後把水槍放在他腳邊的池邊上。過了大概兩分鐘，他伸手拿起了水槍。</p>
-                    <p>那一天結束的時候，他坐在池邊，用腳踢水，水槍被他玩得沒水了。他媽媽喜極而泣。我對她說：「下星期再來，他會願意下水的。」</p>
-                    <p><strong>對怕水的孩子來說，最需要的不是鼓勵，而是時間。</strong>水對他們來說可能是一種威脅——不透明的、冰冷的、無法控制的。但水也是溫柔的、包容的、可以成為朋友的。我們要做的，就是給孩子足夠的時間，讓他自己發現這一點。</p>
-                </div>
-                <div class="featured-article-byline">—— 曹柏林教練 · 三十年教學路上，最常做的事就是等</div>
+            <div id="featured-article-root" class="reveal card featured-blog featured-article-shell">
+                <p role="status" style="text-align:center;color:var(--text-muted)">載入最新文章…</p>
             </div>
         </div>
     </section>
@@ -156,73 +153,8 @@
                 <h2>更多文章</h2>
                 <p>曹教練的教學心得和生活體會</p>
             </div>
-            <div class="features-grid blog-features-grid">
-                <div class="blog-card blog-card-1 card reveal stagger-1">
-                    <div class="blog-image" style="background:linear-gradient(135deg,var(--ocean-blue),var(--ocean-light))">
-                        <div class="custom-icon" style="padding:2rem"><img src="images/icons/icon-target.svg" alt=""></div>
-                    </div>
-                    <div class="blog-content">
-                        <span class="blog-date">2026年6月</span>
-                        <h3>為什麼水中感統訓練對SEN孩子特別有效？</h3>
-                        <p>很多人問我：感統訓練不是應該在治療室裡做嗎？為什麼要在水裡？讓我用三十年經驗告訴你，水是自然界最完美的感統訓練場...</p>
-                        <a class="blog-read-more" href="#article-1">閱讀全文 →</a>
-                    </div>
-                </div>
-                <div class="blog-card blog-card-2 card reveal stagger-2">
-                    <div class="blog-image" style="background:linear-gradient(135deg,var(--teal),var(--teal-light))">
-                        <div class="custom-icon" style="padding:2rem"><img src="images/icons/icon-breath.svg" alt=""></div>
-                    </div>
-                    <div class="blog-content">
-                        <span class="blog-date">2026年2月</span>
-                        <h3>教了三十年游泳，我學會的一件事：等待</h3>
-                        <p>年輕的時候，我總是急著看到學生進步。現在我明白了：有些孩子需要的不只是教學，他們需要的是有人願意在他們旁邊坐著，等到他們準備好的那一刻...</p>
-                        <a class="blog-read-more" href="#article-2">閱讀全文 →</a>
-                    </div>
-                </div>
-                <div class="blog-card blog-card-3 card reveal stagger-3">
-                    <div class="blog-image" style="background:linear-gradient(135deg,var(--gold),var(--gold-light))">
-                        <div class="custom-icon" style="padding:2rem"><img src="images/icons/icon-swim.svg" alt=""></div>
-                    </div>
-                    <div class="blog-content">
-                        <span class="blog-date">2025年10月</span>
-                        <h3>ADHD孩子學游泳的5個實用技巧</h3>
-                        <p>ADHD的孩子不是不聽話，只是他們的大腦需要不同的處理方式。我用這些方法教過上百個ADHD孩子學會游泳，分享給各位家長...</p>
-                        <a class="blog-read-more" href="#article-3">閱讀全文 →</a>
-                    </div>
-                </div>
-                <div class="blog-card blog-card-4 card reveal stagger-4">
-                    <div class="blog-image" style="background:linear-gradient(135deg,var(--ocean-mid),var(--purple))">
-                        <div class="custom-icon" style="padding:2rem"><img src="images/icons/icon-hug.svg" alt=""></div>
-                    </div>
-                    <div class="blog-content">
-                        <span class="blog-date">2025年4月</span>
-                        <h3>寫給那位在泳池邊哭泣的媽媽</h3>
-                        <p>我看過太多媽媽在泳池邊偷偷擦眼淚——因為孩子被普通泳班拒絕了、因為孩子怎麼都不肯下水、因為覺得自己是個失敗的家長。我想對她們說一句話...</p>
-                        <a class="blog-read-more" href="#article-4">閱讀全文 →</a>
-                    </div>
-                </div>
-                <div class="blog-card blog-card-5 card reveal stagger-5">
-                    <div class="blog-image" style="background:linear-gradient(135deg,var(--teal-light),var(--ocean-blue))">
-                        <div class="custom-icon" style="padding:2rem"><img src="images/icons/icon-shield.svg" alt=""></div>
-                    </div>
-                    <div class="blog-content">
-                        <span class="blog-date">2024年12月</span>
-                        <h3>水上安全：SEN學生的防溺教育</h3>
-                        <p>對SEN學生來說，水上安全教育比學會游泳更重要。本文分享如何用視覺提示和重複練習，幫助孩子建立水中安全意識...</p>
-                        <a class="blog-read-more" href="#article-5">閱讀全文 →</a>
-                    </div>
-                </div>
-                <div class="blog-card blog-card-6 card reveal stagger-6">
-                    <div class="blog-image" style="background:linear-gradient(135deg,var(--purple),var(--teal))">
-                        <div class="custom-icon" style="padding:2rem"><img src="images/icons/icon-calendar.svg" alt=""></div>
-                    </div>
-                    <div class="blog-content">
-                        <span class="blog-date">2024年6月</span>
-                        <h3>暑假來了：如何為SEN孩子準備游泳課程？</h3>
-                        <p>暑假是學游泳的黃金季節。但對SEN孩子來說，準備工作可能比課程本身更重要。從泳衣選擇到心理準備，一步步告訴你怎麼做...</p>
-                        <a class="blog-read-more" href="#article-6">閱讀全文 →</a>
-                    </div>
-                </div>
+            <div class="features-grid blog-features-grid" id="blog-more-grid">
+                <p role="status" style="grid-column:1/-1;text-align:center;color:var(--text-muted)">載入文章列表…</p>
             </div>
         </div>
     </section>
@@ -326,7 +258,7 @@
             <div class="footer-bottom"><p>&copy; 2026 新天地 SEN學生游泳及多功能發展中心 — 香港首間專為特殊教育需要（SEN）學生設立的游泳學校，提供自閉症游泳課程、ADHD專注力訓練、讀寫障礙游泳教學、感統訓練及社交技巧小組。服務範圍涵蓋香港各區，包括九龍、新界及港島。專業特殊教育游泳教練團隊，一對一或小組授課，WhatsApp查詢：9708 3907。 <a href="sitemap.xml" style="color:rgba(255,255,255,0.4);text-decoration:underline;">網站地圖</a></p></div>
         </div>
 
-                        <!-- SEO JSON-LD Structured Data -->
+                                        <!-- SEO JSON-LD Structured Data -->
         <script type="application/ld+json">
         {
                 "@context": "https://schema.org",
@@ -354,6 +286,7 @@
                 },
                 "address": {
                         "@type": "PostalAddress",
+                        "streetAddress": "香港（詳細上課泳池地址請 WhatsApp 或致電查詢）",
                         "addressLocality": "香港",
                         "addressRegion": "HK",
                         "addressCountry": "HK"
@@ -389,13 +322,23 @@
                         "ADHD專注力訓練",
                         "感統訓練",
                         "香港游泳教學"
-                ]
+                ],
+                "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 22.3193,
+                        "longitude": 114.1694
+                },
+                "hasMap": "https://www.google.com/maps/search/?api=1&query=Hong+Kong+SEN+swimming"
         }
         </script>
 </footer>
 
-    <script src="js/security.js"></script>
-    <script src="js/blog-digest.js?v=20260513e"></script>
+        <script src="js/site-ui.js?v=20260525a" defer></script>
+    <script src="js/analytics.js?v=20260525a" defer></script>
+<script src="js/security.js"></script>
+    <script src="js/blog-digest.js?v=20260525a"></script>
+    <script src="js/blog-featured.js?v=20260525a"></script>
+    <script src="js/blog-search.js?v=20260525a"></script>
     <script>
         function hideLoading(){const loading=document.getElementById('loading');if(loading)loading.classList.add('hidden')}
         window.addEventListener('DOMContentLoaded',function(){setTimeout(hideLoading,300)});

@@ -14,6 +14,7 @@
     <link rel="alternate" hreflang="x-default" href="https://www.leisure.org.hk/">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="https://www.leisure.org.hk/sitemap.xml">
     <link rel="manifest" href="https://www.leisure.org.hk/site.webmanifest">
+    <link rel="alternate" type="application/rss+xml" title="新天地 教練專欄" href="https://www.leisure.org.hk/rss.xml">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="bingbot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
@@ -47,14 +48,6 @@
         "inLanguage": "zh-Hant-HK",
         "publisher": {
             "@id": "https://www.leisure.org.hk/#organization"
-        },
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": {
-                "@type": "EntryPoint",
-                "urlTemplate": "https://www.leisure.org.hk/blog.html?q={search_term_string}"
-            },
-            "query-input": "required name=search_term_string"
         }
     }
     </script>
@@ -117,7 +110,7 @@
     <!-- /seo-jsonld -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Playfair+Display:ital,wght@0,600;1,500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
     <link rel="stylesheet" href="css/style.css?v=20260514a">
     <style>
@@ -638,7 +631,7 @@
             </div>
         </div>
 
-                        <!-- SEO JSON-LD Structured Data -->
+                                        <!-- SEO JSON-LD Structured Data -->
         <script type="application/ld+json">
         {
                 "@context": "https://schema.org",
@@ -666,6 +659,7 @@
                 },
                 "address": {
                         "@type": "PostalAddress",
+                        "streetAddress": "香港（詳細上課泳池地址請 WhatsApp 或致電查詢）",
                         "addressLocality": "香港",
                         "addressRegion": "HK",
                         "addressCountry": "HK"
@@ -701,12 +695,20 @@
                         "ADHD專注力訓練",
                         "感統訓練",
                         "香港游泳教學"
-                ]
+                ],
+                "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 22.3193,
+                        "longitude": 114.1694
+                },
+                "hasMap": "https://www.google.com/maps/search/?api=1&query=Hong+Kong+SEN+swimming"
         }
         </script>
 </footer>
 
-    <script src="js/security.js"></script>
+        <script src="js/site-ui.js?v=20260525a" defer></script>
+    <script src="js/analytics.js?v=20260525a" defer></script>
+<script src="js/security.js"></script>
     <script src="js/home-digest.js?v=20260513e"></script>
     <script>
         // Loading Animation (with fail-safe to prevent infinite spinner)

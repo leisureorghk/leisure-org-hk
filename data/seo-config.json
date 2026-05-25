@@ -9,11 +9,17 @@
     "telephone": "+85297083907",
     "email": "info@leisure.org.hk",
     "areaServed": "香港",
+    "contentLastmod": "2026-05-25",
+    "googleSiteVerification": "6eT8B5wew1o97FH2hJRpmKznvw9qpp_qnII0puP40Ks",
+    "streetAddress": "香港（詳細上課泳池地址請 WhatsApp 或致電查詢）",
+    "addressLocality": "香港",
+    "addressRegion": "HK",
+    "geoLatitude": 22.3193,
+    "geoLongitude": 114.1694,
+    "hasMap": "https://www.google.com/maps/search/?api=1&query=Hong+Kong+SEN+swimming",
     "sameAs": [
       "https://wa.me/85297083907"
-    ],
-    "contentLastmod": "2026-05-15",
-    "googleSiteVerification": "6eT8B5wew1o97FH2hJRpmKznvw9qpp_qnII0puP40Ks"
+    ]
   },
   "pages": [
     {
@@ -154,6 +160,87 @@
       "breadcrumb": [
         { "name": "家長資源", "path": "/resources.html" },
         { "name": "視覺提示卡套裝", "path": "/download-visual-cue-cards-pack.html" }
+      ],
+      "schemas": ["breadcrumb"]
+    },
+    {
+      "file": "sen-swim-autism.html",
+      "path": "/sen-swim-autism.html",
+      "title": "自閉症游泳課程 | 新天地 — 香港 SEN 游泳",
+      "description": "香港自閉症兒童專項游泳教學：視覺提示、感官調節、小步進階。三十年 SEN 經驗，一對一或小組。",
+      "keywords": "自閉症游泳, 自閉症游泳課程, 香港SEN游泳, 視覺提示",
+      "ogType": "website",
+      "priority": 0.85,
+      "changefreq": "monthly",
+      "breadcrumb": [{ "name": "自閉症游泳", "path": "/sen-swim-autism.html" }],
+      "schemas": ["breadcrumb", "localBusiness"]
+    },
+    {
+      "file": "sen-swim-adhd.html",
+      "path": "/sen-swim-adhd.html",
+      "title": "ADHD 游泳專注力訓練 | 新天地 — 香港",
+      "description": "ADHD 兒童游泳課程：分段指令、即時回饋、水中專注力訓練。香港 SEN 游泳中心。",
+      "keywords": "ADHD游泳, ADHD專注力訓練, SEN游泳香港",
+      "ogType": "website",
+      "priority": 0.85,
+      "changefreq": "monthly",
+      "breadcrumb": [{ "name": "ADHD 游泳", "path": "/sen-swim-adhd.html" }],
+      "schemas": ["breadcrumb", "localBusiness"]
+    },
+    {
+      "file": "areas-hong-kong.html",
+      "path": "/areas-hong-kong.html",
+      "title": "香港各區 SEN 游泳服務 | 新天地",
+      "description": "服務香港九龍、新界及港島家庭。SEN 游泳、感統與專注力課程，WhatsApp 9708 3907 查詢班別。",
+      "keywords": "香港SEN游泳, 九龍游泳, 新界游泳, 港島游泳",
+      "ogType": "website",
+      "priority": 0.8,
+      "changefreq": "monthly",
+      "breadcrumb": [{ "name": "服務地區", "path": "/areas-hong-kong.html" }],
+      "schemas": ["breadcrumb", "localBusiness"]
+    },
+    {
+      "file": "blog-article-sensory.html",
+      "path": "/blog-article-sensory.html",
+      "title": "水中感統訓練為何對 SEN 孩子特別有效 | 新天地",
+      "description": "曹柏林教練解釋水中感統訓練如何幫助 SEN 孩子調節感官、建立專注與情緒穩定。",
+      "keywords": "感統訓練, SEN游泳, 水中感統",
+      "ogType": "article",
+      "priority": 0.7,
+      "changefreq": "yearly",
+      "breadcrumb": [
+        { "name": "教練專欄", "path": "/blog.html" },
+        { "name": "水中感統訓練", "path": "/blog-article-sensory.html" }
+      ],
+      "schemas": ["breadcrumb"]
+    },
+    {
+      "file": "blog-article-waiting.html",
+      "path": "/blog-article-waiting.html",
+      "title": "教了三十年游泳，我學會的一件事：等待 | 新天地",
+      "description": "三十年 SEN 游泳教學心得：等待孩子準備好，比催促進步更重要。",
+      "keywords": "SEN游泳教學, 游泳教練心得",
+      "ogType": "article",
+      "priority": 0.7,
+      "changefreq": "yearly",
+      "breadcrumb": [
+        { "name": "教練專欄", "path": "/blog.html" },
+        { "name": "等待", "path": "/blog-article-waiting.html" }
+      ],
+      "schemas": ["breadcrumb"]
+    },
+    {
+      "file": "blog-article-adhd.html",
+      "path": "/blog-article-adhd.html",
+      "title": "ADHD 孩子學游泳的 5 個實用技巧 | 新天地",
+      "description": "五個實用技巧協助 ADHD 孩子在游泳課建立專注、遵守流程與水中安全。",
+      "keywords": "ADHD游泳, 專注力訓練, SEN游泳",
+      "ogType": "article",
+      "priority": 0.7,
+      "changefreq": "yearly",
+      "breadcrumb": [
+        { "name": "教練專欄", "path": "/blog.html" },
+        { "name": "ADHD 游泳技巧", "path": "/blog-article-adhd.html" }
       ],
       "schemas": ["breadcrumb"]
     },

@@ -41,12 +41,7 @@ sources:
     tags: [swimming, fitness, research]
     weeklyPool: true
 
-  - id: un-news
-    name: "聯合國新聞"
-    rssUrl: "https://news.un.org/feed/subscribe/en/news/all/rss.xml"
-    language: en
-    tags: [children, policy, news]
-    weeklyPool: true
+  # un-news：RSS 格式常異常，已暫停（見 build-digest log）
 
   - id: bbc-disability
     name: "BBC 新聞（障礙）"

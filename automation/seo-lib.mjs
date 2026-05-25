@@ -42,6 +42,7 @@ export function renderSeoHead(site, page) {
     <link rel="alternate" hreflang="x-default" href="${escAttr(url)}">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="${escAttr(absUrl(site, '/sitemap.xml'))}">
     <link rel="manifest" href="${escAttr(absUrl(site, '/site.webmanifest'))}">
+    <link rel="alternate" type="application/rss+xml" title="${escAttr(site.name)} 教練專欄" href="${escAttr(absUrl(site, '/rss.xml'))}">
     <meta name="robots" content="${escAttr(robots)}">
     <meta name="googlebot" content="${escAttr(robots)}">
     <meta name="bingbot" content="${escAttr(robots)}">
@@ -114,14 +115,6 @@ function webSiteJsonLd(site) {
     url: `${site.baseUrl}/`,
     inLanguage: 'zh-Hant-HK',
     publisher: { '@id': `${site.baseUrl}/#organization` },
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: {
-        '@type': 'EntryPoint',
-        urlTemplate: `${site.baseUrl}/blog.html?q={search_term_string}`,
-      },
-      'query-input': 'required name=search_term_string',
-    },
   };
 }
 
@@ -141,7 +134,24 @@ function faqPageJsonLd(faq) {
 }
 
 export function localBusinessJsonLd(site) {
-  return {
+  const addr = {
+    '@type': 'PostalAddress',
+    streetAddress: site.streetAddress || '香港（上課地點請 WhatsApp 查詢）',
+    addressLocality: site.addressLocality || '香港',
+    addressRegion: site.addressRegion || 'HK',
+    addressCountry: 'HK',
+    ...(site.postalCode ? { postalCode: site.postalCode } : {}),
+  };
+  const geo =
+    site.geoLatitude != null && site.geoLongitude != null
+      ? {
+          '@type': 'GeoCoordinates',
+          latitude: site.geoLatitude,
+          longitude: site.geoLongitude,
+        }
+      : undefined;
+
+  const obj = {
     '@context': 'https://schema.org',
     '@type': ['LocalBusiness', 'SportsActivityLocation', 'EducationalOrganization'],
     '@id': `${site.baseUrl}/#organization`,
@@ -155,12 +165,7 @@ export function localBusinessJsonLd(site) {
     telephone: site.telephone,
     email: site.email,
     areaServed: { '@type': 'Country', name: site.areaServed },
-    address: {
-      '@type': 'PostalAddress',
-      addressLocality: '香港',
-      addressRegion: 'HK',
-      addressCountry: 'HK',
-    },
+    address: addr,
     openingHoursSpecification: [
       {
         '@type': 'OpeningHoursSpecification',
@@ -175,7 +180,7 @@ export function localBusinessJsonLd(site) {
         closes: '18:00',
       },
     ],
-    sameAs: site.sameAs,
+    sameAs: site.sameAs || [],
     knowsAbout: [
       'SEN游泳',
       '特殊教育游泳',
@@ -185,6 +190,43 @@ export function localBusinessJsonLd(site) {
       '香港游泳教學',
     ],
   };
+  if (geo) obj.geo = geo;
+  if (site.hasMap) obj.hasMap = site.hasMap;
+  return obj;
+}
+
+export const OPTIMIZED_FONT_LINK = `<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">`;
+
+export function optimizeFontLinks(html) {
+  return html.replace(
+    /<link rel="preconnect" href="https:\/\/fonts\.googleapis\.com">[\s\S]*?family=Playfair[\s\S]*?rel="stylesheet">/gi,
+    OPTIMIZED_FONT_LINK
+  );
+}
+
+const SITE_SCRIPTS = `    <script src="js/site-ui.js?v=20260525a" defer></script>
+    <script src="js/analytics.js?v=20260525a" defer></script>
+`;
+
+export function injectSiteScripts(html) {
+  if (html.includes('js/analytics.js')) return html;
+  const marker = '<script src="js/security.js">';
+  if (html.includes(marker)) {
+    return html.replace(marker, SITE_SCRIPTS + marker);
+  }
+  return html.replace('</body>', SITE_SCRIPTS + '</body>');
+}
+
+export function discoverBlogWeeklyFiles(root) {
+  const names = fs.readdirSync(root).filter((n) => /^blog-weekly-.+\.html$/i.test(n));
+  return names.map((file) => ({
+    file,
+    path: `/${file}`,
+    priority: 0.65,
+    changefreq: 'monthly',
+  }));
 }
 
 export function renderFooterLocalBusiness(site) {
@@ -282,7 +324,7 @@ export function writeSitemap(root, config, extraUrls = []) {
     .map(
       (u) => `    <url>
         <loc>${u.loc}</loc>
-        <lastmod>${u.lastmod || today}</lastmod>
+        <lastmod>${u.lastmod || defaultLastmod}</lastmod>
         <changefreq>${u.changefreq}</changefreq>
         <priority>${Number(u.priority).toFixed(1)}</priority>
     </url>`
@@ -300,21 +342,85 @@ ${body}
 }
 
 export function collectWeeklyArticleUrls(root) {
-  const metaPath = path.join(root, 'data', 'weekly-article-meta.json');
-  if (!fs.existsSync(metaPath)) return [];
   const config = loadSeoConfig(root);
-  const meta = JSON.parse(fs.readFileSync(metaPath, 'utf8'));
   const urls = [];
+  const seen = new Set();
+
   const add = (entry) => {
-    if (!entry?.slug) return;
+    if (!entry?.slug || seen.has(entry.slug)) return;
+    seen.add(entry.slug);
     urls.push({
       loc: absUrl(config.site, `/${entry.slug}`),
-      priority: 0.6,
+      priority: 0.65,
       changefreq: 'monthly',
       lastmod: entry.publishedAt?.slice(0, 10),
     });
   };
-  if (meta.latest) add(meta.latest);
-  for (const h of meta.history || []) add(h);
+
+  const metaPath = path.join(root, 'data', 'weekly-article-meta.json');
+  if (fs.existsSync(metaPath)) {
+    const meta = JSON.parse(fs.readFileSync(metaPath, 'utf8'));
+    if (meta.latest) add(meta.latest);
+    for (const h of meta.history || []) add(h);
+  }
+
+  for (const w of discoverBlogWeeklyFiles(root)) {
+    if (seen.has(w.file)) continue;
+    seen.add(w.file);
+    urls.push({
+      loc: absUrl(config.site, w.path),
+      priority: w.priority,
+      changefreq: w.changefreq,
+      lastmod: config.site.contentLastmod,
+    });
+  }
   return urls;
+}
+
+export function writeRssFeed(root, config) {
+  const { site } = config;
+  const items = [];
+  const metaPath = path.join(root, 'data', 'weekly-article-meta.json');
+  if (fs.existsSync(metaPath)) {
+    const meta = JSON.parse(fs.readFileSync(metaPath, 'utf8'));
+    const list = [...(meta.history || []), ...(meta.latest ? [meta.latest] : [])];
+    for (const e of list) {
+      if (!e?.slug) continue;
+      items.push({
+        title: e.title || '每週專題',
+        link: absUrl(site, `/${e.slug}`),
+        pubDate: e.publishedAt || new Date().toISOString(),
+      });
+    }
+  }
+  const escXml = (s) =>
+    String(s || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;');
+
+  const channelItems = items
+    .slice(0, 20)
+    .map(
+      (it) => `    <item>
+      <title>${escXml(it.title)}</title>
+      <link>${escXml(it.link)}</link>
+      <pubDate>${new Date(it.pubDate).toUTCString()}</pubDate>
+      <guid isPermaLink="true">${escXml(it.link)}</guid>
+    </item>`
+    )
+    .join('\n');
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>${escXml(site.nameFull)} — 教練專欄</title>
+    <link>${escXml(site.baseUrl)}/blog.html</link>
+    <description>SEN 游泳教學週報與專題文章</description>
+    <language>zh-HK</language>
+${channelItems}
+  </channel>
+</rss>
+`;
+  fs.writeFileSync(path.join(root, 'rss.xml'), xml, 'utf8');
 }

@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "seo": "node apply-seo.mjs"
+    "seo": "node apply-seo.mjs",
+    "pages": "node generate-content-pages.mjs"
   },
   "dependencies": {
     "js-yaml": "^4.1.0",

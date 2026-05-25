@@ -1,0 +1,5 @@
+{
+  "ga4MeasurementId": "",
+  "whatsappPhone": "85297083907",
+  "note": "ga4MeasurementId：填入 G-XXXXXXXXXX 後全站 GA4 與轉化事件即啟用；留空則不載入追蹤。"
+}

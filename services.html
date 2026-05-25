@@ -13,6 +13,7 @@
     <link rel="alternate" hreflang="x-default" href="https://www.leisure.org.hk/services.html">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="https://www.leisure.org.hk/sitemap.xml">
     <link rel="manifest" href="https://www.leisure.org.hk/site.webmanifest">
+    <link rel="alternate" type="application/rss+xml" title="新天地 教練專欄" href="https://www.leisure.org.hk/rss.xml">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="bingbot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
@@ -58,7 +59,7 @@
     <!-- /seo-jsonld -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Playfair+Display:ital,wght@0,600;1,500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
     <link rel="stylesheet" href="css/style.css?v=20260514a">
 </head>
@@ -120,6 +121,7 @@
             <div class="section-header">
                 <h2>我們的課程</h2>
                 <p>專為SEN學生設計、由專業教練團隊授課</p>
+                <p style="margin-top:0.75rem;font-size:0.95rem">專項課程：<a href="sen-swim-autism.html">自閉症游泳</a> · <a href="sen-swim-adhd.html">ADHD 游泳／專注力</a> · <a href="areas-hong-kong.html">香港各區服務</a></p>
             </div>
             <div class="features-grid">
                 <div class="service-card reveal stagger-1" id="swim">
@@ -339,7 +341,7 @@
             <div class="footer-bottom"><p>&copy; 2026 新天地 SEN學生游泳及多功能發展中心 — 香港首間專為特殊教育需要（SEN）學生設立的游泳學校，提供自閉症游泳課程、ADHD專注力訓練、讀寫障礙游泳教學、感統訓練及社交技巧小組。服務範圍涵蓋香港各區，包括九龍、新界及港島。專業特殊教育游泳教練團隊，一對一或小組授課，WhatsApp查詢：9708 3907。 <a href="sitemap.xml" style="color:rgba(255,255,255,0.4);text-decoration:underline;">網站地圖</a></p></div>
         </div>
 
-                        <!-- SEO JSON-LD Structured Data -->
+                                        <!-- SEO JSON-LD Structured Data -->
         <script type="application/ld+json">
         {
                 "@context": "https://schema.org",
@@ -367,6 +369,7 @@
                 },
                 "address": {
                         "@type": "PostalAddress",
+                        "streetAddress": "香港（詳細上課泳池地址請 WhatsApp 或致電查詢）",
                         "addressLocality": "香港",
                         "addressRegion": "HK",
                         "addressCountry": "HK"
@@ -402,12 +405,20 @@
                         "ADHD專注力訓練",
                         "感統訓練",
                         "香港游泳教學"
-                ]
+                ],
+                "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 22.3193,
+                        "longitude": 114.1694
+                },
+                "hasMap": "https://www.google.com/maps/search/?api=1&query=Hong+Kong+SEN+swimming"
         }
         </script>
 </footer>
 
-    <script src="js/security.js"></script>
+        <script src="js/site-ui.js?v=20260525a" defer></script>
+    <script src="js/analytics.js?v=20260525a" defer></script>
+<script src="js/security.js"></script>
     <script>
         function hideLoading(){const loading=document.getElementById('loading');if(loading)loading.classList.add('hidden')}
         window.addEventListener('DOMContentLoaded',function(){setTimeout(hideLoading,300)});

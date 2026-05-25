@@ -15,7 +15,10 @@ import {
   updateTitleAndMeta,
   replaceFooterJsonLd,
   writeSitemap,
+  writeRssFeed,
   collectWeeklyArticleUrls,
+  optimizeFontLinks,
+  injectSiteScripts,
 } from './seo-lib.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -41,6 +44,9 @@ function applyPage(site, page, config) {
     html = replaceFooterJsonLd(html, renderFooterLocalBusiness(site));
   }
 
+  html = optimizeFontLinks(html);
+  html = injectSiteScripts(html);
+
   fs.writeFileSync(filePath, html, 'utf8');
   console.log('Updated', page.file);
 }
@@ -52,4 +58,9 @@ for (const page of config.pages) {
 
 const weeklyUrls = collectWeeklyArticleUrls(root);
 writeSitemap(root, config, weeklyUrls);
-console.log('Updated sitemap.xml (%d URLs)', config.pages.filter((p) => !(p.robots || '').includes('noindex')).length + weeklyUrls.length);
+writeRssFeed(root, config);
+console.log(
+  'Updated sitemap.xml + rss.xml (%d indexed + %d weekly)',
+  config.pages.filter((p) => !(p.robots || '').includes('noindex')).length,
+  weeklyUrls.length
+);

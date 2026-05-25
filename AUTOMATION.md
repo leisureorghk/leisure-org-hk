@@ -37,7 +37,7 @@
 | 檔案 | 排程 | 說明 |
 |------|------|------|
 | [`.github/workflows/daily-digest.yml`](.github/workflows/daily-digest.yml) | 每日 UTC 01:00（約香港 09:00） | 執行 `automation/build-digest.mjs`，更新 [`data/sen-swim-digest.json`](data/sen-swim-digest.json)，**直接 commit 並 push 到 `main`**（觸發 Pages 部署；無需手動合併 PR）。 |
-| [`.github/workflows/weekly-article.yml`](.github/workflows/weekly-article.yml) | 每週一 UTC 03:00（約香港 11:00） | 執行 `automation/weekly-article.mjs`；若有變更則開 PR `automated/weekly-article`。 |
+| [`.github/workflows/weekly-article.yml`](.github/workflows/weekly-article.yml) | 每週一 UTC 03:00（約香港 11:00） | 執行 `automation/weekly-article.mjs`，成功後 **直接 push 到 `main`**（含 `blog-weekly-*.html`、sitemap、rss.xml）。仍需在合併前於本機或 GitHub 快速閱讀週報文稿（建議）。 |
 
 兩者皆支援 **Actions 手動執行**（`workflow_dispatch`）。
 

@@ -8,16 +8,32 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
+
+concurrency:
+  group: weekly-main
+  cancel-in-progress: false
 
 jobs:
   weekly:
     runs-on: ubuntu-latest
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+      MINIMAX_MODEL: ${{ secrets.MINIMAX_MODEL }}
+      MINIMAX_API_BASE: ${{ secrets.MINIMAX_API_BASE }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          ref: main
+
+      - name: Verify MiniMax secret
+        run: |
+          if [ -z "$MINIMAX_API_KEY" ]; then
+            echo "::warning::MINIMAX_API_KEY 未設定，將略過產文。"
+          else
+            echo "MINIMAX_API_KEY 已設定。"
+          fi
 
       - name: Setup Node.js
         uses: actions/setup-node@v6
@@ -32,29 +48,21 @@ jobs:
           npm ci
 
       - name: Generate weekly article
-        env:
-          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
-          MINIMAX_MODEL: ${{ secrets.MINIMAX_MODEL }}
-          MINIMAX_API_BASE: ${{ secrets.MINIMAX_API_BASE }}
         run: |
           cd automation
           node weekly-article.mjs
 
-      - name: Apply site SEO tags and sitemap
+      - name: Apply SEO and sitemap
         run: node automation/apply-seo.mjs
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v8
-        with:
-          commit-message: 'chore(content): weekly featured article (MiniMax)'
-          title: 'Automated: weekly featured article'
-          body: |
-            此 PR 由 GitHub Actions 建立，可能包含：
-            - `data/weekly-article-meta.json`
-            - `blog-weekly-*.html`（本週新檔）
-
-            **請於合併前由負責人閱讀週報文稿**（聲明與參考來源已附於頁面）。
-
-            若未設定 `MINIMAX_API_KEY` repository secret，腳本會略過產文，通常不會產生任何變更（本步驟將不開新 PR）。
-          branch: automated/weekly-article
-          delete-branch: true
+      - name: Commit and push to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No weekly changes; skip push."
+            exit 0
+          fi
+          git commit -m "chore(content): weekly featured article [automated]"
+          git push origin HEAD:main

@@ -240,8 +240,10 @@ Resolve-DnsName leisure.org.hk -Type A
 ## 九、自動化內容如何出現在網站
 
 - **每日游泳／SEN 摘要**（`data/sen-swim-digest.json`）：`daily-digest` workflow 會**直接 push 到 `main`**，合併後 **Deploy GitHub Pages** 自動部署，首頁與教練專欄的「SEN・游泳相關資訊」即會更新（約數分鐘）。**不必再手動合併 digest PR**。
-- **每週專題文章**：仍會開 **Pull Request**（`automated/weekly-article`），請負責人閱讀後合併，網站才會顯示新週報。
+- **每週專題文章**：`weekly-article` workflow 成功後會**直接 push 到 `main`**；建議仍快速閱讀週報內容。舊的 **PR #2** 等可關閉。
 - 若曾累積未合併的舊 **digest PR**（例如 #1），可關閉即可，與現行流程無關。
+- **Google 商家檔案（本地搜尋）**：見 [`GOOGLE_BUSINESS_PROFILE.md`](./GOOGLE_BUSINESS_PROFILE.md)。
+- **GA4**：在 [`data/site-public.json`](./data/site-public.json) 填入 `ga4MeasurementId` 後 push，即可追蹤 WhatsApp 等轉化。
 
 更細的合規與重試說明見 [`AUTOMATION.md`](./AUTOMATION.md)。
 

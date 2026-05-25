@@ -1336,6 +1336,19 @@ p { margin-bottom: var(--spacing-sm); }
     font-size: var(--text-sm);
 }
 
+/* ========== A11y ========== */
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
 /* ========== Testimonials ========== */
 .testimonial-card {
     background: rgba(255, 255, 255, 0.9);
