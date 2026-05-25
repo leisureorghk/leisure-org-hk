@@ -289,4 +289,34 @@ git pull origin main
 
 ### 與 FTP／舊上傳方式的分別
 
-以前若習慣用 FTP 直接覆蓋主機檔案：現在**以 GitHub 為準**；本機改完一定要 **`push`**，公開站才會變。
+若官網仍由**傳統主機（Apache／FTP）**提供 `https://www.leisure.org.hk`（而非僅 GitHub Pages），改完檔案後需**另外 FTP 上傳**才會在該主機上線。
+
+在專案資料夾執行（約 114 個靜態檔）：
+
+```powershell
+cd "c:\Users\Jeff Cho\Hkcompass\Communication site - 文件\AI_Project\Project\leisure_org_hk"
+python ftp_sync.py
+```
+
+**重要：** 請勿用 `leisure.org.hk` 當 FTP 主機名——該頂層網域目前**沒有 A 記錄**，會出現 `getaddrinfo failed`。腳本會依序嘗試 **`ftp.leisure.org.hk`** → **`mail.leisure.org.hk`**（IP 約 `58.64.192.201`），遠端目錄 **`/web`**。
+
+若仍失敗，可手動指定：
+
+```powershell
+$env:FTP_HOST = "ftp.leisure.org.hk"
+$env:FTP_USER = "leisureadminftp"
+$env:FTP_PASS = "你的FTP密碼"
+$env:FTP_REMOTE_DIR = "/web"
+# 若主機要求被動模式：
+# $env:FTP_PASSIVE = "1"
+python ftp_sync.py
+```
+
+**雙軌部署提醒：**
+
+| 方式 | 何時更新 |
+|------|----------|
+| `git push` → GitHub Pages | DNS 指向 GitHub 時（見上文 CNAME／A 記錄） |
+| `python ftp_sync.py` | DNS 仍指向舊 FTP 主機時 |
+
+兩者擇一為「主要」來源即可；若已全面改用 Pages，通常**只需 push**，不必再 FTP。

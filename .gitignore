@@ -4,6 +4,7 @@ automation/node_modules/
 # Secrets / local env
 .env
 .env.*
+ftp_local.env
 
 # OS / editor
 Thumbs.db
