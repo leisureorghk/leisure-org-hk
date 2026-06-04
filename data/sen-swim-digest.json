@@ -1,12 +1,31 @@
 {
-  "updatedAt": "2026-06-03T18:16:43.604Z",
+  "updatedAt": "2026-06-04T12:33:52.101Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
+    {
+      "title": "走進無障礙世界：殘疾新聞及心理健康",
+      "url": "https://www.bbc.co.uk/sounds/play/p0npws3k?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-03T23:01:00.000Z",
+      "summary": "以及《心跳互動》明星布拉德利·里奇斯分享自閉症患者婚禮當天實用的小技巧。",
+      "sourceName": "BBC 新聞（障礙）",
+      "sourceId": "bbc-disability",
+      "images": [
+        {
+          "src": "https://a1.api.bbc.co.uk/hit.xiti?&col=1&from=p&ptag=js&s=598253&p=unknown&x1=[]&x2=[responsive]&x3=[bbc_website]&x4=[en]&x7=[]&x8=[reverb-3.12.0-nojs]&x11=[sounds]&x12=[]",
+          "alt": ""
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/images/ic/400x400/p0h55mwr.jpg",
+          "alt": ""
+        }
+      ],
+      "bodyZh": "「我被迫辭掉工作」：法庭制度的無障礙程度如何？\n\nAccess All：殘疾新聞與心理健康\n\n維基·沃爾頓-科爾（Vikki Walton-Cole）成為輪椅使用者後，不得不辭去社工工作，因為她工作的法院不再適合她出入。多年後，她同樣因為這個原因，被迫退出陪審團工作——這與她本人的意願相違。\n\n記者卡捷琳娜·帕夫柳克（Kateryna Pavlyuk）深入探討英格蘭、蘇格蘭和威爾斯法院的無障礙設施，並匯報其發現。\n\n我們也聽到陪審員維多利亞（Victoria）的故事，她被迫與其他陪審團成員分開坐；而倫敦律師霍莉（Holly）則讲述她每天都面對不同程度的法院進出障礙。\n\n自閉症演員布拉德利·里奇斯（Bradley Riches）因出演《Emmerdale》和《Heartstopper》而為人熟知，但他最近出版了第一本書——《Autistically Me》——這是一本幫助人們在神經典型世界中茁壯成長的工具書。\n\n他向艾瑪·特蕾西（Emma Tracey）透露婚禮當天使用的一些技巧和方法，以免自己精力耗盡。這位英國演員還談到，他在十歲首次開口說話時，竟操着一口美國口音。\n\n此外，製作人貝絲·羅斯（Beth Rose）加入艾瑪的行列，討論最新的殘疾新聞，並帶領聽眾展開一場聲音之旅，前往格拉斯哥參加一個霹靂舞Convention，專訪國際知名的Ill-Abilities舞團成員B-Boys Redo和Samuka。\n\n本集由艾瑪·特蕾西及卡捷琳娜·帕夫柳克製作。系列製作人為貝絲·羅斯，編輯為達蒙·羅斯（Damon Rose）。"
+    },
     {
       "title": "數千人聯署反對削減英格蘭殘疾學生科技支援",
       "url": "https://www.theguardian.com/world/2026/jun/03/petition-tech-support-cuts-disabled-students-england-dsa",
       "publishedAt": "2026-06-03T14:12:41.000Z",
-      "summary": "教育部計劃撤銷輔助軟件資助，聲稱現有「廣泛可用的免費工具」已足夠。殘疾人士權益倡導者要求政府叫停削減英格蘭數萬名殘疾學生專業科技支援的計劃。近萬人已聯署反對教育部方案。",
+      "summary": "教育部門計劃撤回輔助軟件資助，聲稱現有免費工具已廣泛普及，毋須特別支援。殘疾維權人士促請政府叫停削減數萬名殘疾學生專門科技支援的計劃，近萬人已簽署請願書反對。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -51,13 +70,13 @@
           "alt": ""
         }
       ],
-      "bodyZh": "數千人聯署請願，反對削減英格蘭殘疾學生的科技支援\n\n殘疾人士權益倡議者呼籲政府叫停削減數萬名英格蘭殘疾學生專門科技支援資助的計劃。\n\n近一萬人已簽署請願書，反對教育部（DfE）撤銷「殘疾學生資助」（DSA）相關專業輔助軟件資助的建議。\n\n請願書指出，此舉有可能「擴大殘疾學生的成就差距、增加學生退學率、加劇精神健康壓力，並減少其晉身就業市場的機會」。\n\nDSA是資助殘疾學生應付高等教育中因殘疾而產生的額外開支的補助金。二零二三至二四年度，超過八萬八千名學生受惠，涉及款項達二億三百萬鎊。\n\n教育部表示，由於科技進步，現時免費的大眾化工具同樣能提供所需功能，因此資助專業軟件的做法已無必要，只會在「特殊情況」下提供。\n\n教育部發言人稱：「凡學生所需支援無法透過廣泛適用的免費工具獲得者，將繼續透過DSA獲得資助軟件。」\n\n然而，英國輔助科技協會（BATA）指出，免費的通用工具「無法提供等同於個人評估、臨床建議的專業工具之功能」。\n\nBATA發言人表示：「對許多殘疾學生而言，專業輔助科技是決定他們能否參與高等教育的關鍵。」\n\n目前DSA資助的輔助軟件包括文字轉語音、語音轉文字、思維導圖及寫作功能的专业工具，以及協助研究、筆記及時間任務管理的軟件。\n\nSam Wood，十九歲，是蘭開夏郡邊緣山大學二年級犯罪學學生及殘疾學生事務主任。他表示，患有嚴重視障令他面對巨大的學習障礙。「DSA資助的專業科技讓我得以在公平環境下學習。」\n\n「由於我的病情，閱讀需要更長時間。Scholarcy等工具非常重要，能將冗長的期刊文章摘要成重點，省卻我在無關文獻上浪費時間。然後我使用MindView將資訊分解成易於管理的視覺區塊，方便寫作時參考。」\n\n「被迫使用笨拙的免費替代品，只會增添不必要的壓力和學術污名，同時為學生設定了極高的門檻才能符合『特殊情況』的資格。」\n\nHelena Mok，二十二歲，是基爾大學神經科學與數據科學學位的最後一年學生。她患有纖維肌痛症及專注力失調/過度活躍症（ADHD），使用Genio、Grammarly、Read&Write及Tailo等工具輔助學習。\n\n她說：「政府建議剝奪專業軟件並以ChatGPT或Copilot等通用、大眾化AI工具取代，完全誤判了殘疾學生的學習方式。」\n\n「Tailo等專業工具利用定制AI提供簡短、相關的教育解釋，而向通用聊天機械人提問科學問題，只會得到冗長而不準確的大段文字。」\n\nChris Purcell是輔助科技公司CareScribe的聯合創辦人（他已離開公司），他表示：「以未經測試的免費替代品取代專業輔助科技，無異於拋棄。」\n\n「這剝奪了令學習成為可能的合理調適，讓殘疾學生暴露於完全可以避免的失敗風險中。部長們應叫停這些建議，公布完整的影響評估，並保障殘疾學生資助，避免人才在大學門前流失。」\n\n政府就有關DSA修改建議的諮詢將於六月十八日截止。\n\n教育部發言人表示：「隨著科技發展，DSA目前資助的許多工具功能現已可免費獲取，並已被大學生廣泛使用。」\n\n「我們希望令制度與時俱進，同時確保所有有需要學生繼續獲得進一步的專業支援。沒有人會失去自信學習所需的支援。」"
+      "bodyZh": "數千人聯署請願，反對削減英格蘭殘疾學生科技支援\n\n殘疾維權人士呼籲政府叫停削減數萬名英格蘭殘疾學生專業科技支援資助的計劃。\n\n近萬人聯署請願，反對教育部（DfE）撤回殘疾學生津貼（DSA）資助的專業輔助軟件資助的建議。\n\n請願書指出，此舉有風險「擴大殘疾學生的學術成就差距，增加學生退學率，加劇精神健康壓力，並減少進入就業市場的機會」。\n\nDSA是一項資助，協助殘疾學生應對高等教育中因殘疾而產生的額外開支。2023至24年度，超過88,000名學生受惠，涉及金額達2.03億英鎊。\n\n教育部表示，除「特殊情況」外，專業軟件的資助支援已不再需要，因為科技進步意味着免費的、大眾市場的工具同樣可以勝任。\n\n教育部發言人說：「若學生需要的支援無法通過廣泛可用的免費工具獲得，他們將繼續透過DSA獲得資助軟件。」\n\n然而，英國輔助科技協會（BATA）指出，免費的、通用工具「並不能提供與個人評估、臨床建議的專業工具同等的功能」。\n\nBATA發言人說：「對許多殘疾學生而言，專業輔助科技是能否參與高等教育的關鍵差異。」\n\n目前DSA資助的輔助軟件包括文字轉語音、語音轉文字、思維導圖及構圖功能的專業工具，以及協助研究、記事、 時間及任務管理的軟件。\n\n學生表示，免費的大眾市場工具未能提供與專業軟件相同的支援。\n\n19歲的Sam Wood是蘭開夏郡艾奇希爾大學二年級犯罪學學生，亦是殘疾學生會的幹事。他說，嚴重視力障礙意味着他已經面臨重大的學習障礙。「DSA資助的專業科技讓我得以公平競爭。」\n\n他說：「因為我的病況，閱讀需要我更長的時間。Scholarcy等工具至關重要，因為它將冗長的期刊文章摘要成關鍵要點，免卻我在不相關文獻上浪費數小時。然後我用MindView將資訊分解成易於管理的視覺區塊，方便我寫作時隨時參考。」\n\n「強迫我們使用笨拙的免費替代品，會增加不必要的壓力和學術污名，同時為學生設定了巨高的門檻，來證明自己符合『特殊情況』的資格。」\n\n22歲的Helena Mok是基爾大學神經科學與數據科學學位的應屆畢業生。她患有纖維肌痛症及專注力失調/過度活躍症（ADHD），使用Genio、Grammarly、Read&Write及Tailo等工具支援學習。\n\n她說：「政府提議剝奪專業軟件並以通用的大眾市場AI工具如ChatGPT或Copilot取代，完全誤判了殘疾學生的學習方式。」\n\n「Tailo等專業工具使用定制AI提供簡短、相關的教育解釋，而向通用聊天機器人提問科學問題，只會得到冗長而不準確的一大段文字。」\n\nChris Purcell是輔助科技公司CareScribe的聯合創辦人（他已離開公司），他說：「以未經測試的免費替代品取代專業輔助科技，是一種拋棄。」\n\n「這剝奪了令學習成為可能的調整措施，令殘疾學生暴露於完全可以避免的失敗風險中。大臣們應叫停這些建議，公布完整的影響評估，並保障殘疾學生津貼，以免人才在大學門前流失。」\n\n政府就有關DSA的修訂建議進行的公眾諮詢將於6月18日截止。\n\n教育部發言人說：「隨着科技發展，DSA目前資助工具中的許多功能現已可免費使用，並已為大學生廣泛採用。」\n\n「我們希望令制度與時俱進，同時確保所有有需要的學生繼續獲得進一步的專業協助。不會有人因為缺乏支援而無法自信地學習。」"
     },
     {
-      "title": "最高法院裁定重度殘疾人士現可同意護理安排",
+      "title": "最高法院裁定嚴重殘疾人士現可自主同意照護安排",
       "url": "https://www.bbc.com/news/articles/c3e2lq58p87o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-02T16:10:57.000Z",
-      "summary": "這項裁決源於北愛爾蘭檢察總長提出的案件，將適用於全英國。",
+      "summary": "該裁決由北愛爾蘭律政司提出的案件引發，適用於整個英國。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -74,33 +93,33 @@
           "alt": "Getty Images Midsection of female healthcare expert examining leg of patient sitting on wheelchair in medical clinic"
         },
         {
+          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/01d6/live/5df35f30-5f27-11f1-89a3-d1f559421220.jpg.webp",
+          "alt": "A woman sitting outside in front of a garden fence. She is looking at the camera with a serious expression.  The woman is wearing a grey cardigan and a red t-shirt."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/3677/live/ab22b640-5f2a-11f1-9da4-8b99067aa239.png.webp",
+          "alt": "Despairing anonymous child sitting with head on knees in the dark frame of a doorway, backlit by a room behind flooded with daylight"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/4d79/live/503e2aa0-26ba-11f1-bd5d-c5e6fe2db6cb.png.webp",
+          "alt": "An elderly person&#x27;s hands and a carer&#x27;s hands placed on top of each other. The carer is wearing a blue uniform, the elderly person is wearing a beige-coloured top."
+        },
+        {
           "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6336/live/df742080-622f-11f0-b903-f515e3045d80.jpg.webp",
           "alt": "Baroness Grey-Thompson smiles at the camera. She has short brown hair, and wears a black jumper and a grey and white jacket. The background is grey"
         },
         {
           "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/db25/live/4392c930-5dd0-11f1-ad28-eda8e494639c.jpg.webp",
           "alt": "Neil Blackman wearing glasses sits at a marble café table with a cup of coffee, in a bright indoor space with plants and sunlight casting shadows on the wall behind."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1372/live/81431890-5e87-11f1-aae6-bbe5eed192d8.jpg.webp",
-          "alt": "A man is sitting on a chair in a hospital ward. He has grey hair and a moustache. He is wearing a pale yellow polo top. Behind him is a hospital bed and numerous wires plugged into a plug socket on the wall."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0e6c/live/fbd68b50-5e8c-11f1-af26-693a71517b6e.jpg.webp",
-          "alt": "Michael Woods is standing on the side of a snow-covered mountain. He is wearing a High-altitude breathing, a coat with hood up, sunglasses and a hat."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c036/live/a8a187e0-5ea1-11f1-9c69-5be5e9be5821.jpg.webp",
-          "alt": "A group of people stand close together holding up gold medals on orange ribbons, with some wearing racing suits and others in event clothing."
         }
       ],
-      "bodyZh": "嚴重殘疾人士現可同意照顧安排　最高法院作出裁決\n\n嚴重殘疾人士只要年滿16歲，即使缺乏給予有效同意的能力，往後仍可對自己的照顧安排表達同意——這是英國最高法院作出的裁決。是次裁決由北愛爾蘭律政司提出訴訟引發，適用於全英國。\n\n北愛爾蘭衞生大臣Mike Nesbitt一直尋求修訂《剝奪自由保護措施》實務守則，以訂明缺乏相關能力的市民，如何被合法剝奪自由。\n\n包括Mencap、Mind及英國自閉症協會在內的慈善團體已警告，是次裁決「將數以十萬計嚴重殘疾人士的基本人權保障一筆勾銷」。\n\n估計北愛爾蘭逾9,000人將受裁決及衞生大臣後續行動影響。其他衞生部門日後亦可相應修改嚴重殘疾人士照顧安排的法律框架。\n\n官方數據顯示，英格蘭2024至25年度接獲364,900宗剝奪自由保護措施申請，當中118,850宗至年底仍未完成；僅21.1%在法定期限21天內完成處理。\n\n北愛爾蘭衞生部發言人表示「歡迎」裁決，稱之為「重要裁決」，澄清了往後如何詮釋剝奪自由的法律條文，並指該部門正仔細考慮裁決對北愛爾蘭醫療及社會服務實務的影響。\n\n裁決前有何規定？\n\n今次裁決推翻了一項名為Cheshire West的舊有最高法院裁決。該案確立了「酸鹼測試」準則——若某人持續受到監管及約束、不得自由離開，且無法對此給予同意，即屬被剝奪自由。此情況通常適用於居於封閉式康復單位、受資助生活單位或護老院等的嚴重學習障礙患者或認知障礙患者。\n\n然而，北愛爾蘭衞生大臣尋求修改實務守則，讓市民即使缺乏相關能力，仍可通過表達意願與感受，給出有效同意。這些法律保障確保有獨立人士核查有關安排是否合理、合法及符合當事人的最佳利益。\n\n最高法院收到的論點認為，Cheshire West案例裁決有誤，並對醫療及社會服務系統造成難以持續的行政負擔。代表北愛爾蘭律政司行事的Tony McGleenan KC在書面陳詞中表示，修訂後的實務守則範圍將「意味着具決定能力受損的16歲及以上人士當中，較少人會被視為被剝奪自由」。他補充：「保障措施仍然需要……但這些保障將着重識別當事人的已知意願與感受。」\n\n最高法院裁決有何意義？\n\n法院裁決，缺乏法律能力並不等同於缺乏《人權法》第5條所述的「有效同意」。法院指出，部分無法就居住地點作出法律認可決定的人士，只要對自己的安排有足夠認知，並能表達是否滿意，仍可在公約意義上給予同意。\n\n裁決同時適用於英格蘭、威爾斯、蘇格蘭及北愛爾蘭，並確立日後判斷某人是否被剝奪自由時，須採用多因素方法，尤其須考慮當事人的個人意願與偏好。然而，除非當事人明確表示反對，否則其居住安排一般不會被視為剝奪自由。\n\n裁決對照顧提供者而言或許構成挑戰，因為法院承認市民對照顧安排的態度表達能力，會因個案而異。\n\n北愛爾蘭衞生大臣現已獲法律授權，修訂《剝奪自由保護措施》實務守則——該守則監管缺乏足夠精神能力人士的照顧安排。\n\n簡言之，倡議團體認為裁決意味着法律現時會將較少人士歸類為被剝奪自由，而被納入該類別的人數減少，意味着自動獲得法律審核及保障的人數隨之減少。此舉或可紓緩《剝奪自由保護措施》制度超負荷的壓力，但倡議團體指出，代價是收窄了首先受到保護的對象範圍。\n\n他們警告，居於封閉式或高度限制性照顧環境的殘疾人士，日後或更難獲得獨立監察，或對自身的遭遇提出異議。\n\n下一個關鍵問題是大臣們的響應速度。政府此前已表明計劃就以《自由保護措施》取代《剝奪自由保護措施》展開諮詢。倡議團體現時表示，迫切需要發出過渡指引，以免造成混亂並保障受裁決影響的人士。\n\n裁決「令我們倒退數十年」\n\n裁決引發部分慈善團體的強烈譴責。\n\nMencap、Mind及英國自閉症協會發表聯合聲明，指出裁決「令我們倒退數十年」，並警告裁決或令「虐待及照顧疏忽在封閉環境中更難被察覺」。\n\n聲明指出：「法院移除了獨立審查、維權支援及自動法律援助途徑，等於關上了眾多最需要幫助人士尋求公義及支援的大門。過往大量侵權案例清楚說明，封閉文化、缺乏獨立監察及約束性照顧如何導致虐待醜聞——是次裁決與我們所汲取的教訓背道而馳。」\n\n各慈善團體促請英國政府緊急向醫療服務提供者發出過渡指引，又呼籲「盡快訂立新法例及指引，加強對最具風險人士的保障」。聲明強調：「當中應清楚說明殘疾人士及其家屬如何就侵犯權利提出異議，並獲得所需維權支援。」\n\n精神無行為能力意味着什麼？\n\n精神行為能力是指某人就其自身事務作出決定之能力，涵蓋範圍可廣可窄——從穿着什麼衣物，以至是否遷入護老院等重大決定。部分人對某些事情或能作出決定，但對另一些則不能。\n\n判定某人精神無行為能力並非簡單程序，但年滿16歲並屬此類別的人士受《2005年精神能力法》保障。該法例旨在保障及賦權可能有精神能力障礙、無法就照顧及治療自行作出決定的人士。\n\n根據NHS的資料，市民的精神能力可隨時間及病情、相關決定事項而改變。"
+      "bodyZh": "嚴重殘疾人士現可同意護理安排　最高法院作出裁決\n\n兩天前\n\n分享\n\n儲存\n\n玛丽—路易丝·康纳利（Marie-Louise Connolly），BBC新聞北愛爾蘭衞生事務記者\n艾丽卡·威瑟ington（Erica Witherington），殘疾事務記者\n\n最高法院裁定，16歲及以上嚴重殘疾人士，儘管缺乏給予同意的能力，仍可對其護理安排表示同意。\n\n今次裁決由北愛爾蘭律政司提出訴訟引發，將適用於全英國。\n\n北愛爾蘭衞生大臣邁克·內斯比特（Mike Nesbitt）一直尋求修改《剝奪自由保障》實務守則，以規範如何在缺乏同意護理安排之能力的情況下剝奪他人自由。\n\n包括Mencap、Mind及全國自閉症協會在內的慈善機構警告，這項裁決「可能令數十萬嚴重殘疾人士失去基本人權保障」。\n\n據估計，北愛爾蘭將有超過9,000人受此裁決及衞生大臣後續行動影響。\n\n裁決亦意味着英國其他地區的衞生部門可能更改嚴重殘疾人士護理安排的法律框架。\n\n官方數據顯示，英格蘭2024至25年度共有364,900宗《剝奪自由保障》申請，年終時仍有118,850宗未完成。僅得21.1%的申請在法定21天期限內完成。\n\n衞生部發言人表示，該部門「歡迎」裁決，稱之為一項「重要裁決」，明確了未來應如何詮釋剝奪自由的法律條文。\n\n發言人又指，正仔細考慮裁決對北愛爾蘭醫療及社會照顧服務的影響。\n\n裁決前有哪些規定？\n\n今次裁決推翻了一項早前最高法院的裁決——俗稱「Cheshire West」案例。\n\n該案确立了「酸鹼測試」準則：若某人持續受到監督及控制、不獲准離開，且不能對此表示同意，則屬剝奪自由。\n\n此準則通常適用於患有嚴重學習障礙或認知障礙（俗稱癡呆症）的人士，他們入住鎖上式康復單位、受資助生活住宿或護老院等設施。\n\n然而，北愛爾蘭衞生大臣尋求修改實務守則，讓人士可透過表達意願及感受給予有效同意，即使他們缺乏相關的決策能力。\n\n這些法律保障確保有獨立人士核查有關安排是否合理、合法，以及符合當事人的最佳利益。\n\n最高法院在聆訊中獲悉，Cheshire West裁決在法律上存有錯誤，並對醫療及社會照顧系統造成難以持續的行政負擔。\n\n北愛爾蘭律政司的代表律師托尼·麥格萊南（Tony McGleenan）KC在書面陳詞中指出，拓寬實務守則的定義將「意味着具有受損決策能力的16歲及以上人士中，將有更少人被視為被剝奪自由」。\n\n他又補充：「保障措施仍屬必要……但焦點將轉至確認當事人的已知意願及感受。」\n\n最高法院裁決有何含義？\n\n法院裁定，缺乏法律能力並不等同在《人權法》第5條的目的上缺乏「有效同意」。\n\n法院表示，部分在法律上無法就居住地點作出決定的人士，根據公約定義仍可給予同意——前提是他們具有足夠的認知能力理解其安排，並表達是否感到滿意。\n\n這項將適用於英格蘭、威爾斯、蘇格蘭及北愛爾蘭的裁決，訂明現時將採用多因素方法判定某人是否被剝奪自由。\n\n值得注意的是，當事人的個人意願及喜好將獲考慮；然而，除非他們明確表示反對，否則其居住安排不太可能被視為剝奪自由。\n\n裁決對負責提供護理的人士而言，可能構成挑戰，因為法院承認人們對護理安排的態度表達能力因個案而異。\n\n北愛爾蘭衞生大臣現已獲法律授權，修訂監管缺乏足夠精神能力人士護理安排的《剝奪自由保障》實務守則。\n\n簡言之，倡議團體指出裁決意味着法律現時會將更少人列為被剝奪自由，而落入該類別的人減少，自動獲得相關法律審查及保障的人士亦隨之減少。\n\n此舉或可舒緩《剝奪自由保障》制度的龐大壓力，惟倡議團體指出代價是收窄了受保障人士的範圍。\n\n他們警告，現時入住鎖上式或高度限制性護理環境的殘疾人士，可能更難獲得獨立監察或挑戰正在發生的事情。\n\n下一個重要問題是大臣們會否迅速作出回應。\n\n政府此前已表示計劃就以「自由保障」取代《剝奪自由保障》進行諮詢，倡議團體現時呼籲急需發出過渡指引，以避免混淆並保障受裁決影響的人士。\n\nMencap、Mind及全國自閉症協會在聯合聲明中表示，裁決可能令「虐待及疏忽在關門後更難被察覺」。\n\n\n裁決「令我們倒退數十年」\n\n裁決引起部分慈善機構的強烈關注。\n\n上述三個機構在聯合聲明中指出裁決「令我們倒退數十年」，並補充可能令「虐待及疏忽在關門後更難被察覺」。\n\n聲明稱：「法院取消了獨立審查、代言人，以及自動獲得法律援助的途徑，令許多最有需要的人無法獲得司法公正及支援的渠道已被關閉。」\n\n「過往一連串的不當行為案例表明，封閉文化、缺乏獨立監察及限制性護理如何導致虐待醜聞——而作出此類決定正好與我們從中汲取的所有教訓背道而馳。」\n\n各慈善機構呼籲英國政府緊急向醫療機構發出過渡指引，促請當局「盡快引入加強最受影響人士保障的新法律及指引」。\n\n「當中應包括清晰說明殘疾人士及其家人如何挑戰侵犯其權利的行為，並獲得所需的支持及代言人協助。」\n\n精神無行為能力意味着什麼？\n\n精神行為能力是指個人是否能夠作出自己的決定。\n\n涵蓋範圍可包括穿什麼衣服等瑣碎事項，以至入住護老院等重大決定。部分人士或能就某些事情作決定，但並非所有事情。\n\n判定某人精神無行為能力並非一個簡單的過程，但16歲及以上屬此類別的人士受《精神能力法2005》保障。\n\n該法旨在保障及賦權予可能缺乏精神行為能力為自身護理及治療作決定的人士。\n\n根據國民保健服務（NHS），人士的精神能力可隨時間及其病情和所需決定的內容而改變。\n\n\n北愛爾蘭\n殘疾\n英國最高法院\n北愛爾蘭衞生\n社會照顧"
     },
     {
-      "title": "熱愛大自然的殘疾女子「被鎖在門外」無緣心儀風景",
+      "title": "熱愛大自然的殘疾女子被「拒諸門外」無法進入心儀戶外空間",
       "url": "https://www.bbc.com/news/articles/c0r2w1d0yxeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-31T06:13:43.000Z",
-      "summary": "Bethany Handley 表示，是設計問題而非殘疾本身，令她這類人無法進入綠化空間。",
+      "summary": "貝莎妮·漢德利指出，問題出在環境設計而非殘疾本身，這些綠色空間對像她這樣的人根本難以進入。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -133,25 +152,25 @@
           "alt": "Bethany Handley Bethany on stage at Hay Festival. She wears a cream dress with a leaf pattern on it and a khaki short sleeved tie top. There is Hay Festival branding on the stage behind her. She is mid-speech looking at the audience to the right of the photo."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9581/live/0dce0990-5f38-11f1-b9e6-7bbc2b9cb9c1.png.webp",
-          "alt": "Lauren Price and Carlie Jones walking hand in hand in a field both laughing in white gowns"
+          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/41af/live/1fc33050-6003-11f1-932e-d972ba5bcb91.jpg.webp",
+          "alt": "Fire behind a fence at Tata Steel plant."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/3045/live/cf6002e0-5f59-11f1-8dad-8347ac6f73d8.jpg.webp",
-          "alt": "Man smiling at camera"
+          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/01d6/live/5df35f30-5f27-11f1-89a3-d1f559421220.jpg.webp",
+          "alt": "A woman sitting outside in front of a garden fence. She is looking at the camera with a serious expression.  The woman is wearing a grey cardigan and a red t-shirt."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/5038/live/74ee7a30-5f59-11f1-89a3-d1f559421220.jpg.webp",
-          "alt": "Joe, a man in a charcoal coloured denim shirt with a white tee underneath is stood next to Jess, a woman wearing black, tinted sunglasses and a chequered top. Joe has his hand around Jess; shoulders, and they stand on a street."
+          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c8bc/live/c0456680-6006-11f1-89a3-d1f559421220.png.webp",
+          "alt": "Rupert Williams standing in front of Queen Camilla. Rupert wears a white short sleeved shirt, a beige waistcoat and a black bow tie.  Queen Camilla wears a patterned green, blue and orange dress. The Queen holds his medal."
         }
       ],
-      "bodyZh": "熱愛大自然的殘疾女子「實際上被鎖在」心儀風景之外\n\n貝莎妮·漢德利（Bethany Handley）從會走路開始，就幾乎生活在戶外。\n\n她在蒙茅斯郡的郊區長大，經常弄得滿身泥濘，與弟弟在樹林裏玩耍好几个小時，築壩堵河、搭建窩棚。\n\n「我最早的記憶就是野得像個孩子。」\n\n這家人熱愛登山，攀登過糖塊山和斯基里德山；去海灘時會趴板衝浪，後來還學會了滑浪；在靠近家的地方，他們會划獨木舟順着懷河而下。\n\n但這樣的生活未能持續。\n\n多年來健康狀況不斷惡化，行動能力隨之下降。三年前，貝莎妮雙腿完全失去知覺。\n\n她致力於讓所有感到被自然世界排斥的人重新走進大自然，但她說：「我認為（與自然隔絕）比我本身的疾病更具殘疾感——回到家才發現，自己實際上被鎖在所有心儀的風景之外。」\n\n貝莎妮·漢德利\n\n貝莎妮在波斯考爾的斯ker海灘上騎着她的全地形三輪車。她最早的一些記憶就是在海灘上\n\n貝莎妮現年26歲，先天視力障礙使她在學校時難以參加球類運動及需要深度感知的一切活動。\n\n儘管她總是「笨手笨脚」，但在家裏的活躍生活方式幫助她克服了那種「不擅運動」的感覺。\n\n「總的來說，是一個田園牧歌式的童年。」\n\nGCSE考試開始時，她患上了傳染性單核細胞增多症，「一直沒有康復」。\n\n此後她陸續確診更多病症，包括16歲時患上的 endometriosis（，子宮內膜異位）。\n\n疲勞導致雙腿力量減退，並引發一種令她經常暈厥的病症，而根本原因至今成謎。\n\n儘管如此，她依然保持着與大自然的聯繫。離開學校後，她花了一段時間從事戶外活動教練工作，隨後進入聖安德魯斯大學深造。\n\n然而疾病迫使她輟學，最終轉到卡迪夫大學，以便獲得更多支援。\n\n她攻讀的課程中有創意寫作——這是她從小就熱愛的東西，「寫劇本、發號施令，指導弟弟演出」。\n\n她亦將青春期慢性病痛的經歷化為詩歌，直到獲得導師鼓勵後，才開始「將作品投向世界」。\n\n然而她的健康持續惡化。22歲那年，她登上了最後一座山峰——威爾士中部加德爾·伊德里斯的峰頂。\n\n那天晚上，她暈倒在廚房地板上。\n\n「當時我仍然能夠登山，只是事後需要大量休息。我仍然能野外游泳，只是要安排休息日。\n\n「情況突然急轉直下，我需要部分時間使用輪椅，因為我實在走不了多遠，而且不斷暈厥。\n\n我不斷腦震盪，情況愈來愈危險。」\n\n因為她有時仍能行走，不符合NHS輪椅的資格，於是她用學生贷款在eBay上買了一輛，但那輪椅是為嬌小女性設計的。\n\n「我身高6英尺，簡直像骑着兒童單車。」\n\n\n貝莎妮·漢德利\n\n貝莎妮多次長期住院，現時需以管道餵食\n\n室友推着她坐那輛「糟透了」的輪椅，遇上坑窪或不平地面時，她整個人會被甩出去。\n\n儘管如此，她漸漸愛上了它。\n\n「我一直聽到有人說，『若你用輪椅，就是放棄了』——這簡直荒謬，因為在那種情況下使用輪椅，反而是你所能做到最勇敢、最有魄力的事——继续生活、繼續出門。」\n\n經過一段調適期後，貝莎妮將輪椅視為自由的工具，大學最後一年她得以坐着輪椅去夜店，並走進卡迪夫的公園。\n\n但在她最後一次登山一年後，當時從事公關工作的她病情嚴重惡化，父母不得不緊急送她入院。在醫院裏，她發現自己雙腿失去知覺。\n\n\n經過漫長而虛弱的住院治療後，她成為全職輪椅使用者，既無法回到自己那間有台階的家，也找不到無障礙住房。\n\n她只好住在父母家的客廳，睡在沙發上，超過一年時間必須到附近休閒中心洗澡，因為她「根本沒有浴室可用」。\n\n貝莎妮·漢德利\n\n貝莎妮在書中探討身體殘疾與自然環境退化之間的類比關係\n\n被剝奪與大自然接觸的機會，幾乎更加令人難以承受。\n\n「我認為這比我本身的疾病更具殘疾感——回到家才發現，自己實際上被鎖在所有心儀的風景之外。\n\n「從我現在住的地方方圓一英里內有七個階梯門，這意味着七個我無法進入的地方。」\n\nNHS提供的輪椅太重，無法用來前往和穿越她想重返的地方，於是貝莎妮發起眾籌並申請慈善資助，購置了一輛輕量輪椅，這帶來了「天壤之別」。\n\n「現在我可以回到大多數我想去的地方了。」\n\n貝莎妮談到殘疾的社會模式——問題不在於個人的病況，而在於社會和物理環境令他們受阻。雖然城鎮中對障礙問題的討論已有所改善，但鄉郊地區的情況並非如此。\n\n「我們明白，若咖啡店門口有台階，入內可能有困難；但我認為我們對進入大自然的障礙討論得遠遠不夠。\n\n「障礙往往不是景觀本身。不是泥濘、草地或沙灘——如果你足够幸運擁有合適的裝備的話。真正構成障礙的是我們人為設置的。我們在設計上將人排斥在大自然之外。\n\n「我們在設置某種邊界時沒有考慮到會排除哪些人……上鎖的大門、階梯門，或者那些小得可憐的窄門，全都是本可不必存在的障礙。」\n\n\n貝莎妮·漢德利\n\n多年之後，貝莎妮重返黑山山脈之巔\n\n她已重返許多從前健全時熱愛的活動，包括划獨木舟和置身大海，只不過方式不同了。\n\n「我弟弟為我改裝了一塊滑浪板——他在板上加裝了把手，這樣我又可以衝浪了，我之前根本沒想過這是可能的。」\n\n\n一輛全地形輪椅讓她最近得以登上黑山的山脊。\n\n「感覺非常有抗爭意味，因為没有人預料到會在山脊上看到輪椅使用者——因為我們壓根沒有設計無障礙通道。」\n\n她借錢並建造了一間「小小的、無障礙的」房屋，紧邻父母之家，生活在一片她正在協助恢復自然生態的草地旁。\n\n貝莎妮·漢德利\n\n貝莎妮曾出版詩歌小冊並編輯過文選——她曾在波伊斯郡的海伊文學節上發表演說\n\n住院期間，貝莎妮曾覺得自己「再也無法接觸大自然了」。\n\n在證明自己錯了之後，她繼續前行，寫就了一本書，部分内容關於她的經歷，書名為《我的身體是一片草原》（My Body is a Meadow），旨在讓所有感到被自然世界排斥的人重獲自然。\n\n「我也想分享尋找快樂的重要性。我們對於悲傷與快樂可以並存這件事談得不夠，也對於自己正面對的障礙或歧視感到憤怒是完全可以接受的這點談得不夠。\n\n「我只是希望其他成長即為殘疾人士、或已獲取某種障礙的人能夠看到榜樣、聽到這些故事。\n\n「你可以再次進入那些風景。總會有地方歡迎你的身體和你的移動方式。我們享有大自然的權利，與非殘疾人士的權利同樣有效。」\n\n\n儘管她自身的健康繼續惡化——一次嚴重感染令她無法進食，必須依靠管道餵食——她仍然尋找「快樂」的事物，無論是在餵鳥器旁觀鳥，還是與摯愛的人相聚。她亦正筹划未來的寫作計劃。\n\n具有嘲諷意味的是，若非疾病，她可能永远不会成為作家。\n\n「我當時從事朝九晚五的工作。從某種意義上說，不得不從頭開始、重建自己的生活，以一種奇特的方式令我獲得了自由，並給了我勇氣和支持網絡，讓我能夠開始全職寫作。」"
+      "bodyZh": "熱愛大自然的殘障女子在摯愛的風景中「被鎖在外」\n\n貝沙尼·漢德利（BETHANY HANDLEY）\n\n貝沙尼·漢德利自從會走路以來，幾乎生活在野外。\n\n在蒙茅斯郡的鄉村長大，她經常弄得滿身泥濘，與弟弟在樹林裏玩耍，一玩就是幾個小時，築壩攔河、搭建巢穴。\n\n「我早期的記憶都是野孩子般的生活。」\n\n這家人是熱情的登山者，攀登過糖包山和斯基里德山等山峰；去海灘時會玩身體衝浪，後來還學了衝浪；而在家附近，他們則划著皮划艇沿懷伊河順流而下。\n\n但這一切未能持續。\n\n健康狀況多年惡化，活動能力逐漸下降，三年前，貝沙尼完全失去了雙腿的功能。\n\n雖然她決志為所有感到被拒於自然世界之外的人奪回這片天地，但她說：「我覺得這比我的病更令人殘障——回家後才發現，我簡直被鎖在所有我最愛的風景之外。」\n\n貝沙尼·漢德利\n\n貝沙尼在波斯考爾的斯基海灘騎著她的全地形三輪車。她最早的記憶中有關於海灘的片段\n\n現年26歲的貝沙尼天生有視力障礙，令她在學校時難以參與球類運動及任何需要深度知覺的活動。\n\n雖然一直「笨手笨腳」，但家中的活躍生活方式幫助她克服了不善運動的感覺。\n\n「總的來說，是在大自然中的田園童年。」\n\nGCSE考試開始時，她患上了傳染性單核細胞增多症，「再也沒有康復過來」。\n\n此後，她陸續確診更多疾病，包括16歲時的子宫内膜異位症。\n\n疲勞導致腿部力量減退，還患上了一種會頻繁暈倒的病症，而根本原因始終是個謎。\n\n儘管如此，她依然保持著與大自然聯繫的習慣，離開學校後花了段時間擔任戶外活動教練，隨後進入聖安德魯斯大學就讀。\n\n但疾病迫使她退學，最終轉到卡迪夫大學，以便獲得更多支援。\n\n她的課程有一部分是創意寫作——這是她從「寫劇本並且很霸道地導演、讓弟弟演出」的日子以來一直熱愛的事情。\n\n她也把青少年時期長期患病的經歷寫成詩歌，但直到獲得導師鼓勵後，她才開始「把作品寄到外面」。\n\n然而，她的健康持續惡化。22歲那年，她登上了最後一座山——威爾斯中部的卡德爾·伊德里斯的山峰。\n\n那天晚上，她倒在廚房地上。\n\n「當時我仍然能夠遠足，只是事後需要大量休息。我仍然能夠野外游泳，只是需要休息日。」\n\n「突然間情況惡化了很多，我不得不開始部分時間使用輪椅，因為我實在走不了多遠，而且一直暈倒。」\n\n「我頻繁地腦震盪。情況變得非常危險。」\n\n因為她有時仍能行走，不符合領取NHS輪椅的資格，於是她用學生贷款在eBay上买了一把輪椅，但那是一把為嬌小女性設計的。\n\n「我有6英尺高。簡直像騎兒童單車。」\n\n貝沙尼·漢德利\n\n貝沙尼曾多次長期住院，現在需要用管道餵食\n\n室友推著這把「糟透了」的輪椅，遇上坑洞或不平坦的地面時，她會被甩出去。\n\n儘管如此，她漸漸愛上了它。\n\n「我一直聽到有人說，『如果用輪椅，就是放棄了』——這實在荒謬。在那種情況下使用輪椅，反而是你能做的最勇敢、最有魄力的事情——繼續生活，繼續外出。」\n\n經過一段調適期後，她將輪椅視為自由的工具，貝沙尼得以在大學最後一年去蹦迪，並到卡迪夫的公園郊野。\n\n但在最後一次登山後一年，從事傳訊工作的她病情嚴重惡化，父母不得不緊急送她入院，她才發現自己感覺不到雙腿了。\n\n經過一段漫長而令人衰弱的住院期後，她成為全職輪椅使用者，既無法回到自己那有台階的家，也找不到無障礙的住處。\n\n她只能住在父母的客廳，在沙發上睡覺，連續一年多都要到附近的休閒中心洗澡，因為她「根本無法使用浴室」。\n\n貝沙尼·漢德利\n\n貝沙尼在书中探讨身体残疾与自然世界的衰败之间的相似之处\n\n被剝奪與大自然接觸的機會幾乎更令人難受。\n\n「我覺得這比我的病更令我殘障——回家後才發現，我簡直被鎖在所有我最愛的風景之外。」\n\n「從我現在住的地方方圓一英里內有七個階梯式柵門，那就是七個我無法進入的地方。」\n\n現在坐著NHS發放的輪椅，由於太重，無法到她想去的地方，貝沙尼於是通過眾籌和申請慈善資助，購得一把輕便輪椅，這帶來了「很大的改變」。\n\n「我现在可以回到大多数我想去的地方了。」\n\n貝沙尼談到殘疾的社會模式——阻礙人的不是個人的病患，而是社會和物理環境——雖然城鎮中關於障礙的討論已有所改善，但鄉郊的情況並非如此。\n\n「我們理解到，如果咖啡店門口有台階，可能會有困難，但我認為我們對於進入大自然的障礙討論得不夠多。」\n\n「障礙往往不是景觀本身。不是泥濘、草地或沙灘——如果你夠幸運擁有合適的裝備的話。問題出在我們人為設置的障礙。我們把人從大自然中設計掉了。」\n\n「我們在設置某種圍欄時，沒有想到我們正在排斥誰……上鎖的門、階梯式柵門，或那種小得可笑的窄門——這些都是根本不必存在的障礙。」\n\n貝沙尼·漢德利\n\n貝沙尼多年後重返黑山山脈之巔\n\n她重新參與了許多患病前熱愛的活動，包括划皮划艇和親近大海——只是以不同的方式。\n\n「我弟弟為我改裝了一塊衝浪板——他在板上加了手柄，這樣我又可以衝浪了，這是我從未想過可能的事。」\n\n一輛全地形輪椅令她最近得以登上黑山山脈的一道山脊。\n\n「感覺很有反抗意味，因為没有人预期会在山顶山脊上看到轮骑使用者，因为我们根本不考虑无障碍设计。」\n\n她借錢在父母家旁邊建造了一間「小小的無障礙」房屋，住在一片她正協助進行野化修復的草地旁邊。\n\n貝沙尼·漢德利\n\n貝沙尼——曾出版詩歌小冊子並編輯過一本文集——曾在波伊斯郡的海伊文學節上演講\n\n在住院期間，貝沙尼曾覺得「我再也无法接触大自然了」。\n\n在證明自己錯了之後，她繼續創作，寫成了一本部分關於自身經歷的書，題為《我的身體是一片草地》（My Body is a Meadow），講述為所有感到被拒於自然世界之外的人奪回這片天地。\n\n「我也希望分享尋找快樂的重要性。我們對於悲傷與快樂如何共存，以及對你所面對的障礙或歧視感到憤怒，這完全正常——這些討論遠遠不夠。」\n\n「我只是希望其他天生殘障或後天致殘的人能夠看到榜樣，聽到這些故事。」\n\n「你可以重新進入那些風景。會有地方歡迎你的身體和你移動的方式。我們進入自然的權利，與非殘障人士的權利同樣有效。」\n\n雖然她自己的健康狀況持續惡化——一次嚴重感染令她無法進食，只能靠管道餵食——但她仍然尋找「快樂」的事物，無論是在餵鳥器上觀鳥，還是與親友相聚，並計劃未來的寫作項目。\n\n具有諷刺意味的是，如果不是因為患病，她可能永遠不會成為作家。\n\n「我当时在从事朝九晚五的工作。而在某种程度上，不得不重新开始、重新建立我的生活，以一种奇怪的方式令我獲得了自由，並给了我和支持网络勇气，让我能够開始全職寫作。」"
     },
     {
-      "title": "肖：殘奧運動「意義重大」——肖",
+      "title": "共和聯邦運動會對殘疾運動「意義深遠」——蕭",
       "url": "https://www.bbc.com/sport/swimming/articles/c5y70d6l5qlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-29T13:47:42.000Z",
-      "summary": "蘇格蘭泳將 Toni Shaw 相信，今年夏天於格拉斯哥舉行的共和聯邦運動會對殘奧運動界將「極為重要」。",
+      "summary": "蘇格蘭泳手托尼·蕭相信今年夏天在格拉斯哥舉行的共和聯邦運動會對殘疾運動社群而言將「極為關鍵」。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -160,28 +179,28 @@
           "alt": "Toni Shaw"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npx6qm.jpg",
-          "alt": "Sabalenka post match French Open"
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0nq17j4.jpg",
+          "alt": "World Cup water bottle ban"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwzpp.jpg",
-          "alt": "Rainbows and water jets"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9785/live/68046450-6004-11f1-b682-cf91850925ea.jpg",
+          "alt": "Flavio Cobolli celebrating his French Open win by putting his fingers in his ears. He is wearing a white headband and a purple shirt."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npx6qm.jpg",
+          "alt": "Sabalenka post match French Open"
         },
         {
           "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwk58.jpg",
           "alt": "Ben Stokes with a black eye"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwkmd.jpg",
-          "alt": "Mark McCall"
-        },
-        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/abcd/live/e1b909b0-5f62-11f1-8b8c-6d33e1d5abb6.jpg",
           "alt": "Curacao world cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8db8/live/201b7f00-5f3e-11f1-b682-cf91850925ea.jpg",
-          "alt": "Jakub Mensik cramps up in presser"
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwzpp.jpg",
+          "alt": "Rainbows and water jets"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/57c2/live/2496e740-5f39-11f1-89a3-d1f559421220.jpg",
@@ -192,17 +211,17 @@
           "alt": "Harry Kane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/aac0/live/93885b60-5eb3-11f1-b682-cf91850925ea.jpg",
-          "alt": "Thomas Tuchel"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f68c/live/eb94ff50-5f32-11f1-8b8c-6d33e1d5abb6.jpg",
+          "alt": "Jeremiah Azu"
         }
       ],
-      "bodyZh": "**Toni Shaw：蘇格蘭泳手認為共和聯邦運動會對殘奧運動「意義重大」— BBC Sport**\n\n湯尼·肖即使飽受背傷困擾，仍成功入選蘇格蘭隊。\n\n蘇格蘭泳手 Toni Shaw 相信，今年夏天於格拉斯哥舉行的共和聯邦運動會，對殘奧運動界而言將「意義非凡」。\n\n雖然整體賽事有所縮減，但這將是共和聯邦運動會史上規模最大的殘奧運動整合項目。\n\n殘奧項目將有破紀錄的 47 個獎牌項目，分別在 10 個運動項目中的 6 個進行角逐。\n\n「這些年來進步巨大，」Shaw 表示。她在 2020 年殘奧會的泳池中贏得銅牌。「我認為這將產生連鎖反應，影響各地，而不僅限於蘇格蘭。\n\n「殘奧運動社群將因這些媒體報道而大幅成長，實在令人難以置信。」\n\n現年 22 歲的 Shaw 回想起在格拉斯哥觀看 2014 年共和聯邦運動會的情景。\n\n「當時我在觀眾席上，那段經歷啟發了我，」她補充道。「所以希望其他殘疾人士看到殘奧運動參與度提升後，也會受到鼓舞，投身運動。\n\n「這是少數將健全運動與殘奧運動同場舉辦的賽事之一，因此增加媒體報道及相關宣傳，我覺得真的太棒了。」\n\n2014 年坐在 Tollcross 泳館觀眾席上的經歷，幫助當時年僅 10 歲的 Shaw 確信「這真的很酷，我想做這件事」。\n\n這位亞伯丁人坦言，如今以參賽者身份回到那裡，是「夢想成真的時刻」。\n\n在正常情況下，她本應是蘇格蘭隊的獎牌大熱人選。\n\n除了那枚殘奧銅牌，Shaw 還擁有其他各大賽事的獎牌，包括三枚世锦赛金牌、兩枚歐錦賽金牌，以及一枚共和聯邦運動會銅牌——那是四年前在伯明翰贏得的。\n\n然而，她表示背部傷患意味著今屆「很難實現站上最高領獎台的夢想」。\n\n「老實說，這段時間很艱難，」Shaw 補充道。「2024 年我受了背傷，注射了類固醇，也接受了一些治療，現在情況好多了，但就是無法恢復到受傷前的成績。\n\n「確實相當困難，但入選代表隊是我的主要目標，能夠做到這點，我感到非常自豪，也十分期待今個夏天。\n\n「我只希望能全力以赴。」"
+      "bodyZh": "譯者：Tyrone Smith，BBC Sport蘇格蘭資深記者\n\n蘇格蘭泳手東尼·肖認為，今年夏天在格拉斯哥舉行的共和聯邦運動會，對殘疾運動界而言將「絕對意義非凡」。\n\n雖然整體賽事有所縮減，但本屆將成為共和聯聯邦運動會史上規模最大的殘疾運動整合項目。\n\n共六個運動項目設有創紀錄的四十七個殘疾人奧林匹克項目的獎牌賽事。\n\n肖在2020年殘奧會泳池項目摘下銅牌，她表示：「這一路走來進步太大了。我認為這會在各處產生連鎖效應，不僅在蘇格蘭。\n\n「殘疾運動界將因這些報道而大幅成長，我覺得這實在令人難以置信。」\n\n現年二十二歲的肖回憶起二〇一四年在格拉斯哥觀看共和聯邦運動會的經歷。\n\n「我當時坐在觀眾席上，這激勵了我，」她補充道，「所以希望其他人——如果他們有殘疾——看到殘疾運動參與度提升，或許會因此受到啟發，開始從事一項運動。\n\n「這是少數將健全運動與殘疾運動並排進行的比賽之一，因此報道覆蓋範圍的增加以及相關的一切，我覺得真的太棒了。」\n\n二〇一四年身在托爾克羅斯泳館觀眾席的經歷，令當時十歲的肖確信「這真的很酷，我想做這個」。\n\n這位阿伯丁人坦言，如今以參賽者身份重返該地，「是夢想成真的時刻」。\n\n在正常情況下，她將是蘇格蘭代表隊的獎牌大熱人選之一。\n\n除了那枚殘奧會銅牌外，肖手上還握有大量大賽獎牌，包括三個世界冠軍、兩個歐洲冠軍，以及四年前在伯明翰奪得的共和聯邦運動會銅牌。\n\n然而，她透露背部傷患意味著今次「真的很難實現」登上頒獎台最高位置的夢想。\n\n「說實話，這段時間很艱難，」肖補充道，「二〇二四年我受了背傷，注射了類固醇，也接受了治療，康復情況好了很多，但可惜未能恢復到受傷前的水準。\n\n「相當艱難，但入選代表隊是我的主要目標，能夠做到這一點，我感到非常自豪，也十分期待今個夏天。\n\n「我只想傾盡全力。」"
     },
     {
-      "title": "Nowacki 帶領澤西島征戰 2026 年共和聯邦運動會",
+      "title": "諾沃斯基領軍澤西島2026年大英國協運動會代表隊",
       "url": "https://www.bbc.com/sport/articles/clyprd9v76zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-29T07:24:27.000Z",
-      "summary": "世界青少年蛙泳冠軍 Filip Nowacki 率領 21 人組成的澤西島代表團，出征 2026 年格拉斯哥共和聯邦運動會。",
+      "summary": "世界青少年蛙泳冠軍菲利普·諾沃斯基將率領一支21人的澤西島代表隊，征戰在格拉斯哥舉行的2026年大英國協運動會。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -215,28 +234,28 @@
           "alt": "Steve Mackay anchors Jersey to gold in the 4x100m relay at the 2025 Island Games in Orkney"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npx6qm.jpg",
-          "alt": "Sabalenka post match French Open"
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0nq17j4.jpg",
+          "alt": "World Cup water bottle ban"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwzpp.jpg",
-          "alt": "Rainbows and water jets"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9785/live/68046450-6004-11f1-b682-cf91850925ea.jpg",
+          "alt": "Flavio Cobolli celebrating his French Open win by putting his fingers in his ears. He is wearing a white headband and a purple shirt."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npx6qm.jpg",
+          "alt": "Sabalenka post match French Open"
         },
         {
           "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwk58.jpg",
           "alt": "Ben Stokes with a black eye"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwkmd.jpg",
-          "alt": "Mark McCall"
-        },
-        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/abcd/live/e1b909b0-5f62-11f1-8b8c-6d33e1d5abb6.jpg",
           "alt": "Curacao world cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8db8/live/201b7f00-5f3e-11f1-b682-cf91850925ea.jpg",
-          "alt": "Jakub Mensik cramps up in presser"
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwzpp.jpg",
+          "alt": "Rainbows and water jets"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/57c2/live/2496e740-5f39-11f1-89a3-d1f559421220.jpg",
@@ -247,13 +266,13 @@
           "alt": "Harry Kane"
         }
       ],
-      "bodyZh": "2026年共和聯邦運動會：菲臘·諾瓦基率澤西島代表隊出戰\\n\\n世界青少年蛙泳冠軍菲臘·諾瓦基（Filip Nowacki）將率領澤西島21人代表隊，出戰2026年格拉斯哥共和聯邦運動會。\\n\\n18歲的諾瓦基今年稍早已奪得英國200米蛙泳冠軍，此前亦曾贏得100米及200米全球青少年冠軍頭銜，是次運動會的目標是成為澤西島自1990年以來首位獎牌得主。本月，這位隸屬英國代表隊的泳手成為首位在四種泳式的100米項目均突破一分鐘大關的英國泳將。\\n\\n澤西島自哥連·馬利特（Colin Mallett）36年前在奧克蘭贏得全口徑步槍射擊金牌，並與父親克里夫搭檔奪得雙人銅牌以來，便再也未曾踏上共和聯邦運動會的頒獎台。諾瓦基隸屬九人泳隊，島上男子首次取得4×100米混合泳接力參賽資格。\\n\\n澤西島派出歷來規模最大的五人田徑隊參賽。居於新西蘭的澤西島出生短跑運動員扎克·桑德斯（Zach Saunders）將出戰第二屆共和聯邦運動會，與島上100米紀錄保持者史蒂夫·馬凱（Steve Mackay）及占美·奧爾德姆（Jamie Oldham）並肩，令澤西島首次同時擁有三名短跑選手。\\n\\n伊雲·坎貝爾及露西·伍德沃德將分別出戰十項全能及七項全能，成為島上首批參與綜合運動會該項目的運動員。史蒂文·拉貝特（Steven Rabet）是自1990年查伊·派克以來首位代表澤西島的柔道運動員。這位透過澤西島出生祖父母取得資格的蘇格蘭人，上月於立陶宛舉行的歐洲青年盃66公斤以下級別賽事亮相，目前在英國20歲以下組別排名第四。\\n\\n保齡球運動員馬爾科姆·德索薩（Malcolm de Sousa）將第五度代表澤西島出戰共和聯邦運動會，2010年德里是他首次為澤西島披甲。\\n\\n格拉斯哥運動會將於7月23日至8月2日舉行。代表團團長讓·克羅斯（Jean Cross）向BBC廣播電台澤西島分台表示：「對大部分項目而言，這是他們在澤西島旗幟下所能參加的最高級別賽事。我們並非奧運國家，因此運動員日後會獲英國代表隊吸納，故此這是他們為澤西島出戰的最高水平賽事。這是運動員非常認真看待並嚮往的目標。」"
+      "bodyZh": "2026聯邦運動會：菲臘·諾瓦基帶領澤西代表隊 - BBC Sport\n\n世界青少年蛙泳冠軍菲臘·諾瓦基（Filip Nowacki）帶領一支21人的澤西代表隊，征戰2026年格拉斯哥聯邦運動會。\n\n現年18歲的諾瓦基今年較早時奪得英國200米蛙泳冠軍此前已擁有100米及200米世界青少年冠軍頭銜，正力爭成為澤西自1990年以來的首位獎牌得主。\n\n本月，這位隸屬英國隊的泳手成為首位在四種泳姿的100米項目均突破一分鐘大關的英國泳手。\n\n澤西自1990年在奧克蘭贏得全威力射擊金牌、並與父親克里夫合作奪得雙人銅牌以來，便再也沒有在聯邦運動會上染指獎牌。\n\n諾瓦基入選九人游泳隊，澤西男子泳隊更首次晉級4×100米混合接力。\n\n澤西五人的田徑隊是該島有史以來最大規模的聯邦運動會代表團。\n\n澤西出生、居於新西蘭的短跑健將扎克·桑德斯出戰第二屆聯邦運動會，聯同島上100米紀錄保持者史蒂夫·馬凱及謝美·奧爾德漢姆，令澤西首次派出三名短跑選手。\n\n同時，伊雲·甘迺迪及露西·伍德沃德將成為首批代表該島出戰十項全能及七項全能的運動員。\n\n史蒂文·拉比特的祖父出生於澤西，使其成為自1990年查伊·派克以來首位代表澤西出賽的柔道選手。他上月在立陶宛舉行的歐洲青年盃66公斤級賽事中角逐，目前在英國20歲以下組別排名第四。\n\n保齡球手馬爾科姆·德·索薩將第五度代表該島出戰聯邦運動會，其澤西首秀於2010年新德里舉行。\n\n格拉斯哥運動會定於7月23日至8月2日舉行。「對大多數運動項目而言，這是他們在澤西旗下所能參加的最高級別賽事。」代表團團長尚·克羅斯向BBC Radio Jersey表示。「我們並非奧林匹克國家，因此運動員其後會被納入英國團隊，這是他們能為澤西參加的最高水平賽事。這是我們的運動員非常重視並嚮往的事。」\n\n澤西代表隊：\n\n田徑：伊雲·甘迺迪、史蒂夫·馬凱、謝美·奧爾德漢姆、扎克·桑德斯、露西·伍德沃德\n\n保齡球：菲奧娜·阿奇博爾德、莎拉·道格拉斯、阿比·安德烈ux、馬爾科姆·德·索薩、羅斯·戴維斯、泰勒·格里奇安\n\n柔道：史蒂文·拉比特\n\n游泳：馬修·德法因斯、艾薩克·道ods、奧斯卡·道ods、梅根·漢斯福德、菲臘·諾瓦基、漢娜·斯特里、山姆·斯特里、艾薩克·湯普森、克拉拉·金尼斯"
     },
     {
-      "title": "Nowacki四式皆破一分鐘大關",
+      "title": "諾沃斯基成為首位於四式均突破一分鐘大关的英國泳手",
       "url": "https://www.bbc.com/sport/swimming/articles/cwy20pqq7j2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-27T08:17:33.000Z",
-      "summary": "Filip Nowacki成為首位在四式游泳中皆打破一分鐘門檻的英國泳手。",
+      "summary": "菲利普·諾沃斯基成為首位在四式均突破一分鐘大关的英國泳手。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -262,28 +281,28 @@
           "alt": "Filip Nowacki"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npx6qm.jpg",
-          "alt": "Sabalenka post match French Open"
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0nq17j4.jpg",
+          "alt": "World Cup water bottle ban"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwzpp.jpg",
-          "alt": "Rainbows and water jets"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9785/live/68046450-6004-11f1-b682-cf91850925ea.jpg",
+          "alt": "Flavio Cobolli celebrating his French Open win by putting his fingers in his ears. He is wearing a white headband and a purple shirt."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npx6qm.jpg",
+          "alt": "Sabalenka post match French Open"
         },
         {
           "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwk58.jpg",
           "alt": "Ben Stokes with a black eye"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwkmd.jpg",
-          "alt": "Mark McCall"
-        },
-        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/abcd/live/e1b909b0-5f62-11f1-8b8c-6d33e1d5abb6.jpg",
           "alt": "Curacao world cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8db8/live/201b7f00-5f3e-11f1-b682-cf91850925ea.jpg",
-          "alt": "Jakub Mensik cramps up in presser"
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwzpp.jpg",
+          "alt": "Rainbows and water jets"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/57c2/live/2496e740-5f39-11f1-89a3-d1f559421220.jpg",
@@ -294,17 +313,17 @@
           "alt": "Harry Kane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/aac0/live/93885b60-5eb3-11f1-b682-cf91850925ea.jpg",
-          "alt": "Thomas Tuchel"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f68c/live/eb94ff50-5f32-11f1-8b8c-6d33e1d5abb6.jpg",
+          "alt": "Jeremiah Azu"
         }
       ],
-      "bodyZh": "Filip Nowacki 成為首位在四種泳式中均突破一分鐘大關的英國泳手。\n\n這位十八歲的世青賽100米及200米蛙泳冠軍，在倫敦舉行的AP Race London International賽事中，以58.90秒創下100米仰泳個人最佳成績。\n\nNowacki 同時是英國200米蛙泳成年組冠軍，並在今年較早時的50米及100米賽事中不敵奧運金牌得主Adam Peaty，屈居亞軍——他在預賽中游出低於60秒的仰泳成績，最終排名第29。\n\n他此前已於100米自由泳游出54.51秒、100米蝶泳游出57.31秒，並在去年夏天奪得世青賽100米蛙泳冠軍時創下59.20秒的個人最佳。\n\nNowacki——澤西島自1990年以來首面英聯邦運動會獎牌的最大希望——亦保持200米蛙泳歐洲青年紀錄，並入選英國代表隊備戰2028年洛杉磯奧運會的計劃。"
+      "bodyZh": "Filip Nowacki 成為首位在一百米四式均突破六十秒大關的英國泳手\n\n年僅十八歲的Nowacki為一百米及二百米蛙式世界青少年冠軍，他在AP Race倫敦國際賽的一百米背泳中游出五十八秒九十的個人最佳成績。\n\nNowacki同時是英國二百米蛙式成年組冠軍，並於今年較早前在五十米及一百米項目中不敌奥运金牌得主Adam Peaty，屈居亞軍。他今次在預賽中游進六十秒以內，最終排名第29。\n\n他此前已在一百米自由式造出五十四秒五十一、一百米蝶式游出五十七秒三十一，並在去年夏天奪得一百米蛙式世界青少年冠軍時寫下五十九秒二十的个人最佳。\n\n作為澤西島自1990年以來最有望贏得首面共和國運動會獎牌的希望，Nowacki亦保持二百米蛙式歐洲青少年紀錄，並入選英國隊備戰2028年洛杉磯奧運會的計劃。"
     },
     {
-      "title": "爭議Enhanced Games創50米自由式世界紀錄",
+      "title": "爭議性增強運動會上打破50米自由式世界紀錄",
       "url": "https://www.bbc.com/sport/articles/cx211xyd298o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-25T07:49:56.000Z",
-      "summary": "希臘泳手Kristian Gkolomeev在拉斯維加斯舉行、備受爭議的Enhanced Games中於泳池創下世界紀錄。",
+      "summary": "希臘泳手克里斯蒂安·格科洛梅夫在爭議激烈的增強運動會上，於拉斯維加斯的泳池中打破世界紀錄。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -321,41 +340,41 @@
           "alt": "Ben Proud"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npx6qm.jpg",
-          "alt": "Sabalenka post match French Open"
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0nq17j4.jpg",
+          "alt": "World Cup water bottle ban"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwzpp.jpg",
-          "alt": "Rainbows and water jets"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9785/live/68046450-6004-11f1-b682-cf91850925ea.jpg",
+          "alt": "Flavio Cobolli celebrating his French Open win by putting his fingers in his ears. He is wearing a white headband and a purple shirt."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npx6qm.jpg",
+          "alt": "Sabalenka post match French Open"
         },
         {
           "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwk58.jpg",
           "alt": "Ben Stokes with a black eye"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwkmd.jpg",
-          "alt": "Mark McCall"
-        },
-        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/abcd/live/e1b909b0-5f62-11f1-8b8c-6d33e1d5abb6.jpg",
           "alt": "Curacao world cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8db8/live/201b7f00-5f3e-11f1-b682-cf91850925ea.jpg",
-          "alt": "Jakub Mensik cramps up in presser"
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0npwzpp.jpg",
+          "alt": "Rainbows and water jets"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/57c2/live/2496e740-5f39-11f1-89a3-d1f559421220.jpg",
           "alt": "Sir Geoff Hurst"
         }
       ],
-      "bodyZh": "希腊的克里斯蒂安·格科洛米耶夫在拉斯维加斯举行的首届增强运动会开幕日游出20.81秒的50米自由泳成绩，刷新了世界纪录，但该成绩不会获得官方认可。\n\n32岁的格科洛米耶夫击败了澳大利亚选手卡梅伦·麦克沃伊在3月创下的20.88秒原纪录。然而，由于运动员可服用被禁用的增补剂，首届增强运动会的成绩被国际奥委会（IOC）和世界反兴奋剂机构（Wada）等全球体育管理机构认定为不合法。\n\n比赛设有田径、举重和游泳项目。格科洛米耶夫穿着聚氨酯泳衣游出该成绩——这款泳衣在官方赛事中被禁用。世界泳联（World Aquantics）谴责该赛事是「建立在捷径上的马戏团」。格科洛米耶夫获得赛事主办方25万美元（约14.8万英镑）冠军奖金，以及100万美元（约74.1万英镑）破纪录奖金。\n\n格科洛米耶夫说：「我想说这成绩一点也不差。这将美好地改变我的生活，毫无疑问。对我和家人都是很大的帮助。是的，我明年会继续参赛。也许我会再次刷新纪录。」\n\n42名参赛运动员中，大部分使用了增补剂。主办方表示「有13名运动员刷新个人最佳成绩」。\n\n赛事仅向约2500名受邀观众开放，普通公众无法购票入场。\n\n在田径场上，美国前世界冠军弗雷德·克尔利以9.97秒赢得男子100米——未达其个人最佳的9.76秒。他是选择「干净」参赛的运动员之一。\n\n英国游泳选手本·普劳德在2024年巴黎奥运会男子50米自由泳获银牌，他在50米蝶泳中以22.32秒夺冠。该成绩距安德里·戈沃罗夫保持的22.27秒世界纪录差0.05秒，但快于其个人兼英国纪录的22.74秒。普劳德表示：「我们都知道自己来此的目的，那就是破世界纪录。差那么一点点就成功了，真的很沮丧。」\n\n另一位英国奥运游泳选手艾米丽·巴克莱以24.09秒赢得女子50米自由泳，落后世界纪录约半秒。\n\n在《权力的游戏》中饰演「魔山」的举重选手哈夫索尔·「雷神」·比约恩松亦参与赛事，但未能打破自己510公斤硬拉纪录。\n\n增强运动会允许使用的药物须经美国食品药品监督管理局（FDA）批准和认定，包括睾丸酮、生长激素、肽类、合成代谢类固醇及其他体育禁用物质。赛事主办方认为，增补在精英体育中已然存在，只是秘密进行且缺乏透明度，将其公开化并加以监测反而更安全。\n\n然而，众多体育管理机构公开谴责参赛运动员，部分机构已对参赛者实施禁赛。国际奥委会和世界反兴奋剂机构将增强运动会定性为「不道德」和「危险且不负责任的概念」。世界田径联合会主席科伊勋爵更直言参与者「愚蠢至极」。\n\n该项目由企业家阿隆·德索萨和马克西米利安·马丁于2023年创立，获得了包括亿万富翁彼得·蒂尔和唐纳德·特朗普 Jr. 在内的知名投资者支持。马丁曾预测运动员将在赛事中刷新「不少」世界纪录。"
+      "bodyZh": "希臘的基里斯坦·格科洛梅夫（Kristian Gkolomeev）在拉斯維加斯充滿爭議的「增強運動會」（Enhanced Games）首日，成為唯一打破世界紀錄的運動員。\n\n這位三十二歲選手在男子五十米自由式游出二十點八一秒，打破了澳洲 Cameron McEvoy 三月創下的二十點八八秒紀錄。然而，格科洛梅夫的成績不會獲官方機構認可。\n\n首屆增強運動會的比賽成績，被國際奧委會（IOC）及世界反興奮劑機構（Wada）等全球體育組織視為非法，因為運動員可以服用被禁用的增強表現藥物。\n\n今次比賽設有田徑、舉重及游泳項目，格科洛梅夫身穿聚氨酯泳衣創下紀錄，而這種泳衣在正規比賽中被禁用。\n\n世界水上運動聯盟（World Aquatics）譴責這項賽事是「建立在捷徑之上的馬戲表演」。格科洛梅ev 獲得增強運動會主辦方獎賞二十五千美元（十四點八萬英鎊）冠軍獎金，以及一百萬美元（七十四點一萬英鎊）的非官方紀錄獎金。\n\n格科洛梅夫說：「我會說這成績一點也不差。這將會改變我的人生，肯定會向好的方向。」\n\n他又說：「這對我和家人是很大幫助。是的，我會繼續參加明年比賽。或許我會再次打破紀錄。」\n\n四十二名參賽運動員中，大部分使用了增強表現的物質。主辦方表示，「十三名運動員創下個人最佳成績」。\n\n比賽在經過篩選、約二千五百人的觀眾面前進行，門票不公開發售。\n\n在田徑賽場上，美國前世界冠軍弗雷德·科利（Fred Kerley）——是少數「乾淨」參賽的運動員之一——以九點九七秒赢得男子一百米，但未能突破他九點七六秒的個人最佳成績。\n\n英國游泳運動員本·普勞德（Ben Proud），在二〇二四年巴黎奧運會獲得男子五十米自由式銀牌，今次在五十米蝶式奪冠，游出二十二點三二秒。該成績距離安德里·戈沃羅夫（Andrii Govorov）的世界紀錄只差零點零五秒，同時快過他二十二點七四秒的個人最佳及英國紀錄。\n\n普勞德說：「我們都知道自己來這裏的目的，就是要打破世界紀錄。所以只差那麼一點點，真的令人懊惱。」\n\n另一位英國奧運游泳運動員埃米莉·巴克莱（Emily Barclay），以二十四點零九秒奪得女子五十米自由式冠軍，比世界紀錄慢約半秒。\n\n在電視劇《權力遊戲》（Game of Thrones）中飾演「魔山」的舉重運動員哈夫索爾綽號「索爾」（Hafthor 'Thor' Bjornsson）亦有參賽，但未能打破他五百一十公斤的硬拉紀錄。\n\n增強運動會使用的藥物須獲美國食品及藥物管理局（FDA）批准及合法。當中包括睪酮、生長激素、肽類、合成代謝類固醇及其他在體育界被禁的物質。\n\n賽事創辦人認為，精英體育中早已存在增強手段，只是秘密進行、缺乏透明度。他們聲稱將之公開並可受監察，會使其更為安全。\n\n然而，眾多體育管理機構公開譴責參加比賽的運動員，部分機構已禁止運動員參賽。\n\n國際奧委會及世界反興奮劑機構形容增強運動會「不道德」及「危險且不負責任的概念」。世界田徑聯合會主席科伊勳爵（Lord Coe）更表示，任何參加的人都是「白癡」。\n\n這個項目由企業家阿龍·德索扎（Aron D'Souza）及馬西米連·馬丁（Maximilian Martin）於二〇二三年創辦，吸引了包括億萬富豪彼得·蒂爾（Peter Thiel）及特朗普之子（Donald Trump Jr.）等知名投資者的支持。\n\n馬丁曾預測運動員將在比賽中打破「相當多」世界紀錄。"
     },
     {
-      "title": "殘疾男子在醫院病床上備受忽視——即使已康復可出院",
+      "title": "殘疾男子稱在醫院病房「逐漸衰敗」——雖已康復可出院",
       "url": "https://www.bbc.com/news/articles/c2e2zvlyy38o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-19T16:08:22.000Z",
-      "summary": "Ravi Mehta表示若他自動出院，其護理服務可能會被終止。國民保健署護理委員會指其決定並非由成本所驅動。",
+      "summary": "拉維·梅塔表示若自行出院，護理可能被終止。隸屬NHS的護理委員會表示，其決定並非以成本為驅動因素。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -384,29 +403,29 @@
           "alt": "Your Voice banner image. Your Voice is written in white against a purple background."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/63b5/live/654b69a0-5f66-11f1-8dad-8347ac6f73d8.jpg.webp",
-          "alt": "A general view of the Royal Hampshire County Hospital in Winchester."
+          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/01d6/live/5df35f30-5f27-11f1-89a3-d1f559421220.jpg.webp",
+          "alt": "A woman sitting outside in front of a garden fence. She is looking at the camera with a serious expression.  The woman is wearing a grey cardigan and a red t-shirt."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b2fa/live/756461f0-5f63-11f1-8dad-8347ac6f73d8.png.webp",
-          "alt": "The exterior of the University Hospital of North Tees. The brick building has signs on it that read: &quot;Urgent &amp; Emergency Care&quot;. There is an ambulance parked out front and a paramedic pushing a wheelchair."
+          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1dae/live/e06816f0-5f26-11f1-9da4-8b99067aa239.jpg.webp",
+          "alt": "This is a graphic illustration of what the new hospital in Airedale could look like.  There is a large building in the middle of a field in a picture that almost looks like a water colour."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/63bf/live/b6128f70-5f53-11f1-b658-099eb92ce9d6.png.webp",
-          "alt": "A sign saying St Peter&#x27;s Hospital in black writing, with a red block underneath with white text saying accident and emergency  department. Behind is a brock building."
+          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/cbeb/live/07948be0-5f64-11f1-8dad-8347ac6f73d8.jpg.webp",
+          "alt": "Chris Emmerson is standing in a dental practice.  There are white walls behind him. He is wearing a navy top and glasses."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2d09/live/726df070-5ec2-11f1-b588-45cc931ea6f1.jpg.webp",
-          "alt": "A silhouette of the back of a man sitting on the edge of a bed looking out of a window."
+          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1d51/live/8653a350-5fdf-11f1-a292-23ac7fbac375.jpg.webp",
+          "alt": "A mother rests in a hospital bed while gently holding her newborn baby. The atmosphere is calm and comforting, showcasing their bond in a serene medical environment."
         }
       ],
-      "bodyZh": "殘疾男子在醫院病房中「腐爛」——即使已被告知適合出院\n\n2026年5月19日\n\n分享\n\n儲存\n\n在 Google 加入摯愛\n\n作者：Erica Witherington（殘疾事務記者）及 Nikki Fox（殘疾事務特派員）\n\n36歲的 Ravi Mehta 說，如果被轉移到護理院，他的「生命將就此終結」\n\n一名殘疾男子表示，自當地 NHS 綜合護理委員會終止了他的24小時家居支援後，他已在醫院裏「腐爛度日」達八個月之久。\n\n患有生命限制性殘疾的 Mehta，於2025年9月因例行調整呼吸機設定而入院。\n\n他原定三天後回家——但數月過去，他仍被困在醫院病房。\n\n這位36歲、患有杜興氏肌肉營養不良症的男子說，他從「一開始」就被告知醫學上適合出院。然而，他從當地 NHS 綜合護理委員會（ICB）獲得的資助——用於支付他家居所需護理人員的預算——現已終止。\n\nMehta 需要全天候兩名醫療助理照顧，他說每一個不必要的住院日子，都令寶貴時間「流逝」。\n\n「我的生活基本上已停滯」\n\n他此前持有一份個人健康預算（PHB）——這是 NHS 提供的資助，旨在讓人士更靈活地建立所需支援以生活。但該預算已被 ICB 終止，ICB 負責規劃及資助當地健康服務。\n\nMehta 認為他的護理委員會希望他接受一個比他所需更便宜或更具限制性的護理模式。\n\n他告訴 BBC，現時正被 NHS「施壓」入住護理院，而非回到他的家居——那裡他有工作、去看足球比賽、見朋友。\n\nMehta 說，他在護理院獲得的支援會令他的生活受到更多限制。\n\n「我覺得他們把我看成一個需要過多護理和支援的人——超過他們願意給予的程度。」\n\nNHS South East London ICB 表示，他們「強烈反駁任何暗示此案決定受成本驅使的說法」。\n\nBBC 已看到致 Mehta 的信件，內容顯示若他不接受護理院安排，可能需支付每日住院費用。\n\n若他自行出院，他說曾被告知所有護理將被終止。\n\n「我被困在兩難之間，」Mehta 說。「有時刻我真的害怕自己再也無法離開。」\n\nNHS South East London ICB 在被 BBC 接觸時，並未回應這些具體指控。\n\nBBC 獲悉其他殘疾人士亦表示同樣被「困在」醫院，因為就其 NHS 資助的院外護理安排爭議已持續數月。\n\n倡議人士及病人相信，護理委員會正愈來愈嚴格審視 Mehta 等人的複雜護理套餐，以節省成本。\n\n這意味着他及其他人，正被推向更傳統、規避風險的選項，例如代理護理或護理院，複雜護理專家表示。\n\n雖然 Mehta 所屬 ICB 否認其決定受成本驅使，但 BBC 所見的一封致 Mehta 代表人的信件中，NHS South East London 的律師引用「成本效益」作為在「某些情況下」可能拒絕家居護理套餐的理由。\n\n一位前 NHS 領導人 Frances Tippett 說，對於需要最高程度支援的部分殘疾人士而言，「感覺時光正在倒退」——遠離與當事人共同規劃的支援，朝向更具限制性的護理類型。\n\nMehta 自2025年9月起已適合成人出院\n\n入院前，Mehta 是一名商管系畢業生，在一家慈善機構兼職工作，支援其他杜興氏患者。\n\n現在他說自己感覺像在醫院病房裏「無故腐爛」。\n\n他說住院期間身體狀況惡化了，變得更虛弱、更依賴呼吸機，操控輪椅也更吃力。\n\n精神上，他說感到孤單、焦慮和抑鬱。\n\n「不是在生活，而是在醫院困着，我的生活基本上已停滯了。」\n\nMehta 說，他被困在與 NHS South East London ICB 就支援類型及預算的爭議中，而他需要這些才能安全回家。\n\n「感覺自己被不人道地對待。」他補充道。\n\nNHS South East London ICB 表示，Mehta 的情況是「長期且複雜的個案」，委員會「理解漫長的住院對 Mehta 先生及其家人而言有多困難和痛苦」。\n\n發言人表示，ICB 的行動一直「以臨床安全、管治責任及尋找滿足 Mehta 先生評估需求的可行長期方案為指引」。\n\n他們補充：「ICB 已超越常規安排，投放適當支援，包括在採購 Mehta 先生指定的新專科服務提供者期間，以高於已協議直接委託及個人健康預算的金額資助。」\n\n「已招募、培訓並進行風險評估專責人員，以支援他出院後的護理需求。」\n\n「我們仍然致力與 Mehta 先生、其家人及合作夥伴共同努力，尋求具建設性的前進方向，並支援盡快安全出院。」\n\n「請盡量幫助我獲救」\n\nLucinda Ritchie 面臨類似問題。\n\n她同樣有複雜的臨床需求，需要倡議人士所說那種被 ICB 審視以平衡預算的昂貴護理套餐。\n\nBBC 於2026年2月首次調查她的情況，當時這位33歲人士被違背意願地從醫院轉移至護理院。\n\n八年間，Ritchie 一直住在西薩塞克斯郡一間經改裝的平房，由 NHS Sussex 組織及資助全天候護理支援。\n\n她當時正在攻讀可持續發展碩士學位，並兩度被列為英國最具影響力殘疾人士之一（Disability Power 100 榜單）。\n\n33歲的 Lucinda Ritchie 正在攻讀可持續發展碩士學位，被違背意願地從醫院轉移至護理院\n\n在長時間住院後，Ritchie 原以為可以回家，但於2月被轉移到護理院——距離她的家和家人一小時車程。不到兩天，Lucinda 的狀況惡化，被送回醫院。\n\nRitchie 具有完整心智能力，有權拒絕該安排。\n\n然而，她說她的電動輪椅被關掉電源，她被手動推入救護車，同時繼續表達反對。\n\nNHS Sussex and Surrey ICB 表示已委託護理院以確保 Ritchie 的安全——但從未解釋在法律上如何在未獲她同意的情況下移動她。\n\n當 BBC 詢問移動 Lucinda 是否違法時，ICB 表示是由醫院移動了她。East Surrey 醫院則表示需要該牀位給其他人，並稱所有此類轉移均與病人仔細計劃。\n\n從醫院病房接受 BBC 訪問的 Lucinda Ritchie 希望回家，獲得讓她獨立生活的 NHS 資助支援\n\nBBC 報道後，Ritchie 的經歷迅速引起更廣泛關注。\n\n3月初，她的個案在下议院上被提出，跨黨派貴族 Campbell 女爵（Baroness Jane Campbell）警告稱殘疾人士正面對她所說的「從獨立、依賴到排斥的倒退」。\n\n三個月後，Ritchie 仍留在 Tunbridge Wells 醫院，佔用該部門九張深切治療牀位之一。\n\n在一段從醫院拍攝的社交媒體影片中，她請求大眾「營救」她，補充道：「這堪比酷刑。我的生命有何意義？」\n\n曾在 NHS England 領導個人化護理工作、T現任慈善機構 Coalition for Personalised Care 主席的 Tippett 告訴 BBC，結果令人「絕望」。\n\n她說殘疾人士正「備受煎熬」，醫院員工正「目睹傷害」，而「納稅人正為這張別人所需的醫院牀位買單」。\n\nNHS Sussex and Surrey ICB 表示：「我們對 Lucinda 及其家人對其護理的持續關切深感遺憾。」\n\n「我們的首要任務是確保為 Lucinda 制定出院計劃，並讓她獲得安全、高質素的支援以滿足其需求。」\n\n「我們正與合作夥伴共同努力，並將確保讓 Lucinda 及其家人參與，共同規劃她在家中的長期護理。」\n\n備受壓力的系統\n\nNHS England 政策規定護理應聚焦於「對個人重要的事及其個人優勢和需求」。\n\n護理計劃應「與病人共同創建」，並應给予個人「重大選擇及自由」。\n\n但現任 Coalition for Personalised Care 慈善機構主席的 Tippett 表示，現實正朝相反方向發展。\n\n她說，自2022年 NHS 重組以來，綜合護理委員會一直承受巨大壓力需平衡預算，同時失去具備設計複雜、「以人為本」護理套餐技能和知識的員工。\n\n與此同時，護理套餐是 NHS 支出中少數能高度凸顯個人成本的項目之一。\n\nTippett 說，當預算緊張時，「高消費」個人可能會很突出。\n\n她說納稅人最終資助的是昂貴、不必要的醫院護理，沒有人是「贏家」。\n\nNHS England 發言人表示：「我們確實承認，偶爾會出現延誤，有時未能滿足病人、服務使用者及照顧者的期望。當個別情況出錯時，有明確程序可向 ICB 提出上訴。」"
+      "bodyZh": "殘疾男子在醫院病房「腐爛」——即使已被告知適合出院\n\n2026年5月19日\n\n36歲的拉維·梅塔（Ravi Mehta）表示，如果被送往護理院，他的「生命將就此終結」\n\n一名殘疾男子表示，自當地 NHS 綜合護理委員會終止了他的24小時家居支援後，他已在醫院「日漸衰敗」長達八個月。\n\n患有危及生命之殘疾的梅塔，於2025年9月因例行調整呼吸機設定而入院。\n\n他原定三天後出院——但數月過去，他仍困在醫院病房。\n\n這位36歲男子患有杜興氏肌肉營養不良症（Duchenne muscular dystrophy），他表示從一開始就被告知他在醫學上已適合出院。然而，他用以支付家居所需護理人員費用的當地 NHS 綜合護理委員會（ICB）撥款現已終止。\n\n梅塔需要全天候兩名醫護助理協助，他說在病房裡每一天不必要的停留，都令他感覺寶貴的時間正在「消逝」。\n\n「我的生活實際上已經停頓」\n\n他此前持有個人健康預算（PHB）——這是 NHS 提供的資金，旨在讓人士有更大彈性來設計適合自己生活的支援方案。但該筆款項已被綜合護理委員會終止，該委員會負責規劃及資助當地醫療服務。\n\n梅塔認為他的護理委員會希望他接受一種較廉價或限制更多的護理模式，而非他真正所需的模式。\n\n他向 BBC 表示，NHS 目前正向他「施壓」，要求他入住護理院，而非返回他原本的家——那裡他有工作、去看足球賽、並見朋友。\n\n梅塔表示，護理院提供的支援將令他的生活受到更多限制。\n\n「我覺得他們把我視為一個需要過多護理及支援的人——超出他們願意提供的程度。」\n\nNHS 倫敦南部綜合護理委員會表示，他們「強烈反對任何關於此案決定由成本驅使的說法」。\n\nBBC 已看到寄給梅塔的信件，其中暗示若他不接受護理院的安排，可能需支付每日住院費用。\n\n若他自行出院，他表示將被告知所有護理支援將被終止。\n\n「我陷入進退兩難的困境，」梅塔說。「有時刻我真的害怕自己再也無法離開。」\n\nNHS 倫敦南部綜合護理委員會在被 BBC 問及這些具體指控時，未有作出回應。\n\nBBC 從其他殘疾人士處得知，他們同樣被「困」在醫院，原因是他們 NHS 資助的院外護理爭議持續數月未解。\n\n倡議人士及病人認為，護理委員會正愈來愈仔細地審視如梅塔這類複雜護理方案，以節省成本。\n\n專家表示，這意味着他及其他人正被推向更傳統、規避風險的選項，如外判護理或護理院。\n\n雖然梅塔所屬的綜合護理委員會否認其決定是由成本驅動，但 BBC 看到一封由 NHS 倫敦南部律師寄給梅塔代表人的信函，當中以「成本效益」作為部分情況下可拒絕家居護理方案的理由。\n\n前 NHS 主管弗朗西絲·蒂佩特（Frances Tippett）表示，對於需要最高程度支援的部分殘疾人士而言，「感覺時光正在倒退」——脫離與當事人共同規劃的支援模式，轉向更多限制性的護理類型。\n\n梅塔自2025年9月起已適宜出院\n\n入院前，梅塔是一名商科管理畢業生，曾在一家慈善機構兼職工作，支援其他杜興氏肌肉營養不良症患者。\n\n現在他表示自己感覺在醫院病房中「無故地日漸衰敗」。\n\n他說在住院期間，他的身體狀況有所惡化，變得更虛弱，更依賴呼吸機，操控輪椅也更加困難。\n\n他說精神上感到孤立、焦慮及抑鬱。\n\n「我的生活不是繼續前進，而是困在醫院裏，實際上已經停頓，」他說。\n\n梅塔表示，他被困在與 NHS 倫敦南部綜合護理委員會就支援類型及預算的爭議中——這些是他安全返家所需的。\n\n「感覺自己被非人道地對待，」他補充道。\n\nNHS 倫敦南部綜合護理委員會表示，梅塔的個案「長期而複雜」，委員會明白「漫長的住院時間對梅塔先生及其家人是多麼困難和令人痛苦」。\n\n發言人表示，綜合護理委員會的行動「以臨床安全、管治責任，以及尋找能滿足梅塔先生評估需求之可行長期方案為指導方針」。\n\n他們補充：「綜合護理委員會已超越常規安排，著手落實適當支援，包括在採購梅塔先生指定之另一專科服務提供者期間，在已議定之直接採購及個人健康預算之上提供資助。\n\n「專責人員已獲招聘、培訓並進行風險評估，以支援其出院後的護理需求。\n\n「我們仍然致力與梅塔先生、其家人及合作夥伴攜手，達致建設性的前進方向，並支援盡快安全出院。」\n\n「請盡一切所能來營救我」\n\n琳賽達·里奇（Lucinda Ritchie）正面臨類似問題。\n\n她的臨床需求同樣複雜，需要倡議人士所說的那種昂貴護理方案——這正是綜合護理委員會為平衡預算而仔細審視的類型。\n\nBBC 於2026年2月首次報道她的情況，當時這位33歲女子被违背意願地從醫院轉移到護理院。\n\n八年來，里奇一直住在西薩塞克斯郡一所經過改裝的獨立平房中，獲得由 NHS 薩塞克斯郡資助的全天候護理支援。\n\n她當時正在攻讀可持續發展碩士學位，並兩度被評選為英國最具影響力殘疾人士之一，登上「殘疾力量100」（Disability Power 100）榜單。\n\n正在攻讀可持續發展碩士學位的里奇，被违背意願地從醫院轉移到護理院\n\n經過長時間住院後，里奇原以為可以回家，但於2月被轉移到一所護理院——距離她的家及家人一小時車程。不到兩天，里奇的健康狀況惡化，被送回醫院。\n\n里奇具備完整的精神行為能力，有權拒絕該安置。\n\n然而她表示，她的電動輪椅電源被關閉，她被手動推入救護車，整個過程中她一直在表達反對。\n\nNHS 薩塞克斯及薩里綜合護理委員會表示，是為里奇的安全委託了護理院——但從未解釋在法律上這種未經同意的轉移如何合理。\n\nBBC 向該委員會查詢將里奇轉移是否違法，委員會表示是由醫院進行轉移。伊斯特薩里醫院（East Surrey Hospital）表示需要該床位供其他人使用，並稱所有此類轉移均與病人仔細規劃。\n\n從醫院病房接受 BBC 訪問的里奇，希望能以 NHS 資助的支援回家，恢復獨立生活\n\nBBC 報道後，里奇的經歷迅速引起更廣泛關注。\n\n3月初，她的個案在 上议院被提出，跨黨派同僚貝安妮絲·坎貝爾女爵（Baroness Jane Campbell）警告稱，殘疾人士正面臨她所稱的「從獨立走向依賴及排斥的倒退」。\n\n三個月後，里奇仍留在皇家滕布里奇韋爾斯醫院，佔用該部門九張深切治療病床之一。\n\n她在社交媒體一段於病房拍攝的影片中，請求大眾前來「營救」她，並補充：「這無異於酷刑。我的生命有何意義？」\n\n曾在 NHS  England 主管個人化護理、現任慈善機構「個人化護理聯盟」（Coalition for Personalised Care）主席的蒂佩特告訴 BBC，結果令人「絕望」。\n\n她說殘疾人士正「飽受折磨」，醫院員工「目睹傷害」，而「納稅人正為本可讓他人使用的醫院床位支付費用」。\n\nNHS 薩塞克斯及薩里綜合護理委員會表示：「我們對里奇及其家人就其護理持續表達關切深感遺憾。\n\n「我們的首要任務是確保為里奇制定出院計劃，使她能夠獲得安全、高質素的支援，滿足她的需求。\n\n「我們正與合作夥伴共同努力，並將確保里奇及其家人參與，共同規劃她在家的長期護理。」\n\n承受壓力的體系\n\nNHS England 政策表明，護理應聚焦於「對個人重要的事及其個人長處和需求」。\n\n護理方案應「與病人共同創建」，並應給予病人「重大選擇及自由」。\n\n但蒂佩特表示，現實正朝着相反方向發展。\n\n她說，自2022年 NHS 重組以來，綜合護理委員會一直承受着平衡預算的巨大壓力，同時失去擁有設計複雜、「以人為本」方案技能及知識的員工。\n\n與此同時，護理方案是 NHS 支出中少數能清楚看見個人成本的項目之一。\n\n蒂佩特表示，當預算緊張時，「高消費」人士會格外突出。\n\n她說納稅人正為昂貴而不必要的住院治療提供資金，沒有人是贏家。\n\nNHS England 發言人表示：「我們確實承認，延誤有時會發生，有時我們未能達到病人、服務使用者及照顧者的期望。凡有個別情況出現問題，均有明確的上訴程序，可向綜合護理委員會提出。」"
     },
     {
-      "title": "走紅網絡的畢業風光過後，截癱學生呼籲提高無障礙設施：「不應如此困難」",
+      "title": "癱瘓學生在網上爆紅後呼籲提升無障礙設施：「不該如此艱難」",
       "url": "https://www.theguardian.com/education/2026/may/15/jaiden-picot-graduation-video-quadriplegic-accessibility",
       "publishedAt": "2026-05-15T09:30:36.000Z",
-      "summary": "Jaiden Picot在2024年被卡車撞擊後下半身癱瘓，從未想過自己穿著未來感機械套裝走過維珍尼亞聯盟大學畢業禮台的影片會走紅網絡。但既然影片受到關注，他表示希望推動改變。",
+      "summary": "2024年卡車撞擊導致癱瘓後，杰登·皮科特從未想過自己穿著未來感機械外骨骼走過維吉尼亞聯盟大學畢業典禮舞台的影片會在網上爆紅。但自影片走紅以來，他表示希望",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -422,31 +441,14 @@
           "src": "https://i.guim.co.uk/img/media/e9c9ece44b23fa9c9702a78eed6c8aa5879578d6/0_0_1920_1080/1920.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none",
           "alt": "Virginia student paralysed by truck collision graduates in robotic suit – video"
         }
-      ]
+      ],
+      "bodyZh": "在卡車意外後癱瘓 Jaiden Picot 以機械外骨骼走上畢業典禮舞台\n\n去年一輛卡車撞倒 Jaiden Picot 導致他癱瘓後，他從未想過自己穿著未來感十足的機械套裝走過 Virginia Union University（VUU）畢業典禮舞台的片段會在網上瘋傳。\n\n但他說，既然片段火了，他希望世人知道他打算窮盡整個職業生涯，去協助令場所對輪椅使用者更加無障礙——就像他一樣。\n\n「癱瘓之後，我知道自己錯過了很多與朋友外出的機會。」他在《衛報》的專訪中說：「我進不了某些餐廳、某些活動，只是因為那裡沒有供我進入的斜道。我覺得改變這一點非常重要，因為我們這群人數量龐大，大家都想到其他人能去的地方。」\n\n「並不是說我們經歷了什麼悲劇，就意味着……之後的生活必須那麼艱難。」\n\n現年二十三歲、來自 Virginia 州 Portsmouth 的 Picot，在 2024 年 8 月騎著電動滑板車時被一輛貨櫃車撞倒。撞擊導致他的第四節頸椎脊髓受損，胸口以下癱瘓。\n\n談及迫使他與截癱共存的那次損傷，他毫不諱言：「那一天以來，我的生活變得如此艱難。」他回想起以前每天健身和頻繁社交的生活，補充道：「出事之前我是個獨立的人。」\n\nPicot 決心盡力奪回那份獨立。他開始在 Virginia 州 Richmond 的 Sheltering Arms Institute 接受康復訓練，練習自理事務、在俗稱機械外骨骼的裝置內行走，以及操控電動輪椅——康復中心的護理人員在 2024 年 12 月的新聞稿中如此記述。\n\n他亦開始掌握語音控制裝置，用以操作電視、設置鬧鐘和提醒事項，以及在院內房間播放音樂、遊戲或助眠音效。\n\n同時，Picot 在 VUU 按時完成了理學學士學位，於 2025 年春季畢業。他隨即開始研究生課程，並取得高管工商管理碩士學位。\n\n他的母親、女友以及兩位康復治療師都是他在 5 月 9 日畢業典禮上的支持者。\n\n在畢業典禮上那段在網上走紅的環節中，Picot 穿上了在 Sheltering Arms Institute 康復訓練時使用過的機械外骨骼。在兩位治療師的協助下，他穿著那套幾乎對他搖擺動作作出反應的外骨骼，緩步走過典禮舞台領取學位。\n\n站在舞台上，他對著歡呼的觀眾說：「哦，哇——我做到了。我的生命迎來了非常大的轉折。我大可以把自己關進衣櫃，放棄人生，但我決定不讓自己的處境控制和阻止我達成目標。」\n\nPicot 後來借一個與機械人兵團作戰的科幻電影系列來解釋那套外骨骼：「我喜歡叫它『大型變形金剛套裝』。」\n\nPicot 走過舞台的片段以及贏得的熱烈掌聲迅速在社交媒體和各大新聞平台上傳開。全國知名的民權律師 Ben Crump 在 X 上的帖子頗能代表這段影片和相關新聞引發的典型迴響，他寫道：「面對逆境展現的強大韌力！」\n\nVUU——一所歷史悠久的黑人學院——同時發表聲明，盛讚 Picot 是「當目標與準備相遇時一切皆有可能的見證」。\n\n然而，這並不意味着在適應全美估計約三十萬創傷性脊髓損傷患者——其中絕大多數導致截癱或四肢癱瘓——的生活時，Picot 沒有遭遇重大障礙。\n\n雖然美國聯邦《殘疾人法》自 1990 年起已要求服務公眾的場所提供合理無障礙便利設施，但 Picot 描述，致電餐廳和活動場地提前確認是否有斜道及足夠空間容納他的輪椅，已成為他生活中不可迴避的事。\n\n他說，自己曾因兩者皆無而無法出席聚會。他說這樣的地方「很多」。\n\nPicot 及其家人還在網上發起眾籌，盼籌集購置無障礙客貨車的資金，他們稱這將令他往返日常活動和事務更輕鬆、更安全。\n\n被問及對剛起步的職業生涯有何憧憬時，Picot 說他想將自己在地產界闖出名堂與緩解自己遭遇過的部分無障礙問題結合起來。他說自己打算先約見州內的民政領袖商討此事作為起步。\n\n「我要向着星辰前進，協助我們邁向每一個場所都為輪椅使用者提供某種無障礙設施的境地。」Picot 說：「我在心理上已準備好達成目標，也為像我一樣的人倡議。」"
     },
     {
-      "title": "Access All：殘疾新聞與精神健康",
-      "url": "https://www.bbc.co.uk/sounds/play/p0njhyll?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-05-05T23:01:00.000Z",
-      "summary": "……以及女演員Kimberley Nixon談論產後強迫症",
-      "sourceName": "BBC 新聞（障礙）",
-      "sourceId": "bbc-disability",
-      "images": [
-        {
-          "src": "https://a1.api.bbc.co.uk/hit.xiti?&col=1&from=p&ptag=js&s=598253&p=unknown&x1=[]&x2=[responsive]&x3=[bbc_website]&x4=[en]&x7=[]&x8=[reverb-3.12.0-nojs]&x11=[sounds]&x12=[]",
-          "alt": ""
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/images/ic/400x400/p0h55mwr.jpg",
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "title": "科學家揭示舒緩膝關節炎疼痛的最佳運動",
+      "title": "科學家揭示緩解膝關節炎疼痛的最佳運動",
       "url": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
       "publishedAt": "2026-04-30T07:30:17.000Z",
-      "summary": "一項涵蓋217項試驗的大型評估顯示，有氧運動是治療膝關節炎最有效的選項。步行、騎單車和游泳等活動在減輕疼痛和改善活動能力方面，優於其他運動類型。雖然阻力訓練和身心運動也有幫助，但最好配合有氧運動一起進行。",
+      "summary": "一項涵蓋217項試驗的大型綜述顯示，有氧運動是控制膝關節炎最有效的選項。步行、騎單車和游泳等活動在減輕疼痛和改善活動能力方面優於其他運動類型。雖然力量訓練和身心運動等替代方案也有幫助，但最好與有氧運動結合使用。",
       "sourceName": "《科學日報》健康與體能",
       "sourceId": "sciencedaily-fitness",
       "images": [
@@ -458,13 +460,14 @@
           "src": "https://www.sciencedaily.com/images/1920/arthritic-knee-joint-arthritis-injury-pain.webp",
           "alt": "Best Exercise for Knee Arthritis Pain"
         }
-      ]
+      ],
+      "bodyZh": "研究人員揭示緩解膝關節炎疼痛的最佳運動方式\n\n步行、騎單車及游泳名列前茅，成為緩解膝關節骨關節炎症狀最有效且最安全的運動。\n\n2026年4月30日\n\n超過15,000名參與者的證據顯示，有氧運動為膝關節骨關節炎症狀帶來最大幅度的舒緩。它在改善疼痛、活動能力及生活質素方面，優於其他運動方式，同時安全性高。\n\n《BMJ》發表的大型研究顯示，步行、騎單車及游泳等有氧活動，是膝關節骨關節炎患者最有效的運動。這些活動在疼痛、身體機能、步行能力及整體生活質素的改善方面，均表現最佳。\n\n研究人員指出，雖然其他類型的運動仍有幫助，但應作為有氧運動的輔助，而非取代它成為主要方法。\n\n什麼導致膝關節骨關節炎\n\n骨關節炎源於保護骨骼末端的軟骨逐漸磨損，繼而引致疼痛、腫脹及關節活動困難。此病可影響身體不同部位，但膝關節特別容易受損。近三成45歲以上的成年人，X光檢查顯示有膝關節骨關節炎迹象，當中約一半出現嚴重症狀。\n\n運動被廣泛推薦為治療的關鍵部分，但目前的指引往往缺乏明確建議，不清楚哪種特定運動類型對膝關節骨關節炎最為有效。\n\n涵蓋217項臨床試驗的大型綜合分析\n\n為填補這項空白，研究人員對運動療法進行了全面分析。他們審視了1990年至2024年間進行的217項隨機對照試驗，涵蓋合共15,684名參與者。這些研究比較了多種運動形式，包括有氧、伸展、力量、身心、 neuromotor（神經動作）及混合訓練，並與對照組進行比較。\n\n雖然各試驗的質量參差不齊，但研究人員採用了獲認可的GRADE系統來評估證據的可靠性。\n\n衡量疼痛、機能及生活質素\n\n分析聚焦於對患者最為關鍵的結果指標，包括疼痛程度、身體機能、步態表現及生活質素。研究分別在短期（四周）、中期（十二周）及長期（二十四周）追蹤時段進行評估。\n\n在各項衡量指標中，有氧運動在所有研究的運動類型中持續排名首位，效果最為顯著。\n\n有氧運動展現最強效果\n\n具中等確定性的證據顯示，有氧運動在短期及中期均能減輕疼痛，並在短期、中期及長期三個時段改善身體機能。此外，它在短期及中期亦提升了步行能力及生活質素。\n\n其他形式的運動亦帶來顯著效益。身心運動方法可能改善短期機能，而 neuromotor 訓練則可能提升短期步態表現。力量訓練及混合運動計劃在中期追蹤時似乎能改善機能。\n\n運動安全且效益廣泛\n\n重要的是，與對照組相比，任何運動類型均與不良事件風險升高無關。這支持了運動是膝關節骨關節炎安全可靠治療選項的觀點。\n\n研究人員確實指出若干局限：多項比較屬間接性質、部分結果缺乏長期數據，而規模較小的研究或許影響了早期結論。\n\n為治療提供明確指引\n\n儘管存在這些局限，這項研究提供了迄今對膝關節骨關節炎運動療法最全面及最新的評估之一。發現有助臨床醫生在選擇最有效療法時更具依據。\n\n根據結果，研究人員建議將有氧運動「列為膝關節骨關節炎管理的第一線干預措施，尤其當目標是改善功能能力及減輕疼痛時」。他們同時指出，若因個人限制而不適合進行有氧運動，「替代形式的結構化體能活動仍可能有益」。"
     },
     {
       "title": "成長過程中ADHD特質對健康的隱藏影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項長達數十年的研究顯示，兒童時期的ADHD徵兆可能產生超越學校和行為範圍的後果。研究人員追蹤近11,000人從童年到中年，發現10歲時有強烈ADHD特質的人，更可能在中年出現多種身體健康問題及健康相關障礙。",
+      "summary": "一項歷時數十年的大型研究表明，童年時期的ADHD跡象可能帶來遠超學校和行為層面的後果。研究人員追蹤了近11,000人從童年到中年，發現10歲時有強烈ADHD特質的人，到中年時更可能出現多種身體健康問題及與健康相關的殘疾。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -477,13 +480,13 @@
           "alt": "ADHD in Childhood Can Affect Adult Health"
         }
       ],
-      "bodyZh": "成長過程中的ADHD特質：隱藏的健康影響\n\n一項大型、跨越數十年的研究表明，兒童時期的ADHD跡象可能帶來的後果遠不止學校和行為層面。研究人員追蹤了近11,000人，從童年一直到中年，發現那些在10歲時有較強ADHD特質的人，到四十多歲時更有可能出現多種身體健康問題及與健康相關的殘疾。\n\nADHD特質與中年身體健康問題及殘疾的關聯\n\n根據倫敦大學學院（UCL）和利物浦大學的研究人員領導的這項研究，10歲時表現出ADHD特質的兒童，到46歲時更有可能出現身體健康問題及與健康相關的殘疾。\n\n研究人員表示，結果可能反映了與注意力缺陷多動障礙（ADHD）相關的廣泛健康風險，以及ADHD患者在整個成年期所獲得的治療和支持的長期影響。\n\n該研究發表於《JAMA Network Open》，是最大型且運行時間最長的研究之一，探討兒童時期的ADHD特質如何與晚年身體健康相關聯。\n\n終身健康挑戰的證據\n\n資深作者、約書亞·斯托特教授（UCL心理學與語言科學系）表示：「我們進一步充實了令人擔憂的證據庫，表明ADHD患者在其一生中比一般人更有可能經歷較差的健康狀況。\n\n「ADHD患者在適當支持下可以蓬勃發展，但這類支持往往不足，不僅因為針對性的支援服務匱乏，還因為ADHD仍然被嚴重低估，特別是在中年及更年長的人群中，他們的需求未被關注。」\n\nADHD如何影響日常功能\n\nADHD患者在注意力方面存在差異，同時伴隨更高水平的過動或衝動症狀。許多人精力充沛，能夠對感興趣的活動高度專注，但在應對常規或較乏味的任務時可能難以集中注意力。\n\n這些挑戰可能影響計劃、時間管理和衝動控制。長期下來，這可能使學業和工作更加困難，增加持續性社交和職業困難的風險。\n\nADHD始於兒童時期，儘管現在人們普遍認識到它往往會持續到成年，但英國成年人接受的治療比其他高收入國家少。支援服務同樣有限。\n\n數十年的健康結果追蹤\n\n為檢視長期影響，研究人員分析了由UCL領導的1970年英國世代研究中10,930名參與者的數據，該研究從出生開始追蹤個體直到中年。\n\nADHD特質是通過家長和教師在參與者10歲時填寫的行為問卷進行評估的。這些測量指標的使用與參與者是否曾接受過正式ADHD診斷無關。\n\n慢性病和殘疾的發生率更高\n\n研究發現，兒童時期ADHD特質較高的人，到46歲時更有可能報告身體健康問題。他們報告兩種或以上疾病的機率高出14%，包括偏頭痛、背部問題、癌症、癲癇或糖尿病。\n\n在10歲時ADHD特質較高的群體中，42%報告在中年時至少有兩種身體健康問題。相比之下，ADHD特質得分較低的群體中，有37%報告了同樣的情況。\n\n兒童時期ADHD特質較高的參與者，在46歲時也更有可能報告與身體健康相關的殘疾（即因身體健康問題而影響工作或其他日常活動）。\n\n健康差異背後的可能原因\n\n研究人員發現，較差的身體健康結果部分與ADHD群體中較高的心理健康問題發生率、較高的BMI以及吸煙率相關。\n\n先前的研究也表明，ADHD患者更有可能經歷壓力性生活事件和社會排斥，且較不容易獲得及時的醫療篩查和護理。\n\n兒童ADHD特質與身體健康相關殘疾之間的關聯，在女性中似乎比男性更強。\n\n斯托特教授補充道：「所有這些潛在的解釋因素都與ADHD使衝動控制更加困難、對即時滿足和獎勵的需求更加強烈這一事實相符，同時也與ADHD患者因所面臨的社會劣勢而導致心理健康較差有關。」\n\n對支援服務和公共健康的影響\n\n同一研究團隊去年發表的另一項研究報告了ADHD確診成年人可能存在的預期壽命降低，不過這一發現不在本次研究範圍內。\n\n第一作者、安柏·約翰博士在進入利物浦大學之前曾在UCL開始這項研究，她強調了適當支援的重要性：「需要注意的是，ADHD患者是一個多元化的群體，擁有各種不同的優勢和經歷，大多數人將過上長久而健康的生活。\n\n「然而，許多人在及時診斷和獲得適當支援方面面臨重大障礙。這一點很重要，因為為ADHD患者提供正確的支援並滿足他們的需求，有助於改善他們的身體和心理健康結果。\n\n「此外，公共健康策略應考慮ADHD患者的需求，例如使篩查項目和持續健康監測對ADHD患者更加可及。」"
+      "bodyZh": "兒時ADHD特質的隱藏健康影響\n\n研究摘要：一項跨越數十年的大型研究顯示，ADHD的跡象可能帶來遠超學業和行為的長期後果。研究人員追蹤近11,000人從童年到中年，發現10歲時有明顯ADHD特質的人士，在44至46歲時更可能出現多種身體健康問題及與健康相關的殘疾。\n\nADHD特質與中年健康風險\n\n倫敦大學學院（UCL）和利物浦大學的研究人員領導的這項研究顯示，10歲時顯示ADHD特質的兒童，到46歲時更可能出現身體健康問題和與健康相關的殘疾。\n\n研究人員指出，這些結果可能反映了ADHD患者面臨的廣泛健康風險，以及整個成年期對他們的治療和支持方式的長期影響。\n\n該研究發表於《JAMA Network Open》，是規模最大、運行時間最長的研究之一，探討兒童ADHD特質與成年後身體健康的關聯。\n\n終身健康挑戰的證據\n\n資深作者、UCL心理學與語言科學系Joshua Stott教授表示：「我們進一步補充了令人擔憂的證據庫，顯示ADHD患者一生中出現健康問題的可能性高於平均水平。」\n\n「ADHD患者在適當支持下可以發揮所長，但這種支持往往不足，既因為針對性服務短缺，也因為ADHD仍未得到充分診斷，尤其是中年及較年長人士，他們的需求未被關注。」\n\nADHD如何影響日常功能\n\nADHD患者在專注力方面存在差異，同時有較高的多動或衝動程度。許多人精力充沛，能夠高度專注於感興趣的活動，但在處理例行或較乏味的任務時可能難以集中。\n\n這些挑戰會影響計劃、時間管理和衝動控制。長期下來，這可能令學業和工作更加困難，增加出現長期社交和職業困難的風險。\n\nADHD始於兒童期，雖然現在廣泛認為它常會持續到成年，但英國成年人接受的治療比其他高收入國家為少，支援服務亦相當有限。\n\n數十年的健康追蹤\n\n為研究長期影響，研究人員分析了UCL主導的1970年英國世代研究中10,930名參與者的數據，該研究從出生起追蹤個人至中年。\n\nADHD特質採用家長和教師在參與者10歲時填寫的行為問卷進行評估，無論參與者是否曾接受正式ADHD診斷，均使用這些衡量指標。\n\n慢性病和殘疾比例較高\n\n研究發現，兒童期ADHD特質較高的人士，到46歲時更可能報告身體健康問題。他們報告兩種或以上病症（包括偏頭痛、背部問題、癌症、癲癇或糖尿病）的機會率高14%。\n\n在10歲時ADHD特質較高的參與者中，42%在中年時報告至少兩種身體健康問題。相比之下，ADHD特質得分較低的受訪者中，37%報告相同情況。\n\n兒童期ADHD特質較高的參與者，亦更可能在46歲時報告與身體健康相關的殘疾（因身體健康問題而影響工作或其他日常活動）。\n\n健康差異的可能原因\n\n研究人員發現，較差的身體健康結果部分與ADHD患者較高的心理健康問題發生率、較高的BMI及吸煙率有關。\n\n先前研究亦顯示，ADHD患者更可能經歷壓力性生活事件和社會排斥，且較難獲得適時的醫療篩查和護理。\n\n兒童ADHD特質與身體健康相關殘疾之間的關聯，在女性中似乎比男性更強。\n\nStott教授補充：「所有這些潛在解釋因素都與ADHD使衝動控制更困難、即時滿足和獎勵需求更強烈這一事實相符，而且部分由於ADHD患者面臨的社會劣勢，心理健康狀況也較差。」\n\n對支援及公共健康的影響\n\n同一研究團隊去年發表的另一項研究報告了ADHD確診成年人的預期壽命可能減少，但該發現不包括在本次研究範圍內。\n\n第一作者Amber John博士（曾在UCL工作後轉至利物浦大學）強調適當支援的重要性：「值得注意的是，ADHD患者是一個多樣化的群體，有著不同的長處和經歷，大多數人將會過著長壽、健康的生活。」\n\n「然而，許多人在及時診斷和獲得適當支援方面面臨重大障礙。這一點很重要，因為為ADHD患者提供正確支援、滿足他們的需求，有助於改善他們的身體和心理健康結果。」\n\n「此外，公共健康策略應考慮ADHD患者的需求，例如令篩查計劃和持續健康監測更容易獲得。」"
     },
     {
-      "title": "研究人員發現ADHD特質與更好的心理健康相關",
+      "title": "研究發現ADHD優勢與更好的心理健康相關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示了ADHD較為正面的一面：能識別並運用自身優勢的成年人會更快樂、更健康、壓力更小。ADHD患者較傾向將創造力、幽默和過度專注等特質視為個人優勢，而運用這些優勢與更好的生活品質及更少的精神健康問題相關。",
+      "summary": "新研究揭示了ADHD較正面的一面，顯示承認並善用自身優勢的成年人會更快樂、更健康，壓力也更小。ADHD患者更傾向於將創意、幽默和高度專注等特質視為個人優勢。整體而言，發揮這些優勢與更好的生活品質和更少的心理健康問題相關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -498,10 +501,10 @@
       ]
     },
     {
-      "title": "ADHD藥物的運作機制與我們以為的不同",
+      "title": "ADHD藥物的運作方式跟我們以為的不同",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD刺激藥物似乎並非主要透過提升專注力來運作，而是更多用於喚醒大腦。腦部掃描顯示這些藥物會激活獎勵和警覺系統，幫助兒童對原本會逃避的任務保持興趣，甚至能逆轉與睡眠不足相關的大腦模式。研究人員表示這可能令ADHD的診斷變得更為複雜。",
+      "summary": "ADHD興奮劑似乎並非主要透過提高專注力來起作用，而是更類似於喚醒大腦。腦部掃描顯示，這些藥物會激活獎勵和警覺系統，幫助孩子對平常會逃避的任務保持興趣。藥物甚至逆轉了與睡眠剝奪相關的腦部模式。研究人員表示，這可能使ADHD診斷變得複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -519,7 +522,7 @@
       "title": "為何這麼多ADHD幼童接受錯誤的治療",
       "url": "https://www.sciencedaily.com/releases/2025/09/250915202839.htm",
       "publishedAt": "2025-09-16T09:10:52.000Z",
-      "summary": "患有ADHD的學前兒童在確診後經常立即接受藥物治療，但這違反了建議先從行為治療開始的醫療指引。由於治療資源有限，加上醫生的壓力，導致過早處方藥物，儘管對幼童存在風險且療效較低。",
+      "summary": "患有ADHD的學前兒童通常在確診後立即被給予藥物，這違背了建議先從行為治療開始的醫療準則。治療資源有限及醫生壓力導致過早處方藥物，儘管這對幼童存在風險且療效較差。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
