@@ -32,19 +32,22 @@
 
 未設定 `MINIMAX_API_KEY` 時，`automation/weekly-article.mjs` 會**安靜結束**（exit 0），不會更新週報檔案；週期 workflow 仍會成功，但不會產生可合併的變更。`build-digest.mjs` 則不會翻譯，摘要 JSON 內標題／摘要維持 RSS 原文。
 
+**官網部署（GitHub Pages）**：`www.leisure.org.hk` 已 CNAME 指向 `leisureorghk.github.io` 時，digest／週報 workflow 會在 push 後**自動部署 Pages**。若內容仍舊，請到 Actions 手動執行 **Deploy GitHub Pages** 或 **Daily RSS digest**（`workflow_dispatch` 會強制重新部署）。
+
 ## Workflows
 
 | 檔案 | 排程 | 說明 |
 |------|------|------|
 | [`.github/workflows/daily-digest.yml`](.github/workflows/daily-digest.yml) | 每日 UTC 01:00（約香港 09:00） | 執行 `automation/build-digest.mjs`，更新 [`data/sen-swim-digest.json`](data/sen-swim-digest.json)，**直接 commit 並 push 到 `main`**（觸發 Pages 部署；無需手動合併 PR）。 |
-| [`.github/workflows/weekly-article.yml`](.github/workflows/weekly-article.yml) | 每週一 UTC 03:00（約香港 11:00） | 執行 `automation/weekly-article.mjs`，成功後 **直接 push 到 `main`**（含 `blog-weekly-*.html`、sitemap、rss.xml）。仍需在合併前於本機或 GitHub 快速閱讀週報文稿（建議）。 |
+| [`.github/workflows/weekly-article.yml`](.github/workflows/weekly-article.yml) | 每週一 UTC 03:00（約香港 11:00） | 執行 `automation/weekly-article.mjs`，成功後 **直接 push 到 `main`**（含 `blog-weekly-*.html`、sitemap、rss.xml），並部署 Pages。建議發布前快速閱讀週報文稿。 |
+| [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) | `main` push；digest／週報成功後 | GitHub Pages 部署至 `www.leisure.org.hk`。 |
 
-兩者皆支援 **Actions 手動執行**（`workflow_dispatch`）。
+digest 與週報 workflow 皆支援 **Actions 手動執行**（`workflow_dispatch`）。
 
 ## 審核與合規建議
 
-1. **每日 digest**：已自動 push 至 `main`；若需抽查，可在 Actions 日誌或 `data/sen-swim-digest.json` 的 `updatedAt` 確認。
-2. **每週專題 PR**：務必由機構負責人閱讀全文；頁面已含「非抄襲／參考來源」聲明，仍可能有事實錯誤。
+1. **每日 digest**：已自動 push 至 `main` 並部署 Pages；若需抽查，可在 Actions 日誌或 `data/sen-swim-digest.json` 的 `updatedAt` 確認。
+2. **每週專題**：務必由機構負責人閱讀全文；頁面已含「非抄襲／參考來源」聲明，仍可能有事實錯誤。
 3. **著作權**：摘要僅使用 RSS 之標題與短描述並連結至原文；站內不轉載全文。週報為模型依摘要**改寫與在地化**之文稿，文末列出參考連結。
 
 ## 本機執行

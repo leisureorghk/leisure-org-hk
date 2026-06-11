@@ -4,6 +4,15 @@ name: Deploy GitHub Pages
 on:
   push:
     branches: ['main']
+  # GITHUB_TOKEN 自動 push 不會觸發 push 事件；改由 digest／週報完成後連動部署
+  workflow_run:
+    workflows:
+      - Daily RSS digest
+      - Weekly featured article (MiniMax)
+    types:
+      - completed
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -17,6 +26,10 @@ concurrency:
 
 jobs:
   deploy:
+    if: >-
+      ${{ github.event_name == 'push'
+          || github.event_name == 'workflow_dispatch'
+          || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

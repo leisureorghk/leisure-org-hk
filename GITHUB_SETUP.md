@@ -220,8 +220,8 @@ Resolve-DnsName leisure.org.hk -Type A
 | 檔案 | 用途 |
 |------|------|
 | `.github/workflows/deploy-pages.yml` | `main` 推送後部署靜態站到 Pages。 |
-| `.github/workflows/daily-digest.yml` | 每日更新 `data/sen-swim-digest.json` 並開 PR。 |
-| `.github/workflows/weekly-article.yml` | 每週產週報（需 `MINIMAX_API_KEY`）並開 PR。 |
+| `.github/workflows/daily-digest.yml` | 每日更新 `data/sen-swim-digest.json` 並 push、部署 Pages。 |
+| `.github/workflows/weekly-article.yml` | 每週產週報（需 `MINIMAX_API_KEY`）並 push、部署 Pages。 |
 
 在 **Actions** 可對各 workflow 按 **Run workflow** 手動測試。
 
@@ -239,8 +239,8 @@ Resolve-DnsName leisure.org.hk -Type A
 
 ## 九、自動化內容如何出現在網站
 
-- **每日游泳／SEN 摘要**（`data/sen-swim-digest.json`）：`daily-digest` workflow 會**直接 push 到 `main`**，合併後 **Deploy GitHub Pages** 自動部署，首頁與教練專欄的「SEN・游泳相關資訊」即會更新（約數分鐘）。**不必再手動合併 digest PR**。
-- **每週專題文章**：`weekly-article` workflow 成功後會**直接 push 到 `main`**；建議仍快速閱讀週報內容。舊的 **PR #2** 等可關閉。
+- **每日游泳／SEN 摘要**（`data/sen-swim-digest.json`）：`daily-digest` workflow 會 push 到 `main` 並**自動部署 GitHub Pages**（`www.leisure.org.hk`）。
+- **每週專題文章**（曹教練專欄）：`weekly-article` workflow 成功後會 push `blog-weekly-*.html` 與 `data/weekly-article-meta.json` 至 `main`，並自動部署 Pages。
 - 若曾累積未合併的舊 **digest PR**（例如 #1），可關閉即可，與現行流程無關。
 - **Google 商家檔案（本地搜尋）**：見 [`GOOGLE_BUSINESS_PROFILE.md`](./GOOGLE_BUSINESS_PROFILE.md)。
 - **GA4**：在 [`data/site-public.json`](./data/site-public.json) 填入 `ga4MeasurementId` 後 push，即可追蹤 WhatsApp 等轉化。
@@ -287,36 +287,6 @@ git pull origin main
 
 再開始編輯，可減少之後 `push` 時的合併衝突。
 
-### 與 FTP／舊上傳方式的分別
+### 官網更新方式
 
-若官網仍由**傳統主機（Apache／FTP）**提供 `https://www.leisure.org.hk`（而非僅 GitHub Pages），改完檔案後需**另外 FTP 上傳**才會在該主機上線。
-
-在專案資料夾執行（約 114 個靜態檔）：
-
-```powershell
-cd "c:\Users\Jeff Cho\Hkcompass\Communication site - 文件\AI_Project\Project\leisure_org_hk"
-python ftp_sync.py
-```
-
-**重要：** 請勿用 `leisure.org.hk` 當 FTP 主機名——該頂層網域目前**沒有 A 記錄**，會出現 `getaddrinfo failed`。腳本會依序嘗試 **`ftp.leisure.org.hk`** → **`mail.leisure.org.hk`**（IP 約 `58.64.192.201`），遠端目錄 **`/web`**。
-
-若仍失敗，可手動指定：
-
-```powershell
-$env:FTP_HOST = "ftp.leisure.org.hk"
-$env:FTP_USER = "leisureadminftp"
-$env:FTP_PASS = "你的FTP密碼"
-$env:FTP_REMOTE_DIR = "/web"
-# 若主機要求被動模式：
-# $env:FTP_PASSIVE = "1"
-python ftp_sync.py
-```
-
-**雙軌部署提醒：**
-
-| 方式 | 何時更新 |
-|------|----------|
-| `git push` → GitHub Pages | DNS 指向 GitHub 時（見上文 CNAME／A 記錄） |
-| `python ftp_sync.py` | DNS 仍指向舊 FTP 主機時 |
-
-兩者擇一為「主要」來源即可；若已全面改用 Pages，通常**只需 push**，不必再 FTP。
+`www.leisure.org.hk` 已指向 **GitHub Pages**，只需 **`git push origin main`** 或由 Actions 自動 push，即會透過 **Deploy GitHub Pages** 上線；**無需 FTP 上傳**。

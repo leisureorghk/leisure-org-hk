@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """
-將專案靜態檔同步至 leisure.org.hk FTP（/web）。
-憑證：環境變數 FTP_HOST, FTP_USER, FTP_PASS；未設則用專案預設。
+（已停用自動化）僅供本機手動備份／舊主機遷移時使用。
+官網現由 GitHub Pages 提供，請改用 git push，勿再依賴 FTP 更新。
+
+憑證：環境變數 FTP_HOST, FTP_USER, FTP_PASS。
 
 用法：python ftp_sync.py
 """
@@ -53,11 +55,17 @@ def ftp_host_candidates():
 
 
 def ftp_config():
+    password = os.environ.get('FTP_PASS', '').strip()
+    if not password:
+        print('錯誤：請設定環境變數 FTP_PASS（本機或 GitHub Actions Secret）。')
+        raise SystemExit(1)
+    remote_dir = os.environ.get('FTP_REMOTE_DIR', '').strip() or '/web'
+    user = os.environ.get('FTP_USER', '').strip() or 'leisureadminftp'
     return (
         ftp_host_candidates(),
-        os.environ.get('FTP_USER', 'leisureadminftp'),
-        os.environ.get('FTP_PASS', 'osBdH45#'),
-        os.environ.get('FTP_REMOTE_DIR', '/web'),
+        user,
+        password,
+        remote_dir,
     )
 
 
