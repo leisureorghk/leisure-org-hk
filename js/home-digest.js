@@ -26,6 +26,44 @@
     }
   }
 
+  function fmtDateTime(iso) {
+    if (!iso) return '';
+    try {
+      var d = new Date(iso);
+      if (isNaN(d.getTime())) return iso;
+      return d.toLocaleString('zh-HK', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+        hour: 'numeric',
+        minute: '2-digit',
+        hour12: true,
+      });
+    } catch (e) {
+      return iso;
+    }
+  }
+
+  function renderUpdatedMeta(updatedAt) {
+    var metaBar = document.getElementById('home-digest-meta-bar');
+    if (!metaBar || !updatedAt) return;
+    metaBar.innerHTML =
+      '<span class="digest-badge" role="status">摘要清單</span>' +
+      '<span class="digest-updated">最後更新：' +
+      esc(fmtDateTime(updatedAt)) +
+      '</span>';
+    metaBar.hidden = false;
+    metaBar.removeAttribute('hidden');
+  }
+
+  function renderPublishedDate(iso) {
+    var d = fmtDate(iso);
+    if (!d) return '';
+    return (
+      '<span class="digest-card-date" title="原文發布日期">原文 ' + esc(d) + '</span>'
+    );
+  }
+
   var section = document.getElementById('home-digest-section');
   var grid = document.getElementById('home-digest-grid');
   if (!section || !grid) return;
@@ -47,6 +85,7 @@
       return r.json();
     })
     .then(function (data) {
+      renderUpdatedMeta(data.updatedAt);
       var items = (data.items || []).slice(0, 3);
       if (!items.length) {
         showSection();
@@ -81,9 +120,7 @@
             esc(sum) +
             '</p>' +
             '<div class="digest-card-footer">' +
-            '<span class="digest-card-date">' +
-            esc(fmtDate(it.publishedAt) || '') +
-            '</span>' +
+            renderPublishedDate(it.publishedAt) +
             '<a class="digest-card-link" href="' +
             esc(it.url) +
             '" target="_blank" rel="noopener noreferrer">閱讀原文</a>' +

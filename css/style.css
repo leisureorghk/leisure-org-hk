@@ -2515,6 +2515,11 @@ p { margin-bottom: var(--spacing-sm); }
     background: linear-gradient(180deg, rgba(30, 87, 153, 0.06) 0%, transparent 58%);
 }
 
+.home-digest-meta-bar {
+    margin-top: calc(-1 * var(--spacing-sm));
+    margin-bottom: var(--spacing-lg);
+}
+
 .home-digest-grid {
     display: grid;
     grid-template-columns: 1fr;
