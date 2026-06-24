@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-23T05:20:37.499Z",
+  "updatedAt": "2026-06-24T05:11:54.484Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "腦癌患者劍指今年英聯邦運動會獎牌",
-      "url": "https://www.bbc.com/sport/swimming/articles/ckg84jyrny4o?at_medium=RSS&at_campaign=rss",
+      "title": "腦癌患者劍指今夏英聯邦獎牌",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/ckg84jyrny4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-22T16:30:14.000Z",
-      "summary": "蘇格蘭泳將 Archie Goodburn 以新療法抑制無法手術的腦腫瘤生長，目標在 2026 年格拉斯哥主場舉辦的英聯邦運動會上奪得獎牌。",
+      "summary": "蘇格蘭泳手阿奇·古德伯恩以新療法抑制無法切除的腦腫瘤生長，目標在2026年格拉斯哥舉行的本土英聯邦運動會上奪牌。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -15,287 +15,304 @@
           "alt": "Scottish swimmer Archie Goodburn"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/15ce/live/a540ab80-6eb9-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "Thomas Tuchel talks to Jude Bellingham during a hydration break"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/13ae/live/7b577060-6f54-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Jude Bellingham in a post-match interview with BBC Sport after England played Ghana in the 2026 World Cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4211/live/deb469b0-6e5f-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "Thomas Tuchel"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5fa2/live/c93620a0-6f5f-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Micah Richards, Kelly Somers, and Alan Shearer"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/82d3/live/e6ad1440-6dca-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Thomas Tuchel throwing a baseball and Sami Mokbel"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8cdb/live/a9d0a590-6f56-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Ghana fans celebrate after their draw with England"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5230/live/bc5f0790-6e8b-11f1-b1db-af71d47507d6.jpg",
-          "alt": "Olivier Giroud talking about Lionel Messi in the BBC studio"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/02f5/live/624be3c0-6f55-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Alan Shearer"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b769/live/478ec480-6e6f-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "A bagpiper on rollerblades"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bcfa/live/606cf520-6f56-11f1-a929-5d515c16ae41.jpg",
+          "alt": "England fans"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0nsw5g8.jpg",
-          "alt": "Olivier Giroud, Kylian Mbappe and Erling Haaland"
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0ntq6p2.jpg",
+          "alt": "Stormzy"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/f7d1/live/4c2b5e40-6e47-11f1-8546-8f19e4fe30f4.jpg",
           "alt": "Starmer: What Went Wrong?"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/5bb7/live/c46746e0-6e14-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Football Daily at the World Cup"
+          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0l7jnbt.jpg",
+          "alt": ""
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/0627/live/edfe9ef0-6e1d-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "World Cup 2026"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/4f20/live/fa953be0-53cd-11ef-b2d2-cdb23d5d7c5b.jpg",
+          "alt": "The Young Offenders"
         }
-      ]
+      ],
+      "bodyZh": "腦癌無礙 Goodburn 的格拉斯哥頒獎台夢想 - BBC Sport\n\nBBC 主頁\n\n跳至內容\n\n無障礙幫助\n\n您的帳戶\n\n主頁\n\n新聞\n\n體育\n\n地球\n\n精華\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n更多選單\n\n更多選單\n\n搜尋 BBC\n\n主頁\n\n新聞\n\n體育\n\n地球\n\n精華\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n關閉選單\n\nBBC 體育\n\n選單\n\n主頁\n\n世界盃\n\n足球\n\n板球\n\n一級方程式\n\n欖球（聯盟式）\n\n網球\n\n高爾夫\n\n單車\n\n田徑\n\n更多\n\n運動總覽\n\n美式足球\n\n田徑\n\n籃球\n\n拳擊\n\n板球\n\n單車\n\n飛鏢\n\n傷殘人士體育\n\n足球\n\n一級方程式\n\n愛爾蘭式運動\n\n高爾夫\n\n體操\n\n賽馬\n\n混合武術\n\n賽車\n\n投球\n\n奧運項目\n\n欖球（聯盟式）\n\n欖球（聯合式）\n\n士碌架\n\n游泳\n\n網球\n\n完整運動總覽\n\n體育更多內容\n\n英格蘭\n\n蘇格蘭\n\n威爾斯\n\n北愛爾蘭\n\n新聞推送\n\n幫助與常見問題\n\n主頁\n\n世界盃：賽程\n\n神射手\n\n這位腦癌患者以今夏共運獎牌為目標\n\n圖片來源：Getty Images\n\n圖片說明：Archie Goodburn 保持蘇格蘭 50 米蛙式紀錄\n\n記者：Kheredine Idessane\nBBC 蘇格蘭體育資深記者\n\n發佈日期：2026 年 6 月 22 日\n\n距離格拉斯哥 2026 尚有一個多月，但泳手 Archie Goodburn 已雞皮疙瘩掉滿地。\n\n部分原因是他在末期腦癌的抗爭中迎來了轉機，部分原因是眼前已能看見自己踏入共運泳池那一刻——觀眾的歡呼聲響徹雲霄，不只是為了代表國家，更是為了在 50 米蛙式中奪得一枚意義非凡的獎牌。\n\n「那將是我一生中最自豪的時刻，」這位 24 歲的年輕人談及可能在頒獎台上佔一席位時說道。\n\n「我一定會徹底崩潰，要感謝的人太多了。光是想到這裡，我已經忍不住眼眶泛紅。」\n\n這話毫不誇張。這是一位真正了不起的年輕人。一位傑出的運動員，壽命被無法根治的腦腫瘤大幅縮短，卻依然設法參與新藥物計劃，獲得改變命運的治療，更在確診後打破了自己保持的蘇格蘭 50 米蛙式紀錄，希望能幫助其他病友。\n\n「確診後還能游出個人最佳成績，如果你告訴我這個，我在 2024 年 5 月的診症室裡根本不會相信，」他解釋道。\n\n「我一直全力以赴，目前備戰這些運動會的狀態是我人生中最好的。\n\n「我近期的泳速，放在過去任何一屆共運會都足以奪牌；即使今屆可能創下歷來最快的成績，我肯定已把目標鎖定在那個頒獎台上。」\n\n說到這裡，他手臂上的汗毛又豎了起來。\n\n「想到這裡我就起雞皮疙瘩，」他說。「過去四年（自伯明翰 2022 以來）我成熟了很多，而這很大程度上要歸功於我的確診，以及那些關於什麼才是真正重要的殘酷現實。\n\n「有時候游泳跟其他事情比起來似乎顯得不那麼重要，但其實我們接受治療、經歷那些艱辛，都是為了能做開心的事。我在那些時刻提醒自己這一點，然後就會感覺自己像個小孩子一樣。」\n\nGoodburn 一年前接受 BBC 激動人心的訪問時，他目前接受的治療尚未正式獲批。\n\n他的故事的力量為對抗腦癌的鬥爭帶來了希望的信息，他在爭取該藥物上市的運動中發出了有力的聲音。\n\n他自己的進展令人鼓舞。腫瘤無法手術切除，但生長速度已有所放緩。\n\n「這表明當英國政府真正採取行動、盡力盡快審批藥物時，一切皆有可能，」他說。\n\n「上次我們談過的那種藥物，經過那次訪談後已獲批准，而得益於此，我能夠重返訓練，創下生涯最佳表現之一。\n\n「我最近也剛從愛丁堡大學以一等榮譽（化學工程）畢業了，所以我要感謝很多人，或許還有那麼一點點運氣。我現在的狀態好極了，真的很期待這個夏天。」\n\n說到這裡，他後頸的汗毛又豎了起來。這個年輕人仍不知道自己能否活到 40 歲，卻能夠設想自己克服一切困難贏得獎牌的壯舉——那一刻將會讓 Tollcross 游泳中心的屋頂都為之震動。\n\n「這是我在這次訪談中第二次起雞皮疙瘩，」他說。「足球迷和欖球迷一定明白那種胸口感到踏實的感覺。\n\n「我在游泳中唯一有過那種感覺的時刻，是在伯明翰跟在 Adam Peaty 身後走進場地的時候。那跟只是聽到有人在為你歡呼完全不同，你能真正感受到聲波穿透全身。\n\n「我希望這能給我們帶來優勢，在那百分之幾秒的差距上分出勝負。」\n\n如果有人值得一枚獎牌，那一定是 Goodburn。有件事是肯定的：沒有人的心理素質會比他更強。\n\n而運動會結束後，他仍會繼續倡議腦癌意識的工作。\n\n「我們談的是能改變生命的藥物——這是最常見的腦癌類型，患者的預期壽命只有 12 至 18 個月，」他說。「一個月對他們剩餘的時間而言，是相當大的一部分。\n\n「在政府或政策委員會開會作決策時，這或許看起來不算多，但每一天、每一小時都很重要。所以我們這些倡議組織大力呼籲設立一個國家腦癌專員，以盡量簡化整個流程。」"
     },
     {
       "title": "泳會呼籲學校加強水中安全教育",
-      "url": "https://www.bbc.com/news/articles/cx2xq1pz393o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xq1pz393o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-22T05:08:04.000Z",
-      "summary": "由秋季起，小學和中學將引入全新的水中安全教育論壇。",
+      "summary": "從秋季起，新的水安全論壇將引入中小學課堂。",
       "sourceName": "BBC 新聞（健康）",
       "sourceId": "bbc-health",
       "images": [
         {
-          "src": "https://static.files.bbci.co.uk/bbcdotcom/web/20260616-142550-2eb0b085ec-web-3.10.0-4/grey-placeholder.png",
-          "alt": ""
+          "src": "https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/c202/live/39380980-6e0d-11f1-9110-95eb626f214e.jpg",
+          "alt": "a swimming lesson in progress in a raised swimming pool. The pool is segregated into swimming lanes with a student being shown how to use a float by an instructor"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c202/live/39380980-6e0d-11f1-9110-95eb626f214e.jpg.webp",
-          "alt": "BBC a swimming lesson in progress in a raised swimming pool. The pool is segregated into swimming lanes with a student being shown how to use a float by an instructor"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0998/live/87913390-6bec-11f1-b1db-af71d47507d6.jpg.webp",
+          "src": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/0998/live/87913390-6bec-11f1-b1db-af71d47507d6.jpg",
           "alt": "A white man stands outside a swimming pool looking off to the side of the camera talking."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b88b/live/e7c107f0-6beb-11f1-8e1d-bbbb1017d210.jpg.webp",
+          "src": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b88b/live/e7c107f0-6beb-11f1-8e1d-bbbb1017d210.jpg",
           "alt": "a child swimmign with arm bands"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6398/live/471b91b0-6c3d-11f1-8546-8f19e4fe30f4.jpg.webp",
-          "alt": "Theo Sebastian-Jenkin, then four-years old, sitting up on a hospital bed wearing a spider man costume while staring straight at the camera and playing with super hero toys."
+          "src": "https://ichef.bbci.co.uk/ace/standard/776/cpsprodpb/6f05/live/a294a4c0-447c-11f1-b545-b533bcf4cad2.png",
+          "alt": "Northcroft Lido in Newbury - images shows waterslides, splash pads and a big 50m outdoor pool"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/4d7b/live/f7d6e640-6e49-11f1-8a85-d1d176b992ab.jpg.webp",
-          "alt": "Dame Hilary Cass is sat looking at the camera in a meeting room. She is in front of a glass wall with a geometric pattern."
+          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/D8B8/production/_131308455_mediaitem131305357.jpg",
+          "alt": "pop-up pool"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/e92c/live/8caa9fd0-6e74-11f1-af12-adba0638fbd4.png.webp",
-          "alt": "Lisa McNally pictured in front of a white background. She has shoulder length dark blonde hair and is wearing a black necklace and black top."
+          "src": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ef89/live/3546c0f0-6968-11f0-9519-e3a8ae3ab590.jpg",
+          "alt": "A man smiles at a pool on a sunny day."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2fbc/live/9f1f85f0-6e23-11f1-bf93-41ce9254b46a.jpg.webp",
-          "alt": "Lucy is wearing glasses and a necklace, posing as if she is trying to pinch the sun at sunset"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d3a0/live/78e3fc00-6f2b-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Sun coming over the top of a British house"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2588/live/b5b23bc0-5436-11f1-97ae-1b4b9bb4c9eb.jpg.webp",
-          "alt": "A woman wearing a sleeveless top and sunglasses holds a battery-operated fan in her hand while she drinks from a bottle of water."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e3c6/live/18311e50-6f13-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Nigel Farage wearing a purple tie"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/60b4/live/a3321300-6f0a-11f1-b1db-af71d47507d6.jpg",
+          "alt": "A court sketch of a man with short grey hair and glasses. He wears a dark suit."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1c71/live/f26f1530-6edd-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Catherine Burne holds an ice lolly in a kitchen with water bottles"
         }
       ],
-      "bodyZh": "南安普敦游泳會呼籲學校加強水中安全教育\n\n所有兒童在離開學校前，都應該學會至少游25米，這是現有課程的一部分。\n\n游泳課正受到泳池關閉和成本上升的影響，但隨着9月新課程的推出，重點正轉向水中安全。從秋季開始，一個新的「水安全論壇」將被引入中小學，其框架旨在教導兒童如何游泳，以及在陷入危險情況時如何求生。\n\n南安普敦市游泳會表示，首先需要在學校加強游泳教學，還有更多工作要做。對許多兒童來說，游泳不僅是一項有趣的活動，更是一項重要的生存技能，有朝一日可能挽救他們的生命。\n\n南安普敦 Southampton England 游泳總會 Swim England 的數據顯示，約九成受訪兒童表示喜歡游泳，但只有七成七的兒童在小学畢業時能游25米——這只是一個標準泳池的長度。\n\n主教練 Matt Heathcock 表示，收費是影響市民游泳的一大因素：「就我和家人而言，游一小時泳隨時要花超過20至25鎊。加上泳池相繼關閉，游泳課也越來越貴。」\n\nMatt Heathcock 自幼便積極參與游泳運動，父親本身亦是教練，他現時帶領南安普敦市游泳會。自疫情以來，全國各地泳池因成本上漲及使用率偏低而相繼關閉，國家水安全經理 Adam Goymer 直斥這是「糟糕的投資」：「這無疑是對政府的一個行動呼籲，要他們投資營運泳池。那些有幸擁有專屬泳池的學校，若因成本問題而無法保留，那將是莫大的損失。」\n\n五月底熱浪期間，英國至少有11人在水浸意外中喪生，包括在法恩伯勒 Hawley Lake 附近遇難的一名14歲少年。\n\n本周，南安普敦市游泳會在攝政公園社區學院 Regent's Park Community College 的泳池教導兒童游泳和漂浮。然而，進入泳池的問題依然存在，焦點正轉向教導兒童如何在水中的安全意識。\n\n目前，兒童在小學階段須按課程學習游25米。雖然是必修項目，但並非所有學校都有執行，而且難以監管。\n\n在水安全守則 Water Safety Code 納入課程後，目標是教導兒童關鍵的安全意識，例如「停一停，想一想」、「留在原地」、「漂浮」及「致電999」。\n\n樸茨茅夫大學 Portsmouth University 生理學教授、國家水安全論壇 National Water Safety Forum 主席 Mike Tipton 表示，學會漂浮是求生的關鍵。\n\n國家水安全論壇的最新數據顯示，在8至18歲的溺斃者中，六成一被親友形容為懂得游泳。Mike 解釋：「因為你能在室內泳池游25米，並不代表你能在開放水域生存。如果你因為衝入水中而陷入冷水困境，那麼『漂浮求生』就是關鍵信息。翻身仰面，頭向後仰入水中，盡量減少動作，直到呼吸回復平穩——這大約需要一分鐘。」"
+      "bodyZh": "南安普敦游泳會呼籲加強學校水上安全教育\n\n游泳課正受到泳池關閉及成本上升的影響，但隨着新課程將於九月推出，外界焦點正轉向水上安全。\n\n從秋季起，針對中小學推出的新「水上安全論壇」（Water Safety Forum）將引入課堂。\n\n其框架旨在教導兒童游泳技巧，以及在危險情境中如何求生。\n\n南安普敦市游泳會（City of Southampton Swimming Club）表示，首先要做的就是在學校加強游泳教學。\n\n對許多兒童而言，游泳不僅是趣樂活動，更是一項重要的求生技能，有朝一日或可救命。\n\n根據主管機構 Swim England 的調查，南英格蘭約九成兒童表示喜歡游泳。\n\n然而，僅得七成七的兒童在小學畢業時能游畢 25 米——即標準泳池的長度。\n\n主教練 Matt Heathcock 表示，費用是影響游泳的最大因素：「就我及家人而言，游一小時泳便要花費超過 20 至 25 英鎊。隨着泳池相繼關閉，課程收費也越來越貴。」\n\n疫情以來，全國各地泳池因成本上漲及使用率低迷而接連關閉，國家水上安全經理 Adam Goymer 形容這是「糟糕的投資」。\n\n「這無疑是對政府的一個行動呼籲，必須投資興建泳池以維持運作。那些有幸擁有自設泳池的學校，若因費用問題而無法繼續營運，實在是莫大損失。」他說。\n\n五月熱浪期間，英國至少 11 人在水上意外中喪生，其中包括在法恩伯勒附近 Hawley Lake 溺斃的一名 14 歲少年。\n\n不過，在泳池使用問題仍然棘手的同時，焦點正轉向教導兒童在水中如何確保安全。\n\n目前，小學課程規定學生須學會在泳池游畢 25 米。雖然屬必修科目，但並非所有學校均有實施，亦難以監察。\n\n新課程納入「水上安全守則」（Water Safety Code）後，學童將學習關鍵安全資訊，包括「停一停，想清楚」、「留在原地」、「漂浮」及「致電 999」。\n\n樸茨茅夫大學生理學教授、國家水上安全論壇主席 Mike Tipton 表示，學會漂浮是求生的關鍵。\n\n最新數據顯示，8 至 18 歲溺斃者中，六成一被親友形容為懂得游泳。\n\nMike 指出：「能在室內泳池游 25 米，並不代表你有能力在戶外開放水域存活。因此，如你不慎掉入冷水——也許是因為一時衝動下水——『漂浮求存』便是關鍵。翻身仰躺，頭部向後傾入水中，盡量減少動作，直至呼吸恢復正常，約需一分鐘。」"
     },
     {
-      "title": "家長「面對未知」特殊教育需要學童無處可讀",
-      "url": "https://www.bbc.com/news/articles/c3ryp29l1pqo?at_medium=RSS&at_campaign=rss",
+      "title": "特殊教育需要學童無學位　家長陷困境",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryp29l1pqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-20T05:57:29.000Z",
-      "summary": "Amy Gibney 表示，她孩子的學校共有八個家庭獲悉明年將沒有學位可供就讀。",
+      "summary": "艾米·吉布尼表示，她是孩子就讀學校中八個家庭之一，剛獲悉明年沒有學位。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
         {
-          "src": "https://static.files.bbci.co.uk/bbcdotcom/web/20260616-142550-2eb0b085ec-web-3.10.0-4/grey-placeholder.png",
-          "alt": ""
+          "src": "https://ichef.bbci.co.uk/ace/standard/738/cpsprodpb/977f/live/a662ccb0-6bed-11f1-8150-ff9f130ca186.jpg",
+          "alt": "A woman with long blonde hair wears a pink top as her small ginger haired son sits on her lap. She is looking at the camera while he looks of to the left. He wears a black long-sleeve t-shirt. Behind them is a blue wall with wooden beams on the wall."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/977f/live/a662ccb0-6bed-11f1-8150-ff9f130ca186.jpg.webp",
-          "alt": "Amy Gibney A woman with long blonde hair wears a pink top as her small ginger haired son sits on her lap. She is looking at the camera while he looks of to the left. He wears a black long-sleeve t-shirt. Behind them is a blue wall with wooden beams on the wall."
+          "src": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f34e/live/f2f607a0-6bec-11f1-8150-ff9f130ca186.jpg",
+          "alt": "A young boy with ginger hair sits in front of a yellow wall, wearing a purple jumper. Over his left shoulder is a clear window with blue railing behind it."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/f34e/live/f2f607a0-6bec-11f1-8150-ff9f130ca186.jpg.webp",
-          "alt": "Amy Gibney A young boy with ginger hair sits in front of a yellow wall, wearing a purple jumper. Over his left shoulder is a clear window with blue railing behind it."
+          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5273/live/5d3cdcd0-b4b7-11f0-b2a1-6f537f66f9aa.jpg",
+          "alt": "Nick Matheson has a grey beard, grey/whitish hair that is gelled into a spike and grey round glasses. He is wearing a navy shirt, white shirt and orange tie, and behind him is the yellow white Alliance banner"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/5273/live/5d3cdcd0-b4b7-11f0-b2a1-6f537f66f9aa.jpg.webp",
-          "alt": "Alliance Party Nick Matheson has a grey beard, grey/whitish hair that is gelled into a spike and grey round glasses. He is wearing a navy shirt, white shirt and orange tie, and behind him is the yellow white Alliance banner"
+          "src": "https://ichef.bbci.co.uk/ace/standard/921/cpsprodpb/b5f9/live/3e942570-6bf2-11f1-8631-5f302ec8cd09.jpg",
+          "alt": "A young boy wears a red top and black shorts. He has blue earmuffs on. He sits in a soft play area, holding on to a blue foam pole with his left hand."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b5f9/live/3e942570-6bf2-11f1-8631-5f302ec8cd09.jpg.webp",
-          "alt": "Sarah Duncan A young boy wears a red top and black shorts. He has blue earmuffs on. He sits in a soft play area, holding on to a blue foam pole with his left hand."
+          "src": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/0f99/live/727a2d90-7bed-11ef-b282-4535eb84fe4b.jpg",
+          "alt": "School pupil"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b81a/live/ad3584e0-6997-11f1-9f1e-3f3de09371ef.jpg.webp",
-          "alt": "A group of children in a classroom. They all have their own tablet device and are wearing a blue school uniform"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7179/live/3186ad90-68c2-11f1-8e1d-bbbb1017d210.jpg.webp",
-          "alt": "Three young people in school uniforms"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c2fd/live/f53fcfa0-6651-11f1-8546-8f19e4fe30f4.jpg.webp",
-          "alt": "A boy is dressed up like a policeman. He is holding an inflatable truncheon and a plastic police helmet. He is standing in a school gymnasium and other children are seated on the floor behind him"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9dd7/live/ed239d50-640e-11f1-b639-cdbeabf73caa.jpg.webp",
-          "alt": "A man with grey and black hair, he is wearing a dark blazer, white shirt and red tie"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/f85d/live/27e2a850-5f64-11f1-8dad-8347ac6f73d8.jpg.webp",
+          "src": "https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/f85d/live/27e2a850-5f64-11f1-8dad-8347ac6f73d8.jpg",
           "alt": "A boy with dark hair has his arm around a woman with dark hair, they are both wearing blue and white tops."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5998/live/243be200-bc82-11f0-bb31-6b973915c4b7.jpg",
+          "alt": "Bernie Davis has shoulder length blonde hair and blue eyes, and is wearing a red blazer as she stares at the camera."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d3a0/live/78e3fc00-6f2b-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Sun coming over the top of a British house"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e3c6/live/18311e50-6f13-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Nigel Farage wearing a purple tie"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/60b4/live/a3321300-6f0a-11f1-b1db-af71d47507d6.jpg",
+          "alt": "A court sketch of a man with short grey hair and glasses. He wears a dark suit."
         }
-      ]
+      ],
+      "bodyZh": "貝爾法斯特：特殊教育需求學童無學位，家長苦等 BBC News\n\n特殊教育需求（SEN）學校學童的家長形容，獲告知子女明年沒有學校學位可用，情況「令人崩潰」。\n\n艾美·吉布尼（Amy Gibney）表示，她是其中一位在上周四獲告知貝爾法斯特所有SEN學校均已額滿或無法滿足子女需要的家長，涉及八名家長。\n\n這批學童即將從橡樹學校及評估中心（Oakwood School and Assessment Centre）畢業，該校招收至P4年級的學生，但至今仍未獲分配其他學校的學位。\n\n教育當局（Education Authority，簡稱EA）表示，SEN學位的需求持續超出供應，意味著家庭首選的學校往往無法接納。\n\n橡樹學校與區內多所主流學校一樣，只提供至P4年級的教育，意味學生必須轉往其他學校完成小學及中學階段。\n\n吉布尼向BBC News NI表示，她「不會希望任何人面對這種不確定」。\n\n家長們表示，多名將於九月離校的學生獲告知沒有學校學位可供就讀。\n\n吉布尼的兒子利維（Levi）患有自閉症，無法以言語表達，並有嚴重的學習障礙。\n\n他九月將入讀哪所學校，目前仍未明朗。\n\n「八個家庭及八個孩子都面對同樣的情況，」她說。\n\n「這似乎每年都成為問題，這些學校明知存在這個問題，為何不更早為我們的孩子優先安排學位？這只會繼續發生。」\n\n她表示，部分家長收到的信件稱沒有學位供其子女就讀，「可能會有另類安排」。\n\n「我們甚至不知道那些安排是什麼，」她說。\n\n「是在家自學？還是等待學位空缺？可能要等多久？會不會是住宿式喘息服務？\n\n「他們需要一個能培育他們成長的地方，」她續稱。\n\n「我不會希望任何人經歷這些，實在太瘋狂了。\n\n「我們的孩子依賴規律作息，需要穩定的環境。」\n\n「完全失敗」\n\n尼科爾·馬蒂森（Nick Mathison）是Stormont教育委員會的主席。\n\n這位Alliance黨籍MLA形容，受影響家長的情況「絕對令人崩潰」。\n\n「我們不會預期任何其他完成P4的孩子在教育系統中無處可去，」他說。\n\n他補充，教育當局在規劃教育旅程的下一步方面存在「完全失敗」，「家長們合理地感到被辜負」。\n\n他表示，雖然近年教育當局面對的壓力更加「明顯」，但這個問題本應更早處理。\n\n「這並非新問題，已醞釀多年。\n\n「如果一名孩子在特殊學校開始教育旅程——我們知道特殊學校只辦至P4——規劃應該從那時就開始。」\n\n「每年都成為問題」\n\n吉布尼表示，她之前已曾歷利維入學的不確定性。\n\n他準備離開幼兒園時，她說他們等了整個夏天才知道兒子能否入學。\n\n「我曾經是那名家長，坐在那裡不知道孩子九月是否開始上幼兒園。這就是為何我不能再經歷一次，」她補充。\n\n「這一切帶來的焦慮才是最令人擔憂的」。\n\n吉布尼表示，教育當局建議她「每週致電」等候進度更新。\n\n「非常令人沮喪」，她說。\n\n她表示上周四獲告知，本月底可能會有教育當局的最新消息。\n\n「你必須為所有事情據理力爭」\n\n薩拉·鄧肯（Sarah Duncan）的八歲兒子艾登（Aodhán）同樣沒有學位。\n\n他患有自閉症、專注力不足及過度活躍症（ADHD）、嚴重學習障礙，且無法以言語表達。\n\n她獲告知，她申請的三所學校均不會有學位供艾登就讀。\n\n她表示，原本會非常高興他入讀任何一所學校，但獲告知它們無法「滿足他需要的複雜程度」，或沒有足够學額。\n\n「影響是毀滅性的。身體上、精神上。對整個家庭來說都是毀滅性的，」鄧肯說。\n\n她補充，「所有事情」都需要力爭，而「為艾登據理力爭耗盡我所有力量，無論做什麼都令人氣餒，始終沒有任何進展」。\n\n鄧肯形容兒子是「一個情況複雜的孩子」，「需要一個能應付這些需要的環境」。\n\n「據我所知，除了特殊學校外，沒有其他設施適合他，」她說。\n\n「他在學校需要密集的職業治療、言語及語言治療、物理治療。\n\n「這不僅關乎他的學習，還涉及進食、如廁、照顧他。」\n\n教育當局在聲明中表示，他們正在「積極努力為所有P4轉校學生確保學位，並與家長協商，考慮每名兒童的需要，在學位獲確認後通知家屬」。\n\n聲明補充，學額緊張是「嚴重關注的事項」。\n\n「教育廳長正透過已提交行政部門的SEN資本投資計劃設法解決這個問題。」"
     },
     {
-      "title": "殘疾鄉郊司機將成流動傷殘津貼削減最大受害者",
-      "url": "https://www.bbc.com/news/articles/cg53d1jepneo?at_medium=RSS&at_campaign=rss",
+      "title": "殘疾鄉郊司機將最受流動保險削減影響",
+      "url": "https://www.bbc.co.uk/news/articles/cg53d1jepneo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-16T05:03:12.000Z",
-      "summary": "蘇格蘭政府在與 Motability 協商期間，已暫緩實施英國新規定的里程限制及調高自付額費用。",
+      "summary": "蘇格蘭政府在與流動保險機構談判期間，暫停了英國新的里程限制及較高的超額收費。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
         {
-          "src": "https://static.files.bbci.co.uk/bbcdotcom/web/20260616-142550-2eb0b085ec-web-3.10.0-4/grey-placeholder.png",
-          "alt": ""
+          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/47ce/live/f3131f10-68d7-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Close-up of a person wearing a blue hoodie sitting in the front seat of a car with a seatbelt on."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/47ce/live/f3131f10-68d7-11f1-8546-8f19e4fe30f4.jpg.webp",
-          "alt": "BBC Close-up of a person wearing a blue hoodie sitting in the front seat of a car with a seatbelt on."
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a4da/live/00c8ad90-01eb-11f1-a03a-23bd42774fe2.jpg",
+          "alt": "A man is in the middle of getting from a wheelchair into the driver&#x27;s seat of a car - we can see the driver&#x27;s side door open, where the wheelchair is sitting empty. The man is mostly in the seat with some of his head still leaning out the door. The car is a silver estate, and behind where it is parked is a green bush."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/a4da/live/00c8ad90-01eb-11f1-a03a-23bd42774fe2.jpg.webp",
-          "alt": "Getty Images A man is in the middle of getting from a wheelchair into the driver&#x27;s seat of a car - we can see the driver&#x27;s side door open, where the wheelchair is sitting empty. The man is mostly in the seat with some of his head still leaning out the door. The car is a silver estate, and behind where it is parked is a green bush."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0ff8/live/634b4d20-68d8-11f1-8e1d-bbbb1017d210.jpg.webp",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/0ff8/live/634b4d20-68d8-11f1-8e1d-bbbb1017d210.jpg",
           "alt": "Close-up of a person wearing black-framed glasses and a blue top, seated at a desk in a modern office with glass walls and chairs in the background."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2bad/live/17c8d8c0-6e25-11f1-9fdc-51e252bb92b4.jpg.webp",
-          "alt": "A large circle of raised sand around a hole with shells and rocks surrounding it."
+          "src": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c0f8/live/efdffda0-2de9-11f1-b297-95b0a0a8331e.jpg",
+          "alt": "Keron Day at the back of his Wheelchair Accessible Vehicle with St Michael&#x27;s Mount in the background"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/a80f/live/89a7db60-6e59-11f1-8546-8f19e4fe30f4.jpg.webp",
-          "alt": "Peter Murrell, who is bald with glasses, is pictured on a busy street looking deep in thought"
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b589/live/4a1220b0-cbb0-11f0-940d-21b927cad36a.jpg",
+          "alt": "Young 18 year old man sits in the passenger seat of a black VW car, his arm resting on the open window as he looks to camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/708e/live/be19c140-6e1a-11f1-806d-d1ff7e093f07.png.webp",
-          "alt": "A still from a video showing a bare-chested man wearing dark trousers standing in the middle of a street. He is carrying a weapon in his hand. The still is blurry and the man&#x27;s face has been delibrately blurred."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d3a0/live/78e3fc00-6f2b-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Sun coming over the top of a British house"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6800/live/08d2ddd0-6e42-11f1-8546-8f19e4fe30f4.jpg.webp",
-          "alt": "Two  men stand side-by-side posing for a photograph. They are both wearing dark suits, white shirts with ties."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e3c6/live/18311e50-6f13-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Nigel Farage wearing a purple tie"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/57a7/live/2d078ca0-6e29-11f1-b651-059efc9aa32f.jpg.webp",
-          "alt": "Michael Gove and Nicola Sturgeon sitting next to each other at a table. Gove has his arms closed, Sturgeon is leaning towards him. They are looking at each other directly in the eye, stony-faced."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/60b4/live/a3321300-6f0a-11f1-b1db-af71d47507d6.jpg",
+          "alt": "A court sketch of a man with short grey hair and glasses. He wears a dark suit."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1c71/live/f26f1530-6edd-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Catherine Burne holds an ice lolly in a kitchen with water bottles"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/089a/live/c6635690-6f28-11f1-8e1d-bbbb1017d210.jpg",
+          "alt": "Woman tests uses diabetes pen in the tip of her left index finger"
         }
-      ]
+      ],
+      "bodyZh": "殘疾鄉郊司機或受Motability改革重擊\n\n殘疾人士憂慮，蘇格蘭鄉郊地區的司機可能因Motability計劃的改動而失去獨立出行能力，或面臨巨額額外費用。\n\nMotability計劃讓殘疾人士以部分傷殘津貼租用車輛，許多人依靠這些車上班、就醫及應付日常生活。新里程限制及更高保險自負額將於7月起在英國其他地區推行，Motability表示此乃應對成本上漲之必要措施。有關改動原定在蘇格蘭同步生效，但蘇格蘭政府與Motability之間的磋商令落實日期延後，目前尚不清楚何時推行。\n\n行動人士指出，公共交通匱乏的鄉郊社區將受最大衝擊。\n\n由7月1日起，英國其他地區的新Motability租約將包含每年10,000英里的標準年度里程限額，較以往20,000英里減半。超出限額的司機須為每額外一英里支付25便士。保險、保養、維修及路稅亦已包含在計劃內。\n\n來自Balloch的輪椅使用者Graeme Stuart表示，該建議將影響其工作及日常生活。他依靠Motability車輛前往蘇格蘭國家脊椎損傷中心上班、出席醫療預約，以及參加輪椅冰壺比賽。其現有租約允許三年內行駛最多60,000英里，預計至明年合約結束時將接近該數字。\n\nStuart表示，按建議新規則維持目前的行車模式，三年租約內或需支付約7,500鎊的超里程費用。他說：「如果限額維持在10,000英里，根本毋須考慮。繼續選用Motability實屬不智。」\n\n對許多使用者而言，特別是在公共交通選擇有限的地區，該計劃屬必不可少。Stuart說：「這是我的命脈。沒有這輛車，我的生活質素不可能有現在這樣好。」\n\n他相信，建議的改動可能為在職殘疾人士增添額外障礙。「變相在說：'我們希望你就業，但同時又設置關卡。'」\n\n斯凱島亦有類似憂慮。\n\n使用電動輪椅、居於Broadford的Caroline Gould博士（PhD）依靠專門改裝的無障礙車輛。醫院預約往往需前往Inverness或格拉斯哥，探望94歲母親的往返路程更超過1,200英里。她表示，建議的改動未能反映蘇格蘭偏遠地區的生活實況。「我認為人們最終會無法過自己想要的生活，無法保有期望的獨立。」\n\nGould指出，替代的無障礙交通往往並不存在。「除了使用我的無障礙車輛，我別無選擇。」\n\n殘疾組織同樣表示關注。\n\nSpinal Injuries Scotland行政總裁Maureen Morrison表示，許多殘疾人士已面對就業、醫療及社交活動的種種障礙。她警告，更高的里程費用可能令部分人減少出行或更加孤立。\n\n針對Motability聲稱約73%客戶每年行駛少於10,000英里，她問道：「其餘的人怎麼辦？」\n\nMotability表示，改動乃回應英國政府在秋季預算案公布的稅務措施。該組織估計，相關措施於十年末將使計劃營運成本每年增加約3億鎊。若不作改動，租車費用三年內或需增加約1,100鎊，新措施則旨在將升幅平均壓低至約400鎊。\n\nMotability發言人表示：「我們明白車輛對顧客獨立生活何等重要。」該組織指約四分之三客戶已在新里程限額內行駛，並確認將為少數個案引入例外機制。\n\n蘇格蘭社會公義大臣Shirley-Anne Somerville表示，官員正與Motability合作，以減少不確定性，並確保殘疾人士繼續獲得適切支援。蘇格蘭政府指出，各方正持續磋商，務求在蘇格蘭推行任何改動前達成解決方案。"
     },
     {
-      "title": "陪審員、律師及社工在不無障礙法庭面臨「韌性考驗」",
-      "url": "https://www.bbc.com/news/articles/ckg701z0p01o?at_medium=RSS&at_campaign=rss",
+      "title": "法庭無障礙問題　陪審員律師及社工面臨「考驗」",
+      "url": "https://www.bbc.co.uk/news/articles/ckg701z0p01o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-14T23:29:55.000Z",
-      "summary": "輪椅使用者在法庭遇到無障礙問題，包括電梯故障、危險坡道及不適用的廁所。",
+      "summary": "輪椅使用者在法庭面對的通道問題包括電梯故障、「不安全」的斜台及不合適的洗手間。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
         {
-          "src": "https://static.files.bbci.co.uk/bbcdotcom/web/20260616-142550-2eb0b085ec-web-3.10.0-4/grey-placeholder.png",
-          "alt": ""
+          "src": "https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/2094/live/93cf0940-6672-11f1-bfb6-f5752cbbcf38.png",
+          "alt": "A woman with short purple hair and large blue-rimmed square glasses smiles at the camera. She sits in an electric wheelchair, wearing a shirt with a repeat skull pattern, and a bright pink jacket."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2094/live/93cf0940-6672-11f1-bfb6-f5752cbbcf38.png.webp",
-          "alt": "Vikki Walton-Cole A woman with short purple hair and large blue-rimmed square glasses smiles at the camera. She sits in an electric wheelchair, wearing a shirt with a repeat skull pattern, and a bright pink jacket."
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b234/live/15609780-6673-11f1-bfb6-f5752cbbcf38.png",
+          "alt": "A woman with dark red hair, pulled back into a ponytail, sits in a wheelchair in a sunny garden, with a grey-haired dog on her lap. She is smiling at the camera and wears a blue blouse with a floral print."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b234/live/15609780-6673-11f1-bfb6-f5752cbbcf38.png.webp",
-          "alt": "Victoria Gerrard A woman with dark red hair, pulled back into a ponytail, sits in a wheelchair in a sunny garden, with a grey-haired dog on her lap. She is smiling at the camera and wears a blue blouse with a floral print."
+          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/1642/live/76a9fcc0-6673-11f1-bfb6-f5752cbbcf38.png",
+          "alt": "A young woman with light shoulder length light and large square-rimmed glasses sits in a wheelchair, smiling at the camera. She wears a black top and skirt, and is outside a large office building on a fair day."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1642/live/76a9fcc0-6673-11f1-bfb6-f5752cbbcf38.png.webp",
-          "alt": "Kateryna Pavlyuk A young woman with light shoulder length light and large square-rimmed glasses sits in a wheelchair, smiling at the camera. She wears a black top and skirt, and is outside a large office building on a fair day."
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/057f/live/6bb19ec0-6760-11f1-9146-c76696bad879.jpg",
+          "alt": "A man smiles at the camera, with his hands clasped in front of him, and wears a navy suit, pink shirt and blue tie with small pale dots. Behind him is a stone building, with wooden doors directly behind him."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/057f/live/6bb19ec0-6760-11f1-9146-c76696bad879.jpg.webp",
-          "alt": "Gregory Burke A man smiles at the camera, with his hands clasped in front of him, and wears a navy suit, pink shirt and blue tie with small pale dots. Behind him is a stone building, with wooden doors directly behind him."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d3a0/live/78e3fc00-6f2b-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Sun coming over the top of a British house"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/8979/live/c07915c0-6bf0-11f1-8631-5f302ec8cd09.jpg.webp",
-          "alt": "A wheelchair buggy is in a car park. It looks like a sturdy pushchair with large inflatable grey wheels."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e3c6/live/18311e50-6f13-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Nigel Farage wearing a purple tie"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1ac9/live/c80d9200-52ca-11f1-b4b8-8bc40cabb834.jpg.webp",
-          "alt": "Alison Tilsley and Alex Wood in two separate photographs. Ms Tilsley is smiling at the camera. She is sitting in a wheelchair and holds a cup of orange squash. Mr Wood is smiling in the garden wearing a blue and white shirt which has a graffiti art style."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/60b4/live/a3321300-6f0a-11f1-b1db-af71d47507d6.jpg",
+          "alt": "A court sketch of a man with short grey hair and glasses. He wears a dark suit."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7203/live/d1621a80-6335-11f1-8268-5574e824c854.jpg.webp",
-          "alt": "A woman wearing a pink top and leopard print scarf. She is in a shop with shelves behind her."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1c71/live/f26f1530-6edd-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Catherine Burne holds an ice lolly in a kitchen with water bottles"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/5f11/live/6c837560-59c5-11f1-881a-473372e64622.jpg.webp",
-          "alt": "Man in a beige cap, light blue polo shirt and dark sunglasses stands in front of a floating bus stop as a green bus can be seen driving past."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/089a/live/c6635690-6f28-11f1-8e1d-bbbb1017d210.jpg",
+          "alt": "Woman tests uses diabetes pen in the tip of her left index finger"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/51d7/live/41d61b30-5cb6-11f1-85df-254a1c2059f8.png.webp",
-          "alt": "Bethany Handley is a white woman in her mid 20s. She has long light brown hair with sunglasses on top of her head in a head and shoulders shot. She wears a blue vest and is smiling at the camera. She is outdoors in front of a lake which is out of focus in the background surrounded by grass and trees."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/873d/live/72a793c0-6f39-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Hand pointing at a covered up sign on the side of a stadium"
         }
-      ]
+      ],
+      "bodyZh": "陪審員、律師及社工在無障礙設施不足的法院面對「韌力測試」\n\n殘疾社工Vikki Walton-Cole抵達法院時，已是「疼痛難忍、無法行走」。\n\n當時她尚未全時間使用輪椅，但由於法院沒有現場或附近停車位，從更遠的殘疾人停車位走過來是「巨大努力」。\n\n當她發現法庭僅設樓梯可達時，她「忍不住哭了」。\n\n「作為專業人士以這種狀態到達法院，顯然不太好。」\n\nWalton-Cole表示，這類通道障礙是她離開社工行業的「重大因素」，「因為法院制度中的障礙實在太多」。\n\nBBC獲悉，通道不足的法院對殘疾人士造成多項問題，包括陪審員感到脆弱無助，律師即使與法庭僅咫尺之隔，也被迫透過網絡參與案件。\n\n根據《平等法》，法院須為殘疾人士提供「合理調整」。\n\nHM Courts and Tribunals Service（英國皇室及裁判所服務局）發言人表示：「我們正與殘疾團體密切合作，以減少殘疾人士獲得司法公正時面對的障礙。」\n\n陪審團「理應反映社會」\n\n離開社工行業後，Walton-Cole去年在薩里郡Guildford Crown Court獲傳召擔任陪審員時，體驗了法院的另一面。她當時全情投入參與。\n\n已成為全時間電動輪椅用戶的她，花了數週詢問「基本的通道問題」，但最終因感到「壓力太大」而放棄。\n\n法院表示他們已竭盡所能滿足她的通道需求。\n\nWalton-Cole多次獲告知可豁免陪審服務，但她堅持反對：「作為陪審團，我們理應反映社會。」\n\nVictoria Gerrard是另一位最近收到陪審傳票的輪椅用戶。她今年較早前在蘇格蘭Paisley Sheriff Court擔任陪審員。\n\n她表示，陪審員區域沒有無障礙廁所，「也沒有人實際告訴你：『如果你需要上洗手間，這是處理方法。』」\n\n「這看來似乎並未特別考慮過。」\n\nGerrard無法使用僅設樓梯的陪審員出口通道，只能由職員陪同穿過公眾區域。\n\n這意味著她經常與被告及其家屬擦肩而過，他們「怒視」陪審員，更曾在一次「失控事件」中被警員帶走，令Gerrard感到格外脆弱。\n\n在審訊最後一天，所有其他陪審員一起離開並安排同行交通。Gerrard說她「被獨自留在大樓門口，感到非常暴露」。\n\n「根本沒有人陪我走到門口。」\n\n大律師Holly Girven同為輪椅用戶，她讚揚法院職員「非常出色」，但表示自己同樣面對多項通道挑戰。\n\n她說，有法院最初拒絕讓她進入樓上樓層，擔心一旦發生火警。\n\nGirven形容倫敦Edmonton County Court的無障礙入口是一條陡峭的臨時斜坡，她須由保安推行上去，使用時感到「極不安全」。\n\n「我認為僅僅在幾級台階上架設一個木製臨時斜坡，實在很難說『我們真正做到無障礙』。」\n\n倫敦Wandsworth County Court的電梯一度故障，Girven被迫在一間獨立會議室透過Microsoft Teams參與聆訊，「而所有人，包括我的當事人，都走進了法庭」。\n\n「我與法庭大概只有10米距離。」\n\n「你不會期望醫院沒有輪椅通道。那我就不明白為何部分法院可以例外。」\n\nBBC訪問的多位輪椅用戶均承認，升級老化或受保護建築的法院在複雜程度和成本上均具挑戰，但表示一項簡單改善措施便是讓法院提供更完善的通道資訊。\n\nBBC檢視了英格蘭及威爾斯所有法院提供的資訊，發現無障礙設施的詳盡程度參差不齊。\n\n當我們聯絡法院嘗試收集更詳細的無障礙設施數據時，司法部告知我們，該級別的資訊並非集中存放。\n\n「被無障礙問題突襲」\n\n平權法律大律師Gregory Burke本身是輪椅用戶，亦是提供詳細通道指南的網站AccessAble創辦人。他表示，無障礙不僅涉及設施，亦關乎資訊、態度及尊嚴。\n\nBurke說，一名死因裁判官曾告訴他，他們「很幸運」能獲准坐著向法庭發言；他又說一名法官在他面前當事人說，「別把地方弄壞了」，任由他在法官室內以輪椅移動。\n\n他強調這些事件屬個別例外，「整體而言，司法機構一直非常包容和體諒」。\n\n但他表示，殘疾法院使用者不應「被無障礙問題突襲」，不應在出庭時「被迫接受韌力測試」。\n\n他說，這種額外「認知負擔」會影響律師或證人呈交最佳證供的能力，而這可能「關乎一個人的人身自由、子女監護權，或一間企業能否存續」。\n\n Magistrates' Association（裁判官協會）一份報告發現，通道不足「嚴重打擊士氣，並導致辭職」。\n\n報告提及的問題包括一個位置不當的無障礙廁所，「有輪椅使用者跌下樓梯的風險」。\n\n報告結論：「法院設施未能確保所有法院建築物均無障礙，正侵蝕司法公正的效率運作。」\n\nHMCTS發言人表示：「我們明白在部分建築物中，無障礙仍是挑戰。我們優先確保法院對所有使用者均可達，方式是安排案件在合適的場地審理，並為員工提供關於合理調整的強制培訓，以建立一個符合所有人需要的司法制度。」\n\n蘇格蘭法院及裁判所服務局表示，他們設有專為陪審員而設的網頁，提供無障礙資訊，並有陪審員聯絡主任協助殘疾陪審員。\n\n發言人表示：「我們致力令法院對所有人盡量開放和可達，並歡迎各方就如何改善提供意見。」"
     },
     {
-      "title": "Scotland has more disabled MSPs than ever but challenges remain",
-      "url": "https://www.bbc.com/news/articles/c5y8y5e2v5no?at_medium=RSS&at_campaign=rss",
+      "title": "蘇格蘭殘疾議員人數創新高　惟挑戰依舊存在",
+      "url": "https://www.bbc.co.uk/news/articles/c5y8y5e2v5no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-08T05:28:18.000Z",
-      "summary": "About 24% of the Scottish population identify as disabled, while only 7% of MSPs do - an increase on the previous parliamentary term.",
+      "summary": "蘇格蘭約24%的人口被認定為殘疾人士，惟當中僅7%是議會議員——已較上一屆議會任期有所增加。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
         {
-          "src": "https://static.files.bbci.co.uk/bbcdotcom/web/20260616-142550-2eb0b085ec-web-3.10.0-4/grey-placeholder.png",
-          "alt": ""
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/2b9d/live/cf211970-60eb-11f1-b134-8f27f5ee11a8.jpg",
+          "alt": "Kayleigh Kinross-O&#x27;Neill sits in a wheelchair. She has long brown hair and wears a black and white polka dot dress and carriers a purple book under her arm"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2b9d/live/cf211970-60eb-11f1-b134-8f27f5ee11a8.jpg.webp",
-          "alt": "PA Media Kayleigh Kinross-O&#x27;Neill sits in a wheelchair. She has long brown hair and wears a black and white polka dot dress and carriers a purple book under her arm"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/594d/live/b021d510-60f4-11f1-a1a9-f9b22d7f0b50.jpg.webp",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/594d/live/b021d510-60f4-11f1-a1a9-f9b22d7f0b50.jpg",
           "alt": "Simita Kumar has long dark hair and smiles at the camera. She wears a brown top and stands near a window"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/d215/live/d37e42f0-60f4-11f1-bb63-4f1168d17ecf.jpg.webp",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/d215/live/d37e42f0-60f4-11f1-bb63-4f1168d17ecf.jpg",
           "alt": "Katie Hagmann wears clear glasses and a dark blazer. She has short dark hair and smiles at the camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2bad/live/17c8d8c0-6e25-11f1-9fdc-51e252bb92b4.jpg.webp",
-          "alt": "A large circle of raised sand around a hole with shells and rocks surrounding it."
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/24f1/live/a882b110-2dd4-11f1-a186-bdbec3fa8607.jpg",
+          "alt": "Family photo of three white people. Red haired mum Lynsey, age 44, with cream v-neck jumper sitting beside her husband Mark, age 46, who is bald with a beard and thick black glasses wearing a gray polo neck top. He is holding his daughter Thea who is wearing a black and cream striped jumper. Thea has a breathing and feeding tube coming out from her neck. They are sitting on a couch in a living room with a sliver lamp and wedding photo in the background."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/a80f/live/89a7db60-6e59-11f1-8546-8f19e4fe30f4.jpg.webp",
-          "alt": "Peter Murrell, who is bald with glasses, is pictured on a busy street looking deep in thought"
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1491/live/a956fa00-f2d9-11f0-80cd-e77eaadcaecf.jpg",
+          "alt": "Stephen Reside, who has brown hair combed in a side shed, sits on a leather couch in a living room. he is looking directly at the camera with a serious expression on his face."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/708e/live/be19c140-6e1a-11f1-806d-d1ff7e093f07.png.webp",
-          "alt": "A still from a video showing a bare-chested man wearing dark trousers standing in the middle of a street. He is carrying a weapon in his hand. The still is blurry and the man&#x27;s face has been delibrately blurred."
+          "src": "https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/5474/live/44c7f940-4955-11f1-90fb-fb6472b97b5f.jpg",
+          "alt": "A man wearing a black jacket and hat, sitting in a wheelchair. He has his hands raised in the air."
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6800/live/08d2ddd0-6e42-11f1-8546-8f19e4fe30f4.jpg.webp",
-          "alt": "Two  men stand side-by-side posing for a photograph. They are both wearing dark suits, white shirts with ties."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d3a0/live/78e3fc00-6f2b-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Sun coming over the top of a British house"
         },
         {
-          "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/57a7/live/2d078ca0-6e29-11f1-b651-059efc9aa32f.jpg.webp",
-          "alt": "Michael Gove and Nicola Sturgeon sitting next to each other at a table. Gove has his arms closed, Sturgeon is leaning towards him. They are looking at each other directly in the eye, stony-faced."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e3c6/live/18311e50-6f13-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Nigel Farage wearing a purple tie"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/60b4/live/a3321300-6f0a-11f1-b1db-af71d47507d6.jpg",
+          "alt": "A court sketch of a man with short grey hair and glasses. He wears a dark suit."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1c71/live/f26f1530-6edd-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Catherine Burne holds an ice lolly in a kitchen with water bottles"
         }
-      ]
+      ],
+      "bodyZh": "蘇格蘭有更多殘疾議員，創下歷來新高，但挑戰依然存在\n\n蘇格蘭殘疾議員人數創下歷來新高，但倡議人士表示，議會仍未完全反映其所服務的選民結構。\n\n在該國2022年最近一次人口普查中，有130萬人表示自己有一種長期健康問題或殘疾，限制了日常活動。\n\n這佔總人口的24%，然而在選舉增加後，僅約7%的蘇格蘭議會（MSP）議員自認為殘疾人士。\n\n殘疾政治人物表示，旨在消除障礙的支持措施正幫助更多人進入公共生活，但在殘疾人士加入荷里路德（Hollyrood，蘇格蘭議會大樓）後，仍可做得更多——尤其是對患有隱性殘疾如讀寫障礙或神經多樣性的人士。\n\n部分無障礙改善措施為新一屆議會帶來了實質改變。\n\nKayleigh Kinross-O'Neill以新當選議員身份抵達荷里路德時，作為輪椅使用者，在大樓內行動是她最關注的問題之一。\n\n她說，在她首次進入議會之前，無障礙需求就已獲考慮。\n\n「這帶來很大改變」\n\n議會職員主動詢問她需要什麼支持，而非自行假設，並在她開始工作前已作出調整。\n\n「有疏散計劃在執行，這很好，」這位新任蘇格蘭綠黨議員說。\n\n「如果我需要遙距投票，也有相應的安排。」\n\n通往她辦公室的自動門是相對基本的調整，「但確實帶來很大改變」。\n\n在蘇格蘭新一屆議會中，與她一樣自認為殘疾人士的議員共有九位，比上一屆的六位有所增加。\n\n對Kinross-O'Neill而言，現在的挑戰是確保殘疾人士不僅進入政壇，更能留在那裏。\n\n平等事務大臣Simita Kumar表示，蘇格蘭政府繼續致力改善政治參與機會。\n\n「我同意，我們在這方面必須做得更多，」她說。\n\n蘇格蘭是全球首個以立法形式確立資助殘疾選舉候選人基金的國家——名為「參選無障礙基金」（Access to Elected Office Fund）。\n\nKumar期望日後能在此基礎上進一步發展。\n\n「我們沒有好主意的專利權，」她說。\n\n「但我認為，我們英國各級政府中有真正代表我國人口的代表，這一點非常重要。」\n\n但並非所有障礙都是可見的。\n\n患有讀寫障礙的SNP議員Katie Hagmann表示，議會的無障礙工作亦需關注隱性殘疾。\n\n她透過參選無障礙基金獲得支援，並使用輔助軟件來應對政治工作所需的大量閱讀。\n\n在最近一屆選舉周期中，有22人獲得該基金資助，其中五人最終當選為蘇格蘭議會議員。\n\n該基金可用於支付候選人在競選期間可能需要的額外交通、手語翻譯員、支援人員、向導及其他協助。\n\n「這不是『有也很好』，也不是額外獎勵——它實際上讓我能夠運作、完成我的工作，」她說。\n\n「我的讀寫障礙意味著，閱讀文件和回覆電郵都需要更長時間。」\n\n「仍有很長的路要走」\n\n設施管理主管Alan Durward表示，荷里路德的無障礙改善措施持續演進。\n\n除了自動門和無階梯通道等物理改動外，他表示現在更注重照明、聲學效果以及神經多樣性人士的體驗。\n\nInclusion Scotland行政總裁Heather Fisken表示，該資助基金是為消除阻礙殘疾人士參選的相關成本而設。\n\n她說，其他國家此後亦研究引進類似計劃。\n\n「殘疾人士有權無障礙地參與政治和民主，」她說。\n\n她歡迎殘疾议员人數的增加，但表示與殘疾人士佔蘇格蘭人口的比例相比，議會中仍代表不足。\n\n「這是一點進步，但我們仍有很長的路要走，」她補充道。"
     },
     {
-      "title": "肖：共和國運動會對殘疾運動意義「重大」",
-      "url": "https://www.bbc.com/sport/swimming/articles/c5y70d6l5qlo?at_medium=RSS&at_campaign=rss",
+      "title": "肖稱英聯邦運動會對殘奧運動「意義重大」",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/c5y70d6l5qlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-29T13:47:42.000Z",
-      "summary": "蘇格蘭游泳運動員托妮·肖相信，今年夏天在格拉斯哥舉行的共和國運動會對殘疾運動界將是「絕對重大的」。",
+      "summary": "蘇格蘭游泳運動員托尼·肖相信，今年夏天在格拉斯哥舉行的英聯邦運動會對殘奧運動社群而言將「意義非凡」。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -304,48 +321,49 @@
           "alt": "Toni Shaw"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/15ce/live/a540ab80-6eb9-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "Thomas Tuchel talks to Jude Bellingham during a hydration break"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/13ae/live/7b577060-6f54-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Jude Bellingham in a post-match interview with BBC Sport after England played Ghana in the 2026 World Cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4211/live/deb469b0-6e5f-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "Thomas Tuchel"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5fa2/live/c93620a0-6f5f-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Micah Richards, Kelly Somers, and Alan Shearer"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/82d3/live/e6ad1440-6dca-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Thomas Tuchel throwing a baseball and Sami Mokbel"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8cdb/live/a9d0a590-6f56-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Ghana fans celebrate after their draw with England"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5230/live/bc5f0790-6e8b-11f1-b1db-af71d47507d6.jpg",
-          "alt": "Olivier Giroud talking about Lionel Messi in the BBC studio"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/02f5/live/624be3c0-6f55-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Alan Shearer"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b769/live/478ec480-6e6f-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "A bagpiper on rollerblades"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bcfa/live/606cf520-6f56-11f1-a929-5d515c16ae41.jpg",
+          "alt": "England fans"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0nsw5g8.jpg",
-          "alt": "Olivier Giroud, Kylian Mbappe and Erling Haaland"
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0ntq6p2.jpg",
+          "alt": "Stormzy"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/f7d1/live/4c2b5e40-6e47-11f1-8546-8f19e4fe30f4.jpg",
           "alt": "Starmer: What Went Wrong?"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/5bb7/live/c46746e0-6e14-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Football Daily at the World Cup"
+          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0l7jnbt.jpg",
+          "alt": ""
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/0627/live/edfe9ef0-6e1d-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "World Cup 2026"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/4f20/live/fa953be0-53cd-11ef-b2d2-cdb23d5d7c5b.jpg",
+          "alt": "The Young Offenders"
         }
-      ]
+      ],
+      "bodyZh": "托妮·肖（Toni Shaw）相信，今年夏天於格拉斯哥舉行的共和聯邦運動會，對殘疾運動界而言將是「意義非凡」的盛事。\n\n雖然整體賽事規模有所縮減，但這將是共和聯邦運動會史上規模最大的傷殘運動一體化項目。\n\n殘疾奧運項目共設破紀錄的47面金牌，比賽分佈於10個運動項目中的6個。\n\n「我們取得了很多進步，」肖說。她曾在2020年殘奧會的泳池中摘得銅牌。「我認為這將在各處產生連鎖反應，不僅在蘇格蘭。」\n\n「我認為殘疾運動界將因這些報道而大幅成長，所以我認為這真是太不可思議了。」\n\n肖現年22歲，她回想起小時候觀看2014年格拉斯哥共和聯邦運動會的情景。\n\n「我在觀眾席上時，它激勵了我，」她補充道。「所以希望其他人——如果他們有殘疾——看到殘疾運動參與度的提升，或許會因此受到啟發，開始從事一項運動。」\n\n「這是少數能將健全運動與殘疾運動並肩進行的比賽之一，所以相關報道和一切，我都覺得非常了不起。」\n\n2014年在托爾克羅斯坐在觀眾席上的經歷，幫助當時年僅10歲的肖確信：「這真的很酷，我想做這個。」\n\n這位亞伯丁人坦言，如今以參賽者身份回到那裡，「是夢想成真的時刻」。\n\n在正常情況下，她本會是蘇格蘭代表隊的奪金大熱人選之一。除了那枚殘奧會銅牌外，肖還擁有令人矚目的其他大賽獎牌，包括3枚世錦賽金牌、2枚歐錦賽金牌，以及4年前在伯明翰奪得的共和聯邦運動會銅牌。\n\n然而，她透露背部傷患意味著今次「很難實現」登上最高領獎台的夢想。\n\n「說實話，這段時間很艱難，」肖說。「2024年我受了背部傷患，接受了類固醇注射，也做了一些治療，所以情況好了很多，但只是還沒能恢復到之前的成績水平。」\n\n「相當困難，但入選代表隊是我的主要目標，能夠做到這一點，我非常自豪，也非常期待今個夏天。」\n\n「我只想傾盡所有全力以赴。」"
     },
     {
-      "title": "Nowacki 領軍澤西島 2026 年大英國協運動會代表隊",
-      "url": "https://www.bbc.com/sport/articles/clyprd9v76zo?at_medium=RSS&at_campaign=rss",
+      "title": "諾瓦茨基領銜澤西島2026年英聯邦運動會代表團",
+      "url": "https://www.bbc.co.uk/sport/articles/clyprd9v76zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-29T07:24:27.000Z",
-      "summary": "世界青少年蛙泳冠軍 Filip Nowacki 將率領 21 人組成的澤西島代表隊，參加 2026 年在格拉斯哥舉行的大英國協運動會。",
+      "summary": "世界青年蛙泳冠軍菲利普·諾瓦茨基率領21人組成的澤西島代表隊，出征2026年格拉斯哥英聯邦運動會。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -358,45 +376,45 @@
           "alt": "Steve Mackay anchors Jersey to gold in the 4x100m relay at the 2025 Island Games in Orkney"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/15ce/live/a540ab80-6eb9-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "Thomas Tuchel talks to Jude Bellingham during a hydration break"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/13ae/live/7b577060-6f54-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Jude Bellingham in a post-match interview with BBC Sport after England played Ghana in the 2026 World Cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4211/live/deb469b0-6e5f-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "Thomas Tuchel"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5fa2/live/c93620a0-6f5f-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Micah Richards, Kelly Somers, and Alan Shearer"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/82d3/live/e6ad1440-6dca-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Thomas Tuchel throwing a baseball and Sami Mokbel"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8cdb/live/a9d0a590-6f56-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Ghana fans celebrate after their draw with England"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5230/live/bc5f0790-6e8b-11f1-b1db-af71d47507d6.jpg",
-          "alt": "Olivier Giroud talking about Lionel Messi in the BBC studio"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/02f5/live/624be3c0-6f55-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Alan Shearer"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b769/live/478ec480-6e6f-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "A bagpiper on rollerblades"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bcfa/live/606cf520-6f56-11f1-a929-5d515c16ae41.jpg",
+          "alt": "England fans"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0nsw5g8.jpg",
-          "alt": "Olivier Giroud, Kylian Mbappe and Erling Haaland"
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0ntq6p2.jpg",
+          "alt": "Stormzy"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/f7d1/live/4c2b5e40-6e47-11f1-8546-8f19e4fe30f4.jpg",
           "alt": "Starmer: What Went Wrong?"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/5bb7/live/c46746e0-6e14-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Football Daily at the World Cup"
+          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0l7jnbt.jpg",
+          "alt": ""
         }
       ],
-      "bodyZh": "2026年共和聯邦運動會：Filip Nowacki帶領澤西代表隊\n\n世界青少年蛙泳冠軍Filip Nowacki是近年來澤西最出色的體育新星之一\n\n世界青少年蛙泳冠軍Filip Nowacki帶領一支21人的澤西代表隊，出征2026年格拉斯哥共和聯邦運動會。\n\n現年18歲的Nowacki今年較早前贏得英國200米蛙泳冠軍，此前已擁有100米及200米全球青少年冠軍頭銜，他期望成為澤西自1990年以來首位獎牌得主。\n\n本月，這位隸屬英國代表隊的泳手成為首位在四種泳式100米項目均突破一分鐘大關的英國泳將。\n\n澤西自Colin Mallett於奧克蘭贏得全射程射擊金牌，並與父親Cliff合作奪得雙人銅牌以來，已有36年未曾踏上共和聯邦運動會的頒獎台。\n\nNowacki是九人游泳隊的核心成員，澤西男子泳隊首次取得4×100米混合接力參賽資格。\n\n澤西百米紀錄保持者Steve Mackay將首次出戰共和聯邦運動會\n\n澤西的五人田徑隊是該島歷來派出的最大規模田徑代表隊。\n\n出生於澤西、現居新西蘭的短跑運動員Zach Saunders將第二度征戰共和聯邦運動會，並與島上百米紀錄保持者Steve Mackay及Jamie Oldham攜手，標誌著澤西首次同時派出三名短跑選手。\n\n此外，Evan Campbell及Lucy Woodward將成為首批出戰十項全能及七項全能比賽的澤西島民。\n\nSteven Rabet是自1990年Chay Pike以來首位代表澤西出賽的柔道運動員。這位蘇格蘭人透過其澤西出生的祖父母取得參賽資格，上月於立陶宛舉行的歐洲青年盃66公斤級賽事中上陣，目前在英國20歲以下組別排名第四。\n\n保齡球手Malcolm de Sousa將第五度代表澤西出戰共和聯邦運動會，他於2010年德里首次為澤西上陣。\n\n格拉斯哥運動會定於7月23日至8月2日舉行。\n\n「對大多數運動項目而言，這是他們在澤西旗幟下所能參加的最高級別賽事，」代表團團長Jean Cross向BBC Radio Jersey表示，「我們並非奧運國家，因此運動員其後會被編入英國代表隊，所以這是他們為澤西出戰的最高級別賽事。\n\n「這是我們的運動員非常重視並嚮往的目標。」\n\n澤西代表隊：\n\n田徑：Evan Campbell、Steven Mackay、Jamie Oldham、Zach Saunders、Lucy Woodward\n\n保齡球：Fiona Archibald、Sara Douglas、Abbey Andrieux、Malcolm De Sousa、Ross Davis、Taylor Greechan\n\n柔道：Steven Rabet\n\n游泳：Matthew Deffains、Isaac Dodds、Oscar Dodds、Megan Hansford、Filip Nowacki、Hannah Sterry、Sam Sterry、Isaac Thompson、Clara Ginnis"
+      "bodyZh": "2026年英聯邦運動會：菲臘·諾瓦茨基率領澤西島代表隊\\n\\n世界青年蛙式冠軍菲臘·諾瓦茨基是澤西島多年來最出色的體育新星之一。\\n\\n這位18歲小將帶領一支21人的澤西島代表隊出戰2026年格拉斯哥英聯邦運動會。\\n\\n諾瓦茨基早前赢得英國200米蛙式冠軍，此前已手握100米及200米全球青年冠軍頭銜，現正力爭成為澤西島自1990年以來首位獎牌得主。\\n\\n本月，這位隸屬英國隊的泳手成為首位在四種泳式100米項目均突破一分鐘大關的英國泳將。\\n\\n澤西島自36年前在奧克蘭舉行的運動會上由科林·馬萊特贏得全威力射擊金牌，並與父親克里夫合作奪得雙人銅牌後，便再無獎牌進賬。\\n\\n諾瓦茨基隸屬於一支九人游泳隊，島上男子泳隊首次取得4×100米混合接力參賽資格。\\n\\n澤西島100米紀錄保持者史蒂夫·馬凱將首次出戰英聯邦運動會。\\n\\n澤西島派出歷來規模最大的五人田徑代表隊。出生於澤西島、現居新西蘭的短跑選手扎克·桑德斯將第二次征戰英聯邦運動會，與島上100米紀錄保持者史蒂夫·馬凱及傑米·奧爾德漢姆並肩作戰，令澤西島首次擁有三名短跑選手。\\n\\n與此同時，埃文·坎貝爾及露西·伍德沃德將成為首批代表澤西島出戰十項全能及七項全能的多項運動會選手。\\n\\n斯蒂文·拉貝是自1990年蔡·派克以來首位代表澤西島出戰的柔道運動員。這位透過其澤西島出生祖父祖母取得資格的蘇格蘭人，上月在立陶宛舉行的歐洲青年盃66公斤級賽事中上陣，目前在英國20歲以下組別排名第四。\\n\\n保齡球選手馬爾科姆·德·索薩將第五次代表澤西島出戰英聯邦運動會，他於2010年新德里運動會首次為澤西島披甲。\\n\\n格拉斯哥運動會將於7月23日至8月2日舉行。\\n\\n「對大部分運動項目而言，這是他們在澤西島旗幟下能夠參加的最高級別賽事，」代表團團長讓·克羅斯向BBC廣播澤西電台表示。\\n\\n「我們不是奧運會成員國，因此運動員日後會被編入英國隊，所以這是他們能夠代表澤西島參加的最高級別賽事。\\n\\n這是我們的運動員非常重視並嚮往的事情。」\\n\\n澤西島代表隊：\\n\\n田徑：埃文·坎貝爾、史蒂夫·馬凱、傑米·奧爾德漢姆、扎克·桑德斯、露西·伍德沃德。\\n\\n保齡球：菲奧娜·阿奇博爾德、莎拉·道格拉斯、艾比·安德里厄、馬爾科姆·德·索薩、羅斯·戴維斯、泰勒·格里查恩。\\n\\n柔道：斯蒂文·拉貝。\\n\\n游泳：馬修·德費安、伊扎克·道茲、奧斯卡·道茲、梅根·漢斯福德、菲臘·諾瓦茨基、漢娜·斯特里、山姆·斯特里、伊扎克·湯普森、克拉拉·吉尼斯。"
     },
     {
-      "title": "Nowacki打破四種泳姿的60秒大關",
-      "url": "https://www.bbc.com/sport/swimming/articles/cwy20pqq7j2o?at_medium=RSS&at_campaign=rss",
+      "title": "諾瓦茨基四式均突破60秒大關",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/cwy20pqq7j2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-27T08:17:33.000Z",
-      "summary": "Filip Nowacki成為首位在四種泳姿中均突破一分鐘大關的英國泳手。",
+      "summary": "菲利普·諾瓦茨基成為首位在四式比賽中均突破一分鐘大關的英國泳手。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -405,48 +423,49 @@
           "alt": "Filip Nowacki"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/15ce/live/a540ab80-6eb9-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "Thomas Tuchel talks to Jude Bellingham during a hydration break"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/13ae/live/7b577060-6f54-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Jude Bellingham in a post-match interview with BBC Sport after England played Ghana in the 2026 World Cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4211/live/deb469b0-6e5f-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "Thomas Tuchel"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5fa2/live/c93620a0-6f5f-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Micah Richards, Kelly Somers, and Alan Shearer"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/82d3/live/e6ad1440-6dca-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Thomas Tuchel throwing a baseball and Sami Mokbel"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8cdb/live/a9d0a590-6f56-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Ghana fans celebrate after their draw with England"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5230/live/bc5f0790-6e8b-11f1-b1db-af71d47507d6.jpg",
-          "alt": "Olivier Giroud talking about Lionel Messi in the BBC studio"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/02f5/live/624be3c0-6f55-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Alan Shearer"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b769/live/478ec480-6e6f-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "A bagpiper on rollerblades"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bcfa/live/606cf520-6f56-11f1-a929-5d515c16ae41.jpg",
+          "alt": "England fans"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0nsw5g8.jpg",
-          "alt": "Olivier Giroud, Kylian Mbappe and Erling Haaland"
+          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0ntq6p2.jpg",
+          "alt": "Stormzy"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/f7d1/live/4c2b5e40-6e47-11f1-8546-8f19e4fe30f4.jpg",
           "alt": "Starmer: What Went Wrong?"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/5bb7/live/c46746e0-6e14-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Football Daily at the World Cup"
+          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0l7jnbt.jpg",
+          "alt": ""
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/0627/live/edfe9ef0-6e1d-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "World Cup 2026"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/4f20/live/fa953be0-53cd-11ef-b2d2-cdb23d5d7c5b.jpg",
+          "alt": "The Young Offenders"
         }
-      ]
+      ],
+      "bodyZh": "Filip Nowacki成為首位在一百米四式全部游進六十分鐘以內的英國泳手\n\n這位十八歲泳手在倫敦AP Race International賽事的一百米背泳中游出58.90秒個人最佳時間，成為英國首位在一百米四式全部打破六十分鐘大關的泳手。\n\nNowacki為世界青年錦標賽一百米及二百米蛙泳冠軍，同時是英國二百米蛙泳成年組冠軍。他今年早前在五十米及一百米蛙泳中僅次於奧運金牌得主Adam Peaty，排名第二。是次在預賽中以低於六十秒的時間完成一百米背泳，最終排名第二十九。\n\n此前他已在一百米自由泳游出54.51秒，一百米蝶泳造出57.31秒，並於去年夏天奪得世界青年一百米蛙泳冠軍時游出59.20秒個人最佳時間。\n\nNowacki被視為澤西島自1990年以來首面 Commonwealth Games獎牌的最大希望。他同時保持二百米蛙泳歐洲青年紀錄，並入選Team GB出戰2028年洛杉矶奧運會的培訓計劃。"
     },
     {
-      "title": "病毒式傳播的畢業行走影片後，截癱學生呼籲提高無障礙設施：「不必這麼難」",
+      "title": "癱瘓學生畢業步行短片爆紅後呼籲提升無障礙設施：「不必如此艱難」",
       "url": "https://www.theguardian.com/education/2026/may/15/jaiden-picot-graduation-video-quadriplegic-accessibility",
       "publishedAt": "2026-05-15T09:30:36.000Z",
-      "summary": "在卡車意外導致癱瘓後，Jaiden Picot穿著機械外骨骼走過畢業典禮舞台。這位於2024年被卡車撞擊後癱瘓的學生，從未想過自己在Virginia Union University (VUU)畢業典禮上穿著機械外骨骼行走的影片會瘋傳。但既然已引發關注，他表示希望能夠",
+      "summary": "一架卡車撞向賈伊登·皮科特後令他癱瘓，這位2024年遭逢意外的大學畢業生，早前身穿未來感機械外骨骼走過維珍尼亞聯盟大學畢業禮舞台。他從未想過這段短片會在網上瘋傳，既然已經爆紅，他表示希望社會能夠帶來更多改變。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -462,13 +481,14 @@
           "src": "https://i.guim.co.uk/img/media/e9c9ece44b23fa9c9702a78eed6c8aa5879578d6/0_0_1920_1080/1920.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none",
           "alt": "Virginia student paralysed by truck collision graduates in robotic suit – video"
         }
-      ]
+      ],
+      "bodyZh": "輪椅學生畢業行走片段網絡瘋傳　挺身爭取無障礙設施：「生活不該如此艱難」\n\n賈登·皮科特在2024年一場貨車意外後下半身癱瘓，近日穿著未來感十足的機械外骨骼走過維珍尼亞聯邦大學（VUU）的畢業舞台，片段在網上瘋傳。他希望大眾知道，自己未來將致力於改善輪椅使用者的出行環境。\n\n「我知道癱瘓後，我錯過了很多與朋友外出的機會。」皮科特接受《衛報》訪問時說：「我無法進入某些餐廳、無法參與某些活動，只因為它們沒有供我進入的斜道。我認為改變這一點非常重要，因為我們這個群體人數龐大，我們也想去每一個人能去的地方。」\n\n「並不是說我們經歷了什麼不幸，就意味著……往後的生活必須如此艱難。」\n\n皮科特現年23歲，來自維珍尼亞州樸茨茅斯。2024年8月，他騎著電動滑板車行駛時，被一輛貨車撞倒。撞擊導致他第四節頸椎脊髓受損，胸部以下從此癱瘓。\n\n談及這種傷殘帶來的影響，他毫不迴避：「那天以來，我的生活變得異常艱難。」他回憶受傷前的生活：「我曾是一個獨立自主的人。」\n\n皮科特決心重拾盡可能多的自主能力。他開始在里士滿的Sheltering Arms康復中心接受復健治療，練習自理技能、在俗稱「機械外骨骼」的設備中行走，以及操控電動輪椅。康復中心在2024年12月的新聞稿中記述了這些經過。\n\n他同時學會用聲控設備操作電視、設定鬧鐘和提醒事項，以及在病房內播放音樂、遊戲或助眠音效。\n\n在此期間，皮科特如期在2025年春季於里士滿的維珍尼亞聯邦大學完成學士學位，隨即攻讀研究所，並取得行政工商管理碩士（EMBA）。\n\n5月9日的畢業典禮上，他的母親、女友及兩位康復治療師均到場支持。\n\n在畢業典禮上引發網絡熱傳的一幕中，皮科特穿上在Sheltering Arms復健時曾用以練習行走的機械外骨骼，在兩位治療師的協助下，穿著這套裝置走過典禮舞台——裝置基本上是隨著他的身體擺動而作出反應。\n\n「噢，哇——我做到了。」他在台上對著歡呼的人群說：「我的生活……經歷了一個很大的轉折。我大可以把自己關進角落，放棄人生。但我決定不讓我的處境控制我、阻止我達成目標。」\n\n後來，皮科特借用一部以戰鬥機械兵團為主題的科幻電影系列來形容這套外骨骼：「我喜歡叫它『大黃蜂套裝』。」\n\n皮科特走過舞台的片段及現場所獲的熱烈掌聲，迅速在社交媒體和各大新聞平台上傳開。全國知名的民權律師Ben Crump在X平台上的帖子頗能代表這段影片引發的迴響，他寫道：「在逆境中展現的強大韌性！」\n\n維珍尼亞聯邦大學這間歷史悠久的黑人學院同時發聲，盛讚皮科特是「當使命與準備相遇時所能成就的最佳證明」。\n\n然而，這一切並不意味著皮科特在適應美國約30萬創傷性脊髓損傷患者的生活過程中沒有遭遇重大障礙——其中大多數人最終成為截癱或四肢癱瘓患者。\n\n尽管1990年《美國殘疾人法案》已要求服務公眾的場所提供合理的無障礙便利設施，皮科特形容，提前致電餐廳及活動場地確認是否有斜道及足夠空間容納其輪椅，已成為他生活的常態。他說，有許多場所兩者皆無，令他無法出席聚會活動。\n\n此外，皮科特與家人一直在網上籌集款項，期望購置一輛無障礙廂型車，以方便和安全地往返日常活動與各項事務。\n\n被問及對新事業的願景時，皮科特表示希望將自己在房地產領域闖出名堂，與緩解他所遭遇的無障礙問題相結合，並打算首先與該州 civic leaders 會面著手推動此事。\n\n「我想觸及星空，幫助我們達到每個地方都為輪椅使用者提供某種無障礙設施的目標。我已在心理上準備好實現自己的目標，同時為像我這樣的人發聲。」"
     },
     {
-      "title": "科學家揭示緩解膝關節炎疼痛的最佳運動",
+      "title": "科學家揭示舒緩膝關節炎疼痛的最佳運動",
       "url": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
       "publishedAt": "2026-04-30T07:30:17.000Z",
-      "summary": "對217項試驗的重大回顧顯示，有氧運動是治療膝骨關節炎最有效的選擇。步行、騎單車和游泳等活動在減輕疼痛和改善活動能力方面優於其他運動類型。雖然力量訓練和身心運動等替代方案也有幫助，但最好與有氧運動配合使用。",
+      "summary": "一項涵蓋217項試驗的大型綜述顯示，有氧運動是治療膝骨關節炎最有效的方案。步行、騎單車和游泳等活動在減輕疼痛和改善活動能力方面優於其他運動類型。雖然力量訓練和身心運動等替代方案也有幫助，但最好與有氧運動結合使用。",
       "sourceName": "《科學日報》健康與體能",
       "sourceId": "sciencedaily-fitness",
       "images": [
@@ -481,13 +501,13 @@
           "alt": "Best Exercise for Knee Arthritis Pain"
         }
       ],
-      "bodyZh": "科學家揭示緩解膝關節炎疼痛的最佳運動 | ScienceDaily\n\n最新研究資訊來源\n\n追蹤：\n\nFacebook\n\nX/Twitter\n\n訂閱：\n\nRSS 資訊\n\n時事通訊\n\n新功能！\n免費訂閱電郵通訊。\n\n科學新聞\n\n來自研究機構\n\n科學家揭示緩解膝關節炎疼痛的最佳運動\n\n步行、騎單車和游泳是最有效且最安全的膝關節退化舒緩運動。\n\n日期：\n\n2026年4月30日\n\n來源：\n\nBMJ Group\n\n摘要：\n\n一項涵蓋217項試驗的大型綜述顯示，有氧運動是管理膝關節退化最有效的方案。步行、騎單車、游泳等活動在減輕疼痛和改善活動能力方面優於其他運動類型。雖然阻力訓練和身心運動等替代方案也有幫助，但最好與有氧運動配合使用。研究結果亦確認，運動是安全且必要的治療環節。\n\n分享：\n\nFacebook\nTwitter\nPinterest\nLinkedIN\n電郵\n\n完整報導\n\n來自超過15,000名參與者的證據顯示，有氧運動能為膝關節退化症狀帶來最大幅度的舒緩。它在改善疼痛、活動能力和生活質素方面，優於其他運動方案，且安全性良好。版權：Shutterstock\n\n發表於《The BMJ》的大型研究顯示，步行、騎單車和游泳等有氧活動，是膝關節退化患者最有效的運動。這些活動在疼痛、身體功能、步行能力及整體生活質素的改善上，均顯示最大幅度的提升。\n\n研究人員指出，雖然其他類型的運動仍有幫助，但應與有氧運動配合使用，而非取代它成為主要方案。\n\n什麼導致膝關節退化\n\n關節退化源於緩衝骨骼末端的軟骨逐漸磨損。這會引致疼痛、腫脹和關節活動困難。雖然退化可影響身體不同部位，但膝蓋尤其脆弱。近30%的45歲以上成年人於X光檢查中顯示膝關節退化跡象，而當中約有一半出現嚴重症狀。\n\n運動廣泛被建議作為治療的關鍵部分，但現有指引往往缺乏明確建議，說明哪種特定運動對膝關節退化最為有效。\n\n涵蓋217項臨床試驗的大型綜述\n\n為填補這一缺口，研究人員對運動療法進行了全面分析。他們審視了1990年至2024年間進行的217項隨機試驗，共涉及15,684名參與者。這些研究比較了多種運動形式，包括有氧、柔韌性、阻力、身心、動作控制及混合訓練，並與對照組進行比較。\n\n雖然試驗質量各異，研究人員採用了獲廣泛認可的GRADE系統來評估證據的可靠程度。\n\n疼痛、功能和生活質素的量度\n\n分析聚焦於對患者最重要的關鍵結果，包括疼痛程度、身體功能、步態表現和生活質素，並於短期（4週）、中期（12週）和長期（24週）追蹤時段進行檢視。\n\n在這些指標中，有氧運動在所有研究的運動類型中持續名列最有效選項。\n\n有氧運動顯示最強效果\n\n中等確定性的證據顯示，有氧運動在短期和中期均能減輕疼痛，並在短期、中期和長期各時段改善身體功能。此外，它在短期和中期亦提升了步行能力和生活質素。\n\n其他形式的運動同樣帶來顯著效益。身心方法可能改善短期功能，而動作控制訓練則可能提升短期步態表現。阻力訓練和混合運動計劃似乎在中期追蹤時改善了功能。\n\n運動安全且效益廣泛\n\n重要的是，與對照組相比，任何運動類型均與不良事件風險升高無關。這支持了運動是膝關節退化安全可靠治療選項的觀點。\n\n研究人員確實指出了一些局限性。許多比較屬間接比較，部分結果缺乏長期數據，而小型研究可能影響了早期結論。\n\n治療的清晰指引\n\n儘管存在這些局限性，這項研究提供了迄今對膝關節退化運動治療最全面且最新的評估之一。研究結果可協助臨床醫生在選擇最有效療法時作出明智判斷。\n\n根據研究結果，研究人員建議有氧運動「作為膝關節退化管理的首選介入方案，特別是當目標是改善功能能力和減輕疼痛時」。他們亦指出，若因個人限制而不適合進行有氧運動，「替代形式的結構化身體活動仍然可能有益」。\n\n相關議題\n\n健康與醫學\n\n關節炎\n\n關節健康\n\n健身\n\n精神健康研究\n\n唐氏綜合症\n\n職場健康\n\n疾病與症狀\n\n另類醫學\n\n相關詞彙\n\n有氧運動\n\n身體鍛鍊\n\n跑步膝\n\n慢跑\n\n無氧運動\n\n游泳\n\n單車\n\n功能訓練\n\n資料來源：\n\nBMJ Group 提供\n\n備註：內容可能因風格或篇幅而被編輯。\n\n期刊參考：\n\nLei Yan、Dijun Li、Dan Xing、Zijuan Fan、Guangyuan Du、Jingwei Jiu、Xiaoke Li、Janne Estill、Qi Wang、Ahmed Atef Belal、Chen Tian、Jiao Jiao Li、Songyan Li、Haifeng Liu、Xuanbo Liu、Yijia Ren、Yiqi Yang、Jinxiu Chen、Yihe Hu、Long Ge、Bin Wang。\n膝關節退化運動模式的療效及安全性比較：系統綜述與網絡薈萃分析\n。\nBMJ\n，2025年；391：e085242 DOI：\n10.1136/bmj-2025-085242\n\n引用本頁：\n\nMLA\n\nAPA\n\n芝加哥\n\nBMJ Group。「科學家揭示緩解膝關節炎疼痛的最佳運動。」ScienceDaily。ScienceDaily，2026年4月30日。\n\nBMJ Group。（2026年4月30日）。科學家揭示緩解膝關節炎疼痛的最佳運動。\nScienceDaily\n。擷取日期：2026年6月22日。"
+      "bodyZh": "科學家揭示緩解膝關節炎疼痛的最佳運動\n\n步行、騎單車和游泳被列為緩解膝關節退化最有效且最安全的運動。\n\n一項涵蓋217項試驗的大型綜合研究顯示，有氧運動是管理膝關節退化最有效的方案。步行、騎單車和游泳等活動在減輕疼痛及改善活動能力方面，優於其他類型的運動。雖然力量訓練和身心運動等替代方案也有幫助，但最好與有氧運動配合使用。研究結果亦確認，運動是治療中安全且不可或缺的部分。\n\n來自超過15,000名參與者的證據顯示，有氧運動能為膝關節退化症狀帶來最大幅度的緩解。它在改善疼痛、活動能力及生活質素方面，優於其他運動方案，同時保持安全性。\n\n《BMJ》發表的大型研究表明，步行、騎單車和游泳等有氧活動，是膝關節退化患者最有效的運動。這些活動在疼痛、身體功能、步行能力及整體生活質素方面，均帶來最大幅度的改善。\n\n研究人員指出，雖然其他類型的運動仍有幫助，但應作為有氧運動的輔助，而非取代它作為主要方案。\n\n膝關節退化的成因\n\n退化性關節炎是由於覆蓋骨端的軟骨逐漸磨損所致，導致疼痛、腫脹及關節活動困難。雖然此症可影響身體不同部位，但膝關節尤其脆弱。約有30%的45歲以上成年人，在X光片上顯示出膝關節退化跡象，當中約一半人出現嚴重症狀。\n\n運動被廣泛建議作為治療的關鍵部分，但現有指引往往缺乏關於哪種特定運動類型對膝關節退化最為有效的明確建議。\n\n涵蓋217項臨床試驗的大型綜合分析\n\n為填補這空白，研究人員對運動療法進行了全面分析。他們審視了1990年至2024年間進行的217項隨機試驗，涉及合共15,684名參與者。這些研究將有氧運動、柔軟度訓練、力量訓練、身心運動、神經運動及混合訓練，與對照組進行比較。\n\n儘管各試驗的質量參差不齊，研究人員採用了國際認可的GRADE系統來評估證據的可靠程度。\n\n衡量疼痛、功能及生活質素\n\n分析集中於對患者最為關鍵的結果，包括疼痛程度、身體功能、步態表現及生活質素，並在短期（四週）、中期（十二週）及長期（二十四週）的隨訪中進行評估。\n\n在各項指標中，有氧運動在所有研究的運動類型中 consistently 排名最為有效。\n\n有氧運動展現最強效果\n\n中等確定性的證據顯示，有氧運動在短期及中期均能減輕疼痛，並在短期、中期及長期改善身體功能；此外在短期及中期亦提升步行能力及生活質素。\n\n其他形式的運動亦帶來顯著效益。身心運動方法或能改善短期功能，而神經運動訓練或能提升短期步態表現。力量訓練及混合運動計劃在中期隨訪時，似乎亦能改善功能。\n\n運動安全且效益廣泛\n\n重要的是，與對照組相比，任何運動類型均與不良事件風險增加無關。這支持運動是膝關節退化安全可靠治療方案的觀點。\n\n研究人員亦指出若干局限：許多比較屬間接比較，部分結果缺乏長期數據，而規模較小的研究或許影響了早期結果。\n\n為治療提供清晰指引\n\n儘管存在這些局限，該研究提供了迄今對膝關節退化運動治療最全面及最新的評估之一。這些發現可協助臨床醫生在選擇最有效療法時作出參考。\n\n根據研究結果，研究人員建議將有氧運動「作為膝關節退化管理的首選干預措施，尤其當目標是改善功能活動能力及減輕疼痛時」。他們亦指出，若因個人限制而不適合進行有氧運動，「替代形式的結構化體能活動仍可能有所裨益」。"
     },
     {
-      "title": "成長過程中患有ADHD特質的隱藏健康影響",
+      "title": "成長過程中ADHD特質的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項長達數十年的大型研究表明，兒童時期的ADHD跡象可能會產生遠超學校和行為層面的後果。研究人員追蹤了近11,000人從童年到中年，發現10歲時有明顯ADHD特質的人在中年時更容易出現多種身體健康問題和健康相關殘疾。",
+      "summary": "一項歷時數十年的研究表明，兒童時期的ADHD跡象可能產生遠超學校和行為層面的深遠影響。研究人員追蹤近11,000人從童年到中年，發現10歲時具有強烈ADHD特質的人，到了中年時期更有可能出現多種身體健康問題和健康相關的殘疾。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -499,13 +519,14 @@
           "src": "https://www.sciencedaily.com/images/1920/adhd-neuroscience-brain-puzzle.webp",
           "alt": "ADHD in Childhood Can Affect Adult Health"
         }
-      ]
+      ],
+      "bodyZh": "成長期間ADHD特質的隱藏健康影響\n\n【摘要】一項歷時數十年的大型研究顯示，兒童時期的ADHD徵兆可能產生超越學業和行為的長期後果。研究人員追蹤近11,000人從童年到中年，發現10歲時ADHD特質明顯的人士，到40多歲時更可能出現多種身體健康問題及與健康相關的殘疾。\n\n研究方法與發現\n\n倫敦大學學院（UCL）和利物浦大學的研究人員主導這項研究，發表於《JAMA Network Open》。研究分析1970年英國世代研究中10,930名參與者的數據，這些人士從出生起便被追蹤至中年。\n\nADHD特質透過家長和教師在參與者10歲時填寫的行為問卷進行評估，無論受訪者是否曾接受正式ADHD診斷，均採用相同量度方法。\n\n研究發現，10歲時顯示ADHD特質的兒童，到46歲時更可能出現身體健康問題。與ADHD特質較低的組別相比，他們報告兩種或以上健康問題（包括偏頭痛、背部問題、癌症、癲癇或糖尿病）的機率高14%。\n\n在10歲時ADHD特質較高的組別中，42%在中年時報告至少兩種身體健康問題；而ADHD特質較低的組別中，則有37%報告相同情況。\n\nADHD特質較高的參與者亦更可能在46歲時報告與身體健康相關的殘疾（即因身體健康問題而影響工作或其他日常活動）。\n\n健康差異的可能原因\n\n研究人員發現，身體健康狀況較差與多方面因素相關，包括：較高的心理健康問題發病率、較高的BMI，以及較高的吸煙率。\n\n先前研究亦顯示，ADHD患者更可能經歷重大生活壓力事件和社會排斥，亦較難獲得及時的醫療篩查和護理。\n\n研究資深作者、UCL心理學與語言科學系Joshua Stott教授表示：「ADHD患者較容易面對較差的健康狀況，我們今次的研究進一步充實了這個令人關注的證據庫。ADHD患者在適當支援下可以表現出色，但相關支援往往不足，原因包括專門服務短缺，以及ADHD在中年及較年長人士中仍常被低估，相關需求未被關注。」\n\nADHD對日常功能的影響\n\nADHD患者在專注力方面存在差異，同時可能出現較高的過動或衝動水平。許多人精力充沛，能高度專注於感興趣的活動，但在處理常規或較乏味的任務時則可能難以集中。\n\n這些挑戰可能影響規劃、時間管理和衝動控制。長遠而言，這可能使學業和工作更為困難，增加出現長期社交和職業問題的風險。\n\nADHD始於兒童時期，儘管現時已廣泛確認此症通常延續至成年，但英國成年人接受的治療比其他高收入國家為少，支援服務亦相對有限。\n\n研究結果的性別差異\n\n研究發現，兒童時期ADHD特質與身體健康相關殘疾之間的關聯，在女性中似乎比男性更為明顯。\n\nStott教授補充：「所有這些可能的解釋因素都與ADHD使衝動控制更為困難、即時滿足和獎勵的需求更為強烈有關，並且亦與ADHD患者因面對社會不利因素而導致心理健康較差的情況相符。」\n\n對支援及公共衛生的啟示\n\n研究主要作者Amber John博士（曾在UCL開展此研究，現於利物浦大學任職）強調適切支援的重要性：「需要注意，ADHD患者是一個多元群體，各有不同的長處和經歷，大多數人將會過著長壽且健康的生活。然而，許多人面對及時診斷和適切支援的重大障礙。這一點相當重要，因為為ADHD患者提供適切支援及滿足其需求，有助改善他們的身體和心理健康狀況。」\n\n她又指：「此外，公共衛生策略應考慮ADHD患者的需求，例如讓篩查計劃和持續健康監測對ADHD患者更加可及。」\n\n另一項由同一研究團隊去年發表的研究，報告了確診ADHD的成年人可能出現預期壽命縮短的情況，惟該發現並非今次研究的範圍。"
     },
     {
-      "title": "研究發現ADHD優勢與更好的心理健康相關",
+      "title": "研究人員發現ADHD優勢與更好的心理健康相關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示了ADHD更光明的一面，表明能夠識別並運用自身優勢的成年人會感到更快樂、更健康，壓力也更小。ADHD患者更傾向於將創造力、幽默和高度專注等特質視為個人優勢。總體而言，運用這些優勢與更好的生活質量和更少的心理健康問題相關。",
+      "summary": "新研究揭示了ADHD更積極的一面，顯示能夠認識並善用自身優勢的成年人更快樂、更健康、壓力更小。ADHD患者更傾向於將創造力、幽默和高度專注等特質視為個人優勢。總體而言，善用這些優勢與更好的生活質量和更少的精神健康問題相關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -520,10 +541,10 @@
       ]
     },
     {
-      "title": "ADHD藥物並非以我們所想的方式運作",
+      "title": "ADHD藥物的運作機制與我們所想不同",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD興奮劑似乎並非主要通過提高專注力來起作用，而是通過喚醒大腦。腦部掃描顯示，這些藥物激活獎勵和警覺系統，幫助兒童對原本會避開的任務保持興趣。這些藥物甚至逆轉了與睡眠不足相關的腦部模式。研究人員表示，這可能使ADHD診斷變得複雜。",
+      "summary": "ADHD興奮劑似乎並非主要通過增強專注力來發揮作用，而是通過喚醒大腦。腦部掃描顯示，這些藥物激活獎勵和警覺系統，幫助孩子對通常會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠剝奪相關的腦部模式。研究人員表示，這可能會使ADHD的診斷更加複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -538,10 +559,10 @@
       ]
     },
     {
-      "title": "為何這麼多患有ADHD的幼童接受了錯誤的治療",
+      "title": "為何這麼多患有ADHD的幼童正在接受錯誤的治療",
       "url": "https://www.sciencedaily.com/releases/2025/09/250915202839.htm",
       "publishedAt": "2025-09-16T09:10:52.000Z",
-      "summary": "患有ADHD的學齡前兒童往往在確診後立即接受藥物治療，這違反了建議以行為療法作為首選的醫學指南。治療資源有限及醫生壓力推動了早期處方，尽管對幼童存在風險且效果較差。",
+      "summary": "患有ADHD的學前兒童往往在確診後立即獲配藥物，這與建議先從行為治療開始的醫療指引相違背。儘管對幼童用藥存在風險且療效較差，但治療資源的缺乏和醫生的壓力導致過早開藥的情況普遍。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
