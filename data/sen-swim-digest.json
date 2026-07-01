@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-30T05:12:24.501Z",
+  "updatedAt": "2026-07-01T05:30:37.319Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "自由泳紀錄九天內第二次被打破",
+      "title": "自由泳紀錄九天內第二度被打破",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/ckg5xq064lno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-29T06:15:46.000Z",
-      "summary": "格雷琴·沃爾什以0.04秒之差，打破了本月較早前由訓練夥伴凱特·道格拉斯創下的50米自由泳世界紀錄。",
+      "summary": "格雷琴·沃爾什以0.04秒之差，打敗本月較早前由訓練夥伴凱特·道格拉斯創下的50米自由泳世界紀錄。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -15,55 +15,59 @@
           "alt": "Swimmer Gretchen Walsh in action in Rome"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7105/live/143f7fb0-741f-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Paraguay fans celebrate by holding the Paraguay flag"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/906a/live/b794f270-6bc4-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "FIFA World Cup 2026 - Goals! Goals! Goals! Channel"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/34d7/live/2ccedaa0-7422-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "German fan"
+          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0m6ztjd.jpg",
+          "alt": ""
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/49a6/live/ce6e8b60-73fc-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Raducanu and Draper"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/9c2b/live/f480da20-48bd-11f1-ac78-2112837ce2aa.jpg",
+          "alt": "Kidnapped by My Mum"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b267/live/6bc51000-73f3-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "Noni Madueke"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/4108/live/6ff208c0-73af-11f1-b1db-af71d47507d6.jpg",
+          "alt": "More Than the Score"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/f0a3/live/84291900-73a5-11f1-b1db-af71d47507d6.png",
-          "alt": "FIFA World Cup 2026: Football Daily"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/729d/live/81d12160-7478-11f1-8e1d-bbbb1017d210.jpg",
+          "alt": "Serena Williams cheers with racket in her hand"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/d27e/live/6c839440-6ff1-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "The Documentary"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/35f7/live/06668fe0-7470-11f1-b8da-6d87dfdc4508.jpg",
+          "alt": "Jurgen Klopp smiling while holding a mobile phone in front of his face"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/2c6c/live/719f6840-ed34-11f0-b5f7-49f0357294ff.jpg",
-          "alt": "Industry S4"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/93ca/live/9fecc0f0-73c9-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Composite image of Finn Russell and Ardie Savea"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/ecc4/live/9713ed90-2da7-11f1-a79a-77e93010d956.jpg",
-          "alt": "Sporting Witness"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/b711/live/3492fa20-73ad-11f1-9da1-db101e3ae6ed.jpg",
+          "alt": "Bruno Guimaraes celebrates after scoring for Newcastle United against Crystal Palace on 4 January 2026"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/6c57/live/1ccd72b0-7409-11f1-b54a-af3c13912d65.jpg",
-          "alt": "Carlo Ancelotti"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/9887/live/fe4831f0-7461-11f1-8e1d-bbbb1017d210.jpg",
+          "alt": "Grigor Dimitrov and Serena Williams at Wimbledon"
         }
       ],
-      "bodyZh": "Gretchen Walsh 打破訓練夥伴 Kate Douglass 保持僅九天之久的世界紀錄\n\n美國泳手 Gretchen Walsh 在女子 50 米自由式項目打破世界紀錄，而紀錄保持者正是她的訓練夥伴 Kate Douglass——僅僅九天前 Douglass 才創下這項紀錄。\n\nWalsh 周日在羅馬舉行的 Sette Colli 游泳賽中游出 23.55 秒，比 Douglass 6 月 19 日創下的 23.59 秒快 0.04 秒。\n\n兩人均在弗吉尼亞大學接受訓練。\n\n此前這項世界紀錄由瑞典的 Sarah Sjostrom 保持，她在今次賽事中以 23.86 秒獲得第二名。\n\n23 歲的 Walsh 同時持有 50 米自由式短池世界紀錄，以及 100 米蝶式長池紀錄。她在 2024 年巴黎奧運會上奪得兩面接力金牌及兩面銀牌。"
+      "bodyZh": "美國泳手格雷琴·沃爾什在女子50米自由式打破世界紀錄，僅相隔九天前，她的訓練夥伴凱特·道格拉斯才創下該紀錄。\n\n沃爾什周日在羅馬塞特科利錦標賽游出23.55秒，比道格拉斯6月19日創下的時間快0.04秒。兩人同為維珍尼亞大學泳隊隊友。\n\n此前保持世界紀錄的瑞典泳手莎拉·舍斯特羅姆，以23.86秒名列第二。\n\n現年23歲的沃爾什同時保持50米自由式短池世界紀錄及100米蝶式長池紀錄。她在2024年巴黎奧運取得兩面接力金牌及兩面銀牌。"
     },
     {
-      "title": "為人母路上與ADHD同行",
+      "title": "有ADHD的她為人母做準備",
       "url": "https://www.bbc.co.uk/news/videos/clyw4z7p301o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-26T09:42:13.000Z",
-      "summary": "電視名人海莉·皮爾斯懷孕了，她正在思考自己如何應對為人母的種種挑戰。",
+      "summary": "電視名人海莉·皮爾斯懷孕了，正在思考如何應對為人母的需求。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8a8f/live/cc045e80-70a1-11f1-8546-8f19e4fe30f4.jpg",
           "alt": "Hayley  Pearce"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/24a2/live/85b9c9e0-744f-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Former South Korea&#x27;s head coach Hong Myung-bo meet by fans as he arrives at airport"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4ce5/live/19bd1460-7317-11f1-8546-8f19e4fe30f4.jpg",
@@ -96,19 +100,15 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/591d/live/7f3c3b90-718c-11f1-8e1d-bbbb1017d210.jpg",
           "alt": "Split-screen showing aircraft debris falling next to building on the left, and damaged skyscraper on the right"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6092/live/4c18f0d0-713e-11f1-b1db-af71d47507d6.jpg",
-          "alt": "Woman on a stretcher in rubble."
         }
       ],
-      "bodyZh": "Hayley Pearce 談應對 ADHD 迎接母親身份\n\n準備好以 ADHD 迎接母親角色\n\n此影片需要啟用 JavaScript 方可播放。"
+      "bodyZh": "Hayley Pearce與ADHD：做好成為母親的準備\n\nBBC Homepage\n\n跳至內容\n\n無障礙幫助\n\n你的帳戶\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n更多選單\n\nBBC News\n\n選單\n\n主頁\n\n氣候\n\n世界\n\n美國與加拿大\n\n英國\n\n商業\n\n科技\n\n科學\n\n娛樂與藝術\n\n健康\n\n更多\n\n圖片\n\nBBC Verify\n\nNewsbeat\n\n威爾斯\n\n威爾斯政治\n\n威爾斯商業\n\n西北\n\n東北\n\n中部\n\n西南\n\n東南\n\nCymru\n\n地方新聞\n\n為ADHD做好母親的準備\n\n播放此影片需要啟用瀏覽器中的JavaScript。\n\n無法播放此影片。\n\n為ADHD做好母親的準備\n\n關閉\n\n更多相關報道。\n\n分節\n\n威爾斯\n\n發佈\n\n4天前\n\n分享\n\n關閉面板\n\n分享頁面\n\n複製連結\n\n關於分享\n\n相關主題\n\nADHD\n\n追蹤\n\n ADHD\n\n關閉面板\n\n你正在追蹤\n ADHD\n\n你關注的新聞主題將會顯示在\n\n「我的新聞」\n\n以及\n\n新聞主頁的合集中。\n\n母親身份\n\n追蹤\n\n 母親身份\n\n關閉面板\n\n你正在追蹤\n 母親身份\n\n你關注的新聞主題將會顯示在\n\n「我的新聞」\n\n以及\n\n新聞主頁的合集中。\n\n威爾斯\n\n追蹤\n\n 威爾斯\n\n關閉面板\n\n你正在追蹤\n 威爾斯\n\n你關注的新聞主題將會顯示在\n\n「我的新聞」\n\n以及\n\n新聞主頁的合集中。\n\nMaesteg\n\n追蹤\n\n Maesteg\n\n關閉面板\n\n你正在追蹤\n Maesteg\n\n你關注的新聞主題將起來顯示在\n\n「我的新聞」\n\n以及\n\n新聞主頁的合集中。\n\n閱讀描述\n\n編輯推薦\n\n為ADHD做好母親的準備。影片，00:00:58\n\n為ADHD做好母親的準備\n\n分節\n\n威爾斯\n\n發佈\n\n4天前\n\n0:58\n\n下一條。為何南韓球迷對國家足球教練如此憤怒？影片，00:01:11\n\n為何南韓球迷對國家足球教練如此憤怒？\n\n分節\n\n亞洲\n\n發佈\n\n20小時前\n\n下一條\n\n1:11\n\n報道：走進委內瑞拉鄉村會所——如今化身臨時醫院。影片，00:00:46\n\n報道：走進委內瑞拉鄉村會所——如今化身臨時醫院\n\n分節\n\n拉丁美洲\n\n發佈\n\n2天前\n\n0:46\n\n英格蘭球迷對世界盃2-0戰勝巴拿馬的反應。影片，00:01:03\n\n英格蘭球迷對世界盃2-0戰勝巴拿馬的反應\n\n分節\n\n英格蘭\n\n發佈\n\n3天前\n\n1:03\n\n恐慌發作與骨折——委內瑞拉醫院救治地震傷者。影片，00:01:13\n\n恐慌發作與骨折——委內瑞拉醫院救治地震傷者\n\n分節\n\n拉丁美洲\n\n發佈\n\n3天前\n\n1:13\n\n報道：委內瑞拉地震救援人員與時間賽跑。影片，00:01:22\n\n報道：委內瑞拉地震救援人員與時間賽跑\n\n分節\n\n拉丁美洲\n\n發佈\n\n3天前\n\n1:22\n\n新生嬰兒從委內瑞拉地震瓦礫中被救出。影片，00:00:39\n\n新生嬰兒從委內瑞拉地震瓦礫中被救出\n\n分節\n\n拉丁美洲\n\n發佈\n\n3天前\n\n0:39\n\n報道：BBC從拉瓜伊拉發來報道，該地區是委內瑞拉受災最嚴重的地區之一。影片，00:01:43\n\n報道：BBC從拉瓜伊拉發來報道，該地區是委內瑞拉受災最嚴重的地區之一\n\n分節\n\n拉丁美洲\n\n發佈\n\n4天前\n\n1:43\n\n報道：閃電橫掃英國多地。影片，00:00:29\n\n報道：閃電橫掃英國多地\n\n分節\n\n英國\n\n發佈\n\n4天前\n\n0:29\n\n飛機撞上北京最高建築後碎片墜落。影片，00:00:48\n\n飛機撞上北京最高建築後碎片墜落\n\n分節\n\n亞洲\n\n發佈\n\n4天前\n\n0:48\n\n委內瑞拉地震中女子從瓦礫中被活着救出。影片，00:01:01\n\n委內瑞拉地震中女子從瓦礫中被活着救出\n\n分節\n\n拉丁美洲\n\n發佈\n\n4天前\n\n1:01\n\n航拍畫面揭示委內瑞拉沿海地區的破壞程度。影片，00:00:35\n\n航拍畫面揭示委內瑞拉沿海地區的破壞程度\n\n分節\n\n拉丁美洲\n\n發佈\n\n5天前\n\n0:35\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n使用條款\n\n關於BBC\n\n私隱政策\n\nCookie\n\n無障礙幫助\n\n家長指引\n\n聯絡BBC\n\nBBC給你的電郵\n\n與我們廣告合作\n\n版權 © 2026 BBC。BBC對外部網站的內容不承擔責任。\n\n了解我們的外部連結處理方式。"
     },
     {
-      "title": "我現在已經應接不暇——那我該如何計劃生育，當我有ADHD的時候？",
+      "title": "我現在已經應接不暇了——有ADHD的我該如何規劃為人母的生活？",
       "url": "https://www.bbc.co.uk/news/articles/c5yzkgx0n2eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-26T05:26:59.000Z",
-      "summary": "海莉·皮爾斯思考着她這顆「神經多樣」的腦袋，將如何應對迎接新生兒的種種考驗。",
+      "summary": "海莉·皮爾斯在想，她那「神經多樣」的頭腦如何應付新生兒的挑戰。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -153,13 +153,13 @@
           "alt": "A man with curly brown hair standing in front of a blue background wearing a cream suit jacket anfd smiling at the camera."
         }
       ],
-      "bodyZh": "Hayley Pearce 是 BBC 真人秀節目《The Call Centre》中受歡迎的茶水阿姨，節目中形容她是派對女孩，永遠離不開假晒黑或假指甲。\n\n電視名人 Hayley Pearce 懷有第一胎，正在思考自己這顆「神經多樣」的腦袋如何應付為人母的所有挑戰。\n\n現年36歲的 Hayley 在 BBC Three 真人紀實節目《The Call Centre》中飾演茶水阿姨而走紅，她在20歲時被診斷出患有 ADHD。\n\n「我對時間沒有概念⋯⋯我曾因總是遲到而被解僱，」她說。\n\n「我不是一個有條理的人⋯⋯我隨時都感到不堪重負。」\n\n她說，她的助產士告訴她，ADHD 意味著她產後抑鬱的可能性可能比神經典型人士更高。\n\nHayley 希望通過分享自己患 ADHD 的經歷，能夠展開關於如何更好地支持像她這樣的女性的對話。\n\nHayley 現居南威爾斯，家中貼滿了便利貼，幫助她記住要做的所有事情。\n\n「現在約會太多，讓我感到不堪重負，」Hayley 解釋道。她現在與社會服務部門合作，負責照顧兒童的工作。\n\n「我叫自己『神經多樣』。我一直以來都是100邁的速度狂奔，有人叫這做『甩甩吓』。」\n\n根據英國國民保健服務（NHS），專注力失調及過度活躍症（ADHD）的症狀包括容易分心或健忘、難以組織時間，以及難以按指示行事或完成任務。\n\nHayley 在2013年《The Call Centre》走紅前一年確診，她有記憶以來一直與 ADHD 共存。\n\n為了在孩子出生後能掌握一切，Hayley 去找了42歲的 Rhiannan Morgan。\n\nRhiannan 有四個患有自閉症的孩子，分別是21歲、14歲、11歲和9歲。和 Hayley 一樣，她也有 ADHD。\n\n「每次我快要生孩子時，我都會想：『如果我現在還不振作起來，我真的麻煩大了』。」\n\n孩子還小的時候，她花了許多時間在網上尋找應對策略。\n\n結果是她開發了一系列幫助自己掌控一切的竅門。\n\nRhiannan 在社交媒體上以「Mummy of Four」發帖，分享各種竅門，並創建資源支持她所說的其他「神經閃亮」的媽媽和家庭。\n\n「ADHD 帶來很多創意和熱情，」她說。\n\n「但也帶來工作記憶和記憶方面的挑戰。如果你沒有這些系統和策略到位，一切都會感覺像是不斷試圖逆流游泳。」\n\nRhiannan 說有些竅門幫助她保持井井有條，包括：\n\n及早讓孩子幫忙做家務\n\n寫下每週餐單\n\n鼓勵孩子幫忙列購物清單\n\n設置舒適的餵奶區域，包括舒適的椅子、水和電話充電器\n\n收到信件和電郵後立即把資訊輸入日曆，並即時繳付帳單\n\n「設定後就不用管」例如每週同一天和時間送貨上門\n\n使用手機鬧鐘作為按時完成任務的提示\n\n使用屏幕時間應用程式避免分心\n\n另一個困擾 Hayley 的問題是產後抑鬱。此前一項涉及超過77萬名新生兒的瑞典研究表明，患有 ADHD 的媽媽產後抑鬱的可能性可能是神經典型人士的五倍。\n\nHywel Dda 大學健康委員會圍產期精神健康服務的輔導心理學家 Nicola Peek 博士表示，這是因為患有 ADHD 的女性對產後急劇下降的雌激素和黃體酮更為敏感，這可能導致多巴胺水平下降。\n\n「她們可能表現為情緒低落、更加疲勞、更多腦霧，她們可能發現很難像以前那樣專注於事情，」她說。\n\nPeek 博士對患有 ADHD 的新手媽媽的建議包括：\n\n與醫護專業人員接觸時為自己發聲\n\n記住社交媒體會設定很多不切實際的期望，他人分享的並非總是事實\n\n與伴侶、家人和朋友談論你的感受\n\n對他人的建議等方面設定界線\n\n「患有 ADHD 你也可以成為出色的家長，」她說。\n\n「會有很大的同理心，會有很大的創意。」\n\nHayley 的預產期在幾週後，她決心繼續與身邊的人談論自己的感受。\n\n「如果我遇到困難，我就面對，我會如實說出自己的感受，」住在 Maesteg（近 Bridgend）的 Hayley 說。\n\n「有了這個寶寶，我的人生將會來個大轉變。\n\n「會是考驗，會是挑戰，但也許會是我一生中感覺最好、最有意義的事情。」"
+      "bodyZh": "Maesteg 準媽媽面對 ADHD 育兒挑戰\n\n電視名人 Hayley Pearce 懷有首胎，正苦惱自己「神經多樣」（neurospicy）的大腦如何應付育兒的一切需求。\n\n36 歲的 Hayley 因在 BBC 寫真節目《The Call Centre》中飾演「茶水阿姐」而走紅，她於 20 歲時確診 ADHD。\n\n她說：「我對時間完全沒有概念……我曾因為總是遲到而被解僱。」\n\n「我不是一個有條理的人……我時時刻刻都感到吃不消。」\n\n她表示，助產士告訴她，ADHD 可能令她較神經典型（neurotypical）人士更容易患上產後抑鬱。\n\nHayley 希望透過分享自身 ADHD 經歷，引發大眾對如何更好地支援這類女性的討論。\n\nHayley 位於南威爾斯的住所現時貼滿了便利貼，幫助她追蹤所有待辦事項。\n\n「現在有太多約會排山倒海而來，我已經吃不消了。」Hayley 解釋說。她目前在社會服務部門工作，協助照顧兒童。\n\n「我叫自己『神經多樣』，我向來都是風風火火、停不下來的那種人。」\n\n根據英國國民保健服務（NHS），專注力失調及過度活躍症（ADHD）的症狀包括容易分心或健忘、難以整理時間，以及難以跟從指示或完成任務。\n\nHayley 在 2013 年因《The Call Centre》走紅前一年確診，她說這是她有記憶以來一直面對的問題。\n\n為了汲取嬰兒出生後如何應付一切的竅門，Hayley 前往拜訪 42 歲的 Rhiannan Morgan。\n\nRhiannan 有四名患有自閉症的子女，年齡分別為 21、14、11 和 9 歲。與 Hayley 一樣，她同樣確診 ADHD。\n\n「每次準備生育，我心裡都會想：『如果我現在還不收拾好，到時就真的大難臨頭了。』」\n\n子女年幼時，她花了大量時間在網上搜尋應對策略。\n\n她在社交媒體上以「Mummy of Four」帳號發帖，分享心得，並製作資源協助她所說的其他「神經閃亮」（neurosparkly）媽媽和家庭。\n\n「ADHD 帶來很多創意和熱情。」她說。\n\n「但也帶來工作記憶及記憶方面的挑戰。如果沒有相應的系統和策略配套，你會感覺自己一直在逆流游泳。」\n\nRhiannan 說，以下是她用來保持井井有條的一些竅門：\n\n及早請孩子幫忙做家務\n寫好一週膳食計劃\n鼓勵孩子幫手寫購物清單\n設置一個舒適的餵哺區域，備有舒適椅子、水和電話充电器\n收到信件或電郵後立即把資訊輸入日曆，即時繳付帳單\n「設定後就拋諸腦後」的做法，例如每週同一天同一時間送貨上門\n使用手機鬧鐘提醒按時完成任務\n使用屏幕時間應用程式避免分心\n\nHayley 另一個掛心的問題是產後抑鬱。一項涵蓋超過 77 萬名新生嬰兒的瑞典研究顯示，ADHD 母親患產後抑鬱的機會可能是神經典型人士的五倍。\n\nHywel Dda 大學健康委員會圍產期心理健康服務的心理輔導心理學家 Nicola Peek 博士表示，這是因為 ADHD 女性對產後雌激素和黃體酮急降更為敏感，會導致多巴胺水平下降。\n\n「她們可能表現為情緒低落、更加疲倦、更加腦霧，甚至發現難以像從前那樣專注。」她說。\n\nPeek 博士對 ADHD 新媽媽的建議包括：\n\n與醫護人員接觸時為自己發聲\n記住社交媒體會製造很多不切實際的期望，他人分享的不一定是真相\n與伴侶、家人和朋友談談自己的感受\n在人際界限上有所把持，例如對他人意見有所篩選\n\n「有 ADHD，你也可以成為出色的家長。」她說。\n\n「會有巨大的同理心，會有巨大的創造力。」\n\n距離嬰兒出生僅剩數週，Hayley 決心繼續身邊的人坦誠分享自己的感受。\n\n「如果我感到吃力，那我就承認，我不會隱瞞自己的感受。」居於 Maesteg（近 Bridgend）的 Hayley 說。\n\n「有了這個寶寶，我的人生將會來個大轉向。\n\n「過程會是考驗，會是挑戰，但同時也可能是我人生中感覺最好、做過最有意義的事。」"
     },
     {
-      "title": "被禁賽泳手的女兒將實現家族的英聯邦運動會夢想",
+      "title": "被禁賽游泳運動員的女兒將實現家族的聯邦運動會夢想",
       "url": "https://www.bbc.co.uk/news/articles/cj0gzpm57pro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-24T21:49:48.000Z",
-      "summary": "安妮特·考利在1986年的運動會上被禁止參賽，因為她捲入了一場政治風波。",
+      "summary": "安妮特·考利在1986年聯邦運動會期間被捲入政治風暴，未能參賽。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -192,25 +192,25 @@
           "alt": "Olivia and Georgia Nel in black swimming costumes after a race, with their arms held aloft."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1a9a/live/7e4a65e0-741b-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Jessica Parker"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e41a/live/f6f41880-74b9-11f1-b1db-af71d47507d6.jpg",
+          "alt": "A woman with shoulder-length blonde hair talks into a microphone"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/318a/live/db7372a0-7409-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Gyles Brandweth with a pink salmon t shirt on"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/cd46/live/3415a990-74ba-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "A white plate with eggs and beans on it"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e629/live/fbcda230-73f7-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Venezuela coordinator for earthquake rescue effort"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/81df/live/db1b5460-74b5-11f1-8e1d-bbbb1017d210.jpg",
+          "alt": "Protesters out supporting birth right citizenship in the United States"
         }
       ],
-      "bodyZh": "遭禁賽泳手的女兒將實現英聯邦運動會夢想\n\n孿生姐妹奧莉維亞（Olivia）與佐治亞（Georgia）尼爾將代表南非出戰今夏的英聯邦運動會。\n\n1986年英聯邦運動會舉行前夕，安妮特·考比·尼爾（Annette Cowley Nel）贏得游泳金牌的夢想因一場政治風暴而破滅。比賽在愛丁堡舉行，她在比賽前一天被禁止參賽，並被警方帶離選手村。\n\n四十年後，當她觀看女兒們征戰今屆運動會時，這一切將迎來情感上的圓滿輪迴。\n\n佐治亞與奧莉維亞这对孿生姐妹雙雙入選南非游泳隊，出戰下月在格拉斯哥揭幕的英聯邦運動會。\n\n考比·尼爾表示：「她們兩人都成功入選英聯邦運動會，這實在別具意義。那將會是非常激動人心的時刻。」\n\n1986年愛丁堡運動會固然有不少體育成就——包括莉茲·麥科爾根（Liz McColgan）奪得一萬米金牌。然而，這屆賽事同樣因32個非洲、亞洲及加勒比海國家杯葛而令人記憶深刻。\n\n各國此舉是為了反對英國首相瑪格麗特·戴卓爾（Margaret Thatcher）對南非的政策。戴卓爾拒絕對實行種族隔離制度的政權實施經濟制裁。由於南非實行種族隔離政策（apartheid），該國運動員被禁止參加國際比賽。\n\n考比·尼爾形容種族隔離制度是南非「一段可怕的時期」，她當時渴望所有人獲得平等。她認為該國此後的變革「非常正面」，但仍對當年所有南非運動員——無論個人政見如何——遭受同一對待感到遺憾。\n\n當年只得19歲的安妮特·考比把握機會，代表其母親的祖國——英格蘭參賽。她取得英聯邦運動會參賽資格，作為英國冠軍，是100米自由式的奪金熱門人選。\n\n然而，隨着運動會臨近，一個接一個國家宣布杯葛，賽事更面臨財務危機。\n\n一個荒誕的章節隨即展開：媒體大亨羅伯特·馬克思韋爾（Robert Maxwell）介入，宣稱將拯救運動會。他更招募了一名涉嫌日本戰犯協助集資。\n\n焦點隨即轉向考比與另一位白人南非跑手佐拉·布德（Zola Budd）。布德在1984年奧運會為英國出賽引發極大爭議後，亦準備代表英格蘭參賽。在日益高漲的不滿聲浪中，賽事官員以居留權規則為由禁止兩人參賽。\n\n考比當時是英國公民，她表示自己往返英國及美國生活，在德薩斯州求學，夏季則在英國參賽。官員否認禁令帶有政治動機，但外界普遍認為此舉是為了安撫參與杯葛的國家。\n\n比賽前一天，考比被帶離選手村，夢想就此破滅。她最終只能在愛丁堡英聯邦泳池的觀眾席上觀看自己的比賽。加拿大的珍·科爾（Jane Kerr）以比考比資格賽成績更慢的時間奪冠。\n\n事後，她對游泳心灰意冷。1992年奧運會舉行時，考比希望代表南非參賽——但由於曾為英格蘭出賽，她最終未能入選。\n\n她回憶道：「那是我人生中一段艱難的時期。我年紀輕輕，不了解幕後發生了什麼。我在很年輕的時候就要面對這麼多事情，這反而讓我學會了如何面對人生。」\n\n四十年後的今天，英聯邦運動會再次落戶蘇格蘭。考比·尼爾將與丈夫傑里米（Jeremy）一同在看台上為女兒佐治亞和奧莉維亞打氣。女兒們在運動會開幕當天將滿24歲。\n\n奧莉維亞曾在2022年伯明翰運動會亮相，但今屆將是佐治亞的首秀。\n\n奧莉維亞說：「我為自己而游，我為家人而游，但有了這段歷史，我更加渴望代表祖國並爭取佳績。」她補充說，運動會在蘇格蘭舉行令這一切「別具意義」，是「一個圓滿的輪迴」。\n\n奧莉維亞與佐治亞有望在4×100米自由式接力賽中並肩作戰。佐治亞表示，兩姐妹能夠同場競技——並擁有她們母親從未獲得的機會——是「非常難得的機會」。\n\n她說，想到母親當年為取得運動會參賽資格付出了多少努力，最終卻被剝奪一切，不禁激動萬分。她又說：「我不僅非常榮幸能代表南非，更希望能代替她出戰今屆英聯邦運動會。」"
+      "bodyZh": "被禁泳手的女兒將實現家庭的英聯邦運動會夢想\n\n1986年英聯邦運動會，安妮特·考利·尼爾（Annette Cowley Nel）贏得游泳金牌的夢想在一場政治風暴中破滅。比賽在愛丁堡舉行，就在她的比賽前夕，她被禁止參賽，並由警察護送離開選手村。\n\n然而，四十年後，當她觀看女兒參賽時，這一切將迎來一個感人的循環。\n\n雙胞胎喬治亞（Georgia）和奧莉維亞·尼爾（Olivia Nel）雙雙入選南非游泳隊，參加下月在格拉斯哥揭幕的英聯邦運動會。\n\n考利·尼爾說：「她們兩人都入選英聯邦運動會，這非常特別。這將是一個非常感人的時刻。」\n\n1986年愛丁堡運動會有許多體育成就——包括利茲·麥科爾根（Liz McColgan）奪得一萬米金牌。但這屆賽事也因32個非洲、亞洲和加勒比國家杯葛而被人銘記。\n\n這些國家反對英國首相瑪格麗特·撒切爾（Margaret Thatcher）對南非的政策。撒切爾拒絕對實行種族隔離制度的政權實施經濟制裁。由於南非的種族隔離政策，該國運動員被禁止參加國際比賽。\n\n考利·尼爾形容種族隔離是南非「一段可怕的時期」，她當時希望所有人享有平等。她相信南非此後的變化「極為正面」——但仍對當時所有南非運動員無論個人政見如何都受到同樣待遇感到沮喪。\n\n當時19歲的安妮特·考利把握了為母親的祖國——英格蘭——參賽的機會。她入選英聯邦運動會，作為英國冠軍，是100米自由式的奪金熱門。但隨著運動會臨近，一個接一個國家宣布杯葛，賽事面臨資金困境。\n\n媒體大亨羅伯特·馬克斯韋爾（Robert Maxwell）介入，宣稱他將拯救運動會，並招募了一名涉嫌日本戰犯協助融資——這段奇異的插曲由此展開。\n\n焦點轉向考利和另一位南非白人運動員、跑步選手佐拉·布德（Zola Budd）。她在1984年奧運會為英國參賽後備受爭議，此刻也準備為英格蘭出賽。在日益高漲的不滿聲中，賽事官員以居留規定為由禁止了兩人參賽。\n\n當時身為英國公民的考利表示，她往返英國和美國生活，在德克薩斯州求學，夏季在英國參賽。官員否認禁令出於政治動機，但外界普遍認為這是賽事官員安撫杯葛國家的舉動。\n\n比賽前夕，考利被帶離選手村，她的夢想就此終結。她最終只能在愛丁堡英聯邦泳池的觀眾席上觀看自己的比賽。加拿大選手簡·克爾（Jane Kerr）奪冠，但時間比考利的入圍成績還要慢。\n\n此後，她對游泳心灰意冷。1992年奧運會來臨時，考利希望為南非參賽——但由於曾代表英格蘭參賽，她未能入選。\n\n她回憶道：「那是我生命中一段艱難的時期。我年紀尚輕，不了解幕後發生了什麼。我小小年紀就要應對許多事，這為我的人生打下了良好的基礎。」\n\n四十年後的今天，英聯邦運動會再次來到蘇格蘭。考利·尼爾將與丈夫傑里米（Jeremy）一同在看台上支持女兒喬治亞和奧莉維亞。比賽開幕當天，雙胞胎正好滿24歲。\n\n奧莉維亞曾參加2022年伯明翰運動會，但這將是喬治亞的首次亮相。\n\n奧莉維亞說：「我為自己而游，我為家人而游，但有這樣的歷史，讓我更加渴望參賽、代表我的國家並取得好成績。」她補充道，運動會在蘇格蘭舉行讓這一切「相當特別」，是「一個循環的時刻」。\n\n喬治亞和奧莉維亞有望一同參加4x100米自由式接力。喬治亞說，兩姐妹能夠同場競技，並擁有母親從未獲得的機會，這是一個「真正獨特的機會」。\n\n她說，想到母親當年努力取得參賽資格，最後卻一切化為烏有，不禁情緒激動。她補充道：「我非常感激能夠代表南非參賽，更感激能夠在這屆英聯邦運動會上代表她。」"
     },
     {
-      "title": "世衛呼籲擴展新生嬰兒篩查以改善出生缺陷的早期發現和護理",
+      "title": "世衛呼籲擴大新生嬰兒篩查以改善出生缺陷的早期發現和護理",
       "url": "https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects",
       "publishedAt": "2026-06-23T10:01:11.000Z",
-      "summary": "世界衞生組織今日呼籲各國擴展新生嬰兒出生缺陷篩查，強調早期發現和治療可挽救生命，並減少數百萬兒童的終身殘疾。一份新報告確認了新生嬰兒篩查",
+      "summary": "世界衛生組織今日呼籲各國擴大新生嬰兒出生缺陷篩查，並強調早期發現和治療可挽救生命並減少數百萬兒童的終身殘疾。一份新報告識別了新生嬰兒篩查的重點領域。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
@@ -223,13 +223,13 @@
           "alt": "Home"
         }
       ],
-      "bodyZh": "世界衞生組織（WHO）今天呼籲各國擴大新生兒出生缺陷篩查規模，強調早期檢測與治療可拯救生命、減少終身殘疾，惠及數百萬兒童。\n\nWHO發表的最新報告《加強出生缺陷新生兒篩查、診斷及管理能力》，確認新生兒篩查是加快兒童生存進展的重要契機。\n\n多個疾病若能在出生後早期確診，即可獲得有效治療，包括先天性甲狀腺功能減退症、鐮狀細胞病、聽力障礙及部分代謝障礙。然而，仍有數百萬兒童確診太遲，或完全得不到治療。\n\n全球每年約有800萬名嬰兒出生時患有出生缺陷，出生缺陷現佔5歲以下兒童全部死亡人數近8%。估計約90%患有嚴重出生缺陷的兒童生活在中低收入國家，當地獲取篩查、診斷及治療的機會極為有限。\n\n「任何兒童都不應因為先天性疾病未能及早發現，而失去健康成長的機會。」WHO總幹事譚德塞博士表示。「各國的經驗表明，對一種或多種疾病進行新生兒篩查，可以挽救生命、預防殘疾，讓新生兒充分發揮潛力。」\n\n各國之間的差距十分明顯：部分國家對超過50種疾病進行全面篩查，而另一些國家則完全無法開展篩查。WHO鼓勵每個國家從新生兒篩查做起——先從本國優先關注的疾病着手，並隨着能力提升逐步擴展。\n\n報告顯示，出生缺陷在多個地區的5歲以下死亡中所佔比例持續上升。2000年至2023年間，撒哈拉以南非洲因出生缺陷導致的5歲以下死亡比例從1%上升至4%，南亞則從3%上升至11%。這部分反映了傳染病及其他可預防死因減少所取得的真正進展。\n\nWHO報告旨在支持衞生部門，特別是中低收入國家的衞生部，根據各國情況優先考慮新生兒篩查的疾病。\n\n報告展示了非洲、亞洲及美洲各國已成功將大規模新生兒篩查項目整合入常規衞生服務的典範：\n\n阿根廷：新生兒篩查覆蓋率提升至接近全面普及。\n\n巴西：將多種危及生命的疾病篩查擴展至全國。\n\n埃及：「新生兒照護路徑」將聽力及先天性甲狀腺功能減退症的全民新生兒篩查整合至基層醫療服務。\n\n印度：國家項目在三年內篩查超過2800萬名兒童，發現約90萬名出生缺陷兒童，並為他們提供診斷、治療及支援，包括透過區級早期干預中心提供長期護理及康復服務。\n\n菲律宾：最初在24間醫院試點的項目，現已通過全國7000多間機構為新生兒篩查29種疾病。所有篩查疾病在國家醫療體系中均有診斷及管理方案。新生兒篩查由國家醫療保險覆蓋，並已立法強制執行。\n\n斯里蘭卡：新生兒篩查已整合入常規照護，涵蓋外觀可見的出生缺陷及先天性甲狀腺功能減退症。目前約80%的新生兒已接受先天性甲狀腺功能減退症篩查。\n\n烏干達：政府主導的鐮狀細胞病項目在高負擔地區早期識別受影響的嬰兒，為他們提供救命治療及長期隨訪護理。\n\nWHO呼籲各國政府將新生兒篩查、診斷及治療整合入常規衞生服務及全民健康覆蓋項目，首先從各國優先關注且可在本國醫療體系內有效檢測、切實管理的疾病着手。\n\n本報告以一次全球WHO諮詢為基礎，雲集各國政府代表、技術專家、臨床醫生、研究人員、專業協會、民間組織及出生缺陷患者家屬，共同識別加強新生兒篩查、診斷及長期護理的優先範疇。"
+      "bodyZh": "世界衞生組織（WHO）今日呼籲各國擴展新生兒出生缺陷篩查，強調早期檢測和治療可挽救生命並減少數百萬兒童的終身殘疾。\n\n世衞最新報告《加強出生缺陷新生兒篩查、診斷及管理能力》指出，新生兒篩查是加快兒童生存進展的重要機遇。\n\n多種疾病若能在出生後早期發現，即可得到有效治療，包括先天性甲狀腺功能減退症、鐮狀細胞病、聽力障礙及部分代謝障礙。然而，仍有數百萬兒童確診過晚，或完全未能獲得治療。\n\n全球每年約有800萬名嬰兒出生時帶有出生缺陷，出生缺陷現佔五歲以下兒童全部死亡的近8%。估計約90%患有嚴重出生缺陷的兒童出生於中低收入國家，當地的篩查、診斷和治療服務仍然有限。\n\n「沒有任何兒童應因為先天性疾病未能在早期被發現而錯失健康未來的機會，」世衞總幹事譚德塞博士說。「世界各地的國家正表明，對一種或多種疾病進行新生兒篩查可以挽救生命、預防殘疾，並讓新生兒獲得發揮潛能的最佳機會。」各國之間的差距十分明顯：部分國家對超過50種疾病進行全面新生兒篩查，而另一些國家卻無法開展任何篩查。世衞鼓勵每個國家開始新生兒篩查——先從本國的重點疾病着手，並隨着能力提升逐步擴展。\n\n報告顯示，出生缺陷在許多地區佔五歲以下死亡的比例日益上升。2000年至2023年間，撒哈拉以南非洲由出生缺陷引致的五歲以下死亡比例從1%上升至4%，南亞則從3%上升至11%。這一轉變部分反映了傳染病和其他可預防病因導致死亡減少方面取得的真正進展。\n\n世衞報告旨在支持衞生部門（尤其在中低收入國家）根據各國情況優先考慮新生兒篩查的疾病。\n\n報告展示了非洲、亞洲和美洲多個國家已成功將大規模新生兒篩查項目整合入常規醫療服務：\n\n阿根廷：將新生兒篩查覆蓋率提升至近乎全民水平。\n\n巴西：將多種危及生命的疾病篩查擴展至全國。\n\n埃及：「新生兒護理路徑」將聽力和先天性甲狀腺功能減退症的全民新生兒篩查整合至基層醫療服務。\n\n印度：國家項目在三年內篩查超過2800萬名兒童，識別出約90萬名患有出生缺陷的兒童，並為他們提供診斷、治療和支援，包括通過地區早期干預中心提供長期護理和康復服務。\n\n菲律宾：最初在24間醫院進行的試點項目，現已通過全國7000多間設施為新生兒篩查29種疾病。所有篩查的疾病在國家醫療系統中均有診斷和管理路徑。新生兒篩查獲國家醫療保險覆蓋，並有法律規定強制執行。\n\n斯里蘭卡：新生兒篩查已整合至常規護理，包括可見出生缺陷及先天性甲狀腺功能減退症。目前約80%的新生兒已接受先天性甲狀腺功能減退症篩查。\n\n烏干達：針對高發地區的鐮狀細胞病國家主導項目，可在早期識別受影響的嬰兒，並為他們提供挽救生命的治療和長期隨訪護理。\n\n世衞呼籲各國政府將新生兒篩查、診斷和治療整合至常規醫療服務及全民健康覆蓋項目，首先從本國重點且可在本國醫療系統內有效檢測和可行管理的疾病着手。\n\n本報告由一次全球世衞諮詢會議論證，匯聚政府代表、技術專家、臨床醫生、研究人員、專業協會、民間組織以及受出生缺陷影響的家庭，以確定加強新生兒篩查、診斷和長期護理的優先事項。"
     },
     {
-      "title": "腦癌患者瞄準今夏聯邦運動會獎牌",
+      "title": "腦癌患者瞄準今年夏天的大英國協運動會獎牌",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/ckg84jyrny4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-22T16:30:14.000Z",
-      "summary": "蘇格蘭泳手阿奇·古德伯恩以新療法抑制無法手術的腦腫瘤生長，目標在2026年格拉斯哥舉行的本土聯邦運動會上奪得獎牌。",
+      "summary": "蘇格蘭游泳運動員阿奇·古德伯恩正在接受新的治療方法，減緩其無法動手術的腦腫瘤生長，並瞄準在2026年格拉斯哥舉行的本土大英國協運動會上獲得獎牌。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -238,49 +238,49 @@
           "alt": "Scottish swimmer Archie Goodburn"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7105/live/143f7fb0-741f-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Paraguay fans celebrate by holding the Paraguay flag"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/906a/live/b794f270-6bc4-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "FIFA World Cup 2026 - Goals! Goals! Goals! Channel"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/34d7/live/2ccedaa0-7422-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "German fan"
+          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0m6ztjd.jpg",
+          "alt": ""
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/49a6/live/ce6e8b60-73fc-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Raducanu and Draper"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/9c2b/live/f480da20-48bd-11f1-ac78-2112837ce2aa.jpg",
+          "alt": "Kidnapped by My Mum"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b267/live/6bc51000-73f3-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "Noni Madueke"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/f0a3/live/84291900-73a5-11f1-b1db-af71d47507d6.png",
-          "alt": "FIFA World Cup 2026: Football Daily"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/d27e/live/6c839440-6ff1-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "The Documentary"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/2c6c/live/719f6840-ed34-11f0-b5f7-49f0357294ff.jpg",
-          "alt": "Industry S4"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/ecc4/live/9713ed90-2da7-11f1-a79a-77e93010d956.jpg",
-          "alt": "Sporting Witness"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/4108/live/6ff208c0-73af-11f1-b1db-af71d47507d6.jpg",
+          "alt": "More Than the Score"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/9cf3/live/91759960-277b-11f1-a79a-77e93010d956.jpg",
           "alt": "Scott McTominay of Scotland"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/a885/live/e1b4b9c0-fb39-11ef-aebe-31d55a7a4a12.jpg",
+          "alt": "Scotland head coach Steve Clarke and captain Andy Robertson"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/9a9e/live/fe578ca0-0773-11f1-b5e2-dd58fc65f0f6.jpg",
+          "alt": "Hammy McMillan"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/820c/live/4ac53a90-3864-11f0-b1cb-473fdb587443.jpg",
+          "alt": "Scott McTominay holding the Serie A title"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/0e5a/live/951a6b30-74f9-11ef-80f8-1d84cdc6be4b.jpg",
+          "alt": "Eilish McColgan celebrates winning the Women&#x27;s 10,000m"
         }
       ],
-      "bodyZh": "腦癌並未磨滅 Goodburn 的格拉斯哥領獎台夢想\n\nArchie Goodburn 是蘇格蘭 50 米蛙泳紀錄保持者\n\nBBC Sport Scotland 高級記者 Kheredine Idessane 報道\n\n2026 年 6 月 22 日發布\n\n距離格拉斯哥 2026 尚有一個多月，但泳手 Archie Goodburn 已渾身起雞皮疙瘩。\n\n部分原因是他的末期腦癌之戰已出現轉機，部分原因是他已能想象自己走進英聯邦泳池時那震耳欲聾的歡呼聲——不僅是為代表國家，更是為了在 50 米蛙泳項目中贏取一枚非凡的獎牌。\n\n「這將是我一生中最自豪的時刻，」這位 24 歲的年輕人談及可能的領獎台時說。「我肯定會激動得不得了，有很多很多人要感謝。光是想到這裡，我現在就已經眼眶濕潤了。」\n\n這並不奇怪。這是一位真正了不起的年輕人，也是一位傑出的運動員。雖然不治性腦腫瘤已大幅縮短了他的預期壽命，但他仍設法參與新的藥物治療計劃，並在此之後打破了自己保持的蘇格蘭 50 米蛙泳紀錄，希望能幫助其他患者。\n\n「賽後確診刷新個人最佳成績——如果你是 2024 年 5 月在診療室裡告訴我這件事，我當時恐怕難以置信，」他說。「我一直全力以赴，目前正處於人生中備戰狀態的最佳時期。\n\n「我遊出的成績，放在過往任何一屆英聯邦運動會都足以奪冠。即使今屆是歷來最快的其中一屆，我也絕對把目標鎖定在領獎台上。」\n\n說到這裡，他不禁又起了雞皮疙瘩。\n\n「想到這裡我就渾身起疙瘩，」他說。「過去四年（自伯明翰 2022 年以來）我成熟了很多，其中很大程度上與我的確診以及對什麼才是真正重要的清醒認識有關。\n\n「有時候游泳與其他事情比起來似乎沒那麼重要，但說到底，我們接受治療、經歷艱辛，不就是為了能做有趣的事嗎？在那些時刻我都會這樣提醒自己，然後就真的感覺像個小孩子了。」\n\n去年 Goodburn 接受 BBC 情感訪談時，他目前的治療尚未正式獲批。\n\n他的故事所產生的力量，為腦癌之戰帶來了希望的訊息，他在推動該藥物上市運動中也是強有力的聲音。\n\n他自己的進展令人鼓舞。腫瘤已無法手術，但其生長已放緩。\n\n「這展示了當英國政府真正採取行動、盡力加快藥物審批時所能實現的可能性，」他說。「自從我們上次談話以來，我們討論的那款藥物已獲批准，得益於此，我能夠恢復訓練，並游出人生中最好的成績之一。\n\n「我最近也剛從愛丁堡大學以一等榮譽（化學工程）畢業，所以我欠了很多人的感謝，也許還有一點點運氣。我現在狀態非常好，真的很期待今個夏天。」\n\n說到這裡，他不禁又起了雞皮疙瘩。這位年輕人仍不知道自己能否活到 40 歲，卻能想像在不可能的情況下贏得獎牌的壯舉，這將令 Tollcross 游泳中心的屋頂都為之震動。\n\n「這是我在這次採訪中第二次起雞皮疙瘩了，」他說。「足球和欖球迷會理解那種感覺——胸口感到踏實的感覺。\n\n「我在游泳中唯一有過那種感覺的時刻，是在伯明翰跟隨 Adam Peaty 走出場的時候。那與只是聽到有人為你歡呼不同，你能真正感受到聲波穿透身體。\n\n「我希望這能給我們帶來優勢，在那百分之一秒上分出勝負。」\n\n如果有人值得獲得獎牌，那個人就是 Goodburn。可以肯定的是，沒有人能在心理上比他更堅強。\n\n而一旦運動會結束，有關腦癌意識的倡議工作仍將繼續。\n\n「我們談的是改變生命的藥物——最常見的那種，預後只有 12 至 18 個月，」他說。「一個月已佔他們剩餘時間的很大一部分。\n\n「在政府或政策委員會開會作出這些決定時，這也許看起來不算多，但日子和小時都很重要。因此，成立一個國家腦癌事務負責人，是我們參與的倡議團體真正呼籲的事情，以盡量簡化這一流程。」"
+      "bodyZh": "腦癌並未磨滅 Goodburn 的格拉斯哥頒獎台夢想\n\nArchie Goodburn 已迫不及待。\n\n距離格拉斯哥 2026 尚有一個多月，這位泳手一方面因末期腦癌治療傳來好消息而激動不已，另一方面他已能想像自己走入英聯邦泳池時，觀眾掌聲如雷的場面——他不只是代表國家，更有望在 50 米蛙泳奪得一枚意義非凡的獎牌。\n\n「那將是我一生中最自豪的時刻，」這位 24 歲的泳手談及可能的頒獎台之旅時說道。「我一定會激動到語無倫次，有很多人要感謝。光是想到這裡，我現在就已經眼眶泛紅了。」\n\n這一切並非沒有道理。這位年輕人確實與眾不同。他是一名出色的運動員，壽命已被無法根治的腦腫瘤大幅縮短，但仍設法參與新的藥物治療計劃，並在康復後打破了自己保持的蘇格蘭 50 米蛙泳紀錄，同時希望這套療法能惠及更多患者。\n\n「要是你在 2024 年 5 月的診療室裡告訴我，確診後還能游出個人最佳成績，我當時真的難以置信，」他說。「我一直全力以赴，目前備戰狀態可說是人生最佳水準。」\n\n「我游出的時間，在過往任何一屆英聯邦運動會都足以奪牌，即使今屆賽事水準較高，我的目標依然瞄準頒獎台。」\n\n說到這裡，他不禁起了雞皮疙瘩。\n\n「想到這裡我就激動不已，」他說。「過去四年（自伯明翰 2022 以來）我成熟了很多，這在很大程度上歸因於我的確診，以及讓我認清什麼才是真正重要的事。」\n\n「有時候游泳跟其他事情比起來似乎顯得沒那麼重要，但其實我們接受治療、經歷種種艱辛，就是為了能夠享受快樂的事。我時常在那些時刻提醒自己這點，頓時就感覺像個孩子一樣。」\n\n去年 Goodburn 接受 BBC 訪問時情緒激動，當時他的現有治療尚未正式獲批。\n\n他的故事為抗腦癌闘爭帶來了希望，他的呼聲亦促成了該藥物的上市申請。\n\n他自己的進展令人鼓舞。腫瘤無法動手術切除，但生長速度已放緩。\n\n「這證明了當英國政府真正行動起來、盡力加快藥物審批時，一切皆有可能，」他說。\n\n「自上次訪問以來，我們談到的那款藥物已獲批准，正因如此，我能夠恢復訓練，創下人生中最佳的表現之一。」\n\n「此外，我最近也從愛丁堡大學以一級榮譽（化學工程）畢業了，所以我要感謝很多人，或許還有一點點運氣。我現在狀態極佳，非常期待今個夏天。」\n\n說到這裡，他再次起了雞皮疙瘩。這位年輕人仍不知道自己能否活到 40 歲，卻能設想在不可能的情況下奪得獎牌，為 Tollcross 游泳中心的觀眾帶來沸騰的時刻。\n\n「這次訪談中我已經第二次起雞皮疙瘩了，」他說。「足球和欖球的球迷一定明白那種胸口澎湃的感覺。」\n\n「我以前在游泳項目中唯有在伯明翰跟在 Adam Peaty 身後走出來時才感受過。那跟僅僅聽到觀眾歡呼不同，你能真正感受到聲波穿透身體的震撼。」\n\n「我希望這份感受能助我們在比賽中爭取那關鍵的零點零幾秒。」\n\n若說有人值得一面獎牌，非 Goodburn 莫屬。可以肯定的是，論心理韌性，沒有人比他更強。\n\n運動會結束後，他倡導腦癌關注的工作仍將繼續。\n\n「我們談的是改變生命的藥物——這類最常見的腦癌，患者平均餘命僅十二至十八個月，」他說。「一個月已佔他們剩餘時間相當大的比例。」\n\n「在政府或政策委員會開會決策時，這或許看似微不足道，但日子和小時都很重要。所以我們所屬的倡議組織大力呼籲設立國家腦癌專員，以盡量簡化整個流程。」"
     },
     {
-      "title": "泳會呼籲學校加強水上安全教育",
+      "title": "游泳俱樂部呼籲加強學校水上安全教育",
       "url": "https://www.bbc.co.uk/news/articles/cx2xq1pz393o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-22T05:08:04.000Z",
-      "summary": "從秋季起，小學及中學將引入新的水上安全論壇。",
+      "summary": "從秋季開始，小學和中學將引入新的水上安全論壇。",
       "sourceName": "BBC 新聞（健康）",
       "sourceId": "bbc-health",
       "images": [
@@ -309,80 +309,37 @@
           "alt": "A man smiles at a pool on a sunny day."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1a9a/live/7e4a65e0-741b-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Jessica Parker"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/81df/live/db1b5460-74b5-11f1-8e1d-bbbb1017d210.jpg",
+          "alt": "Protesters out supporting birth right citizenship in the United States"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/318a/live/db7372a0-7409-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Gyles Brandweth with a pink salmon t shirt on"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/92d1/live/66bded00-74bd-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Serena Williams wearing a white tennis dress"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e629/live/fbcda230-73f7-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Venezuela coordinator for earthquake rescue effort"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ba23/live/ec78efc0-74b4-11f1-b1db-af71d47507d6.jpg",
+          "alt": "A person wearing army fatigues without their face visible"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/44ce/live/49a5fd60-73a1-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "A newborn baby rests on a man&#x27;s chest"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6ea2/live/48f78db0-748d-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Chris Mason wearing a suit nd tie"
         }
       ],
-      "bodyZh": "南安普敦游泳會促請學校加強水上安全課程\n\n游泳課正受到泳池關閉及成本上升的影響，但焦點正轉向水上安全教育，因為新課程將於九月推出。\n\n秋季起，全新的「水上安全論壇」（Water Safety Forum）將引入中小學。\n\n其框架旨在教導兒童游泳技巧，以及在遭遇危險情況時如何求生。\n\n南安普敦市游泳會（City of Southampton Swimming Club）表示，首先應在學校加強游泳教學，仍有更多工作需要做。\n\n對許多兒童而言，游泳不僅是一項有趣的活動，更是一項重要的求生技能，或許有一天能挽救他們的生命。\n\n根據主管機構 Swim England 的數據，南部約有 90% 的兒童表示喜歡游泳。\n\n然而，僅得 77% 的兒童在離開小學時能夠游 25 米——這是標準泳池的長度。\n\n主教練 Matt Heathcock 表示，費用是影響人們游泳能力的重大因素：「就我和我的家人而言，光是去游一小時泳就要花費£20至£25以上。」\n\n「加上泳池關閉，課程也愈來愈昂貴了。」\n\n自疫情以來，全國各地的泳池因成本上漲及使用率不足而相繼關閉，國家水上安全經理 Adam Goymer 形容這是「可怕的投資」。\n\n「這絕對是對政府的一個行動呼籲，投資於泳池以維持運作。」\n\n「擁有自己的泳池的學校，如果因為成本問題而無法繼續營運，那將是巨大的損失。」他說。\n\n五月熱浪侵襲英國期間，全國至少有 11 人在水上意外中喪生，其中包括法恩伯勒附近 Hawley Lake 的一名 14 歲少年。\n\n不過，雖然進入泳池仍是難題，但焦點正轉向教導兒童如何在水中保障安全。\n\n目前，兒童在小學階段的課程中會學習游 25 米。\n\n雖然這是必修內容，但並非所有學校都有執行，而且難以監察。\n\n新課程期望透過加入「水上安全守則」（Water Safety Code），教導兒童關鍵的安全資訊，如「停一停想一想」（Stop and Think）、「留在原地」（Stay Together）、「漂浮」（Float）及「致電 999」（Call 999）。\n\n普茲茅斯大學生理學教授、全國水上安全論壇主席 Mike Tipton 表示，學習漂浮是生存的關鍵。\n\n最新數據顯示，8 至 18 歲的溺水遇難者中，有 61% 被親友形容為懂得游泳。\n\n「因為你能夠在室內泳池游 25 米，這並不一定能讓你在開放水域中求生。」Mike 解釋道。\n\n「所以如果你因為衝動跳入冷水而陷入困境，『漂浮求生』就是關鍵信息。」\n\n「仰面躺著，頭部向後仰入水中，盡量減少動作，直到你重新控制呼吸，這大約需要一分鐘。」"
+      "bodyZh": "南安普敦游泳會呼籲加強學校水上安全課程\n\n游泳池關閉及成本上漲正影響游泳課程，但隨着新課程將於九月出台，外界將焦點轉向水上安全。\n\n從秋季起，小學和中學將引入新的水上安全論壇（Water Safety Forum）。其課程框架旨在教導兒童游泳，以及在危險情況下如何求生。\n\n南安普敦市游泳會表示，首要任務是讓更多學校切實開展游泳教學。\n\n對許多兒童而言，游泳不僅是有趣的活動，更是一項重要的求生技能，或許有一天能挽救他們的生命。\n\n根據主管機構 Swim England 的數據，南方地區約九成兒童表示喜歡游泳。然而，僅得七成七的兒童在小學畢業時能游二十五米——即標準泳池的長度。\n\n主教練 Matt Heathcock 表示，費用是影響游泳的主要因素：「就我和家人而言，僅僅游一小時泳就要花費二十至二十五鎊以上。隨着泳池關閉，課程費用也越來越貴。」\n\n自疫情以來，全國各地泳池因成本上漲及使用率偏低而相繼關閉。國家水上安全經理 Adam Goymer 形容這是「糟糕的投資」。\n\n「這無疑是對政府的一個行動呼籲，要求政府投資泳池以維持運作。那些幸運地擁有自家泳池的學校，若因成本問題而無法繼續營運，將是巨大的損失。」\n\n五月底熱浪侵襲英國期間，全國至少有十一人在水上意外中喪生，包括法恩伯勒附近 Hawley Lake 的一名十四歲少年。\n\n然而，儘管進入泳池仍是難題，但焦點已轉向教導兒童如何在水中的安全。\n\n目前，小學課程中有關游泳的規定是教導兒童在泳池中游二十五米。雖然屬必修課程，但並非所有學校都有執行，而且難以監察。\n\n新課程將把水上安全守則（Water Safety Code）納入其中，希望兒童能學會關鍵的安全提示，如「停一停，想一想」、「留在原地」、「漂浮」及「致電九九九」。\n\n朴茨茅夫大學生理學教授、國家水上安全論壇主席 Mike Tipton 表示，學會漂浮是求生的關鍵。\n\n最新數據顯示，八至十八歲的溺斃者中，逾六成一被親友形容為懂得游泳。\n\nMike 解釋：「因為你能在室內泳池游二十五米，這並不一定能讓你在開放水域中生還。如果你因為衝動下水而在冷水中遇險，『漂浮求生』就是關鍵信息。翻身仰躺，將頭向後仰入水中，盡量減少動作，直到呼吸恢復正常，這大約需要一分鐘。」"
     },
     {
-      "title": "家長「面臨不明朗」特殊教育需要學童無學位",
+      "title": "特殊教育需要學童未能獲得學位，家長「面對不明朗情況」",
       "url": "https://www.bbc.co.uk/news/articles/c3ryp29l1pqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-20T05:57:29.000Z",
-      "summary": "艾米·吉布尼表示，她孩子就讀的學校有八個家庭接獲通知，指孩子明年沒有學位，她是其中之一。",
+      "summary": "艾美·吉布尼表示，她孩子就讀的學校有八個家庭都被告知明年沒有學位。",
       "sourceName": "BBC 新聞（障礙）",
-      "sourceId": "bbc-disability",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/738/cpsprodpb/977f/live/a662ccb0-6bed-11f1-8150-ff9f130ca186.jpg",
-          "alt": "A woman with long blonde hair wears a pink top as her small ginger haired son sits on her lap. She is looking at the camera while he looks of to the left. He wears a black long-sleeve t-shirt. Behind them is a blue wall with wooden beams on the wall."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f34e/live/f2f607a0-6bec-11f1-8150-ff9f130ca186.jpg",
-          "alt": "A young boy with ginger hair sits in front of a yellow wall, wearing a purple jumper. Over his left shoulder is a clear window with blue railing behind it."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5273/live/5d3cdcd0-b4b7-11f0-b2a1-6f537f66f9aa.jpg",
-          "alt": "Nick Matheson has a grey beard, grey/whitish hair that is gelled into a spike and grey round glasses. He is wearing a navy shirt, white shirt and orange tie, and behind him is the yellow white Alliance banner"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/921/cpsprodpb/b5f9/live/3e942570-6bf2-11f1-8631-5f302ec8cd09.jpg",
-          "alt": "A young boy wears a red top and black shorts. He has blue earmuffs on. He sits in a soft play area, holding on to a blue foam pole with his left hand."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/0f99/live/727a2d90-7bed-11ef-b282-4535eb84fe4b.jpg",
-          "alt": "School pupil"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/f85d/live/27e2a850-5f64-11f1-8dad-8347ac6f73d8.jpg",
-          "alt": "A boy with dark hair has his arm around a woman with dark hair, they are both wearing blue and white tops."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/5998/live/243be200-bc82-11f0-bb31-6b973915c4b7.jpg",
-          "alt": "Bernie Davis has shoulder length blonde hair and blue eyes, and is wearing a red blazer as she stares at the camera."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1a9a/live/7e4a65e0-741b-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Jessica Parker"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/318a/live/db7372a0-7409-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Gyles Brandweth with a pink salmon t shirt on"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e629/live/fbcda230-73f7-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Venezuela coordinator for earthquake rescue effort"
-        }
-      ],
-      "bodyZh": "貝爾法斯特：特殊教育需求學童無學位，家長苦等——BBC News\n\n特殊教育需求（SEN）學校學童的家長形容，獲告知子女明年沒有學校學位可用，形容情況「令人崩潰」。\n\n艾美·吉布尼（Amy Gibney）表示，她是周四獲告知貝爾法斯特各間SEN學校或已滿額、或無法配合子女需要的八名家長之一。\n\n這批學童即將離開橡樹學校及評估中心（Oakwood School and Assessment Centre）——該校招收至P4年級的學生——但至今仍未獲分配9月入讀的學校學位。\n\n教育事務局（Education Authority，簡稱EA）表示，SEN學額的需求持續超出供應，意味家庭的優先志願學校無法始終獲安排。\n\nOakwood與區內多間主流學校相同，只提供至P4年級的教育，意味學生必須轉讀其他學校完成小學及中學階段。\n\n吉布尼接受BBC News NI訪問時表示，「這種不確定性，我不希望任何人經歷」。\n\n家長表示，多名將於9月完成學業的學生被告知，沒有學校學位可供其子女就讀。\n\n吉布尼的兒子利維（Levi）患有自閉症，屬非言語型，並有嚴重學習障礙。\n\n他的9月入學安排仍不明朗。\n\n她聲稱：「八個不同的家庭和子女都面對同樣情況。」\n\n「這似乎是每年都會出現的問題，這些學校都知道這是問題所在，為什麼我們子女的學位不能早點獲得優先安排。這只會繼續發生。」\n\n她表示，部分家長收到信件，稱其子女沒有學位，但「可能有替代安排」。\n\n「我們根本不知道那些安排是什麼，」她說。\n\n「是家居教育？是等待學位空缺？可能要等幾個月？是住宿喘息照顧？」\n\n她續稱：「他們需要一個能培育他們成長的環境。」\n\n「我不希望任何人遭遇這種情況，太荒謬了。」\n\n「我們的子女靠規律生活，他們需要穩定。」\n\n「完全失敗」\n\n尼克·馬蒂森（Nick Mathison）是Stormont教育委員會主席。\n\n這位Alliance黨籍MLA形容受影響家長的情況「絕對令人崩潰」。\n\n「我們不會期望任何完成P4的孩子在我們的教育體系中無處可去，」他說。\n\n他補充說，教育事務局在規劃教育旅程的後續步驟方面存在「完全失敗」，「家長有充分理由感到失望」。\n\n他表示，雖然近年教育事務局承受的壓力變得更加「顯著」，但這個問題本應更早處理。\n\n「這不是新問題，這種情況已經醞釀了好幾年。」\n\n「如果一個孩子開始在特殊學校接受教育——我們知道特殊學校只提供至P4——規劃工作應該從那時就開始。」\n\n「每年都有的問題」\n\n吉布尼說，她之前也曾面臨利維學業的不確定性。\n\n她說，當兒子即將從幼兒園畢業時，他們整個夏天都在等待結果，不確定兒子能否入學。\n\n「我曾經是那個坐立不安的家長，不知道子女9月是否甚至能開始上幼兒園。這就是為什麼我不能再次經歷這種情況，」她補充道。\n\n「整個過程中的焦慮令人擔憂」。\n\n吉布尼說，教育事務局建議她「每週致電」以獲取最新進展。\n\n「這非常令人沮喪」，她說。\n\n她表示周四獲告知，可能在本月底會有教育事務局的更新。\n\n「你必須為所有事情據理力爭」\n\n莎拉·鄧肯（Sarah Duncan）八歲的兒子艾登（Aodhán）同樣沒有學位。\n\n他患有自閉症、專注力不足及過度活躍症（ADHD）、嚴重學習障礙，且為非言語型。\n\n她獲告知，她申請的三間學校都無法為艾登提供學位。\n\n她說，她本會非常高興兒子能入讀任何一間，但被告知它們無法「滿足」他的需求的複雜性，或者沒有足夠的空間接納他。\n\n「影響是毀滅性的。身體上、精神上。對整個家庭來說都是毀滅性的，」鄧肯說。\n\n她補充說，「絕對所有事情」都需要爭取，而且「為艾登爭取需要耗盡我全部的力氣，無論做什麼都令人沮喪，因為你無法取得任何進展」。\n\n鄧肯形容她的兒子是「一個複雜的孩子」，需要一個能應對這些情況的環境。\n\n「據我所知，除了特殊學校外，沒有其他設施適合他，」她說。\n\n「他在學校接受高強度的職業治療、言語及語言治療、物理治療。」\n\n「這不僅關乎他的學習，還包括進食、如廁、照顧他。」\n\n教育事務局在聲明中表示，他們正在「積極努力確保所有P4升學學生獲得學位，並與家長及根據每名學童的需要進行諮詢，在學位獲確認時持續通知家長」。\n\n聲明補充，學額緊張是「嚴重關注的事項」。\n\n「教育廳長正透過提交給行政部门的SEN資本投資計劃設法解決這個問題。」"
+      "sourceId": "bbc-disability"
     },
     {
-      "title": "殘疾鄉郊駕駛者將最受惠益車計劃削減影響",
+      "title": "殘疾鄉村司機將最受交通補貼削減影響",
       "url": "https://www.bbc.co.uk/news/articles/cg53d1jepneo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-16T05:03:12.000Z",
-      "summary": "蘇格蘭政府在與惠益汽車公司協商期間，暫停了英國新的里程限制及較高的附加費用。",
+      "summary": "蘇格蘭政府在與交通補貼機構協商期間，暫停了英國新的里程限制和更高的超額費用。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -407,33 +364,33 @@
           "alt": "Young 18 year old man sits in the passenger seat of a black VW car, his arm resting on the open window as he looks to camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1a9a/live/7e4a65e0-741b-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Jessica Parker"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e41a/live/f6f41880-74b9-11f1-b1db-af71d47507d6.jpg",
+          "alt": "A woman with shoulder-length blonde hair talks into a microphone"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/318a/live/db7372a0-7409-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Gyles Brandweth with a pink salmon t shirt on"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/81df/live/db1b5460-74b5-11f1-8e1d-bbbb1017d210.jpg",
+          "alt": "Protesters out supporting birth right citizenship in the United States"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e629/live/fbcda230-73f7-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Venezuela coordinator for earthquake rescue effort"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/92d1/live/66bded00-74bd-11f1-b1db-af71d47507d6.jpg",
+          "alt": "Serena Williams wearing a white tennis dress"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/44ce/live/49a5fd60-73a1-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "A newborn baby rests on a man&#x27;s chest"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ba23/live/ec78efc0-74b4-11f1-b1db-af71d47507d6.jpg",
+          "alt": "A person wearing army fatigues without their face visible"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/88e0/live/006f1230-73b5-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "Andy Burnham has short dark hair and wears glasses"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6ea2/live/48f78db0-748d-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "Chris Mason wearing a suit nd tie"
         }
       ],
-      "bodyZh": "蘇格蘭鄉郊殘疾司機擔心會因Motability計劃的削減而失去獨立性，或面臨高昂費用。\n\n該計劃允許殘疾人士利用部分殘疾福利來租賃車輛，許多人依靠這些車輛上班、就醫及應付日常生活。\n\n英國其他地區將於7月起實施新的里程限制及更高的保險超額費用，Motability表示此舉是應對成本上漲的必要措施。\n\n這些變動原本亦計劃在蘇格蘭推行，但蘇格蘭政府與Motability之間的討論延後了實施日期，目前尚不確定何時會在當地落實。\n\n關注人士指出，公共交通有限的鄉郊社區將受最大影響。\n\n從7月1日起，英國其他地區的新Motability租約將包含每年10,000英里的標準里程限額，是之前20,000英里限制的一半。超過限額的司機每超額一英里將被收取25便士。保險、保養、維修及路稅亦已包含在計劃內。\n\n來自Balloch的輪椅使用者Graeme Stuart表示，這些建議將影響他的工作及日常生活。他依靠Motability車輛前往蘇格蘭國家脊椎損傷中心上班、出席醫療預約，以及參加輪椅冰壺比賽。他目前的租約允許三年內行駛最多60,000英里。他預計到明年租約結束時將接近該數字。\n\nStuart表示，根據新規則維持目前的行駛模式，可能會令他在三年租約內面臨約7,500鎊的超里程費用。他說：「如果維持在10,000英里，那就根本毋須考慮。我繼續使用Motability就太蠢了。」\n\n對於許多使用者而言，特別是在公共交通有限的地區，這個計劃是必需的。Stuart說：「這是我的命脈。如果沒有這個，我的生命就不會有現在的質量。」\n\n他認為這些建議可能會為殘疾人士繼續就業帶來更多障礙。「變相來說，他們的意思是：『我們希望你就業，但我們將會設置障礙。』」\n\n斯凱島（Isle of Skye）亦提出過類似關注。\n\n使用電動輪椅、居於Broadford的Dr Caroline Gould（PhD）依靠一輛特別改裝的無障礙輪椅車。醫院預約往往需要前往Inverness或Glasgow，而探訪94歲的母親來回距離超過1,200英里。\n\n她表示，這些建議未能反映在蘇格蘭偏遠地區生活的實況。她說：「我認為人們最終將無法過自己想要的生活，無法獲得他們想要的獨立。」\n\nGould表示，無障礙交通替代方案往往無法使用。「除了使用我的無障礙輪椅車之外，我別無選擇。」\n\n殘疾組織同樣表示關注。\n\nSpinal Injuries Scotland行政總裁Maureen Morrison表示，許多殘疾人士已經面臨就業、醫療及社交活動方面的障礙。她警告，更高的里程費用可能會令一些人減少出行或變得更與社會隔離。\n\n針對Motability聲稱約73%客戶每年行駛少於10,000英里，她問道：「其餘的人怎麼辦？」\n\nMotability表示，這些變動是對英國政府秋季預算案中稅務措施的回應。該組織估計，到本年代末，這些措施每年將為計劃的營運成本增加約3億鎊。\n\n該組織表示，若不作改動，租賃費用可能在三年內增加約1,100鎊。新措施旨在將平均增幅降至約400鎊。\n\nMotability發言人表示：「我們知道車輛對我們的客戶獨立生活有多重要。」\n\n該組織表示，約四分之三的客戶已經在新里程限額範圍內行駛，並確認將為少數個案引入例外程序。\n\n蘇格蘭社會公義大臣Shirley-Anne Somerville表示，部長們正與Motability合作，以減少不確定性，確保殘疾人士繼續獲得適切支援。\n\n蘇格蘭政府表示，談判仍在繼續，以在蘇格蘭實施任何變動之前尋求解決方案。"
+      "bodyZh": "殘疾鄉郊司機或受Motability改革最大衝擊\n\n殘疾鄉郊司機擔憂他們可能會因Motability計劃的變動而失去獨立性，或面臨巨額費用。\n\n該計劃允許殘疾人士利用部分殘疾福利來租車，許多人依靠汽車上班、就醫及應付日常生活。\n\n英國其他地區將於七月起實施新的里數上限及更高的保險自負額，Motability稱此乃應對成本上漲的必要措施。\n\n這些變動原本亦會在蘇格蘭推行，但蘇格蘭政府與Motability之間的討論延後了實施日期，目前蘇格蘭何時推行這些變動仍是未知之數。\n\n倡議人士指出，公共交通有限的鄉郊社區將受到最嚴重的衝擊。\n\n由七月一日起，英國其他地區的新Motability租約將包含每年10,000英里的標準里數配額，是之前20,000英里上限的一半。超過配額的司機每超出一英里需繳付25便士。保險、保養、維修及路稅亦包含在計劃內。\n\n來自Balloch的輪椅使用者Graeme Stuart表示，這些建議將影響他的工作及日常生活。他依靠Motability車輛前往蘇格蘭國家脊髓損傷中心上班、出席醫療預約，以及參加輪椅冰壺比賽。\n\n他現有的租約三年內允許行駛最多60,000英里。他預計合約明年屆滿時，里數將接近該數字。\n\nStuart表示，若按提議的規定維持他目前的出行模式，可能需繳付約7,500鎊的超里數費用。\n\n他說：「如果里數上限維持在10,000英里，那就根本不用考慮了。繼續使用Motability實在太愚蠢。」\n\n他認為這些建議可能會為殘疾人士維持就業帶來更多障礙。「他們實際上是在說：『我們希望你有工作，但我們會設置障礙。』」\n\n斯凱島（Isle of Skye）亦有類似關注。\n\n使用電動輪椅、住在Broadford的Dr Caroline Gould（PhD）依靠專門改裝的輪椅通道車輛。醫院預約通常需要前往Inverness或Glasgow。探望她94歲的母親則意味着來回超過1,200英里的路程。\n\n她表示，這些建議未能反映在蘇格蘭偏遠地區生活的實際情況。「我認為人們最終將無法過自己想要的生活，無法獲得他們想要的獨立。」\n\n殘疾組織亦表達了關注。\n\nSpinal Injuries Scotland行政總裁Maureen Morrison表示，許多殘疾人士已經面對就業、醫療及社交活動的障礙。她警告，更高的里數費用可能導致部分人減少出行或變得更加孤立。\n\n對於Motability聲稱約73%客戶每年行駛里數少於10,000英里，她問道：「那其餘的人呢？」\n\nMotability表示，這些變動是回應英國政府秋季預算案中宣布的稅務措施。該組織估計，到本年代末，這些措施每年將使計劃營運成本增加約3億鎊。\n\nMotability發言人表示：「我們知道車輛對我們的客戶獨立生活有多重要。」該組織表示，約四分之三的客戶已在新的里數配額範圍內行駛，並確認將為少數個案引入例外機制。\n\n蘇格蘭社會公義大臣Shirley-Anne Somerville表示，官員正與Motability合作，以減少不確定性，並確保殘疾人士繼續獲得適當支持。蘇格蘭政府表示，討論仍在繼續，以在任何變動於蘇格蘭推行前尋求解決方案。"
     },
     {
-      "title": "聯邦運動會對殘疾運動「意義重大」——蕭",
+      "title": "大英國協運動會對殘疾運動「意義重大」——肖",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/c5y70d6l5qlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-29T13:47:42.000Z",
-      "summary": "蘇格蘭泳手托妮·蕭相信，今年夏天在格拉斯哥舉行的聯邦運動會對殘疾運動界將「絕對意義重大」。",
+      "summary": "蘇格蘭游泳運動員托尼·肖相信，今年夏天在格拉斯哥舉行的大英國協運動會對殘疾運動界將是「絕對意義重大」。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -442,49 +399,49 @@
           "alt": "Toni Shaw"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7105/live/143f7fb0-741f-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Paraguay fans celebrate by holding the Paraguay flag"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/906a/live/b794f270-6bc4-11f1-8546-8f19e4fe30f4.jpg",
+          "alt": "FIFA World Cup 2026 - Goals! Goals! Goals! Channel"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/34d7/live/2ccedaa0-7422-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "German fan"
+          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0m6ztjd.jpg",
+          "alt": ""
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/49a6/live/ce6e8b60-73fc-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "Raducanu and Draper"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/9c2b/live/f480da20-48bd-11f1-ac78-2112837ce2aa.jpg",
+          "alt": "Kidnapped by My Mum"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b267/live/6bc51000-73f3-11f1-8546-8f19e4fe30f4.jpg",
-          "alt": "Noni Madueke"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/f0a3/live/84291900-73a5-11f1-b1db-af71d47507d6.png",
-          "alt": "FIFA World Cup 2026: Football Daily"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/d27e/live/6c839440-6ff1-11f1-8e1d-bbbb1017d210.jpg",
-          "alt": "The Documentary"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/2c6c/live/719f6840-ed34-11f0-b5f7-49f0357294ff.jpg",
-          "alt": "Industry S4"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/ecc4/live/9713ed90-2da7-11f1-a79a-77e93010d956.jpg",
-          "alt": "Sporting Witness"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/4108/live/6ff208c0-73af-11f1-b1db-af71d47507d6.jpg",
+          "alt": "More Than the Score"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/9cf3/live/91759960-277b-11f1-a79a-77e93010d956.jpg",
           "alt": "Scott McTominay of Scotland"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/a885/live/e1b4b9c0-fb39-11ef-aebe-31d55a7a4a12.jpg",
+          "alt": "Scotland head coach Steve Clarke and captain Andy Robertson"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/9a9e/live/fe578ca0-0773-11f1-b5e2-dd58fc65f0f6.jpg",
+          "alt": "Hammy McMillan"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/820c/live/4ac53a90-3864-11f0-b1cb-473fdb587443.jpg",
+          "alt": "Scott McTominay holding the Serie A title"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/0e5a/live/951a6b30-74f9-11ef-80f8-1d84cdc6be4b.jpg",
+          "alt": "Eilish McColgan celebrates winning the Women&#x27;s 10,000m"
         }
       ],
-      "bodyZh": "譚妮·蕭：蘇格蘭泳手稱共和聯邦運動會對殘疾運動「意義重大」——BBC Sport\n\nBBC 主頁\n\n跳至內容\n\n無障礙輔助\n\n您的帳戶\n\n主頁\n\n新聞\n\n體育\n\n地球\n\n精華\n\n職場生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n更多選單\n\n更多選單\n\n搜尋 BBC\n\n主頁\n\n新聞\n\n體育\n\n地球\n\n精華\n\n職場生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n關閉選單\n\nBBC 體育\n\n選單\n\n主頁\n\n世界盃\n\n足球\n\n板球\n\n一級方程式\n\n欖球\n\n網球\n\n高爾夫\n\n單車\n\n田徑\n\n更多\n\nA-Z 體育項目\n\n美式足球\n\n田徑\n\n籃球\n\n拳擊\n\n板球\n\n單車\n\n飛鏢\n\n殘疾人體育\n\n足球\n\n一級方程式\n\n愛爾蘭式運動\n\n高爾夫\n\n體操\n\n賽馬\n\n混合武術\n\n賽車運動\n\n網球的\n\n奧運項目\n\n聯盟式欖球\n\n聯合式欖球\n\n桌球\n\n游泳\n\n網球\n\n完整體育 A-Z\n\n體育更多內容\n\n英格蘭\n\n蘇格蘭\n\n威爾斯\n\n北愛爾蘭\n\n新聞摘要\n\n幫助與常見問題\n\n殘疾人體育\n\n冬季帕拉林匹克獎牌榜\n\n成績\n\nParalympicsGB\n\n日曆\n\n共和聯邦運動會對殘疾運動「意義重大」——蕭\n\n圖片來源，Getty Images\n\n圖片說明，\n\n譚妮·蕭尽管飽受背傷困擾，仍入選蘇格蘭代表隊\n\n作者\n\n泰隆·史密斯\n\nBBC 體育蘇格蘭高級記者\n\n發布日期\n\n2026年5月29日\n\n蘇格蘭泳手譚妮·蕭相信，今年夏天在格拉斯哥舉行的共和聯邦運動會，對殘疾運動界將是「絕對意義重大」的盛事。\n\n雖然整體賽事規模有所縮減，但這將是共和聯邦運動會史上規模最大的殘疾運動綜合項目。\n\n殘奧會項目共設有破紀錄的47個金牌項目，分別在10個運動項目中的6個項目中展開角逐。\n\n蕭表示：「過去已有太多進步。」她曾在2020年殘奧會的泳池中奪得銅牌。「我認為這將在各處產生連鎖反應，不僅在蘇格蘭。」\n\n「我認為殘疾運動社群將因這些報道而真正壯大，所以我覺得這真的很不可思議。」\n\n諾瓦茨基領銜澤西島2026年共和聯邦運動會代表隊\n\n發布日期\n\n5月29日\n\n22歲的蕭回憶起2014年在格拉斯哥觀看共和聯邦運動會的經歷。\n\n她補充道：「當時我在觀眾席上，這激勵了我。所以希望其他殘疾人士，看到殘疾運動參與度的提升，也許會因此受到啟發而開始參與運動。」\n\n「這是少數幾個健全運動與殘疾運動並肩進行的比賽之一，所以媒體報道和相關的一切，我真的覺得很了不起。」\n\n2014年在托爾克羅斯現場觀看比賽，幫助當時年僅10歲的蕭堅信「這真的很酷，我想做這個」。\n\n這位阿伯丁人坦言，如今以參賽者身份重返當地，是「夢想成真的時刻」。\n\n在正常情況下，她原本是蘇格蘭代表隊的奪金大熱人選之一。\n\n除了那枚殘奧會銅牌之外，蕭還擁有其他各大錦標賽的大量獎牌，包括3面世錦賽金牌、2面歐錦賽金牌，以及一面共和聯邦運動會銅牌——那是四年前在伯明翰奪得的。\n\n然而，她表示背部傷患意味著今次「真的很難」夢想站上頒獎台最高位置。\n\n蕭補充道：「說實話，這段時間很艱難。我在2024年受了背傷，接受過類固醇注射，也做了一些治療，所以情況好多了，只是我一直無法恢復到受傷前的成績。」\n\n「相當困難，但入選代表隊是我的主要目標，能夠做到這一點，我感到非常自豪，也非常期待這個夏天。」\n\n「我只是想把所有一切都拿出來。」\n\n相關主題\n\n共和聯邦運動會\n\n殘疾人體育\n\n游泳\n\n精華片段\n\n上一則\n\n下一則\n\n0:53\n\n巴拉圭球迷談論歷史性勝利！ 00:00:53，播放影片\n\n巴拉圭球迷談論歷史性勝利！\n\n0:32\n\n球迷對互射十二碼落敗的反應：克洛普執教德國？ 00:00:32，播放影片\n\n球迷對互射十二碼落敗的反應：克洛普執教德國？\n\n0:56\n\n退出就有獎金？ 00:00:56，播放影片\n\n退出就有獎金？\n\n0:21\n\n「我是最好的」——馬杜埃肯談在英格蘭集訓的籃球 00:00:21，播放影片\n\n「我是最好的」——馬杜埃肯談在英格蘭集訓的籃球\n\n焦點新聞\n\n摩洛哥互射十二碼擊敗荷蘭，展現非洲雄心\n\n拿格斯曼的終點？德國遭遇「下一個足球噩夢」\n\n發布於\n\n2小時前\n\n巴拉圭球迷欣喜若狂，見證世界盃震撼大戰\n\n發布於\n\n2小時前\n\nBBC 其他資訊\n\nFootball Daily 帶你一覽世界盃淘汰賽賽程\n\n深入剖析互射十二碼的戲劇性與焦慮\n\n一場高風險、環遊世界的貓捉老鼠遊戲\n\n1970年的一場足球賽如何永遠改變了這項運動\n\n蘇格蘭體育其他消息\n\n蘇格蘭如何晉級世界盃——由締造者講述的故事\n\n蘇格蘭男子國際賽將在BBC現場直播\n\nTeam GB如何在欖球的軍備競賽中引領潮流\n\n麥湯明尼離開曼聯後如何成為拿玻里的標誌\n\n共和聯邦運動會：為何代表蘇格蘭如此特別？\n\n體育其他消息\n\n距巴西「恥辱」45分鐘——但「狡猾卡羅」再次成功\n\n斯托克斯創造了時刻，而那些時刻已不復存在\n\n為何是馬雷斯卡？曼城球迷對哥迪奧拿繼任者的期望\n\n超越美斯和C朗——新生代在世界盃大放異彩\n\n一個週末內贏得五個溫布萊冠軍如何改變了英國網球\n\n精彩故事，少了懸念——新世界盃賽制有效嗎？\n\n法國是最大威脅？克里斯·萨頓對十六強的預測\n\n27班航班、24場比賽：國際足協主席世界盃之旅的碳排放代價\n\n任務完成——但英格蘭除非改進否則無法贏得世界盃\n\n蘇格蘭不幸的世界盃故事最終以遺憾告終\n\n高速泳衣與高原室內——基爾如何計劃打破一英里世界紀錄\n\n如何在BBC關注溫布萊第二天現場直播\n\n美斯破紀錄的18個世界盃入球全部影片\n\n美斯破紀錄的18個世界盃入球全部\n\n在白雲石山麓，一位冠軍誕生了\n\n立即遊玩 BBC 體育全新的世界盃預測遊戲\n\n主頁\n\n新聞\n\n體育\n\n地球\n\n精華\n\n職場生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n使用條款\n\n關於BBC\n\n私隱政策\n\nCookie\n\n無障礙輔助\n\n家長指引\n\n聯絡BBC\n\nBBC 電郵\n\n與我們合作\n\n版權 © 2026 BBC。BBC 對外部網站的內容不承擔責任。\n\n了解我們的外部連結處理方式。"
+      "bodyZh": "蘇格蘭游泳運動員托妮·蕭（@x Toni Shaw）認為，今年夏天在格拉斯哥舉行的聯邦運動會對殘疾人運動社群將是「絕對意義重大」的盛事。\n\n雖然整體賽事已被壓縮，但這將是聯邦運動會史上規模最大的傷殘運動綜合項目。創紀錄的47個殘奧項目獎牌賽事將在六個運動項目中展開角逐。\n\n蕭在2020年殘奧會上獲得銅牌，她表示：「這方面已經取得很大進步。我認為這將產生連鎖反應，不僅在蘇格蘭，在各地都會有影響。殘疾人運動社群將因這些報導而真正壯大，這真的很不可思議。」\n\n蕭回想起2014年在格拉斯哥觀看聯邦運動會的情景：「我在觀眾席上時，它激勵了我。希望其他殘疾人士看到越來越多人參與殘疾人運動，會受到啟發去嘗試運動。這是少數能讓健全人士和殘疾運動員同場競技的賽事之一，增加的曝光度真的很了不起。」\n\n2014年只有10歲的蕭在托爾克羅斯泳館觀賽，這段經歷讓她相信「這真的很酷，我想做這個」。這位亞伯丁人承認，現在以參賽者身份重返此地「是夢想成真的時刻」。\n\n在正常情況下，她本來是蘇格蘭代表隊的奪金熱門之一。除了殘奧會銅牌，蕭還累積了多枚大賽獎牌，包括三枚世錦賽金牌、兩枚歐錦賽金牌，以及四年前在伯明翰贏得的聯邦運動會銅牌。然而，她透露背部傷勢意味著「站上最高領獎台並不真正可實現」。\n\n蕭坦言：「老實說這段時間很艱難。2024年我受了背傷，接受過類固醇注射和治療，已好轉很多，只是未能恢復受傷前的水平。過程相當困難，但入選代表隊是我的主要目標，能做到這一點我非常自豪，期待今個夏天。我只想全力以赴。」"
     },
     {
-      "title": "爆紅畢業走紅毯後，截癱學生呼籲提高無障礙設施：「不必這麼困難」",
+      "title": "病毒式傳播的畢業行走影片後，截癱學生呼籲提高無障礙設施：「不必這麼困難」",
       "url": "https://www.theguardian.com/education/2026/may/15/jaiden-picot-graduation-video-quadriplegic-accessibility",
       "publishedAt": "2026-05-15T09:30:36.000Z",
-      "summary": "2024年卡車事故導致截癱的Jaiden Picot，從未想過他穿著未來感機械外骨骼走過維吉尼亞聯盟大學畢業典禮舞台的影片會爆紅。但他表示，自影片走紅後，他希望人們關注無障礙設施的問題，強調「不必這麼困難」。",
+      "summary": "Jaiden Picot在2024年被卡車撞擊後癱瘓，他從未想過最近穿著未來感十足的機械套裝走過Virginia Union University (VUU)畢業典禮舞台的影片會在網路上爆紅。但既然影片走紅了，他表示希望能推動更多無障礙改善。他強調：「不必這麼困難」，呼籲社會給予更多支持與理解。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -501,13 +458,13 @@
           "alt": "Virginia student paralysed by truck collision graduates in robotic suit – video"
         }
       ],
-      "bodyZh": "在病毒式傳播的畢業行走片段之後，截癱學生呼籲提升無障礙設施：「生活不必如此艱難」\n\n卡車意外導致癱瘓後，Jaiden Picot 以機械外骨骼輔助通過畢業典禮的舞台\n\nRamon Antonio Vargas\n\n2026年5月15日 星期五\n\nJaiden Picot 在2024年被卡車撞倒後癱瘓，他從未想過自己身穿未來感機械套裝走過維珍尼亞聯合大學（VUU）畢業典禮舞台的片段會在網上瘋傳。\n\n但自從片段走紅後，他表示希望世人知道他打算在職業生涯中致力協助輪椅使用者更容易進入各處場所。\n\n「癱瘓之後，我知道我錯過了很多與朋友外出的機會，」他在接受《衛報》訪問時說。「有些餐廳、有些活動，我根本無法進入，因為那裡沒有讓我進入的斜道。我覺得改變這一點非常重要，因為我們這個群體人數眾多，我們也想進入每個人都能去的地方。」\n\n「並非因為我們經歷了悲劇，就意味著……我們往後的生活必須如此艱難。」\n\n23歲、來自維珍尼亞州樸茨茅夫的 Picot，於2024年8月駕駛電動滑板車時被一輛貨櫃車撞倒。撞擊造成他第四頸椎的脊髓損傷，導致胸部以下癱瘓。\n\n談及迫使他與截癱共存的那次傷勢，他毫不避諱。\n\n「自那天起，我的生活變得非常艱難，」Picot 說。他回想以前每天都做運動，經常外出社交，又說：「受傷之前，我是個獨立的人。」\n\nPicot 決心重獲盡可能多的獨立能力。他開始在維珍尼亞州里士滿的 Sheltering Arms Institute 接受康復治療，練習自理事務、在俗稱「機械外骨骼」的裝置中行走，以及操控電動輪椅——康復中心的護理人員在2024年12月的新聞稿中如此描述。\n\n他亦開始掌握語音控制設備，用以操作電視、設置鬧鐘和提醒事項，以及在研究院的房間裡播放音樂、遊戲或助眠聲音。\n\n與此同時，Picot 按原定計劃於2025年春季在里士滿的 VUU 完成學士學位。他随即展開研究生學習，並獲得工商管理高級行政人員碩士學位。\n\nPicot 的母親、女友及兩位康復治療師在他的5月9日畢業典禮上是他的支持者。\n\n在畢業典禮上的一段畫面引發網絡熱傳——Picot 穿上他在 Sheltering Arms Institute 康復訓練時使用過的機械外骨骼，在兩位治療師的協助下，以外骨骼幾乎感應他身體擺動的方式，漫步穿過典禮舞台領取學位。\n\n「哦，哇——我做到了，」站在舞台上的他對著歡呼的觀眾說。「我的人生經歷了非常大的轉折。我大可以把自己關進衣櫃裡，放棄人生，但我決定不讓我的處境控制我、阻止我達成目標。」\n\nPicot 後來借用一部關於與機械兵團戰鬥的科幻電影系列來形容這套外骨骼：「我喜歡稱它為一套大型《變形金剛》裝備。」\n\nPicot 的舞台行走片段及應得的熱烈掌聲迅速在社交媒體及新聞平台上傳播。全國知名的民權律師 Ben Crump 在 X 平台上發帖回應他和相關報道的一段話頗具代表性：「面對逆境時強大的韌力！」\n\nVUU——一所歷史悠久的黑人大學——同時發表聲明，盛讚 Picot「是當目標遇上準備時所能達致的可能的最佳證明」。\n\n然而，這並不意味著 Picot 在適應全美約三十萬創傷性脊髓損傷患者的生活——其中絕大多數會導致截癱或四肢癱瘓——的過程中沒有遭遇重大障礙。\n\n雖然1990年通過的聯邦《美國殘疾人法》已要求服務公眾的企業提供合理的無障礙便利設施，但 Picot 描述，打電話到餐廳和活動場地提前確認有斜道及足夠空間容納他的輪椅，已成為他生活的日常。\n\n他說，由於有些地方兩者皆無，他無法出席那些聚會。他說這類地方「相當多」。\n\n此外，Picot 和家人一直在網上募集善款，購置一輛無障礙客貨車，他們表示這將讓他往返日常活動和事務時更輕鬆安全。\n\n被問及對新興事業的期望時，Picot 表示希望將自己在房地產界建立名聲，與緩解他個人所遭遇的部分無障礙問題結合起來。他說打算先就此與州內的民政領袖會面。\n\n「我正努力向目標邁進，協助我們達到每個地方都為輪椅使用者提供某種便利設施的境界，」Picot 說。「我在心理上已準備好達成目標，也為像我一樣的人發聲。」"
+      "bodyZh": "在病毒式傳播的畢業行走片段後，截癱學生呼籲提升無障礙設施：「生活不必如此艱難」\n\n在一場貨車意外導致他癱瘓後，Jaiden Picot穿著機械外骨骼跨越畢業典禮的舞台\n\nRamon Antonio Vargas\n\n2026年5月15日（週五）\n\nJaiden Picot在2024年被貨車撞擊後癱瘓，他從未想過自己最近穿著一套充滿未來感的機械套裝走過維珍尼亞聯盟大學（VUU）畢業典禮舞台的影片會在網上瘋傳。\n\n但自從影片走紅後，他表示希望世人知道他打算用整個職業生涯，致力協助讓各種場所對輪椅使用者更加便利。\n\n「我知道癱瘓後我錯過了很多與朋友外出的機會，」他在接受《衛報》訪問時說。「我無法進入某些餐廳、某些活動場所，只因為它們沒有供我進入的斜道。我覺得改變這一點非常重要，因為我們是一個龐大的社群，都希望能夠進入每個人都能去的地方。」\n\n「並非只因我們經歷了悲劇，就意味著……往後的生活必須如此艱難。」\n\n23歲、來自維珍尼亞州樸茨茅夫的Picot，於2024年8月駕駛電動滑板車時被一輛貨運卡車撞擊。撞擊造成他第四頸椎的脊髓損傷，導致他胸部以下癱瘓。\n\n在談及迫使他與截癱共存這類傷勢的性質時，他毫不含糊。\n\n「從那天起，我的生活變得非常艱難，」Picot說。回想過去的日常健身訓練和頻繁的社交活動，他補充道：「意外發生前，我是個獨立的人。」\n\nPicot決心重獲盡可能多的獨立能力。他開始在維珍尼亞州里士滿的Sheltering Arms Institute接受康復治療，練習自理事務、在稱為機械外骨骼的裝置內行走，以及操控電動輪椅——該院所方在2024年12月的新聞稿中如此描述。\n\n他亦開始熟練使用聲控設備操作電視、設定鬧鐘和提醒事項，以及在院所的房間內播放音樂、遊戲或助眠聲音。\n\n與此同時，Picot於2025年春季如期在里士滿的VUU完成了學士學位。他隨即攻讀研究生課程，並獲得了行政工商管理碩士學位。\n\nPicot的母親、女友及兩位康復治療師均出席了他在5月9日舉行的畢業典禮。\n\n在畢業典禮上一個在網上瘋傳的環節中，Picot穿上了他在Sheltering Arms Institute訓練行走時用過的機械外骨骼。在兩位治療師的協助下，Picot穿著這套幾乎完全根據他身體擺動作出反應的外骨骼，在典禮舞台上行走領取學位。\n\n「哦，哇——我做到了，」他在舞台上對著歡呼的觀眾說。「我的生命……經歷了非常大的轉折。我完全可以把自己關進衣櫃裡、放棄人生，但我決定不讓自己的處境控制和阻止我達成目標。」\n\nPicot後來引用了一個關於與機械兵團作戰的科幻電影系列來解釋這套外骨骼：「我喜歡稱它為一套大型《變形金剛》套裝。」\n\nPicot走過舞台的影片及隨之而來的熱烈掌聲迅速在社交媒體及各大新聞平台上傳播。美國知名民權律師Ben Crump在X平台上發表的帖文可謂此類反饋的典型代表，他寫道：「面對逆境展現的強大韌力！」\n\n維珍尼亞聯盟大學——一所歷史悠久的黑人學院——同時發表聲明，盛讚Picot是「當目標與準備相遇時一切皆有可能的見證」。\n\n然而，這並不意味著Picot在適應美國約30萬創傷性脊髓損傷患者的生活——其中大多數會導致截癱或四肢癱瘓——時沒有遭遇重大障礙。\n\n儘管1990年以來的聯邦《美國殘疾人法》已要求服務公眾的企業提供合理的無障礙便利設施，Picot描述了預先致電餐廳和活動場地確認是否有斜道及足夠空間容納他的輪椅，已成為他生活的常態。\n\n他表示自己曾因此無法出席在那些場所舉行的聚會。他說這類場所「相當多」。\n\nPicot及其家人亦一直在網上募集購買無障礙客貨車的資金，他們表示這將使Picot往返日常活動和事務時更加便捷和安全。\n\n被問及對自己剛起步的職業生涯有何展望時，Picot表示希望將自己在房地產領域闖出名堂與緩解他曾遇到的無障礙問題結合起來。他說計劃先就此問題約見州政府的民政領袖著手進行。\n\n「我正努力衝上雲霄，幫助我們達到每一處場所都為輪椅使用者提供某種便利設施的境界，」Picot說。「我在心理上已準備好實現自己的目標，同時為像我這樣的人發聲。」"
     },
     {
-      "title": "科學家揭示膝關節炎疼痛緩解的最佳運動",
+      "title": "科學家揭示舒緩膝關節炎疼痛的最佳運動",
       "url": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
       "publishedAt": "2026-04-30T07:30:17.000Z",
-      "summary": "一項涵蓋217項試驗的重大回顧顯示，有氧運動是控制膝關節骨關節炎最有效的選項。步行、騎單車和游泳等活動在減輕疼痛和改善活動能力方面，優於其他運動類型。雖然力量訓練和身心運動等替代方案也有幫助，但最好與有氧運動搭配使用。",
+      "summary": "針對217項試驗的大型回顧顯示，有氧運動是控制膝關節炎最有效的選擇。步行、騎單車和游泳等活動在減輕疼痛和改善活動能力方面優於其他運動類型。雖然力量訓練和身心運動等替代方案也有幫助，但最好與有氧運動配合使用。",
       "sourceName": "《科學日報》健康與體能",
       "sourceId": "sciencedaily-fitness",
       "images": [
@@ -520,13 +477,13 @@
           "alt": "Best Exercise for Knee Arthritis Pain"
         }
       ],
-      "bodyZh": "研究揭示膝關節炎疼痛緩解最佳運動方式\n\n步行、單車及游泳被證實是緩解膝關節炎最有效且最安全的運動選擇。\n\n一項大型研究發表於《The BMJ》，指出步行、單車及游泳等有氧運動，是膝關節炎患者最有效的運動方式。研究發現，這些活動在疼痛、身體功能、步行能力及整體生活質素方面，均帶來最大幅度的改善。\n\n研究人員指出，雖然其他類型的運動同樣有幫助，但應與有氧運動配合使用，而非將其取代，作為主要治療方案。\n\n膝關節炎的成因\n\n關節炎源於覆蓋骨端的軟骨逐漸磨損，導致疼痛、腫脹及關節活動困難。雖然此症可影響身體不同部位，但膝關節尤其容易受損。約有30%的45歲以上成年人於X光檢查中顯示膝關節炎症狀，其中約一半出現嚴重症狀。\n\n運動廣泛被建議為治療的關鍵部分，但現有指引往往缺乏明確建議，說明哪些特定運動類型對膝關節炎最為有效。\n\n涵蓋217項臨床試驗的大型回顧\n\n為填補這一缺口，研究人員進行了運動療法的綜合分析。他們審視了1990年至2024年間進行的217項隨機試驗，涉及合共15,684名參與者。這些研究比較了多種運動形式，包括有氧、伸展、力量訓練、身心運動、神經運動及混合訓練，並與對照組進行比較。\n\n儘管試驗質量各異，研究人員採用了公認為可靠的GRADE系統來評估證據的可信程度。\n\n疼痛、功能及生活質素的量度\n\n分析聚焦於對患者最為關鍵的結果指標，包括疼痛程度、身體功能、步態表現及生活質素，並在短期（四周）、中期（十二周）及長期（二十四周）的隨訪中進行評估。\n\n在所有這些指標中，有氧運動在所有研究的運動類型中，持續排名最為有效。\n\n有氧運動顯示最強效果\n\n中等確定性的證據顯示，有氧運動在短期及中期均能減輕疼痛，並在短期、中期及長期改善身體功能。此外，有氧運動亦在短期及中期提升了步行能力及生活質素。\n\n其他形式的運動同樣帶來顯著益處。身心運動方法可能改善短期功能，而神經運動訓練則可能提升短期步態表現。力量訓練及混合運動計劃似乎在中期隨訪中改善了功能。\n\n運動安全且普遍有益\n\n重要的是，與對照組相比，任何運動類型均未與較高的不良事件風險相關。這支持了運動是膝關節炎安全可靠治療方案的觀點。\n\n研究人員同時指出一些限制：許多比較屬間接比較，部分結果缺乏長期數據，而較小型的研究可能影響了早期結論。\n\n為治療提供清晰指引\n\n儘管存在這些限制，該研究提供了迄今最全面及最新的膝關節炎運動療效評估之一。研究結果有助臨床醫生在選擇最有效療法時作出指導。\n\n根據研究結果，研究人員建議有氧運動「作為膝關節炎管理的第一線干預措施，特別是以改善功能能力及減輕疼痛為目標時」。他們同時指出，若因個人限制而不適合進行有氧運動，「替代形式的結構化身體活動仍然可能有益」。"
+      "bodyZh": "研究揭示膝關節炎疼痛緩解的最佳運動方式\n\n步行、騎單車和游泳是最有效且最安全的膝關節退化（knee osteoarthritis）運動選項。\n\n一項涵蓋217項試驗的大型綜述顯示，有氧運動是管理膝關節退化最有效的方案。步行、騎單車和游泳等活動在減輕疼痛和改善活動能力方面，表現優於其他類型的運動。雖然阻力訓練和身心運動等替代方案也有幫助，但最好與有氧運動配合使用。研究結果亦確認，運動是治療中安全且不可或缺的環節。\n\n來自超過15,000名參與者的證據顯示，有氧運動能為膝關節退化症狀帶來最大程度的緩解。它在改善疼痛、活動能力和生活質量方面，優於其他運動方式，同時保持安全性。\n\n發表於《英國醫學期刊》（The BMJ）的大型研究指出，步行、騎單車和游泳等有氧活動，是膝關節退化患者最有效的運動。這些活動在疼痛、身體功能、步行能力及整體生活質量方面，均帶來最大幅度的改善。\n\n研究人員指出，雖然其他類型的運動仍有幫助，但應與有氧活動配合使用，而非將其取代作為主要方法。\n\n膝關節退化的成因\n\n關節退化源於保護骨骼末端的軟骨逐漸磨損。這會導致疼痛、腫脹和關節活動困難。雖然此症可影響身體不同部位，但膝關節尤其脆弱。近三成45歲以上的成年人在X光檢查中呈現膝關節退化跡象，當中約半數出現嚴重症狀。\n\n運動被廣泛推薦為治療的關鍵部分，但現有指引往往缺乏明確建議，說明哪種特定類型對膝關節退化最為有效。\n\n涵蓋217項臨床試驗的大型綜述\n\n為填補這一缺口，研究人員對運動療法進行了全面分析。他們審視了1990年至2024年間進行的217項隨機試驗，涵蓋合共15,684名參與者。這些研究比較了多種運動形式，包括有氧、伸展、阻力、身心、神經運動及混合訓練，並與對照組進行比較。\n\n雖然試驗質量各異，研究人員採用了獲業界認可的GRADE系統來評估證據的可靠性。\n\n疼痛、功能和生活質量的量度\n\n分析聚焦於對患者最重要的關鍵指標，包括疼痛程度、身體功能、步態表現和生活質量。研究結果分短期（四週）、中期（十二週）和長期（二十四週）三個時段進行檢視。\n\n在所有量度指標中，有氧運動在所有受研究的運動類型中持續排名最有效。\n\n有氧運動展現最強效果\n\n中等確定性的證據顯示，有氧運動在短期和中期均能減輕疼痛，並在短期、中期和長期三個時段改善身體功能。此外，它在短期和中期亦提升了步行能力和生活質量。\n\n其他形式的運動同樣帶來有意義的效益。身心療法可能改善短期功能，而神經運動訓練則可能提升短期步態表現。阻力訓練和混合運動計劃似乎在中期跟進時改善了功能。\n\n運動安全且效益廣泛\n\n重要的是，與對照組相比，任何運動類型均與不良事件風險升高無關。這支持了運動是膝關節退化安全且可靠治療選項的觀點。\n\n研究人員確實指出了一些局限性。許多比較屬間接性質，部分指標缺乏長期數據，而規模較小的研究可能影響了早期結果。\n\n為治療提供清晰指引\n\n儘管存在這些局限性，該研究仍是迄今對膝關節退化運動治療最全面、最新的評估之一。研究結果可協助臨床醫生在選擇最有效療法時作出指導。\n\n基於研究結果，研究人員建議將有氧運動「作為膝關節退化管理的第一線介入措施，特別是當目標是改善功能能力和減輕疼痛時」。他們同時指出，若因個人限制而不適合有氧運動，「替代形式的結構化體能活動仍可能有益」。"
     },
     {
-      "title": "成長過程中患有ADHD特質的隱藏健康影響",
+      "title": "成長過程中帶有ADHD特質的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項長達數十年的大型研究表明，兒童時期的ADHD跡象可能產生超越學業和行為的長期後果。研究人員追蹤近11,000人從童年到中年，發現10歲時有明顯ADHD特質的人，到了中年更可能出現多種身體健康問題及健康相關的失能狀況。",
+      "summary": "一項長達數十年的大型研究表明，兒童時期的ADHD跡象可能帶來的後果遠超學業和行為層面。研究人員追蹤了近11,000人從童年到中年，發現10歲時具有強烈ADHD特質的人，更可能在中年時出現多種身體健康問題及與健康相關的殘疾。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -541,10 +498,10 @@
       ]
     },
     {
-      "title": "研究發現ADHD優勢與更好的心理健康相關",
+      "title": "研究人員發現ADHD的優勢與更好的心理健康相關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示了ADHD較光明的一面，顯示承認並善用自身優勢的ADHD成年人感到更快樂、更健康、壓力更小。ADHD患者更可能將創造力、幽默感和專注過度等特質視為個人優勢。整體而言，善用這些優勢與更好的生活品質和較少的心理健康問題相關。",
+      "summary": "新研究揭示了ADHD更光明的一面，表明那些認識並利用自身優勢的成年人會感到更快樂、更健康、壓力更小。ADHD患者更傾向於將創造力、幽默感和過度專注等特質視為個人優勢。總體而言，運用這些優勢與更好的生活品質和更少的心理健康問題相關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -559,10 +516,10 @@
       ]
     },
     {
-      "title": "ADHD藥物的作用機制與我們的認知不同",
+      "title": "ADHD drugs don’t work the way we thought",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD興奮劑似乎並非主要通過增強專注力來運作，而是通過唤醒大腦。腦部掃描顯示，這些藥物會激活獎勵和警覺系統，幫助孩子對通常會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠不足相關的腦部模式，研究人員表示這可能使ADHD診斷變得複雜。",
+      "summary": "ADHD stimulants appear to work less by sharpening focus and more by waking up the brain. Brain scans revealed that these medications activate reward and alertness systems, helping children stay interested in tasks they would normally avoid. The drugs even reversed brain patterns linked to sleep deprivation. Researchers say this could complicate ADHD diagnose",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -577,10 +534,10 @@
       ]
     },
     {
-      "title": "為何這麼多患有ADHD的幼童正在接受錯誤的治療",
+      "title": "為何這麼多患有ADHD的幼童接受了錯誤的治療",
       "url": "https://www.sciencedaily.com/releases/2025/09/250915202839.htm",
       "publishedAt": "2025-09-16T09:10:52.000Z",
-      "summary": "患有ADHD的學前兒童往往在確診後隨即獲處方藥物，與醫療指引建議先以行為治療的建議相悖。治療資源不足及醫生施壓，令早期處方藥物的情況普遍，然而藥物治療對幼童存在風險且效果較差。",
+      "summary": "患有ADHD的學前兒童往往在確診後立即獲處方藥物，這與建議先以行為治療的醫療指引相悖。儘管存在風險且對幼童療效較差，但治療資源匱乏及醫生壓力仍促使過早開藥。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
