@@ -392,7 +392,7 @@ async function fetchFeed(parser, src, timeoutMs) {
 
 async function main() {
   const apiKey = normalizeMinimaxApiKey(process.env.MINIMAX_API_KEY);
-  const model = process.env.MINIMAX_MODEL || 'MiniMax-M2.5';
+  const model = process.env.MINIMAX_MODEL || 'MiniMax-M3';
   const base = process.env.MINIMAX_API_BASE || 'https://api.minimax.io';
 
   const keyHint = minimaxApiKeySanityHint(apiKey);

@@ -27,7 +27,7 @@
 | Secret | 必填 | 說明 |
 |--------|------|------|
 | `MINIMAX_API_KEY` | 週報必填；**摘要若要英→繁亦必填**（同一筆） | [MiniMax 平台](https://platform.minimax.io) 取得之 API Key；Bearer 驗證。 |
-| `MINIMAX_MODEL` | 否 | 預設為 `MiniMax-M2.5`；可改為文件支援之其他模型。 |
+| `MINIMAX_MODEL` | 否 | 預設為 `MiniMax-M3`；可改為文件支援之其他模型。 |
 | `MINIMAX_API_BASE` | 否 | 預設 `https://api.minimax.io`。部分帳戶／地區需改為 **`https://api.minimaxi.com/v1`** 才能通過驗證（否則可能出現 **401 invalid api key**）；設為此值時腳本會正確接上 `chat/completions`。 |
 
 未設定 `MINIMAX_API_KEY` 時，`automation/weekly-article.mjs` 會**安靜結束**（exit 0），不會更新週報檔案；週期 workflow 仍會成功，但不會產生可合併的變更。`build-digest.mjs` 則不會翻譯，摘要 JSON 內標題／摘要維持 RSS 原文。

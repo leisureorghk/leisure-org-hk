@@ -21,7 +21,7 @@ jobs:
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
-      MINIMAX_MODEL: ${{ secrets.MINIMAX_MODEL }}
+      MINIMAX_MODEL: ${{ secrets.MINIMAX_MODEL || 'MiniMax-M3' }}
       MINIMAX_API_BASE: ${{ secrets.MINIMAX_API_BASE }}
     steps:
       - name: Checkout

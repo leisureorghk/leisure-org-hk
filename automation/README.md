@@ -32,7 +32,7 @@ node build-digest.mjs
 ```bash
 export MINIMAX_API_KEY="你的金鑰"
 export MINIMAX_API_BASE="https://api.minimaxi.com/v1"
-export MINIMAX_MODEL="MiniMax-M2.5"   # 可選，預設見腳本
+export MINIMAX_MODEL="MiniMax-M3"   # 可選，預設見腳本
 node build-digest.mjs
 # 或
 node weekly-article.mjs
