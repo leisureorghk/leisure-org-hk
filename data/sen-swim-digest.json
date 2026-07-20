@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-19T04:27:35.488Z",
+  "updatedAt": "2026-07-20T04:43:32.329Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "醫生遲遲未能發現我的隱匿疾病，導致我永久傷殘",
+      "title": "醫生遲遲未能發現我的隱疾，導致我永久傷殘",
       "url": "https://www.bbc.co.uk/news/articles/c1k13l8jljeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-18T00:21:57.000Z",
-      "summary": "演員丹妮卡·埃切爾斯正在出演一部反映她「醫療煤氣燈效應」經歷的劇目。",
+      "summary": "演員丹妮卡·埃切爾斯正在演出以她的「醫療冷處理」經歷為藍本的節目。",
       "sourceName": "BBC 新聞（健康）",
       "sourceId": "bbc-health",
       "images": [
@@ -23,8 +23,24 @@
           "alt": "Tom Wentworth is pictured in a blue knitted jumper sitting indoors on a dark sofa, facing the camera. The image is a close-up portrait with a plain cream-coloured wall in the background and soft natural lighting."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b369/live/e80a9ca0-81fb-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "A person with dark curly hair is speaking into a handheld mic someone is pointing at them. They are wearing sunglasses and white sleeveless top."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1614/live/64518840-8360-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "England super fan Andy Milne"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1b56/live/210a6d40-81f8-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "A woman wearing a red coat with a white shirt with a red collar underneath"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/75ca/live/1453f650-81fa-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Guy Mowbray has short grey hair. He is wearing a white T-shirt under a dark-coloured overshirt with a collar."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a042/live/62e72a80-81fa-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "A brown bear with a blue rainjacket and red hat holds a suitcase."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d6d2/live/d6488c60-81f7-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "A young woman in red overalls and a crash helmet sits behind the steering wheel of a soapbox."
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6006/live/1c14d420-81ca-11f1-926f-c90d1bcfbc84.jpg",
@@ -33,45 +49,33 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c681/live/1e2dda00-81d3-11f1-926f-c90d1bcfbc84.jpg",
           "alt": "A woman with a suitcase walks towards a passenger aeroplane."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2a39/live/1a1185e0-81d1-11f1-b976-0b9c15b0ccfc.jpg",
-          "alt": "A still of an animation, showing a yellow, grey and green bird standing on a branch in front of a pink sky."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2a37/live/11c9f410-81ce-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "A woman with long, blonde hair wearing a mesh crop top looks at someone off-camera."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1f46/live/42322d90-8208-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "Young woman with long brown hair, wearing sunglasses."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9a8e/live/ad7b0ea0-81db-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "Andy Burnham is holding a book in the House of Commons"
         }
       ],
-      "bodyZh": "醫生遲遲未發現我的隱疾，令我終身殘障\n\n作者：Emma Tracey、Beth Rose\n傷健事務記者\n發佈日期：2026年7月18日\n\nDaneka Etchells 12歲月經初來，隨即察覺情況不對。\n\n她不像許多朋友那樣，經血量極多，痛楚亦難以忍受。\n\n她求診時，醫生只處方避孕藥，但連這也毫無作用。\n\n多次再訪普通科醫生都沒有真正解決問題，Etchells 的病情日漸惡化，最終造成永久性身體殘障。\n\n她接受 BBC Access All  podcast 訪問時表示，過去17年的遭遇是「醫療煤气燈效應」（medical gaslighting）。\n\n此術語指醫療專業人員否定或漠視病人的健康憂慮，令患者質疑自己的疼痛和擔憂。\n\nEtchells 所患的是 endometriosis（子宫內膜異位）——一種影響十分之一女性的疼痛疾病。然而，醫生確診時，病情已發展至後期，她表示已造成永久性神經損傷。\n\n「它（異位組織）生長範圍極廣、 時間極長，蔓延至與雙腿相連的神經和韌帶。」她說。\n\n雖然醫生為她動手術切除，但如今她要與永久性身體殘障共存。\n\nEtchells 覺得，自己年輕時被醫療漠視的經歷，與她正在演出的新版《秘密花園》舞台劇不謀而合。\n\n這齣由殘疾人士主導的製作，觸及主角 Colin 同样被醫療煤气燈效應的設定。\n\n這部經典原著115年前出版，講述10歲的 Mary 搬到缺席舅舅的大宅，在那裡發現一座被封鎖的花園，以及隱藏起來坐着轮椅的表哥 Colin。\n\n在新舞台版本中，Colin 為自己發聲，終於獲得聆聽。\n\nEtchells 說，她的轉折點出現在遇到一位女性普通科醫生，對方為她處方藥物，並轉介她至婦科。\n\n一般而言，確診子宫內膜異位平均需要九年。對於患有神經多樣症（neurodivergent）的 Etchells 而言，足足等了17年。\n\n但她說，那時已鑄成大錯。最後一根稻草是她在莎士比亞環球劇場扮演《泰特斯·安特洛尼克斯》中 Lucius 一角——這座標誌性的倫敦劇院，是眾多演員夢寐以求的舞台。\n\n對 Etchells 而言，這本應是事業的里程碑，卻讓她意識到工作已無法勝任。隨後她被迫請假六個月。\n\n「那時候我幾乎隨時都要用拐杖，樓梯都幾乎爬不上去。」她說。\n\n「我感到極度不適、極度疲倦，而且疼痛難當。」\n\nEtchells 形容自己「困在自己身體裏」，「完全行動不便」，經期疼痛劇烈、經血量極大，膀胱及腸道問題嚴重，有時連續數月無法離開家居。\n\n等不及 NHS 的公立醫療服務，她儲蓄、借貸，並在 GoFundMe 籌款接受私家治療，甚至與外科醫生的助理議價，力求最優惠的方案。\n\n她接受了切除手術——即移除子宫內膜異位引發的病灶，她說術後感到「輕鬆了」。\n\n但她表示，由於長期被醫生漠視，身體已留下永久性損害，行動能力也永久受損。\n\nBBC Access All\n\nEtchells 需長期忍痛，出入要靠助行器——但她已重返舞台。\n\n新版《秘密花園》不僅呼應了她作為年輕成年人被漠視的經歷，也反映編劇 Tom Wentworth 的親身故事，他是這次製作的幕後功臣。\n\nWentworth 從小熱愛這本書。與主角 Colin 一樣，他曾長期臥床，但他說原著結局並不符現實，於是決定重新改寫。\n\n原著結局中，Colin 奇蹟康復——離開轮椅，能走能跑，重新獲得父親的愛。而在 Wentworth 的版本中，Colin 沒有康復，孩子們學會了必要的語言為自己發聲，爭取所需。\n\nWentworth 自稱「酷兒及殘疾人士」，最近出現了一系列泌尿系統問題。他說醫生往往把他的症狀首先歸因於腦癱，而不嘗試好好診斷。\n\n「關鍵是，殘疾人士對自己的身體瞭若指掌。」他說。\n\n「正因如此，我堅信我們比一般人更應獲得信任，因為我們一直活在這些身體裏，對它們的警覺程度遠超他人。那種不被信任的感覺，顯而易見。」\n\nWentworth 說，他曾多次向當地的病人諮詢及聯絡服務（PALS）投訴。該服務旨在幫助患者解決困難，但，他說效果參差。\n\n透過新版《秘密花園》，Wentworth 期望教育年輕人辨識何時可能被煤气燈效應操控，以及如何為自己發聲。\n\nHealthwatch England 自稱「您的健康和社會照護倡導者」，與 NHS 合作改善惡劣的病人體驗。\n\n其政策 interim 總監 William Pett 表示，Etchells 和 Wentworth 的遭遇「遺憾地」並非個別情況，尤其在 ADHD 和子宫內膜異位等病症中相當普遍。\n\nPett 說，組織最常收到年輕人、女性及自稱 LGBTQ+ 群體的反映，他們表示自己「較其他人更難感到被醫護人員聆聽」。\n\nHealthwatch England 呼籲改革 NHS 投訴機制，讓病人能更快獲得更令人滿意的回應；NHS 最近亦推行了「瑪莎原則」（Martha's Rule），容許病人及其家屬或照顧者在病情惡化時要求快速覆檢。\n\n衛生及社會照護部發言人表示：「我們更新的女性健康策略承認醫療煤气燈效應是一道真正的障礙，尤其對子宫內膜異位等疾病的患者而言。我們近日公布的質量策略訂立了明確標準，確保所有人——包括殘疾人士——都能獲得優質、尊重的照護。\n\n「每位病人都值得被聆聽、被信任、被有尊嚴地對待，這正是我們十年健康計劃的核心，誓言將病人聲音置於 NHS 改革的核心位置。」\n\n雖然 Etchells 期望13歲首次就診時便獲聆聽，但她現在慶幸自己能夠得到一個專門的子宫內膜異位團隊的照顧——他們真的在倾听。\n\n談到腿部神經病變疼痛——那是韌帶損傷的後遺症——她說，有時因工作需要無法服用強效止痛藥，她學會了假裝疼痛不存在。\n\n諷刺的是，她說：「我把自己煤气燈效應，熬過每一天。」"
+      "bodyZh": "醫生遲遲未能發現我的隱疾，令我最終永久殘疾\n\nDaneka Etchells 12歲時月經初來，隨即察覺情況不對。\n\n與許多朋友不同，她的經期流量極大，並伴有劇痛。\n\n她求診時，醫生開了避孕藥，但連這也毫無效用。\n\n在多次往返普通科門診仍未獲真正解決後，Etchells 的病情惡化至造成永久性身體殘疾。\n\n她接受 BBC Access All podcast 訪問時表示，過去17年所經歷的是「醫療 gaslighting」——即醫療專業人員漠視或否定患者的健康擔憂，令病人開始懷疑自己的疼痛與憂慮。\n\nEtchells 所患的是 endometriosis（子宫內膜異位）——一種影響十分之一女性的痛症，但醫生發現時，病情已發展至非常嚴重的地步，她表示因此留下了永久性神經損傷。\n\n「它長得極大極廣，持續時間又長，涉及連接雙腿的神經與韌帶。」她說。\n\n雖然醫生為她切除了病灶，但她如今要與永久性身體殘疾共存。\n\nEtchells 認為自己在成年早期被醫療漠視的經歷，與她正在參演的舞台劇新版本《秘密花園》不謀而合。\n\n這齣由殘疾人士主導的製作觸及了主角 Colin 本身同樣遭受醫療 gaslighting 的主題。\n\n這部經典原著於115年前出版，講述10歲的 Mary 搬到缺席舅父古老偌大的宅邸，在那裡發現了一座封閉的花園，以及被藏匿起來的殘疾表兄 Colin。\n\n在新舞台版本中，Colin 為自己發聲，終於獲得傾聽。\n\nEtchells 形容自己的轉折點，是遇到一位女醫生為她處方藥物，並轉介她到婦科。\n\n平均而言，確診 endometriosis 需要九年時間；而對於神經多樣（neurodivergent）的 Etchells 而言，足足等了17年。\n\n但她說，那時已造成無可挽回的損害。最後一根稻草是她在莎士比亞環球劇場（Shakespeare's Globe）出演《泰特斯·安特洛尼克斯》（Titus Andronicus）中的 Lucius 一角——這是倫敦標誌性劇場，許多演員夢寐以求的舞台。\n\n對 Etchells 而言，這本應是值得慶祝的事業里程碑，卻令她意識到工作已無法繼續。隨後她被迫請假六個月。\n\n「那時我幾乎全程要靠拐杖走路，樓梯幾乎爬不上去。」她說。\n\n「我感覺身體極為不適，極度疲乏，疼痛難當。」\n\nEtchells 表示，她感覺自己「困」在自己的身體裏，「完全無法行動」——經期疼痛劇烈、流量驚人，膀胱及腸道問題嚴重到連續數月無法離開家門。\n\n無法再等待 NHS 的治療，她儲蓄、借貸，並在 GoFundMe 籌款以支付私人治療，甚至與外科醫生的助理議價以爭取最佳方案。\n\nEtchells 接受了切除手術（excision surgery），即移除子宫內膜異位引發的病灶，她說術後感到「輕鬆了」。\n\n但她表示，多年來被醫生漠視，已造成永久性損害及行動障礙。\n\nEtchells 如今需靠行動輔助工具代步，時刻承受疼痛——但她已重返舞台。\n\n新版本的故事情節不僅呼應了 Etchells 在青年時期被否定的經歷，亦反映了編劇 Tom Wentworth 的自身體驗，他是這次製作的主創。\n\nWentworth 從小熱愛這本書。與主角 Colin 一樣，他曾長期臥床，但他說原書結局並不符合他的現實，於是決定改寫。\n\n原書結局中，Colin 奇蹟般康復——擺脫輪椅，能走能跑，贏回父親的愛；而 Wentworth 的版本中，Colin 並無康復，孩子們學會了所需的語言為自己發聲，爭取所需。\n\n自稱「酷兒及殘疾人士」的 Wentworth 最近出現了一系列泌尿系統問題。他說醫生往往把他的症狀首先歸因於腦癱，而非嘗試正確診斷問題。\n\n「要知道，殘疾人士對自己的身體瞭若指掌。」他說。\n\n「正因如此，我堅信我們比其他人更值得被信任——因為我們一直住在這些身體裏，對它們的警覺程度持續多年。而那種不被信任的感覺，是顯而易見的。」\n\nWentworth 表示，他曾多次向當地的病人諮詢與聯絡服務（PALS）投訴。該服務旨在幫助患者解決困難或怨訴，但他說效果參差。\n\n透過新版《秘密花園》，Wentworth 希望讓年輕人了解如何辨識自己可能正在遭受 gaslighting，並學會為自己發聲。\n\nHealthwatch England 自詡為「您的健康和社會服務倡導者」，與 NHS 合作改善惡劣的病人體驗。\n\n其 interim 政策總監 William Pett 表示，Etchells 和 Wentworth 的遭遇「遺憾地」並不罕見，尤其常見於 ADHD 及 endometriosis 等病症。\n\nPett 指出，該組織最常收到年輕人、女性及 LGBTQ+ 群體的反映，他們表示「相較其他人，更感到醫療專業人員不理會他們的聲音」。\n\nHealthwatch England 呼籲改革 NHS 申訴系統，令病人的關注能得到更快、更令人滿意的回應；NHS 最近亦推行了 Martha's Rule，允許病人及其家屬或照顧者在病情惡化時，要求快速覆檢。\n\n衛生及社會關懷部發言人表示：「我們更新的《女性健康策略》承認，醫療 gaslighting 確實是重大障礙，尤其對子宫內膜異位等病症患者而言；我們近期發布的《質量策略》亦訂立了明確標準，確保所有人——包括殘疾人士——都能獲得所需的高質素、有尊嚴的護理。\n\n「每位病人都應被傾聽、被信任、被有尊嚴地對待，這正是我們十年健康計劃的核心理念——將病人聲音置於 NHS 改革的中心。」\n\n雖然 Etchells 希望在13歲初次就診時醫生便能聽從她，但如今她「慶幸」自己能得到一個專門的 endometriosis 團隊的照顧，他們確實會傾聽。\n\n談到腿部神經痛——那是韌帶損傷的後遺症——她說，當因工作而無法服用強效止痛藥的日子，她學會了假裝疼痛不存在。\n\n諷刺的是，她說：「我對自己施展醫療 gaslighting，好讓自己撐過每一天。」"
     },
     {
-      "title": "為何釋放壓力是惠特爾的成功秘方",
+      "title": "發洩情緒為何是惠特爾的成功秘笈",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/c4gvdpngyg4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-17T13:40:41.000Z",
-      "summary": "英格蘭泳手雅各布·惠特爾接受BBC東中部新聞採訪，講述他對蒸汽機車的熱愛如何幫助他在泳池中取得佳績。",
+      "summary": "英格蘭泳手雅各布·惠特爾接受 BBC 東中部頻道專訪，談論他對蒸汽機車的熱愛如何幫助他在泳池中的表現。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0e94/live/0386fc20-8301-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "Bukayo Saka in a post-match interview with BBC Sport after England beat France 6-4 in the 2026 World Cup."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c233/live/2e0861d0-83d5-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "spain fan celebrates"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7c68/live/4fe4e350-830d-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "england fan"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d560/live/37eb25b0-83db-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "Argentina fans"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4dd6/live/fb4e53b0-82d7-11f1-b976-0b9c15b0ccfc.jpg",
-          "alt": "Joe Hart"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/99ca/live/c512b5d0-83d0-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Ferran Torres&#x27; post-match interview"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3a46/live/0adf13e0-83bf-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Spain fans watching the 2026 World Cup final"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/3db9/live/ddb53b70-81e2-11f1-b976-0b9c15b0ccfc.jpg",
@@ -90,25 +94,21 @@
           "alt": "Smoggie Queens"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/477e/live/949c3070-8312-11f1-9b83-cd6592fb54b4.jpg",
-          "alt": "Declan Rice celebrates scoring for England against France in their World Cup third-place play-off"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/36cc/live/2813f680-83cc-11f1-abbb-e5eedb1cfb63.jpg",
+          "alt": "Spain boss Luis de la Fuente and his players celebrate with the World Cup trophy"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/886f/live/be5d20a0-8307-11f1-b9cd-c9e5bc6349ad.jpg",
-          "alt": "Harry Kane with his World Cup bronze medal"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/fe35/live/e1e4e510-82d7-11f1-a7b7-31e12e116164.jpg",
-          "alt": "George Russell speaking to the media after qualifying for the Belgian Grand Prix"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/881e/live/84b7ac00-83cd-11f1-926f-c90d1bcfbc84.jpg",
+          "alt": "Donald Trump and Rodri"
         }
       ],
-      "bodyZh": "為何釋放壓力是惠特爾的成功秘密\n\n2026年7月17日發布\n\n作為一名備戰共和聯運動會的泳手，雅各布·惠特爾在釋放壓力方面可說是名副其实。\n\n這位21歲的年輕人在泳池中已累積了大量獎牌——包括近年來在世界錦標賽和伯明翰共和聯運動會上奪得的金牌——但他同時也忙於收藏一整隊蒸汽機車。\n\n他收藏的汽車中，最引人注目的是縮小版的牵引機，還有老式電單車和一輛珍貴的拖拉機。這些都是他自己保養和駕駛的車輛，每一款都能讓他暫時忘卻比賽的壓力。\n\n在格拉斯哥共和聯運動會前夕，這位來自德比郡阿爾弗頓的泳手接受了BBC東中部今日體育編輯娜塔莉·杰克遜的專訪，暢談他的愛好如何幫助他在泳池中的表現。\n\n「這某程度上是一種癮，而不只是愛好，」惠特爾笑著說。\n\n「你會忍不住一直想著它，不停去看新的東西——我很喜歡這件事，而且這是離開泳池後很好的放鬆方式。」\n\n惠特爾的教練傑米·梅恩任職於雷普頓學校，他也談到惠特爾對精英游泳和「鄉村生活」的雙重熱愛。"
+      "bodyZh": "Jacob Whittle：英格蘭游泳運動員暢談如何以愛好發洩情緒\n\n當 Jacob Whittle 這位備戰 Commonwealth Games 的游泳運動員要發洩情緒時，他的做法可謂名符其實。\n\n這位 21 歲的泳手在職業生涯中已累積了大量獎牌，包括近年在世界錦標賽及伯明翰 Commonwealth Games 奪得的金牌，但他同時忙於收藏一批蒸汽機車。\n\n他收藏的車輛中，最引以為傲的是縮小版蒸汽牵引機，還有老式電單機及一台珍藏的拖拉機。\n\n這些都是他親自保養和駕駛的車輛，每一部都能讓他暫時忘卻比賽的壓力。\n\n在格拉斯哥 Commonwealth Games 來臨前，來自德比郡 Alfreton 的這位泳手接受了 BBC East Midlands Today 體育編輯 Natalie Jackson 的訪問，暢談他的愛好如何幫助自己在泳池中的表現。\n\nWhittle 笑著說：「這某程度上是一種癮，而非純粹的愛好。」\n\n「你沒法停止對它的念頭，不斷物色新東西——我非常熱愛這件事，而離開泳池後這是一個很好的解壓方式。」\n\nWhittle 的教練 Jamie Main（在 Repton School 任教）亦談及這位泳手對精英游泳及「田園生活」的雙重熱忱。"
     },
     {
-      "title": "儘管六月曾被醫生警告，奧卡拉漢仍可出戰英聯邦運動會",
+      "title": "六月曾接醫生警告，奧卡拉漢仍可出戰英聯邦運動會",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cx2k2k1dv95o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-15T06:41:38.000Z",
-      "summary": "莫莉·奧卡拉漢表示，儘管上月醫生曾告知她「立即停止游泳」，但她仍準備好出戰英聯邦運動會。",
+      "summary": "莫莉·奧卡拉漢表示，即使上月醫生告誡她「立即停止游泳」，她仍可參加英聯邦運動會。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -117,16 +117,20 @@
           "alt": "Mollie O&#x27;Callaghan in action at the World Aquatics Championships in Singapore in 2025"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0e94/live/0386fc20-8301-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "Bukayo Saka in a post-match interview with BBC Sport after England beat France 6-4 in the 2026 World Cup."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c233/live/2e0861d0-83d5-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "spain fan celebrates"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7c68/live/4fe4e350-830d-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "england fan"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d560/live/37eb25b0-83db-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "Argentina fans"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4dd6/live/fb4e53b0-82d7-11f1-b976-0b9c15b0ccfc.jpg",
-          "alt": "Joe Hart"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/99ca/live/c512b5d0-83d0-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Ferran Torres&#x27; post-match interview"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3a46/live/0adf13e0-83bf-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Spain fans watching the 2026 World Cup final"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/3db9/live/ddb53b70-81e2-11f1-b976-0b9c15b0ccfc.jpg",
@@ -145,21 +149,17 @@
           "alt": "Smoggie Queens"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/477e/live/949c3070-8312-11f1-9b83-cd6592fb54b4.jpg",
-          "alt": "Declan Rice celebrates scoring for England against France in their World Cup third-place play-off"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/886f/live/be5d20a0-8307-11f1-b9cd-c9e5bc6349ad.jpg",
-          "alt": "Harry Kane with his World Cup bronze medal"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/36cc/live/2813f680-83cc-11f1-abbb-e5eedb1cfb63.jpg",
+          "alt": "Spain boss Luis de la Fuente and his players celebrate with the World Cup trophy"
         }
       ],
-      "bodyZh": "備戰大英國協運動會：歐卡洛漢雖被醫生警告，仍決意出戰格拉斯哥\n\n\n\n圖片說明：\n莫莉·歐卡洛漢是200米自由泳奧運及世錦賽雙料衛冕冠軍\n\n\n\n作者：保羅·巴蒂森（BBC體育記者）\n\n\n\n發布日期：2026年7月15日\n\n\n\n奧運冠軍莫莉·歐卡洛漢（Mollie O'Callaghan）表示，儘管上月被醫生告知因其脊椎壓力性骨折必須立即停止游泳，但她依然備戰大英國協運動會。比賽定於7月23日在格拉斯哥揭幕。\n\n\n\n這位22歲的澳洲泳將透露，在掃描顯示其腰椎受傷後，參賽前景一度岌岌可危。\n\n\n\n然而，在澳洲游泳選拔賽後接受了「進一步評估」，歐卡洛漢獲告知可以參加格拉斯哥的比賽，以及8月12日在加州舉行的太平洋游泳錦標賽。\n\n\n\n歐卡洛漢已為澳洲贏得八面奧運獎牌，其中包括五面金牌，並蟬聯200米自由泳世界冠軍。\n\n\n\n「上月我被告知無法參加選拔賽、大英國協運動會或太平洋錦標賽，還被要求立即停止游泳。」歐卡洛漢在Instagram上發文表示。\n\n\n\n「那一刻讓我深刻體會到，代表澳洲參賽對我而言意義重大，我有多麼渴望成為這支團隊的一員。」\n\n\n\n歐卡洛漢預定出戰格拉斯哥100米及200米自由泳、50米仰泳，以及混合接力項目，但她坦言「比賽時的狀態可能會有所不同」。\n\n\n\n她補充道：「我會傾盡全力，每一場比賽都會竭盡所能。」"
+      "bodyZh": "英聯邦運動會：奧卡洛蘭被醫生告知在賽事一個月前停止游泳\n\n奧林匹克冠軍莫莉·奧卡洛蘭（Mollie O'Callaghan）表示，她雖然上月被醫生告知因脊椎 stress 骨折需立即停止游泳，但仍準備好參加英聯邦運動會。\n\n這位22歲的澳洲泳手透露，在掃描顯示其腰椎受傷後，她能否參加運動會一度成疑。英聯邦運動會將於7月23日在格拉斯哥揭幕。\n\n不過，在澳洲游泳選拔賽後進行「進一步評估」後，奧卡洛蘭獲悉她可以參加格拉斯哥的比賽，亦可出戰8月12日在加州展開的泛太平洋游泳錦標賽。\n\n奧卡洛蘭已為澳洲贏得八面奧運獎牌，包括五面金牌，並且是200米自由泳的衛冕世界冠軍。\n\n「上月我被告知無法參加選拔賽、英聯邦運動會或泛太平洋賽，同時被要求立即停止游泳，」奧卡洛蘭在 Instagram 上發文稱。\n\n「那一刻讓我深刻體會到，代表澳洲對我意義有多重大，以及我有多渴望成為這支團隊的一員。」\n\n奧卡洛蘭計劃在格拉斯哥出戰100米及200米自由泳、50米背泳及混合接力，但她表示在比賽中「情況可能會有些不同」。\n\n她補充道：「我會傾盡全力，每次比賽都全力以赴。」"
     },
     {
-      "title": "為何科爾伯特從巨型肖像畫中尋找動力",
+      "title": "科爾伯特如何在巨型肖像畫中找到動力",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cgmdmjz09ypo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-14T15:26:05.000Z",
-      "summary": "英格蘭泳手弗雷婭·科爾伯特解釋為何泳池盡頭那幅15呎高的自畫像已成為她的動力泉源。",
+      "summary": "英格蘭泳手弗蕾婭·科爾伯特解釋，在泳池終點一幅15呎高的自畫像如何成為她的動力泉源。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -168,16 +168,20 @@
           "alt": "Freya Colbert with her arms held high after a race"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0e94/live/0386fc20-8301-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "Bukayo Saka in a post-match interview with BBC Sport after England beat France 6-4 in the 2026 World Cup."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c233/live/2e0861d0-83d5-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "spain fan celebrates"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7c68/live/4fe4e350-830d-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "england fan"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d560/live/37eb25b0-83db-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "Argentina fans"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4dd6/live/fb4e53b0-82d7-11f1-b976-0b9c15b0ccfc.jpg",
-          "alt": "Joe Hart"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/99ca/live/c512b5d0-83d0-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Ferran Torres&#x27; post-match interview"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3a46/live/0adf13e0-83bf-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Spain fans watching the 2026 World Cup final"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/3db9/live/ddb53b70-81e2-11f1-b976-0b9c15b0ccfc.jpg",
@@ -196,21 +200,17 @@
           "alt": "Smoggie Queens"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/477e/live/949c3070-8312-11f1-9b83-cd6592fb54b4.jpg",
-          "alt": "Declan Rice celebrates scoring for England against France in their World Cup third-place play-off"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/886f/live/be5d20a0-8307-11f1-b9cd-c9e5bc6349ad.jpg",
-          "alt": "Harry Kane with his World Cup bronze medal"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/36cc/live/2813f680-83cc-11f1-abbb-e5eedb1cfb63.jpg",
+          "alt": "Spain boss Luis de la Fuente and his players celebrate with the World Cup trophy"
         }
       ],
-      "bodyZh": "每次看到那張照片，Freya Colbert 都會湧起一種征服世界的自信。而且她根本無法避開這張照片。\n\n這位22歲泳手的巨幅照片——高達15呎——就懸掛在她泳道盡頭的牆上，過去數以千計的來回訓練她都在這裡度過，日復一日。\n\n這張英國400米混合泳世界冠軍的海報，與拉夫堡大學英國游泳國家中心其他泳手的照片並排懸掛。\n\n「海報掛上去的時候，感覺很不真實，」她在接受BBC East Midlands Today訪問時談到這幅巨型自己的照片時說道。「我不是很喜歡那張照片，但那是我自己的問題。我本以為每天訓練時讓自己的照片俯視我會很奇怪，但很快我就適應了。」\n\n這些照片曾是她仰望時充滿驚嘆的畫面，讓她幻想有朝一日自己也能成為海報上的女孩。\n\n然而這並非自我放縱的白日夢，這些照片帶給她的是一種歸屬感。\n\n在備戰格拉斯哥 Commonwealth Games 之際，她讓自己回顧那個真實大小的自己是如何登上那面備受矚目的牆壁。\n\n四年前，這位林肯郡泳手才首次贏得大型國際獎牌，在伯明翰 Commonwealth Games 上代表英格蘭出戰4x200米自由泳接力並摘銅。\n\n隨後接連獲得歐洲銀牌和銅牌，僅僅18個月後便突破瓶頸，奪得首個世界冠軍頭銜。\n\n而在巴黎奧運會首秀中，Colbert 在400米混合泳中僅以第四名完成，與獎牌擦肩而過。\n\n「這讓我意識到，自己已經達成了成長過程中一直以來的目標，」她說。\n\n「我記得小時候來到這裡，看見橫幅上所有其他人，如今我自己也登上了橫幅，而且是上一個奧運週期拉夫堡最出色的泳手之一。\n\n「如果某節訓練很艱苦，知道自己已經取得不少成績會令人煥然一新，看到自己還能走多遠也能帶來額外動力。」\n\n近年來 Colbert 的蛻變——從在諾定咸 Nova Centurion 主宰泳池的新星，到如今征服世界的風雲人物——這一切無法用任何照片捕捉，無論多大都無濟於事。\n\n「我覺得自己和20歲參加奧運會的那個女孩已經很不一樣了，」她說。\n\n「經歷了那些經驗後，我成熟了很多，特別是與獎牌擦肩而過的那份心碎。我認為——聽起來很老土——作為一名成年運動員，我找到了一點點真正的自己。\n\n「走進這些大型決賽和重要舞台時，我對自己作為個體充滿信心。\n\n「以前有點像：『嗯，我知道我達到資格了，但我不可能打敗旁邊這些女孩。』而現在，那種來自內心的自信，我找到了很多——信任自己和自己的能力，這絕對是過去幾年我成長蛻變的東西。」\n\nColbert 知道並非只有她自己看待自己的方式不同了。\n\n「從一直是黑馬、年紀最小的選手，到現在有時成為奪冠熱門或被寄予厚望，這需要一段時間適應，」她說。\n\n「如果一切按計劃進行，我非常希望能在格拉斯哥站上冠軍領獎台。」"
+      "bodyZh": "Freya Colbert：備戰英聯邦運動會的泳手從自己的大海報中汲取動力\n\n作者：Andrew Aloia（BBC Sport，東中部）、Charlie Slater（BBC《東中部今日》）\n\n發布日期：2026年7月14日\n\n每次看到那張照片，Freya Colbert 都會充滿征戰世界的自信。而且她無法忽視這張照片。\n\n這位22歲泳手的一幅15呎高巨照，就懸掛在她曾無數次游過的泳道盡頭牆上——日復一日，來回往返。\n\n這位英國400米個人混合泳世界冠軍的海報，與設於拉夫堡大學的英國游泳國家中心其他名將並列。\n\n「海報豎起的時候，那感覺相當超現實，」她在接受BBC《東中部今日》訪問談到背景中自己的巨幅影像時說道。\n\n「我不特別喜歡那張照片，但那是我自己的問題。我原本以為每天訓練時讓自己的形象俯視着會很奇怪，但我很快便適應了。」\n\n曾幾何時，這些海報是她仰望着的目標，讓她幻想有朝一日自己也能成為海報上的主角。\n\n但這並非自戀的白日夢，而是帶着一種歸屬感。\n\n此刻，Colbert 正在備戰格拉斯哥舉行的英聯邦運動會，她讓自己回顧那個真人版海報是如何出現在那面備受矚目的牆上。\n\n四年前，這位林肯郡泳手才首次獲得大型國際獎牌——在伯明翰英聯邦運動會上，作為英格蘭4×200米自由泳接力隊的一員摘得銅牌。\n\n此後接連獲得歐錦賽銀牌和銅牌，不到十八個月便突破瓶頸，贏得首個世界冠軍頭銜。\n\n而在巴黎奧運會的首秀中，Colbert 在400米個人混合泳決賽中以第四名完賽，與獎牌擦肩而過。\n\n「這讓我明白自己已達到成長過程中一直以來的目標，」她說。\n\n「我記得小時候來到這裏，看到橫幅上所有人的名字，如今我自己也登上了橫幅，而且是上一個奧運週期拉夫堡最出色的泳手之一。\n\n「如果某天訓練特別艱苦，知道自己已經取得不少成績會令人煥然一新；而看到自己還能走多遠，也能成為額外的動力。」\n\n近年來 Colbert 的蛻變——從在諾丁漢 Nova Centurion 泳隊稱霸泳池的新星，到如今問鼎世界的風雲人物——這種轉變無論多大的肖像都無法完整捕捉。\n\n「我感覺自己和20歲參加奧運會時的自己截然不同，」她說。\n\n「經歷過那麼接近獎牌卻最終失落的傷痛，我成熟了許多。我想——聽起來很老土——作為一名資深運動員，我找到了一點點真正的自己。\n\n「走進這些大型決賽和重要舞台時，我對自己這個人充滿信心。\n\n「以前我會有點像：『噢，我知道我獲得了參賽資格，但旁邊這些女孩我肯定打不過。』而現在那種發自內心的自信，我找到得更多了——信任自己和信任自己的能力，這絕對是這幾年我成長最多的地方。」\n\nColbert 知道並非只有她自己看待自己的方式發生了變化。\n\n「從一直是黑馬、年紀最小的選手，到現在有時成為奪冠熱門、普遍被看好，這需要一段調整期，」她說。\n\n「如果一切按計劃順利進行，我非常希望能夠站在格拉斯哥的最高領獎台上。」"
     },
     {
-      "title": "月經如何令我的ADHD如虎添翼",
+      "title": "月經如何強化了我的ADHD",
       "url": "https://www.bbc.co.uk/news/articles/czj8zp9e084o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-13T23:00:58.000Z",
-      "summary": "英國研究人員正在進行一項首創研究，探索月經周期與ADHD之間的關聯。",
+      "summary": "英國研究人員正進行首創研究，探索月經週期與ADHD之間的關聯。",
       "sourceName": "BBC 新聞（健康）",
       "sourceId": "bbc-health",
       "images": [
@@ -239,29 +239,29 @@
           "alt": "A teenage girl sits in her uniform, listening to a man whose face is obscured"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b369/live/e80a9ca0-81fb-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "A person with dark curly hair is speaking into a handheld mic someone is pointing at them. They are wearing sunglasses and white sleeveless top."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1614/live/64518840-8360-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "England super fan Andy Milne"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6006/live/1c14d420-81ca-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "An old man in a yellow shirt and denim shorts raises his index fingers in the air at a sporting event."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1b56/live/210a6d40-81f8-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "A woman wearing a red coat with a white shirt with a red collar underneath"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c681/live/1e2dda00-81d3-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "A woman with a suitcase walks towards a passenger aeroplane."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/75ca/live/1453f650-81fa-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Guy Mowbray has short grey hair. He is wearing a white T-shirt under a dark-coloured overshirt with a collar."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2a39/live/1a1185e0-81d1-11f1-b976-0b9c15b0ccfc.jpg",
-          "alt": "A still of an animation, showing a yellow, grey and green bird standing on a branch in front of a pink sky."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a042/live/62e72a80-81fa-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "A brown bear with a blue rainjacket and red hat holds a suitcase."
         }
       ],
-      "bodyZh": "ADHD 與經期：我的荷爾蒙是否令症狀惡化？\n\nBBC News\n\n電話鬧鐘是教學助理 Layla Kornota 度過每一天的方式。她設了四個鬧鐘來起床，一個用來穿衣服，另一個用來收拾上班的袋子，以此類推。\n\n「有上百個不同的鬧鐘，一天中不同時間都有。」這位30歲的女性一邊滑動手機上的提示一邊說。\n\n「很多人覺得這樣做太過了，但我需要這些時間標記來達成目標。」Layla 補充道，這個過程有助於讓她的 ADHD 大腦保持專注並建立規律。\n\n但那種掌控感在她月經來臨之際便煙消雲散——那是她月經週期的高峰期。\n\n「感覺就像你拼命抓住一顆不斷滾動的球，整個過程中一直在責怪自己和這個世界。」\n\n根據 NHS（英國國民保健署）的說法，ADHD 是一種大腦運作方式與大多數人不同的狀況，包括專注力、情緒調節和久坐等方面的困難。\n\n社交媒體和討論區上關於女性月經週期如何加劇 ADHD 症狀的對話層出不窮。\n\n倫敦瑪麗女王大學與國王學院的一項首創研究正就此關聯進行測試，要求50名患有 ADHD 並正在服用藥物的女性追蹤她們的月經週期及其對 ADHD 症狀的影響，以及更廣泛的日常生活。\n\n英國估計約有250萬人患有 ADHD。其中數以萬計的人正在輪候 NHS 的診斷。\n\n社交媒體以及對 ADHD 的認識提高——尤其是女性如何與之共處——令 ADHD 評估的需求前所未有地飆升。\n\n去年12月的 NHS 數據顯示，ADHD 刺激劑和藥物的處方量較前一年增加23%。\n\n但政府在去年11月發布的特別工作組報告發現，ADHD 的診斷和治療仍然不足。BBC 披露，英格蘭部分地區現時因為無法應付需求而關閉 NHS 輪候名單。\n\n19歲的 Héloïse 正在攻讀三個大學學位。\n\n她稱自己服用的 ADHD 藥物利他林（Ritalin）為生命線，能給予她三小時的專注窗口來學習。Héloïse 服藥後坐在圖書館，等待藥效發揮。\n\n但在月經期間，她只是不斷「等待、等待」，等著一個永遠不會到來的反應。「感覺就像失去了一根拐杖，或是你用來支撐自己的東西。突然之間它就壞了。」她說。\n\n直到她為研究項目記錄自己的症狀後，才看到荷爾蒙變化與 ADHD 症狀之間的規律。\n\n參與研究的其他女性使用了類似的說法，部分人表示她們在每月某些時候因症狀而感到「像是殘疾」。\n\n參與項目的女性一直以電子日誌記錄她們的荷爾蒙和 ADHD 症狀的嚴重程度，包括焦慮、抑鬱和衝動行為。\n\n研究人員將她們的週期與感受作圖對照，正在探究她們的症狀以及藥物在管理症狀方面的效果是否存在規律。\n\n每月影響\n\n精神科醫生 Sally Cubbin 是國王學院研究的神經多樣性專家，她相信荷爾蒙與 ADHD 密不可分，並希望這項試驗能反映這一點。\n\n她描述了女性週期中有時會發生的情況，例如月經前夕雌激素水平較低時，會影響多巴胺——我們身體的「快樂荷爾蒙」——從而令 ADHD 症狀大大加強。\n\nCubbin 醫生指出，每月雌激素的下降不僅會負面影響專注力和任務管理能力。\n\n「女性也更可能作出糟糕的決定和冒險」，包括暴飲暴食、瘋狂消費，「甚至不服從避孕措施」。\n\n對 Layla 而言，這些衝動的決定並不陌生。她說自己在經期時難以控制過度進食和對食物的渴望。\n\n例如，「我喜歡吃酸黃瓜。我知道如果吃太多酸黃瓜會不舒服。」她說這不是因為飢餓，而是「那種想要做的衝動一旦浮現在腦海裡，就很難把它關掉或終止」。\n\n「令人釋然又得到肯定」\n\n國王學院項目首席學者 Jessica Agnew-Blais 博士表示，女性 ADHD——尤其是成年女性——是一個重要的新研究領域。直到1990年代末，ADHD 被視為只影響兒童、而且主要影響男孩的症狀。\n\n「我們看到越來越多女性確診。」皇家精神科醫學院 Catherine Durkin 醫生說。「由於對 ADHD 症狀在女性身上如何表現的認識提高，越來越多女性意識到她們一生都在掙扎，現在主動尋求幫助。」\n\n女性對更年期及圍更年期——這些重大的荷爾蒙轉變——如何影響她們的 ADHD 很感興趣。Agnew-Blais 博士表示，她的研究——尚未完全完成——將會是這些問題的一個良好「起點」。\n\n她指出，這不是為了「改變你是誰的需要」。「它可以幫助你更好地將 ADHD 融入生活。」\n\nLayla 說她一直對自己未能「達標」而苛責自己，但參與這項研究項目令她感到「令人釋然又得到肯定」。\n\n「了解到這是很多女性每月、大部分時間都在經歷的事情。有社群支持和感到這一切是正常的很好——這不只是我一個人。」"
+      "bodyZh": "ADHD與月經：我的荷爾蒙是否令症狀惡化？\n\nBBC News\n\n電話鬧鐘是教學助理Layla Kornota撑過每一天的工具。她設了四個鬧鐘來起床，一個提醒換衣服，另一個提醒執工作袋，以此類推。\n\n「鬧鐘一大堆，全天不同時段都有。」這位30歲女性翻著手機上的提醒說。\n\n「很多人覺得未免太誇張，但這些時間點是我必須達到的標記。」Layla補充說，這個過程有助她的ADHD大腦保持專注，建立規律。\n\n但一旦月經臨近——月經週期的高峰期——那種掌控感便蕩然無存。\n\n「就像你死死抓住一顆不斷滾動的球，抓得你好辛苦，同時又不停咒罵自己與這個世界。」\n\n根據NHS的說法，ADHD是一種大腦運作方式與多數人不同的情况，包括專注、情緒調節及坐定等方面的困難。\n\n社交媒體和聊天論壇上，關於女性月經週期如何加劇ADHD症狀的討論層出不窮。\n\n倫敦瑪麗女王大學與國王學院合作的一項首創研究，正對這種關聯進行測試：邀請50名正在服藥的ADHD女性，記錄她們的月經週期以及對ADHD症狀和日常生活的影響。\n\n英國估計約有250萬人患有ADHD，其中數十萬人正在輪候NHS的診斷。\n\n社交媒體，加上大眾對ADHD（尤其是女性如何與ADHD共處）認識的提高，令ADHD評估需求前所未有地飆升。\n\n去年12月的NHS數據顯示，ADHD刺激劑及藥物的處方量較前一年增加23%。\n\n然而，政府專責小組去年11月發表的報告指出，ADHD的診斷和治療仍然不足。BBC曾披露，英格蘭部分地區現正關閉NHS輪候名單，因為無法應付需求。\n\n19歲的Héloïse正在攻讀三個大學學位。\n\n她把治療ADHD的藥物利他林（Ritalin）稱為「救命索」，給她三小時的專注窗口來學習。Héloïse服藥後坐在圖書館，等著藥效發作。\n\n但在月經期間，她只是不斷等待一個始終沒有出現的反應。「感覺就像失去了一根拐杖，或某樣用來支撐自己的東西。突然間它就失靈了。」她說。\n\n直到她為研究項目繪製了自己的症狀圖，才發現荷爾蒙變化與ADHD症狀之間的規律。\n\n研究中其他女性使用了類似的描述，有人說她們在每個月的某些時候感到「失去能力」。\n\n參與項目的女性以電子日誌記錄自己的荷爾蒙水平及ADHD症狀的嚴重程度，包括焦慮、抑鬱和衝動行為。\n\n研究人員將她們的週期與感受互相對照，旨在探究症狀以及藥物療效是否存在規律。\n\n每月影響\n\n精神科醫生Sally Cubbin是國王學院研究的神經多樣性專家，她相信荷爾蒙與ADHD密不可分——並希望這項試驗能反映這一點。\n\n她描述了女性週期中某些時段——例如月經前雌激素水平較低時——如何影響多巴胺（即身體的「快樂激素」），令ADHD症狀大大增強。\n\nCubbin博士指出，每月雌激素的這種下降不僅負面影響專注和處理任務的能力。\n\n「女性也更可能作出糟糕的決定和冒險行為」，包括暴飲暴食、亂花金錢，「甚至忘記服用避孕藥」。\n\n對Layla而言，那些衝動的決定並不陌生。她說自己在月經期間與暴食及 cravings（對食物的強烈渴求）掙扎。\n\n例如，「我喜歡吃酸瓜。我知道如果吃太多酸瓜，身體會不舒服。」她說這並不是因為飢餓，而是「那種想去做的衝動，一旦在腦海浮現就很難將它關掉或中止。」\n\n「令人釋懷又獲肯定」\n\n國王學院項目首席學者Jessica Agnew-Blais博士表示，女性ADHD——尤其是成年女性——是研究的一個重要新領域。直到1990年代末，ADHD仍被視為只影響兒童、且主要影響男孩的病症。\n\n英國皇家精神科醫學院的Catherine Durkin博士說：「我們看到前來求助的女性人數不斷增加。多虧大眾對ADHD症狀在女性身上如何表現的認識提升，越來越多女性意識到自己終其一生都在掙扎，現在終於尋求幫助。」\n\n女性對更年期及圍絕經期——這些重大荷爾蒙轉變期——如何影響她們的ADHD深感興趣。Agnew-Blais博士說，她的研究（尚未完全完成）可以作為這些問題的「良好起點」。\n\n她指出，這不是要「改變你是誰」。「只是能幫助把ADHD更順暢地融入生活。」\n\nLayla說，她一直因為自己「達不到標準」而自責，但參與這項研究讓她感到「令人釋懷又獲肯定」。\n\n「了解到原來每月大部分時間，很多女性都有同樣的經歷。有一種社群感很好，讓人感覺這沒問題——不是只有我才這樣。」"
     },
     {
-      "title": "報告指超過半數學習障礙成年人活不過65歲",
+      "title": "報告指出，超過一半有學習障礙的成年人活不過65歲",
       "url": "https://www.bbc.co.uk/news/articles/cnv949z75jmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-13T17:14:08.000Z",
-      "summary": "政府稱這些發現令人震驚，而一個倡議團體表示這應該成為「頭條新聞」。",
+      "summary": "政府形容這些發現令人震驚，而一個倡議組織則表示這些數據應該成為「頭條新聞」。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -282,37 +282,37 @@
           "alt": "A thin, grey banner promoting the News Daily newsletter. On the right, there is a graphic of an orange sphere with two concentric crescent shapes around it in a red-orange gradient, like a sound wave. The banner reads: &quot;The latest news in your inbox first thing.”"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b369/live/e80a9ca0-81fb-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "A person with dark curly hair is speaking into a handheld mic someone is pointing at them. They are wearing sunglasses and white sleeveless top."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1614/live/64518840-8360-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "England super fan Andy Milne"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1b56/live/210a6d40-81f8-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "A woman wearing a red coat with a white shirt with a red collar underneath"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/75ca/live/1453f650-81fa-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Guy Mowbray has short grey hair. He is wearing a white T-shirt under a dark-coloured overshirt with a collar."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a042/live/62e72a80-81fa-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "A brown bear with a blue rainjacket and red hat holds a suitcase."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d6d2/live/d6488c60-81f7-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "A young woman in red overalls and a crash helmet sits behind the steering wheel of a soapbox."
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6006/live/1c14d420-81ca-11f1-926f-c90d1bcfbc84.jpg",
           "alt": "An old man in a yellow shirt and denim shorts raises his index fingers in the air at a sporting event."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c681/live/1e2dda00-81d3-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "A woman with a suitcase walks towards a passenger aeroplane."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2a39/live/1a1185e0-81d1-11f1-b976-0b9c15b0ccfc.jpg",
-          "alt": "A still of an animation, showing a yellow, grey and green bird standing on a branch in front of a pink sky."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2a37/live/11c9f410-81ce-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "A woman with long, blonde hair wearing a mesh crop top looks at someone off-camera."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1f46/live/42322d90-8208-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "Young woman with long brown hair, wearing sunglasses."
         }
       ],
-      "bodyZh": "逾半數成年智障人士未能活到65歲——報告指出\n\nBBC News\n\n超過一半的英格蘭成年智障人士在65歲前死亡，這是一份年度死亡率報告的發現。\n\n根據英格蘭國民保健署委託進行的「智障人士死亡率檢討」（LeDeR），一般人口的相應比例為15%。\n\n報告審視了2021年至2024年間的死亡記錄，發現智障人士的平均死亡年齡比一般人口年輕19歲。\n\n政府發言人表示，「重大行動」已在進行中以改善護理，並補充說部長們將「竭盡所能照顧智障人士及自閉症患者」。\n\n政府在書面聲明中表示，LeDeR的發現「觸目驚心」，而「Staying Alive and Well」智障人士團體則表示，「太多智障人士仍然過早離世」，這應該「成為頭條新聞」。\n\nLeDeR發現，智障人士中可避免死亡的比例——即死於肺炎或癲癇等可治療疾病——已「顯著下降」，從2021年的46%降至2024年的39%，但仍几乎是一般成年人口的兩倍。\n\n該檢討機制於2015年設立，旨在審視智障人士及自閉症患者的高死亡率。\n\n當死亡個案向該機制登記後，會審視死者生前的生活、接受的醫療服務、死因，以及是否有任何可改變之處。\n\n相關報告由倫敦國王學院編製。\n\nStaying Alive and Well團體由一群智障人士組成，獲金士頓大學研究人員支援，他們表示：「這份報告中的數字對我們而言不僅是數字。這是非常真實的。這關乎人——人們過早離世：那可能是我們。」\n\n該團體表示，智障人士在需要醫療服務時可能感到「受到歧視或不被認真對待」，這令他們「既憤怒又傷心」。\n\n他們說：「不要移開目光，無論這讓你感到多麼不安。」\n\n「這或許看起來我們沒有取得任何進展，但我們希望你們繼續報道和審查智障人士的死亡個案。」\n\n政府已確認周一的報告將是最後一份以現有形式發布的LeDeR publication，未來數據將與英格蘭自閉症及ADHD患者的其他健康結果一併記錄。\n\n衛生大臣Preet Kaur Gill在書面聲明中表示，報告中凸顯的統計數字「令人無法接受」。\n\n她說：「我想向你們保證，我們認真對待這些數據。」\n\n她表示，政府決心通過早期介入來「改善結果」，並專注於培訓以改進全科醫生登記冊上智障人士的識別，確保他們接受健康檢查。\n\n英格蘭國民保健署表示，將為所有殘疾人士推出「合理調整數碼標記」，以確保調整措施保留在他們的記錄中。\n\n皇家護士學會此前曾對專門照顧智障人士或自閉症患者的醫護人員數量表示擔憂。\n\n該學會在今夏較早前發布的報告中指出，專科執業護士人數在短短十多年間下降了44%——從7000人降至4500人——今年僅有500名新人加入學習這門專科。\n\n智障人士慈善機構Mencap行政總裁Jon Sparkes OBE表示，他擔憂以現有形式終結LeDeR報告可能意味著這議題被「降級處理」。\n\n他說：「這關乎生死，很可能會令多年艱苦得來的進展付諸東流。」\n\n「我們迫切需要知道政府將如何維持獨立監督，更重要的是理解和消除可避免死亡的原因。\n\n智障人士需要知道他們的生命是有價值的。」\n\n對Charlie Lander的家人而言，LeDeR是一項關鍵工作，揭示了部分人士面對的健康不平等問題。\n\nLander患有嚴重智障及異食癖（一種導致對非食物物品渴求的進食障礙），於2022年6月在醫院去世，享年48歲。他因吞下一隻塑料手套引發腸道阻塞而不治。\n\n死因裁判官裁定，他的死因屬「醫療意外並涉及疏忽」，並列舉了多項過失，包括治療延誤、觀察不完整、未有提升他的護理級別，以及他獨自一人時死亡。\n\n他的母親Rosalie Lander表示：「Charlie的死是可以避免的，我們每天都活在失去他的痛苦中，他本不必這樣離開。」\n\n她說：「我無法用言語形容他未能獲得的護理。如果及時進行手術解除阻塞，很可能救回他的命。」\n\n死因研訊後，Ashford and St Peter's Hospitals NHS Foundation Trust首席醫療官Mark Roland醫生為Lander護理中的過失道歉。\n\n他說：「我們的心與Lander先生的家屬及摯愛同在。」\n\n他補充說，該信托機構致力減少智障人士的健康不平等，並已對護理作出重大改善。\n\n衛生及社會關懷部發言人就周一的LeDeR報告回應稱：「我們對所有失去至親的人致以慰問，並深知智障人士及自閉症患者的護理需要改進。\n\n重大行動已在進行中以改善護理。逾500萬人已完成強制性培訓，加上新的數碼工具、改進的數據共享及健康檢查，我們將竭盡所能照顧智障人士及自閉症患者。」"
+      "bodyZh": "研究報告：英格蘭逾半數有學習障礙的成年人未活至65歲\n\n根據一項年度死亡率報告，英格蘭有學習障礙的成年人中，逾半數在65歲前離世。\n\n英國國民保健服務（NHS England）委托進行的「學習障礙死亡率回顧」（LeDeR）顯示，一般人口的相應比例為15%。\n\n報告審視了2021至2024年間記錄的死亡個案，發現有學習障礙者的平均死亡年齡較一般人口年輕19年。\n\n政府發言人表示，「重大行動」已在進行以改善護理，並稱大臣們將「盡一切所能幫助有學習障礙及自閉症人士」。\n\n政府在書面部長聲明中形容LeDeR的發現「觸目驚心」；學習障礙團體Staying Alive and Well則表示：「太多有學習障礙的人仍然過早離世，這應成為頭條新聞」。\n\nLeDeR發現，有學習障礙者中可避免的死亡比例——即死於肺炎或癲癇等可治療疾病——已「顯著下降」，從2021年的46%降至2024年的39%，但仍幾乎是一般成年人口的兩倍。\n\n該回顧機制於2015年設立，旨在審查有學習障礙及自閉症人士的高死亡率。當死亡個案向回顧機制登記後，會對當事人的生活、接受的醫療護理、死因，以及是否有可改善之處進行調查。相關報告由倫敦國王學院編製。\n\nStaying Alive and Well由一群有學習障礙的人士組成，並獲金斯頓大學研究人員支援。該團體表示：「報告中的數字對我們而言不只是數字，非常真實。這關乎人命——有學習障礙的人過早離世，那可能是我們。」\n\n該團體又指，有學習障礙者在需要醫療服務時會感到「受歧視或不被認真對待」，這令他們「憤怒和難過」。他們說：「不要移開目光，無論這令你有多不安。」「你或許覺得我們沒有取得進展，但我們希望你繼續報道和審查有學習障礙者的死亡個案。」\n\n政府已確認，周一發表的報告將是最後一份以現行格式公布的LeDeR出版物，未來數據將與英格蘭自閉症及ADHD人士的其他健康指標一同記錄。\n\n衛生大臣普里特·考爾·吉爾（Preet Kaur Gill）在書面聲明中表示，報告中揭示的數據「令人無法接受」。「我想向你們保證，我們高度重視這些數據。」她說，政府致力透過早期介入來改善結果，並着重培訓以提升全科醫生對有學習障礙者的識別，確保他們按時接受健康檢查。\n\nNHS England表示將為所有殘疾人士推出「合理調整數碼標記」，確保相關調整納入其醫療記錄。\n\n皇家護士學會此前曾對專門從事學習障礙或自閉症患者護理的醫護人員數量表示擔憂。該學會於今年夏季較早前發表的報告指出，專科執業護士人數在短短十多年內下跌44%——從7000人減至4500人——今年僅錄得500名新人加入這個專科。\n\n學習障礙慈善機構Mencap行政總裁Jon Sparkes OBE表示，他擔憂終止現行格式的LeDeR報告可能令相關問題被「降級處理」。「這關乎生死，可能會破壞多年艱苦得來的進展。」他說：「我們迫切需要知道政府將如何維持獨立監督，並且重要的是了解和解決可避免死亡的原因。有學習障礙的人需要知道自己的生命受到重視。」\n\n對Charlie Lander的家人而言，LeDeR是突顯部分人士所面臨健康不平等問題的關鍵工作。Charlie患有嚴重學習障礙及異食癖（一種導致進食非食物物品的進食障礙），2022年6月，他在醫院因吞下膠手套導致腸道阻塞，終年48歲。\n\n驗屍官裁定他的死因為「醫療意外，並有疏忽因素」，並列舉多項過失，包括治療延誤、觀察記錄不完整、未有上報其護理需要，以及他離世時身邊無人的問題。\n\n他的母親Rosalie Lander表示：「Charlie的死是可以避免的，我們每天都活在無謂失去他的痛苦中。」「我無法用言語形容他缺乏的護理。如果及時進行手術解除腸道阻塞，很有可能救回他的命。」\n\n死因研訊後，阿什福德及聖彼得醫院NHS信託基金首席醫療官Mark Roland醫生就Lander護理中的過失致歉。他說：「我們的心與Lander先生的家人及摯愛同在。」他又表示，該信託基金決心減少有學習障礙人士的健康不平等，並已在護理方面作出重大改善。\n\n衛生及社會關懷部發言人回應周一LeDeR報告時表示：「我們對所有痛失摯愛的人致以深切慰問，並深知有學習障礙及自閉症人士的護理亟需改善。重大行動已在進行以改善護理。超過500萬人已完成強制性培訓，加上新的數碼工具、改善的數據共享及健康檢查，我們將盡一切所能幫助有學習障礙及自閉症人士。」"
     },
     {
-      "title": "神秘的諾福克",
+      "title": "諾福克的秘密",
       "url": "https://www.bbc.co.uk/sounds/play/p0nyjd58?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-13T13:28:00.000Z",
-      "summary": "建築師塞爾溫·戈德史密斯以諾里奇作為殘疾建築的試驗場。",
+      "summary": "建築師塞爾溫·戈德史密斯曾以諾里奇作為傷健建築的測試場地。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -325,13 +325,13 @@
           "alt": ""
         }
       ],
-      "bodyZh": "隱世諾福克——令英國變得無障礙的人\n\n諾福克電台（Radio Norfolk）\n\n2026年7月13日 · 10分鐘\n\n隱世諾福克（Secret Norfolk）\n\n播放\n\n收藏\n\n收藏\n\n訂閱\n\n訂閱\n\n一年以上可供收聽\n\n1960年代，建築師塞爾溫·戈德史密斯（Selwyn Goldsmith）選用諾里奇（Norwich）作為傷健共融建築的測試場地。\n\n在他的努力下，該市成為英國首個設有傷健共融公廁的地方，而他引入的斜路路緣（drop curbs）亦迅速在全國普及。\n\n艾瑪·克雷格（Emma Craig）深入了解他的工作，以及這些設計對今天殘疾人士的意義。\n\n圖片提供：Emma Craig / BBC\n\n節目網站\n\n顯示較少內容\n\n更多節目"
+      "bodyZh": "Secret Norfolk — 令英國變得無障礙的人\n\nBBC Sounds\n\n主頁\n\n無障礙瀏覽連結\n\n跳至內容\n\n無障礙幫助\n\nBBC 帳戶\n\n通知\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n商務\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音訊\n\n影片\n\n直播\n\n更多選單\n\n搜尋 Sounds\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n商務\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音訊\n\n影片\n\n直播\n\n關閉選單\n\nBBC Sounds\n\nSounds 主頁\n\n選單\n\n主頁\n\n音樂\n\nPodcast\n\n我的 Sounds\n\n身處英國以外的地區，可使用 BBC.com 或新版 BBC App 收聽 BBC podcast、Radio 4 及世界廣播電台。\n\n了解如何收聽其他 BBC 電台\n\n節目資料\n\nRadio Norfolk\n\n·\n\n2026 年 7 月 13 日\n\n·\n\n10 分鐘\n\nThe man who made Britain accessible\n\nSecret Norfolk\n\n播放\n\n書籤\n\n書籤\n\n訂閱\n\n訂閱\n\n可供收聽超過一年\n\n1960 年代，建築師 Selwyn Goldsmith 選擇 Norwich 作為傷健共融建築的測試地點。\n\n在他的努力下，該市成為英國首個設有傷健無障礙公廁的地方，並率先引入路緣斜坡設計，隨後迅速在全國普及。\n\nEmma Craig 帶你深入了解他的工作，以及這些設計對今天殘疾人士的意義。\n\n圖片來源：Emma Craig / BBC\n\n節目網站\n\n顯示較少內容\n\n更多節目\n\nCymraeg\n\nGaeilge\n\nGàidhlig\n\nBBC Sounds 幫助\n\n聯絡、隱私及資訊\n\n登入幫助\n\n電子通訊\n\n探索 BBC\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n商務\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音訊\n\n影片\n\n直播\n\n使用條款\n\n關於 BBC\n\n隱私政策\n\n隱私政策\n\nCookies\n\nCookies\n\n無障礙幫助\n\n家長指引\n\n聯絡 BBC\n\n提出編輯投訴\n\nBBC 電郵\n\n與我們合作\n\n版權 © 2026 BBC。\nBBC 對外部網站的內容不負責任。\n\n了解我們對外部連結的處理方式。"
     },
     {
-      "title": "將包容性放在舞台中心的另類流行搖滾樂團",
+      "title": "將包容性推向舞台中央的另類流行搖滾樂隊",
       "url": "https://www.bbc.co.uk/news/articles/c862x7j2y63o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-11T23:00:24.000Z",
-      "summary": "Renegade Zoo由德里Tuned In Project的學生組成，該項目支持學習障礙青年。",
+      "summary": "Renegade Zoo由德里「Tuned In Project」的學生組成，該項目專門支援有學習障礙的年輕成年人。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -368,21 +368,21 @@
           "alt": "Leo Miyagee. He has a dark beard and long dark hair tied back, wearing a a square shaped earring and black jumper. He is looking to his side."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b369/live/e80a9ca0-81fb-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "A person with dark curly hair is speaking into a handheld mic someone is pointing at them. They are wearing sunglasses and white sleeveless top."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1614/live/64518840-8360-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "England super fan Andy Milne"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6006/live/1c14d420-81ca-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "An old man in a yellow shirt and denim shorts raises his index fingers in the air at a sporting event."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1b56/live/210a6d40-81f8-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "A woman wearing a red coat with a white shirt with a red collar underneath"
         }
       ],
-      "bodyZh": "另類流行搖滾樂隊Renegade Zoo：將包容放在舞台中央\n\n對Renegade Zoo而言，過去幾個月相當忙碌。這支樂隊成立於倫敦德里（Londonderry）一個專為有學習障礙的青年而設的創意藝術項目。\n\n他們今年初推出了首張專輯，展示其另類流行音樂風格，隨後在夏季參與Foyle Maritime Festival演出，並登上今年Stendhal Festival的舞台。\n\n樂隊成員均就讀於德里市的Tuned In Project，他們自稱為神經多樣（neurodivergent）及身體多元的音樂人。\n\n饒舌歌手Donna Marie Duddy（以DM為名）表示，Renegade Zoo「關乎不為自己設限」。\n\n她補充說，這亦關乎友誼，以及擁有創作歌曲的機會。\n\n加入樂隊前，她鮮有機會嘗試歌曲創作。「歌詞比旋律容易得多。」她說。\n\nPhilip「Wally」Wallace是Tuned In Project在德里的音樂傳媒導師。他表示，Renegade Zoo源於該項目讓學生參與音樂活動的更廣泛工作。\n\n「我們發現我們有鼓手和幾位不同樂手。一旦開始定期見面，我們便意識到我們具備組成樂隊的條件。」\n\n他說，組樂隊有助這些年輕人增強自信和提升自尊。\n\n「我們所做的是幫助學生透過音樂找到自己的聲音，並確保他們知道這聲音正被聽見。」\n\n「樂隊每個人都很享受，我也一樣。雖然辛苦，但他們在歌曲創作、錄音和表演上投入了大量努力。」\n\n今年三月，Renegade Zoo在德里New Gate Arts and Culture Centre舉行首張專輯《Eyes on the Road》的發布會。\n\n歌手兼敲擊樂手Sarah Jane Murray（以SJ為名）表示，專輯發布會是她加入樂隊以來的亮点之一。\n\n「看到每個人都站起來隨着我親手創作的歌曲起舞，真的很棒。」\n\n這張包含十二首歌曲的首張專輯於今年初發布。\n\nSJ同樣享受創作歌曲的過程，並說有些歌曲在排練時自然而生。\n\n「我們坐在一起，創作旋律和吉他riff。有時Wally或其他成員會帶來一個吉他riff，我們便以其為基礎創作整首歌曲。」\n\n對SJ而言，Renegade Zoo關乎「自信與創意」。\n\n「有時我可能唱錯音，或這裏那裏有點不完美，但我很清楚這只是過程，沒有關係。」\n\n樂隊的專輯反映了成員們所說定義Renegade Zoo那種兼容並蓄的創作方式。他們的音樂風格融合了搖滾、流行、另類鄉村及嘻哈等多種影響。\n\n「我們很多歌曲並非典型的失戀歌曲或愛情歌曲。」主音Sorcha Friel解釋道，「Renegade Zoo的歌曲要麼有很好的訊息，要麼就只是有點傻氣。」\n\n她說，其中一首作品《Waggledance》的靈感來源頗為特別——「某天隨意談論蜜蜂時引發的念頭」。\n\n在今年的Stendhal Festival演出是她加入樂隊以來的另一個亮点。\n\n「觀眾越多越好。反而觀眾較少、氣氛較親密的時候，我反而更緊張。」\n\n「新歌更多，做真實的自己」\n\n在忙碌的初夏過後，Renegade Zoo已回到排練室創作出新作品。\n\n未來數月的計劃正在籌備中，成員們各有不同的願景。\n\nDM夢想進行英國巡迴演出，而SJ認為北愛爾蘭巡演可能是更現實的下一步。\n\nSorcha的希望則更簡單：「新歌更多，做真實的自己。」"
+      "bodyZh": "另類流行搖滾樂隊 Renegade Zoo：將包容融入舞台中央\n\n過去數月對 Renegade Zoo 而言相當忙碌。這支樂隊诞生於倫敦德里（Londonderry）一項專為有學習障礙的年輕人而設的創意藝術項目。\n\n樂隊於今年年初推出首張專輯，展示他們的另類流行風格；隨後在夏季於福伊爾海洋節（Foyle Maritime Festival）演出，接著登上本屆斯滕達爾音樂節（Stendhal Festival）的舞台。\n\n樂隊成員均在德里（Derry）的 Tuned In Project 接受音樂教育，他們自稱是一群神經多樣及身體多元的音樂人。\n\n饒舌歌手 Donna Marie Duddy，又稱 DM，表示 Renegade Zoo「旨在不為自己設限」。她補充說，這亦關乎友誼，以及獲得創作歌曲的機會。在加入樂隊之前，她鮮有機會探索歌曲創作。\n\n「旋律對我來說比歌詞更難掌握。」她說。\n\nPhilip「Wally」Wallace 是 Tuned In Project 的音樂傳媒導師。他表示，Renegade Zoo 源自該項目更廣泛的工作——鼓勵學生參與音樂活動。\n\n「我們發現當時有鼓手和幾位不同的樂手。一旦開始定期練習，便意識到我們具備組成樂隊的條件。」\n\n他認為，組隊有助這些年輕人增強自信及建立自尊。\n\n「我們所做的是幫助學生透過音樂找到自己的聲音，並確保他們知道這聲音正被聆聽。」\n\n「樂隊每個人都熱愛這一切，包括我在內。雖然辛苦，但他們在歌曲創作、錄製和表演上都投入了大量心力。」\n\n三月，Renegade Zoo 在德里新門藝術與文化中心（New Gate Arts and Culture Centre）推出首張專輯《Eyes on the Road》。\n\n擔任歌手兼敲擊樂手的 Sarah Jane Murray，亦稱 SJ，表示專輯發布是她加入樂隊以來的亮點之一。\n\n「看到大家隨着我們親手創作的歌曲起舞，真的很棒。」\n\n這張收錄十二首作品的處女專輯於今年較早前舉行發布。\n\nSJ 同樣享受創作過程，並透露某些歌曲在排練時自然湧現。\n\n「我們會坐在一起，構思旋律和結他 riff。有時 Wally 或其他人會帶來一段結他 riff，我們便以此為基礎創作整首歌曲。」\n\n對 SJ 而言，Renegade Zoo 代表着「自信與創意」。\n\n「有時候我可能唱錯音，或者某處有點不穩，但我深知這只是過程，一切都是正常的。」\n\n樂隊的專輯反映了成員們所說的 Renegade Zoo 特色——兼容並蓄的創作風格。他們的音樂涵蓋搖滾、流行、另類鄉村及嘻哈等多種元素。\n\n「我們很多歌曲並非典型的失戀歌曲或愛情歌曲，」主音 Sorcha Friel 解釋道。「Renegade Zoo 的歌曲要不承載着重點訊息，要不就是純粹玩味。」\n\n她透露，其中一首作品《Waggledance》的靈感源自一個意想不到的來源——「某天一段關於蜜蜂的隨意對話」。\n\n在本屆斯滕達爾音樂節的羊毛森林（Woolly Woodland）舞台演出，是她樂隊生涯中的特別亮點。\n\n「觀眾越多越好。反而人少的場合更令我緊張。」\n\n「更多新歌，做真實的自己」\n\n經歷繁忙的初夏後，Renegade Zoo 已回到排練室創作新素材。他們正籌劃未來數月的安排，成員們各有不同抱負。\n\nDM 夢想展開英國巡迴演出；SJ 則認為北愛爾蘭巡演或許是更現實的下一步。\n\nSorcha 的願望更為簡單：「更多新歌，做真實的自己。」"
     },
     {
-      "title": "自創特殊教育需要暑期營的家長們",
+      "title": "自辦特殊教育需要夏令營的家長們",
       "url": "https://www.bbc.co.uk/news/articles/c4gywkx5n57o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-11T06:15:05.000Z",
-      "summary": "一群家長聯手為孩子們的SEN子女打造專屬暑期營，以緩解從學校到暑假的過渡壓力。",
+      "summary": "一群家長聯手出擊，旨在讓特殊教育需要的孩子從學校過渡到暑假時更加順暢。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -415,25 +415,25 @@
           "alt": "A woman with short blonde hair, photographed from the neck up, wearing a black top and chain necklace"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b369/live/e80a9ca0-81fb-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "A person with dark curly hair is speaking into a handheld mic someone is pointing at them. They are wearing sunglasses and white sleeveless top."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1614/live/64518840-8360-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "England super fan Andy Milne"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6006/live/1c14d420-81ca-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "An old man in a yellow shirt and denim shorts raises his index fingers in the air at a sporting event."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1b56/live/210a6d40-81f8-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "A woman wearing a red coat with a white shirt with a red collar underneath"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c681/live/1e2dda00-81d3-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "A woman with a suitcase walks towards a passenger aeroplane."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/75ca/live/1453f650-81fa-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Guy Mowbray has short grey hair. He is wearing a white T-shirt under a dark-coloured overshirt with a collar."
         }
       ],
-      "bodyZh": "家長自辦特殊教育需要暑期營\n\n對許多家庭來說，暑假可以是令人期待的時光，但對部分家庭而言亦可能充滿壓力。\n\n海倫·博伊爾（Helen Boyle）對此感受至深。「我的三名孩子都有特殊教育需要，而暑假的頭數周特別難以讓孩子適應新的作息規律。」她說。\n\n雖然她的孩子已被確診自閉症譜系障礙（ASD），但他們不符合參加特殊教育需要暑期活動的資格，令海倫難以安排暑期日程。\n\n正因如此，博伊爾與倫敦德里區的其他家長携手創辦了一個為期一周的暑期活動，专门服務神經多樣性及有特殊需要的兒童。「這就是我們作為家長所做的——大家團結在一起。」她說。\n\n這些暑期活動一直在德里不同地點舉行。\n\n博伊爾隸屬於一個名為「Always Ask the Turtle」的家長組織，這是一個特殊教育需要家長互助網絡，彼此提供建議。\n\n該組織表示，他們注意到特殊學校暑期活動取消後，特殊教育需要暑期營出現了缺口。今年三月，教育管理局（EA）最初因護理人手不足的問題而取消這些活動。然而，在家長的強烈反對及政治壓力下，衛生部同意提供現場護理支援後，政策出現了轉向。\n\n根據教育管理局的說法，參加特殊學校暑期活動的資格要求兒童必須就讀於特殊學校，這意味著在該體系外獲得名額相當困難。「雖然我們有一些孩子在特殊學校就讀，但當中許多年紀較小，或許未能獲得名額，因此我們認為舉辦暑期小組對每個人都會很有幫助。」博伊爾解釋道。\n\n特里莎·威爾遜表示，暑期營讓孩子和家長都感到安心。\n\n特里莎·威爾遜與她六歲的兒子凱萊布一起參加了活動，凱萊布患有自閉症及專注力失調及過度活躍症（ADHD）。她之前已安排凱萊布參加過另外兩個暑期活動，但認為這些活動並不適合他，因為它們沒有為特殊教育需要兒童提供專門的支援。「那裡沒有具備特殊教育需要的工作人員，他們也沒有能力幫助特殊教育需要的兒童。」\n\n在其中一個活動期間，凱萊布竟設法離開了其中一個中心，並試圖跑到主路上。「非常可怕，」特里莎說，「各個小組致電叫我來接他，因為他們無法應付他。」\n\n威爾遜表示，如果沒有這個暑期營，她的兒子將一無所有。「這類活動確實有幫助，因為所有孩子都是神經多樣性的，所以他們可以一起玩耍，所有母親都能理解。」她補充道。\n\n艾琳·帕夫表示，她透過社交媒體得知這些活動。\n\n艾琳·帕夫決定帶着她四歲的女兒夏洛特和十一個月大的嬰兒貝珊妮，從斯特拉班前來參加暑期活動。夏洛特已被轉介進行自閉症譜系障礙診斷，並患有異食癖——一種令人反覆渴求並食用非食物物品的症狀。「這很棒，因為我四歲的女兒就讀於主流學校，所以沒有專門的暑期活動給她，所以這對她來說真的很了不起。」她說。「能夠與其他家長交流並獲得支持和建議真的很棒。」\n\n德里當地企業一直為活動捐贈食物。\n\n這個計劃與眾不同之處在於，家長全程都在場。當孩子們參與藝術手工和愛爾蘭舞蹈等活動時，家長們則利用這個機會分享技巧和交流建議。「這一切的成果，就是同儕支援。」博伊爾說。\n\n她希望能夠在明年夏天再次舉辦這個計劃，而且規模更大。「看到大家團結在一起令人暖心，我一直認為同儕支援是最好的。」"
+      "bodyZh": "家長自辦SEN夏令營\n\nimage caption，Helen Boyle與兒子Ezra在夏令營\n\n作者：Ashleigh Swan，BBC News NI\n\n發布日期：2026年7月11日\n\n對許多家庭而言，暑假是歡欣期待的時光，但對部分家長來說卻也可能充滿壓力。\n\nHelen Boyle對此感受至深。\n\n「我的三名子女均有特殊教育需要（SEN），每年暑假頭一、兩週，孩子最難適應新常態，」她說。\n\n雖然孩子確診患有自閉症譜系障礙（ASD），卻不符合參加SEN暑期活動的資格，令Helen難以安排整個暑假的活動。\n\n正因如此，Boyle與倫敦德里區一眾家長攜手創辦了一個為期一週的夏令營，專為神經多樣性及有特殊需要的兒童而設。\n\n「這就是我們作為家長所做的——大家走到一起，」她說。\n\nimage source，Helen Boyle\n\nimage caption，夏令營活動在德里各處不同地點舉行\n\nBoyle隸屬一個名為「Always Ask the Turtle」的家長社群，專為SEN學童家長提供互相諮詢的網絡。\n\n該組織表示，他們注意到特殊學校暑期活動取消後，市場上出現了SEN夏令營的空缺。\n\n今年三月，教育事務署（Education Authority）起初因護士人手不足的問題，取消有關暑期活動。\n\n然而，來自家長的強烈反彈及政治壓力下，衛生部門同意提供駐場護士支援，事務署最終撤回決定。\n\n根據教育事務署的規定，兒童須就讀特殊學校，方符合參加特殊學校暑期活動的資格，意味著在校外取得名額並非易事。\n\n「雖然我們部分孩子就讀特殊學校，但也有不少年紀較小，又或未能取得名額，因此我們認為舉辦暑期小組對大家都很有幫助，」Boyle解釋道。\n\nimage caption，Trisha Wilson表示夏令營對孩子和家長同樣令人安心\n\nTrisha Wilson帶同六歲兒子Caleb參加活動。Caleb患有自閉症及專注力失調及過度活躍症（ADHD）。\n\n她此前已讓Caleb試過另外兩個暑期活動，但認為那些項目並不適合他，因為它們沒有為SEN兒童提供專門支援。\n\n「那些地方沒有人懂得特殊教育需要，也沒有能力幫助SEN兒童，」她說。\n\n其中一次活動期間，Caleb竟然走出了其中一間中心，試圖跑到大路上。\n\n「真的很可怕，」Trisha說，「中心致電要我立刻去接他，因為他們應付不了他。」\n\nWilson表示，沒有這個夏令營，她的兒子便會完全沒有活動可參加。\n\n「這類安排確實有幫助，因為所有孩子都是神經多樣性人士，他們可以一起玩耍，所有媽媽都能體諒，」她補充道。\n\nimage caption，Eileen Pugh表示是透過社交媒體得知這些活動\n\nEileen Pugh特意從斯特拉班驅車前來，帶同四歲女兒Charlotte及十一個月大的嬰兒Bethany參加暑期活動。\n\nCharlotte已獲轉介進行ASD評估，並患有異食癖——即持續渴求及進食非食用物品的病症。\n\n「這真的很棒，因為我四歲的女兒就讀主流學校，所以沒有專門為她而設的暑期活動，這個夏令營對她來說實在太美妙了，」她說。\n\n「能夠和其他家長交流、獲得支援和建議，真的很好。」\n\nimage caption，德里各地商戶一直為活動捐贈食物\n\n這個計劃的獨特之處，在於家長全程陪同在場。\n\n孩子們參與美術手工及愛爾蘭舞蹈等活動時，家長們則把握機會分享心得、交流建議。\n\n「這裡孕育出來的，正是同儕支援，」Boyle說。\n\n她期望明年能夠再次舉辦，而且規模更大。\n\n「看到大家團結在一起，令人暖在心頭，我一直認為同儕支援是最有效的方式。」"
     },
     {
-      "title": "奧運冠軍麥基恩退出聯邦運動會",
+      "title": "奧運冠軍麥基恩退出英聯邦運動會",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/c4gy54xe8l4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-09T22:17:57.000Z",
-      "summary": "五屆奧運仰泳冠軍Kaylee McKeown因腺熱退出今夏於格拉斯哥舉行的聯邦運動會。",
+      "summary": "五屆奧運仰泳冠軍凱莉·麥基恩因單核細胞增多症，退出去年夏季在格拉斯哥舉行的英聯邦運動會。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -442,16 +442,20 @@
           "alt": "Kaylee McKeown"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0e94/live/0386fc20-8301-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "Bukayo Saka in a post-match interview with BBC Sport after England beat France 6-4 in the 2026 World Cup."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c233/live/2e0861d0-83d5-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "spain fan celebrates"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7c68/live/4fe4e350-830d-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "england fan"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d560/live/37eb25b0-83db-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "Argentina fans"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4dd6/live/fb4e53b0-82d7-11f1-b976-0b9c15b0ccfc.jpg",
-          "alt": "Joe Hart"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/99ca/live/c512b5d0-83d0-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Ferran Torres&#x27; post-match interview"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3a46/live/0adf13e0-83bf-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Spain fans watching the 2026 World Cup final"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/3db9/live/ddb53b70-81e2-11f1-b976-0b9c15b0ccfc.jpg",
@@ -470,21 +474,17 @@
           "alt": "Smoggie Queens"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/477e/live/949c3070-8312-11f1-9b83-cd6592fb54b4.jpg",
-          "alt": "Declan Rice celebrates scoring for England against France in their World Cup third-place play-off"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/886f/live/be5d20a0-8307-11f1-b9cd-c9e5bc6349ad.jpg",
-          "alt": "Harry Kane with his World Cup bronze medal"
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/36cc/live/2813f680-83cc-11f1-abbb-e5eedb1cfb63.jpg",
+          "alt": "Spain boss Luis de la Fuente and his players celebrate with the World Cup trophy"
         }
       ],
-      "bodyZh": "奧運冠軍麥基恩因腺熱退出英聯邦運動會\n\n五屆奧運背泳冠軍基利·麥基恩因腺熱，退出今夏在格拉斯哥舉行的英聯邦運動會。\n\n這位二十四歲澳洲泳手持有奧運、世錦賽及英聯邦一百米及二百米背泳冠軍頭銜，她亦將缺席八月舉行的泛太平洋游泳錦標賽。\n\n麥基恩表示，她對「因醫療原因退出」感到「非常遺憾」，但稱這是正確的決定。\n\n英聯邦運動會將於七月二十三日至八月二日在蘇格蘭格拉斯哥舉行，為期六天的游泳項目於七月二十四日展開。\n\n麥基恩說：「幾個月前我以為只是流感，結果發現身體正在對抗腺熱。參加資格賽時我已經生病，一直沒有康復，我很擔心把自己逼得太緊，最終患上慢性疲勞綜合症。」\n\n她又說：「這是個艱難的決定，但它是正確的。」\n\n澳洲游泳隊主教練羅漢·泰萊表示，他尊重並支持麥基恩「把健康放在首位」的決定。\n\n泰萊補充道：「我們都知道她有多麼凶悍、具競爭力——她在資格賽的表現正好證明了這一點。」\n\n「基利是百年一遇的運動員，我們稱她為『天生的賽者』。」"
+      "bodyZh": "五面奧運背泳金牌得主Kaylee McKeown因 glandular fever（傳染性單核細胞增多症）退出今夏於格拉斯哥舉行的 Commonwealth Games，並將缺席八月舉行的泛太平洋游泳錦標賽。\n\n這位24歲澳洲泳手持有100米及200米背泳的奧運、世錦賽及 Commonwealth 三項冠軍頭銜。她表示對「因醫療原因退賽」感到「非常遺憾」，但強調這是正確的決定。\n\n格拉斯哥運動會將於7月23日至8月2日舉行，游泳項目為期六天，於7月24日展開。\n\nMcKeown說：「幾個月前我以為只是流感，結果發現身體正在對抗 glandular fever。預選賽期間我已經帶病上陣，一直未有好轉，我擔心如果過度操勞，最終會患上慢性疲勞症。」\n\n「這是個艱難的決定，但正確的決定。」\n\nSwimming Australia 總教練 Rohan Taylor 表示，他尊重並支持 McKeown 將「健康放在首位」的決定。\n\nTaylor 補充道：「我們都知道她有多麼頑強和好勝——她在預選賽中的表現正正展示了這一點。Kaylee 是難得一見的運動員，我們稱之為『天生的比賽者』。」"
     },
     {
-      "title": "世衞敦促擴大新生兒篩查以改善出生缺陷的早期發現及照護",
+      "title": "世衛呼籲擴大新生兒篩檢規模 以改善出生缺陷的早期發現與照護",
       "url": "https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects",
       "publishedAt": "2026-06-23T10:01:11.000Z",
-      "summary": "世界衞生組織（WHO）今日呼籲各國擴大新生兒出生缺陷篩查，強調早期發現和治療可拯救生命並減少數百萬兒童的終身殘疾。WHO新報告《加強新生兒篩查、診斷及出生缺陷管理的能力》指出新生兒篩查是改善兒童健康的關鍵干預措施，並敦促各國擴大相關服務覆蓋範圍。",
+      "summary": "世界衛生組織（世衛）今日呼籲各國擴大新生兒出生缺陷篩檢，強調早期檢測與治療可挽救生命並減少數百萬兒童的終身殘疾。世衛最新報告《加強出生缺陷新生兒篩檢、診斷及管理能力》指出，新生兒篩檢能及早發現問題並介入治療，顯著改善孩童預後。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
@@ -497,13 +497,13 @@
           "alt": "Home"
         }
       ],
-      "bodyZh": "世界衞生組織（WHO）今日呼籲各國擴大新生嬰兒出生缺陷篩查，強調早期發現及時治療可挽救生命、減少數百萬兒童的終身殘疾。\n\n世衞新報告《加強出生缺陷新生嬰兒篩查、診斷及管理能力》指出，新生嬰兒篩查是加速兒童存活率進展的重要契機。\n\n許多疾病若能在出生後早期識別，即可成功治療，包括先天性甲狀腺功能減退症、鐮狀細胞病、聽力障礙及部分代謝障礙。然而，數百萬兒童仍然確診太遲，或完全未能獲得治療。\n\n全球每年約有800萬名嬰兒出生時患有出生缺陷，出生缺陷現佔五歲以下兒童全部死亡的近8%。估計約90%患有嚴重出生缺陷的兒童生活在中低收入國家，當地獲取篩查、診斷及治療的機會仍然有限。\n\n「任何兒童都不應因為先天性病症未能在早期發現而失去健康成長的機會，」世衞總幹事譚德塞博士說。「全球各國正在證明，對一種或多種病症進行新生嬰兒篩查可以挽救生命、預防殘疾，讓新生嬰兒享有充分發揮潛能的最佳機會。」\n\n各國之間差距懸殊：部分國家對超過50種病症進行全面篩查，而部分國家卻無法進行任何篩查。世衞鼓勵各國着手開展新生嬰兒篩查——先從本國優先病症開始，並隨着能力提升逐步擴展。\n\n報告顯示，出生缺陷在多個地區的五歲以下死亡中佔比日益上升。2000年至2023年間，撒哈拉以南非洲死於出生缺陷的五歲以下兒童比例從1%升至4%，南亞則從3%升至11%。這部分轉變反映了傳染病及其他可預防原因導致死亡的真正改善。\n\n世衞報告旨在支持衞生部門，特別是中低收入國家的衞生部，根據各國情況優先選擇新生嬰兒篩查的病症。\n\n報告展示了非洲、亞洲及美洲各國已成功將大規模新生嬰兒篩查項目整合至常規衞生服務的案例：\n\n阿根廷：新生嬰兒篩查覆蓋率提高至接近全面普及。\n巴西：將多種危及性命病症的全國篩查擴展至全國。\n埃及：「新生嬰兒護理路徑」將聽力及先天性甲狀腺功能減退症的全民篩查整合至基層醫療服務。\n印度：國家項目在三年內篩查超過2800萬名兒童，識別出約90萬名出生缺陷兒童，並為其提供診斷、治療及支援，包括通過地區早期介入中心的長期護理及康復服務。\n菲律賓：從24間醫院試點項目發展至今，全國逾7000間設施為新生嬰兒篩查29種病症。所有篩查病症在國家醫療系統內均有診斷及管理路徑。新生嬰兒篩查獲國家醫療保險覆蓋，並已立法強制執行。\n斯里蘭卡：新生嬰兒篩查已整合至常規護理，包括可見出生缺陷及先天性甲狀腺功能減退症。目前約80%新生嬰兒已接受先天性甲狀腺功能減退症篩查。\n烏干達：在高負擔地區推行由政府主導的鐮狀細胞病項目，早期識別受影響嬰兒並為其提供救命治療及長期跟進護理。\n\n世衞呼籲各國政府將新生嬰兒篩查、診斷及治療整合至常規衞生服務及全民健康覆蓋項目，首先從各國優先病症着手，並在醫療系統內可有效檢測及切實管理的病症入手。\n\n報告以世衞全球諮詢為基礎，薈集各國政府代表、技術專家、臨床醫生、研究人員、專業團體、公民社會組織及受出生缺陷影響的家庭，共同識別加強新生嬰兒篩查、診斷及長期護理的優先範疇。"
+      "bodyZh": "世界衛生組織（WHO）今日呼籲各國擴大新生兒出生缺陷篩查，強調早期檢測和治療可挽救生命、減少數百萬兒童的終身殘疾。\n\n新發表的WHO報告《加強出生缺陷新生兒篩查、診斷及管理能力》，將新生兒篩查列為加快兒童生存進展的重要機遇。\n\n許多疾病若能在出生後早期識別，即可成功治療，包括先天性甲狀腺功能減退症、鐮狀細胞病、聽力障礙及部分代謝性疾病。然而，仍有數百萬兒童確診太晚，或完全未能獲得治療。\n\n全球每年約有800萬名嬰兒出生時帶有出生缺陷，出生缺陷現佔5歲以下兒童全部死亡的近8%。估計約90%患有嚴重出生缺陷的兒童生活在低收入及中等收入國家，當地獲取篩查、診斷和治療的機會仍然有限。\n\n世衛組織總幹事Tedros Adhanom Ghebreyesus博士表示：「沒有孩子應該因為先天性病症未能在早期被發現而失去健康未來的機會。在世界各地，各國正表明針對一種或多種疾病的新生兒篩查可以挽救生命、預防殘疾，讓新生兒有最佳機會充分發揮潛能。」\n\n各國之間的差距十分明顯：部分國家對50多種疾病進行全面新生兒篩查，而另一些國家則無法開展任何篩查。WHO鼓勵各國從新生兒篩查起步——先從本國優先處理的疾病開始，並隨著能力提升逐步擴展。\n\n報告顯示，出生缺陷在許多地區5歲以下死亡中所佔比例持續上升。2000年至2023年間，撒哈拉以南非洲地區死於出生缺陷的5歲以下兒童比例從1%上升至4%，南亞則從3%上升至11%。部分轉變反映了傳染病及其他可預防病因導致死亡的切實減少。\n\nWHO報告旨在支持衞生部門，特別是低收入及中等收入國家，根據各國情況優先考慮新生兒篩查的疾病。\n\n報告展示了非洲、亞洲和美洲各國如何成功將大規模新生兒篩查項目整合到常規衞生服務中：\n\n阿根廷：新生兒篩查覆蓋率提高至接近全民水平。\n\n巴西：將多種危及生命疾病的全國篩查範圍進一步擴大。\n\n埃及：「新生兒護理路徑」將聽力及先天性甲狀腺功能減退症的全民新生兒篩查整合至基層醫療服務。\n\n印度：國家篩查項目在3年內篩查超過2800萬名兒童，識別約90萬名出生缺陷兒童，並透過地區早期干預中心為他們提供診斷、治療、支援及長期康復服務。\n\nPhilippines：一個最初在24間醫院開展的試點項目，現已擴展至全國超過7000個設施為新生兒篩查29種疾病。所有篩查疾病在國家醫療系統內均有診斷及管理方案。新生兒篩查獲國家醫療保險覆蓋，並已立法強制執行。\n\nSri Lanka：新生兒篩查已整合至常規護理，涵蓋明顯出生缺陷及先天性甲狀腺功能減退症。目前約80%新生兒已接受先天性甲狀腺功能減退症篩查。\n\nUganda：一項由政府主導的鐮狀細胞病項目，在高發地區早期識別受影響嬰兒，為他們提供挽救生命的治療及長期隨訪護理。\n\nWHO促請各國政府將新生兒篩查、診斷和治療整合至常規衞生服務和全民健康覆蓋計劃，先從各國優先且能在本國醫療系統內有效檢測及可行管理的疾病著手。\n\n報告的制定過程包括一次全球WHO諮詢，雲集各國政府代表、技術專家、臨床醫生、研究人員、專業團體、民間組織及受出生缺陷影響的家庭，共同確定加強新生兒篩查、診斷和長期護理的優先方向。\n\nWHO致力於增進所有人的福祉，以科學為指引，引領並倡導全球努力，讓各地人人平等享有安全健康生活的機會。作為聯合國衞生專門機構，WHO在150多個地區連結各國、合作夥伴及人民，引領全球應對衞生緊急情況、預防疾病、解決健康問題根源，並擴大藥物和醫療服務的可及性。我們的使命是支持各國促進、提供和保障健康。\n\n「攜手健康，堅守科學」——2026年世界衞生日的主題，標誌著一項為期一年的運動，重點強調科學是全球保護健康和福祉的根基。"
     },
     {
-      "title": "游泳會呼籲學校加強水中安全教育",
+      "title": "游泳會呼籲學校加強水上安全課程",
       "url": "https://www.bbc.co.uk/news/articles/cx2xq1pz393o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-22T05:08:04.000Z",
-      "summary": "從秋季起，初中和小學將推行新的水中安全論壇。",
+      "summary": "從秋季起，中小學將推行全新的水上安全論壇，期望提升學生的水上安全意識與自救能力，減少溺水意外的發生。",
       "sourceName": "BBC 新聞（健康）",
       "sourceId": "bbc-health",
       "images": [
@@ -532,29 +532,29 @@
           "alt": "A man smiles at a pool on a sunny day."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b369/live/e80a9ca0-81fb-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "A person with dark curly hair is speaking into a handheld mic someone is pointing at them. They are wearing sunglasses and white sleeveless top."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1614/live/64518840-8360-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "England super fan Andy Milne"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6006/live/1c14d420-81ca-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "An old man in a yellow shirt and denim shorts raises his index fingers in the air at a sporting event."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1b56/live/210a6d40-81f8-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "A woman wearing a red coat with a white shirt with a red collar underneath"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c681/live/1e2dda00-81d3-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "A woman with a suitcase walks towards a passenger aeroplane."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/75ca/live/1453f650-81fa-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Guy Mowbray has short grey hair. He is wearing a white T-shirt under a dark-coloured overshirt with a collar."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2a39/live/1a1185e0-81d1-11f1-b976-0b9c15b0ccfc.jpg",
-          "alt": "A still of an animation, showing a yellow, grey and green bird standing on a branch in front of a pink sky."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a042/live/62e72a80-81fa-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "A brown bear with a blue rainjacket and red hat holds a suitcase."
         }
       ],
-      "bodyZh": "南安普敦游泳會呼籲學校加強水中安全課程\n\n游泳課正受到泳池關閉及成本上升的衝擊，但隨着新課程將於九月推出，外界焦點正轉向水中安全教育。\n\n從秋季起，英格蘭小學和中學將引入新的「水中安全論壇」（Water Safety Forum）。\n\n該框架旨在教導兒童游泳技巧，以及在危險情況中如何求生。\n\n南安普敦市游泳會（City of Southampton Swimming Club）表示，要確保游泳教育落實到學校層面，仍有更多工作需要做。\n\n對許多兒童而言，游泳不僅是一項有趣的活動，更是重要的求生技能，有朝一日或可拯救生命。\n\n根據主管機構 Swim England 的數據，南部地區約九成兒童表示喜歡游泳。\n\n然而，僅得七成七的兒童在離開小學時能游畢25米——即一個標準泳池的長度。\n\n主教練 Matt Heathcock 表示，收費是影響市民游泳的重大因素：「以我和家人為例，游區區一小時泳，費用動輒超過£20至£25。而且隨着泳池關閉，課程收費亦愈來愈貴。」\n\n疫情以來，全國各地泳池相繼關閉，Adam Goymer——國家水中安全主管——形容這是「糟糕的投資」。\n\n「這無疑是對政府的一個行動呼籲，促請他們投資營運泳池。若幸運地學校本身擁有泳池，卻因成本問題而無法繼續保留，實在是極大的損失。」\n\n五月底席捲英國的熱浪期間，全國至少11人在水相關意外中喪生，包括在法恩伯勒附近 Hawley Lake 遇難的一名14歲少年。\n\n不過，雖然使用泳池仍是難題，但焦點正轉向教導兒童如何在水中確保安全。\n\n現時，作為小學課程的一部分，學童會學習在泳池中游25米。\n\n雖然屬必修課程，但並非所有學校都有執行，且難以監察。\n\n新課程將加入「水中安全守則」（Water Safety Code），期望教導兒童關鍵安全資訊，例如「停一停，想一想」（Stop and Think）、「不要分開」（Stay Together）、「漂浮」（Float）及「致電999」（Call 999）。\n\n普茲茅斯大學（Portsmouth University）生理學教授、國家水中安全論壇主席 Mike Tipton 表示，學習漂浮是求生的關鍵。\n\n根據國家水中安全論壇的近期數據，8至18歲的溺水遇難者中，六成一被親友形容為懂得游泳。\n\nMike 解釋：「因為你能夠在室內泳池游25米，這並不一定代表你有能力在戶外開放水域求生。所以，若你因為衝動下水而身處冷水中遇險，『漂浮求生』就是關鍵信息。」\n\n「翻身仰臥，頭部向後仰浸入水中，盡量減少動作，直至呼吸恢復正常——這大約需要一分鐘。」"
+      "bodyZh": "南安普敦游泳會促請學校加強水上安全課程\n\n游泳課正受到泳池關閉及成本上升影響，但焦點現正轉向水上安全——一套新課程定於九月推出。\n\n秋季起，水上安全論壇（Water Safety Forum）將引入中小學。其框架旨在教導兒童游泳技巧，以及在危險情況下如何求生。\n\n南安普敦市游泳會（City of Southampton Swimming Club）表示，學校首先要加強游泳教學，這方面仍有大量工作要做。\n\n對許多兒童而言，游泳不僅是有趣活動，更是一項重要的求生技能，日後或可挽救生命。\n\n根據主管機構Swim England的數據，南方約九成兒童表示喜歡游泳。然而，升讀中學時能游25米（即標準泳池長度）的兒童僅得七成七。\n\n主教練Matt Heathcock表示，收費是影響游泳的一大因素：「以我和家人為例，去游一小時水，隨時要£20至£25。而且隨着泳池關閉，課程收費亦愈來愈貴。」\n\n自疫情以來，全國各地的泳池因成本上漲及使用率不足而陸續關閉，Adam Goymer——國家水上安全負責人——形容這是「可怕的投資失誤」。\n\n「這無疑是對政府的行動呼籲，必須投資泳池設施以維持運作。」「有學校幸好擁有自己的泳池，若因成本問題而無法繼續營運，實在是極大損失。」\n\n五月熱浪期間，英國各地至少有11人在涉水意外中喪生，其中包括法恩伯勒附近Hawley Lake的一名14歲少年。\n\n目前，小學課程規定學生須學習游25米，但並非所有學校都有執行，監管亦相當困難。\n\n新課程將加入《水上安全守則》（Water Safety Code），期望教導學童關鍵安全資訊，包括「停一停，想一想」、「保持一起」、「漂浮」及「致電999」。\n\n樸茨茅夫大學生理學教授、國家水上安全論壇主席Mike Tipton認為，學會漂浮是求生的關鍵。\n\n近期數據顯示，8至18歲的溺斃者中，六成一獲親友形容為「識游泳」。\n\nMike解釋：「因為你能在室內泳池游25米，這不一定代表你能在開放水域中存活。」「所以如果你因匆忙下水而身陷困境，「漂浮求生」就是關鍵訊息。翻身仰臥，頭向後仰浸入水中，盡量減少動作，直至呼吸回復正常——這約需一分鐘。」"
     },
     {
-      "title": "截癱學生在病毒式傳播的畢業走紅後呼籲提高無障礙設施：「不必如此艱難」",
+      "title": "截癱學生畢業走紅後呼籲提升無障礙設施：「不必這麼艱難」",
       "url": "https://www.theguardian.com/education/2026/may/15/jaiden-picot-graduation-video-quadriplegic-accessibility",
       "publishedAt": "2026-05-15T09:30:36.000Z",
-      "summary": "截癱學生賈登·皮科特在2024年卡車事故後，從未想過自己穿著未來感機械外骨骼走過維珍尼亞聯盟大學畢業典禮舞台的影片會在網上瘋傳。他表示希望利用這次曝光，推動提高公共場所和機構的無障礙設施標準，讓輪椅使用者的日常生活不再如此艱難。",
+      "summary": "賈登·皮科特2024年遭卡車撞擊導致下身癱瘓，從未想過自己穿著未來感機械外骨骼走過維珍尼亞聯合大學畢業典禮的影片會在網上瘋傳。他表示希望借此機會推動社會對無障礙環境的關注，期盼未來輪椅使用者和行動不便者能更便利地生活。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -573,10 +573,10 @@
       ]
     },
     {
-      "title": "科學家揭示舒緩膝關節炎疼痛的最佳運動",
+      "title": "科學家揭示緩解膝關節炎疼痛的最佳運動",
       "url": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
       "publishedAt": "2026-04-30T07:30:17.000Z",
-      "summary": "一項涵蓋217項試驗的大型綜述顯示，有氧運動是舒緩膝關節炎最有效的方案。步行、騎單車和游泳等活動在減輕疼痛及改善活動能力方面，優於其他運動類型。雖然阻力訓練和身心運動也有幫助，但最好配合有氧運動一同進行。",
+      "summary": "一項涵蓋217項試驗的大型綜述顯示，有氧運動是管理膝關節炎最有效的方案。步行、騎單車和游泳等活動在減輕疼痛、改善活動能力方面表現最佳。阻力訓練和身心運動雖有幫助，但最好配合有氧運動一同進行。",
       "sourceName": "《科學日報》健康與體能",
       "sourceId": "sciencedaily-fitness",
       "images": [
@@ -591,10 +591,10 @@
       ]
     },
     {
-      "title": "成長過程中患有多動症特質的隱藏健康影響",
+      "title": "成長過程中過動症特質的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項歷時數十年的大型研究顯示，兒童時期的多動症徵兆可能產生超越學業和行為的長期後果。研究人員追蹤近11,000人從童年到中年，發現10歲時有多動症特質的人士，中年時更有可能出現多種身體健康問題及健康相關殘障。",
+      "summary": "一項歷時數十年的大型研究表明，童年的過動症跡象可能帶來超越學業和行為層面的長遠後果。研究人員追蹤近一萬一千人從童年至中年，發現十歲時有明顯過動症特質者，中年出現多種身體健康問題及健康相關障礙的機率更高。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -609,10 +609,10 @@
       ]
     },
     {
-      "title": "研究人員發現ADHD患者的優勢與心理健康息息相關",
+      "title": "研究人員發現 ADHD 患者的優勢與心理健康有關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示了ADHD的另一面，顯示善用自身優勢的成年人更快樂、更健康、壓力也更小。ADHD患者較容易將創造力、幽默感和專注過度等特質視為個人優勢。總體而言，運用這些優勢與更好的生活品質和較少的精神健康問題有關。",
+      "summary": "新研究揭示了 ADHD 較光明的一面，顯示善用自身優勢的成年人更快樂、更健康，壓力也更小。ADHD 患者更傾向於將創意、幽默及專注等特質視為個人優勢。整體而言，發揮這些優勢與更好的生活品質及更少的心理健康問題有關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -627,10 +627,10 @@
       ]
     },
     {
-      "title": "ADHD藥物的運作機制與我們所想的不同",
+      "title": "ADHD 藥物的作用機制與我們所想不同",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD興奮劑似乎不是透過提高專注力來發揮作用，而是喚醒大腦。腦部掃描顯示，這些藥物會激活獎勵和警覺系統，幫助孩子對平常會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠剝奪相關的腦部模式。研究人員表示，這可能會使ADHD的診斷變得更加複雜。",
+      "summary": "ADHD 興奮劑似乎並非主要透過集中注意力來運作，而是更多透過喚醒大腦。腦部掃描顯示，這些藥物會激活獎勵和警覺系統，幫助孩子對通常會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠不足相關的大腦模式。研究人員表示，這可能使 ADHD 診斷變得複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -645,10 +645,10 @@
       ]
     },
     {
-      "title": "為何這麼多幼童ADHD患者接受錯誤的治療",
+      "title": "為何這麼多 ADHD 幼童接受錯誤治療",
       "url": "https://www.sciencedaily.com/releases/2025/09/250915202839.htm",
       "publishedAt": "2025-09-16T09:10:52.000Z",
-      "summary": "患有ADHD的學前兒童通常在確診後立即獲配藥物，但這與醫學指引建議先從行為治療開始的做法相違背。治療資源有限和醫生壓力導致過早開藥，即使這些藥物在幼童身上存在風險且效果較差。",
+      "summary": "患有 ADHD 的學前兒童通常在確診後立即獲配藥物，這與建議以行為治療作為起點的醫學指引相違背。治療資源有限和醫生壓力促使早期處方，儘管對幼童存在風險且療效降低。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
