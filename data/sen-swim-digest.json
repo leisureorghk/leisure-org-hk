@@ -1,12 +1,165 @@
 {
-  "updatedAt": "2026-07-26T04:34:33.216Z",
+  "updatedAt": "2026-07-27T04:46:08.893Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "英格蘭泳手破紀錄摘雙金",
+      "title": "拉姆齊-皮蒂50米蛙式決賽第三快",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/c1e1g0zdgxyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T21:18:34.000Z",
+      "summary": "亞當·拉姆齊-皮蒂在英聯邦運動會上以第三快的成績晉級50米蛙式決賽。",
+      "sourceName": "BBC 運動（游泳）",
+      "sourceId": "bbc-swimming",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/23db/live/b27885e0-892e-11f1-b684-d3f861a1f4cf.png",
+          "alt": "Adam Ramsay-Peaty, wearing a red Speedo swimming cap and goggles, swims in the pool during the 50m men&#x27;s breaststroke semi-final at the 2026 Commonwealth Games"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3a90/live/8ba33200-86ca-11f1-8749-89447c313de6.jpg",
+          "alt": "Commonwealth Games branding at a venue"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/883/cpsprodpb/19b9/live/312f68c0-81cf-11f1-97b7-87871fc222bc.jpg",
+          "alt": "Commonwealth Games medals"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d27e/live/0cee1400-811d-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "Eilish McColgan running"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7fea/live/22809580-892a-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Darragh Beirne"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/747d/live/a914a740-892e-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Angharad Evans"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5ecc/live/3cdb4820-890d-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Reuben Ward being interviewed"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/86c0/live/542e9fa0-891b-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Hope Gordon"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0f74/live/33f819c0-88e2-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Anthony Joshua &amp; Tyson Fury"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7515/live/76310620-88f7-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Filip Nowacki"
+        }
+      ],
+      "bodyZh": "Adam Ramsay-Peaty 躋身50米蛙泳決賽\n\n英格蘭的Adam Ramsay-Peaty將有機會在2026年英聯邦運動會上衛冕男子50米蛙泳冠軍，他在決賽資格赛中游出第三快的成績。\n\n這位31歲泳手周六晚在100米項目摘銅後灑下熱淚，他在半決賽中以26秒82名列第二。\n\n世界紀錄保持者Ramsay-Peaty需要在周一英國夏令時間20:07的決賽中縮小與南非泳手Michael Houlie的差距——Houlie以26秒61領先。\n\n澳洲100米蛙泳金牌得主Sam Williamson及澤西島銀牌得主Filip Nowacki亦將出戰決賽。\n\n三屆奧運金牌得主Ramsay-Peaty接受BBC Sport訪問時表示：「我認為自己仍有進步空間。昨天學到了重要一課。」\n\n「我無法改變已發生的事，所以必須向前看。我亦明白自己現在需要達到的軌跡，與我原本想像的略有不同。\n\n「我也得提醒自己，我已有兩年沒有參加過大型錦標賽了。今次運動會對自己期望很大。\n\n「但大家也知道，世界頂尖運動員不會在訓練中展現實力，必須真正在比賽中有好表現，這本身就是一項技能，我們需要適應。\n\n「我很享受這個過程，明天再看看結果如何。」\n\nRamsay-Peaty的隊友Max Morgan在同一場半決賽中排名第六，無緣晉級。"
+    },
+    {
+      "title": "戴伊摘金　摩根與格林班克同登領獎台",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/czek18g5yngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T20:03:35.000Z",
+      "summary": "愛麗絲·戴伊以壓倒性姿態為英格蘭奪得女子100米仰式S9金牌。",
+      "sourceName": "BBC 運動（游泳）",
+      "sourceId": "bbc-swimming",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/649/cpsprodpb/8503/live/4fcf2d60-892c-11f1-b684-d3f861a1f4cf.png",
+          "alt": "Alice Tai, wearing England&#x27;s white swimming jacket, celebrates winning the women&#x27;s 100m backstroke S9 by holding up her medal in her right hand"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3a90/live/8ba33200-86ca-11f1-8749-89447c313de6.jpg",
+          "alt": "Commonwealth Games branding at a venue"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/883/cpsprodpb/19b9/live/312f68c0-81cf-11f1-97b7-87871fc222bc.jpg",
+          "alt": "Commonwealth Games medals"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d27e/live/0cee1400-811d-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "Eilish McColgan running"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7fea/live/22809580-892a-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Darragh Beirne"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/747d/live/a914a740-892e-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Angharad Evans"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5ecc/live/3cdb4820-890d-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Reuben Ward being interviewed"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/86c0/live/542e9fa0-891b-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Hope Gordon"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0f74/live/33f819c0-88e2-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Anthony Joshua &amp; Tyson Fury"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7515/live/76310620-88f7-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Filip Nowacki"
+        }
+      ],
+      "bodyZh": "2026年英聯邦運動會：英格蘭的愛麗絲·泰奪金，奧利弗·摩根與盧克·格林班克獲獎牌\n\n愛麗絲·泰在女子100米背泳S9項目中以出色表現為英格蘭奪得金牌，而奧利弗·摩根和盧克·格林班克则在男子200米背泳項目中斬獲獎牌。\n\n英格蘭隊在男子4×200米自由泳接力賽中獲得團體銀牌，而亞當·皮蒂-拉姆齊則以第三快的成績晉級周一50米蛙泳決賽。\n\n27歲的泰成功衛冕2022年英聯邦運動會冠軍，以2.13秒的優勢領先澳洲選手 Gemma Sellic，後者獲得銀牌，並以超過3秒的差距甩開其隊友 Victoria Belando Nicholson，後者排名第三。\n\n泰說：「我只是按自己的節奏去游，能為我贏得金牌我很感恩。」\n\n「在我的整個職業生涯中，我與游泳的關係頗為波折，直到巴黎奧運之後，我才再次像12、13歲時那樣熱愛這項運動，所以這真的很特別。」\n\n格林班克在開幕典禮上擔任英格蘭隊持旗手，他在男子200米背泳半決賽中游出最快資格賽成績，但最終落後南非冠軍彼得·科策2.36秒。\n\n這位28歲選手僅以0.14秒之差被隊友摩根搶走銀牌。\n\n23歲的摩根首次參加英聯邦運動會，至今已獲得三面銀牌，此前他在50米背泳和4×100米自由泳團體接力賽中均獲第二名。\n\n摩根接受BBC Sport採訪時說：「頒獎儀式結束後，我的全家人都站在那裡。他們陪我經歷了人生的起伏，帶我走到這個時刻。能與他們分享這一切真的很特別。」\n\n來自坎布里亞郡的格林班克說：「就時間而言，我想做得更好，預期也更高，但這終究是一面英聯邦運動會的銅牌。」\n\n「我不會對此太過懊惱。我非常高興，也很慶幸能夠站上頒獎台。這幾乎是一種解脫的感覺，我自2022年以來就未曾在重大錦標賽上獲獎，所以能夠重返前列真的很棒。」\n\n在一場緊張的接力決賽中，謝姆士·蓋伊的出色表現令英格蘭在第三棒超越澳洲，取得領先，此前湯姆·迪恩和加布里埃爾·謝潑德已將差距控制在可追趕範圍內。\n\n馬克斯·利奇菲爾德代表英格蘭出戰最後一棒，但凱·泰勒發揮出色，助澳洲以3.51秒的優勢奪冠，而威爾斯則落後英格蘭4.61秒，獲得第三名。"
+    },
+    {
+      "title": "埃文斯走出陰霾迎來閃光時刻　助蘇格蘭奪得第四金",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/cn9n17vy25wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T19:55:15.000Z",
+      "summary": "安格拉德·埃文斯在今屆英聯邦運動會前一直被忽視，但這位蘇格蘭泳手現已成為金牌得主。",
+      "sourceName": "BBC 運動（游泳）",
+      "sourceId": "bbc-swimming",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/24c0/live/c9a87c10-892a-11f1-b684-d3f861a1f4cf.jpg",
+          "alt": "Angharad Evans"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7fea/live/22809580-892a-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Darragh Beirne"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/747d/live/a914a740-892e-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Angharad Evans"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5ecc/live/3cdb4820-890d-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Reuben Ward being interviewed"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/86c0/live/542e9fa0-891b-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Hope Gordon"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0f74/live/33f819c0-88e2-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Anthony Joshua &amp; Tyson Fury"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7515/live/76310620-88f7-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Filip Nowacki"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/85ca/live/d4add170-8513-11f1-b976-0b9c15b0ccfc.jpg",
+          "alt": "Arvid Lindblad"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/069d/live/7445ba40-88de-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "Anthony Joshua"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/7a9e/live/e6c7bac0-873d-11f1-bee8-53ce494e1abc.jpg",
+          "alt": "Spider-Man Collection"
+        }
+      ],
+      "bodyZh": "2026年英聯邦運動會：安加拉德·埃文斯走出陰霾，奪得蘇格蘭第四金\n\n23歲的安加拉德·埃文斯（Angharad Evans）在今屆英聯邦運動會前備受忽視。\n\n她的隊友之一曾說：「沒有人談論她，這是個錯誤。」看來鄧肯·斯科特（Duncan Scott）對游泳頗有了解……\n\n斯科特是蘇格蘭歷來獎牌最多的運動員，個人累積14面獎牌，而埃文斯如今終於擁有自己的首面獎牌——在100米蛙泳中險勝對手。\n\n在托爾克羅斯（ Tollcross）沸騰的氣氛中，這位23歲泳手在最後階段頂住了南非泳手艾梅·坎尼（Aimee Canny）的追擊，為東道主贏得三日以來的第四面金牌。\n\n埃文斯緊握着吉祥物芬尼（ Finnie）的金色特別版接受 BBC Sport Scotland 訪問時說：「觸碰池壁的瞬間，聽到觀眾的歡呼聲，然後在頒獎台上聽到他們的歡呼……那種感覺難以言喻，簡直不真實。見到家人的那一刻我幾乎控制不住情緒，那真是令人激動的時刻，會伴隨我一生。」\n\n鑑於埃文斯在預賽中以明顯優勢取得最快成績，外界賽前的忽視在她周日步入這個潮濕、嘈雜的聲音熔爐時便已消散。這位出生於劍橋的運動員本可通過父母代表英格蘭或威爾斯，但她在美國完成學業後返回斯特林大學訓練，最終選擇了蘇格蘭。\n\n而在她比賽前迎接她，並一路支撐她完成比賽的聲浪，正是對這個抉擇的豐厚回報。\n\n當埃文斯那雙精心打扮的指甲——上面裝飾着蘇格蘭旗（Saltire）、知名啤酒品牌的 T 字、尼斯湖水怪（ Nessie）以及「 Irn Bru」字樣——划破水面時，觀眾的歡呼聲越來越響亮，直到她觸碰池壁那一刻掀起巨大的聲浪。\n\n賽後她透露自己在比賽中曾納悶為何沒有感到太大壓力，同時感謝蘇格蘭球迷在她感到喉癢的關鍵時刻給予支持。這位在巴黎奧運會該項目取得第六名的泳手說：「這不是我參與過觀眾最多的賽事，卻是最響亮、最熱情的。我感受到他們的能量與愛，尤其在最後五米、最艱難的時候。」\n\n「我當初可以選擇英格蘭、威爾斯或蘇格蘭，但蘇格蘭感覺對了，像家一樣。他們成就了今天的我。我曾夢想奪得金牌、聽到觀眾歡呼，這一刻就是夢想的實現，而且比想象中大一百倍。」\n\n令對手警覺的是，埃文斯的主項尚未到來。周三的200米項目在賽前被認為是她更有可能奪牌的項目。\n\n那麼她能否再次沉浸在托爾克羅斯的氣氛中？\n\n「我認為很難超越今晚的感受，但我們拭目以待。」"
+    },
+    {
+      "title": "英格蘭泳手破紀錄勇奪雙金",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cn0nwl1jn57o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-25T22:27:28.000Z",
-      "summary": "泳手謝菲爾德和埃拉德雙雙打破紀錄，為英格蘭贏得第二天泳池賽事首金。",
+      "summary": "泳手佐治亞·謝菲爾德和威爾·埃拉德雙雙打破紀錄，在英聯邦運動會第二天為英格蘭贏得首兩面泳池金牌。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -27,190 +180,37 @@
           "alt": "Eilish McColgan running"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5bb4/live/f36633a0-883d-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Team Scotland house"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7fea/live/22809580-892a-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Darragh Beirne"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0p0vphp.jpg",
-          "alt": "Oleksandr Usyk"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/747d/live/a914a740-892e-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Angharad Evans"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/805c/live/3f236340-8824-11f1-bc76-7fa6f858478c.jpg",
-          "alt": "Harry Hansen"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5ecc/live/3cdb4820-890d-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Reuben Ward being interviewed"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0p0tngd.jpg",
-          "alt": "British heavy weight boxer Anthony Joshua"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/86c0/live/542e9fa0-891b-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Hope Gordon"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9152/live/37805f00-8796-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Anthony Joshua"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0f74/live/33f819c0-88e2-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Anthony Joshua &amp; Tyson Fury"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5e10/live/bfa19e10-8766-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Enzo Maresca and Pep Guardiola"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7515/live/76310620-88f7-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Filip Nowacki"
         }
       ],
-      "bodyZh": "2026年共和聯邦運動會：英格蘭泳手以破紀錄時間奪金——BBC Sport\n\n英格蘭泳手刷新紀錄　雙雙摘金\n\n英格蘭泳手謝菲爾德（Georgia Sheffield）與埃勒德（Will Ellard）在共和聯邦運動會第二日的賽事中雙雙打破紀錄，為英格蘭贏得首兩面泳池金牌。\n\n謝菲爾德在女子200米自由式S14級別游出2分06秒44的新錦標賽紀錄，數分鐘後埃勒德在男子同項目以1分51秒66刷新個人保持的共和聯邦紀錄。\n\n埃勒德在準決賽已游出1分53秒52的紀錄時間，此後再下一城。他說：「現在我已完成了全部。」這位20歲泳手續稱：「歐洲賽、世錦賽、共和聯邦運動會都贏了，接下來是帕運會。我希望職業生涯能三度完成這套大滿貫——或者四次，誰知道呢。在S14級別，你永遠不知道會冒出什麼人。」\n\n謝菲爾德的隊友兼閨蜜馬舍爾（Poppy Marshall）獲得銀牌，兩人一同站上頒獎台。謝菲爾德說：「我們是最好的朋友，能夠一起分享這一刻感覺更美好。我們在訓練中互相督促，場上亦一直較勁。有這樣的人在身邊真的很有幫助，因為我們不斷推動彼此進步。」\n\n此外，摩根（Oliver Morgan）在50米背泳摘銀，混合4×100米自由式接力隊成員包括米爾斯（Jakob Mills）、惠特爾（Jacob Whittle）、安德森（Freya Anderson）及科爾伯特（Freya Colbert）亦為英格蘭增添一面銀牌。\n\n澤西島的17歲新秀諾瓦茨基（Filip Nowacki）在男子100米蛙泳取得銀牌，寫下澤西島歷史；前冠軍蘭姆齊-佩蒂（Adam Ramsay-Peaty）則獲第三名。"
+      "bodyZh": "2026年共和聯邦運動會：英格蘭泳手破紀錄奪金——BBC體育\n\n英格蘭泳手謝菲爾德（Georgia Sheffield）及埃勒德（Will Ellard）在共和聯邦運動會第二比賽日雙雙打破紀錄，為英格蘭贏得本屆泳池首兩面金牌。\n\n謝菲爾德在女子200米自由式S14項目游出2分06秒44，一舉刷新賽會紀錄；數分鐘後，埃勒德在男子同項目以1分51秒66創下共和聯邦新猷。\n\n埃勒德早前在預賽已造出1分53秒52的紀錄時間，決賽中再度突破自己保持的紀錄。這位年僅20歲的泳手說：「現在所有目標都完成了。歐錦賽、世錦賽、共和聯邦運動會都贏了，接下來就差帕運會了。我希望職業生涯能再達成三次——也許四次，誰知道呢？S14級別競爭激烈，永遠不知道對手何時會冒出來。」\n\n謝菲爾德則與隊友馬素爾（Poppy Marshall）一同站上領獎台，後者奪得銀牌。謝菲爾德說：「我們是最好的朋友，能一起分享這個時刻實在太棒了。我們在訓練中互相督促，場上也是彼此的競爭對手。有這樣的隊友在身邊，真的獲益匪淺，因為我們一直在相互推動。」\n\n此外，英格蘭另有三面銀牌進賬：摩根（Oliver Morgan）在50米仰泳奪銀；由米爾斯（Mills）、慧特爾（Whittle）、安德遜（Anderson）及科爾伯特（Colbert）組成的男女混合4×100米自由式接力隊亦獲銀牌。\n\n年輕泳手諾瓦茨基（Filip Nowacki）在男子100米蛙泳摘銀，為澤西島寫下歷史；前冠軍蘭姆西-佩蒂（Adam Ramsay-Peaty）則名列第三。"
     },
     {
-      "title": "諾瓦茨基為澤西贏得36年來首枚獎牌",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/cr492vrz43yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T21:46:13.000Z",
-      "summary": "游泳選手菲利普·諾瓦茨基在100米蛙泳中奪銀，為澤西贏得36年來首枚英聯邦運動會獎牌。",
-      "sourceName": "BBC 運動（游泳）",
-      "sourceId": "bbc-swimming",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b114/live/211e8d30-8869-11f1-af91-81821611f17c.jpg",
-          "alt": "Filip Nowacki with his silver medal"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/9691/live/23b9f130-886c-11f1-ac7d-675ee1dacb17.jpg",
-          "alt": "Adam Ramsay-Peaty and Filip Nowacki after the race"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5bb4/live/f36633a0-883d-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Team Scotland house"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0p0vphp.jpg",
-          "alt": "Oleksandr Usyk"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/805c/live/3f236340-8824-11f1-bc76-7fa6f858478c.jpg",
-          "alt": "Harry Hansen"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0p0tngd.jpg",
-          "alt": "British heavy weight boxer Anthony Joshua"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9152/live/37805f00-8796-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Anthony Joshua"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5e10/live/bfa19e10-8766-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Enzo Maresca and Pep Guardiola"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab28/live/41d7f7b0-867e-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "England Netball&#x27;s Anna Stembridge"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b4b7/live/1c814520-87aa-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Duncan Scott being interviewed"
-        }
-      ],
-      "bodyZh": "Filip Nowacki：澤西島泳手贏得自1990年以來島上首面英聯邦運動會獎牌\n\n泳手 Filip Nowacki 在100米蛙泳摘銀，為澤西島贏得36年來首面英聯邦運動會獎牌。\n\n這位18歲小將是目前100米及200米蛙泳世界青少年冠軍，他以0.17秒之差負於澳洲的 Sam Williamson，屈居第二。世界紀錄保持者 Adam Ramsay-Peaty 則以0.31秒之差落後 Williamson，排名第三。\n\nNowacki 在50米轉池時僅排第四，但後半程表現出色，超越 Ramsay-Peaty 及早段領先的南非泳手 Michael Houlie。\n\nNowacki 向 BBC Jersey 表示：「我對這次游出這樣的成績感到非常高興。雖然與個人最佳只差一點，但在 senior 級別的環境中與 Adam、澳洲泳手及全球最優秀的泳手同場競技，實在是真正的榮幸。」\n\n這位18歲小將本週稍後仍有更多機會爭奪獎牌，目標是成為澤西島歷來在英聯邦運動會上獎牌最多的運動員——這是島民以自己旗幟參賽的最高舞台。\n\n他將於週日在50米蛙泳與導師兼世界紀錄保持者 Ramsay-Peaty 同場較量。\n\nNowacki 最有機會奪金的項目似乎是200米蛙泳，該項目定於週二展開——他是該項目的衛冕英國冠軍，也是資格賽最快的泳手。\n\n他補充道：「這給了我繼續前進的信心。但200米的表現未必會一樣出色，所以我現在要專注200米，明天就專注50米。我很喜歡把雙手觸到池邊、前三名為島上帶回獎牌，對此我非常滿足。」\n\n\nHaving grown up on an island with about 100,000 inhabitants, Nowacki is rapidly become one of the best breaststrokers in the world.\n\nHe left Jersey to train at Millfield School and will move to Loughborough after the Games to continue his swimming as part of Team GB's elite squad preparing for the 2028 Olympic Games in Los Angeles.\n\nNathan Jegou, who coached Nowacki as a youngster and is managing the Jersey swimming team in Glasgow, says he is excited at what the islander can do.\n\n「這只是他旅程的起點，過去兩年對他來說是飛躍性的。我很期待看他未來的表現，我們為他是『我們的人』而自豪。我們只是這麼小的一個島，能來到這裏並獲得銀牌，這對他意義重大，對我們也是，我們希望他本週稍後能再次做到。」\n\nNowacki（右）首次擊敗他的導師兼世界紀錄保持者 Adam Ramsay-Peaty\n\nNowacki 成為歷來第五位為澤西島贏得英聯邦運動會獎牌的人。\n\n澤西島上次登上頒獎台是1990年 Colin Mallett 在大口徑步槍射擊項目為島上贏得唯一一面金牌，隨後與父親 Cliff 搭檔取得雙人銅牌。\n\n四年前，拳擊手 John Sillitoe 在愛丁堡贏得最輕量級銅牌；澤西島首面獎牌同樣來自拳擊——Albert Turmel 於1962年在珀斯贏得次中量級銅牌。\n\n島民也曾代表英格蘭參賽獲獎——跳水選手 Dot Macready 於1934年贏得10米高台金牌；較近期的有 Serena Guthrie，2018年助力英格蘭隊奪得女子籃球金牌。\n\n2006年 Rebecca Herbert 隨英格蘭曲棍球隊獲得銅牌；2002年島民代表英格蘭參賽亦獲兩面銅牌，分別是 Elizabeth Cann 的羽毛球及泳手 Simon Militis 的200米背泳。\n\nNowacki 還有兩個項目待賽，有機會追平 Colin Mallett，成為僅有的另一位為澤西島贏得兩面獎牌的島民。\n\n但以18歲之齡，誰會懷疑這位泳手將成為澤西島歷史上獎牌最多的英聯邦運動會運動員呢？"
-    },
-    {
-      "title": "女兒夏洛特激勵弗斯奪得銅牌",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/c9v4yze11lko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T21:16:56.000Z",
-      "summary": "北愛爾蘭泳手貝珊妮·弗斯反思在S14 200米自由式奪得銅牌，這是她產後重返泳壇後坦言艱辛的項目。",
-      "sourceName": "BBC 運動（游泳）",
-      "sourceId": "bbc-swimming",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f152/live/085f4470-886d-11f1-9c1f-17adf3deb1fc.jpg",
-          "alt": "Bethany Firth with Georgia Sheffield and Poppy Maskill"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5bb4/live/f36633a0-883d-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Team Scotland house"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0p0vphp.jpg",
-          "alt": "Oleksandr Usyk"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/805c/live/3f236340-8824-11f1-bc76-7fa6f858478c.jpg",
-          "alt": "Harry Hansen"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0p0tngd.jpg",
-          "alt": "British heavy weight boxer Anthony Joshua"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9152/live/37805f00-8796-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Anthony Joshua"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5e10/live/bfa19e10-8766-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Enzo Maresca and Pep Guardiola"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab28/live/41d7f7b0-867e-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "England Netball&#x27;s Anna Stembridge"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b4b7/live/1c814520-87aa-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Duncan Scott being interviewed"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/7a9e/live/e6c7bac0-873d-11f1-bee8-53ce494e1abc.jpg",
-          "alt": "Spider-Man Collection"
-        }
-      ],
-      "bodyZh": "2026年英聯邦運動會：女兒Charlotte激勵Bethany Firth摘銅——BBC Sport\n\n四年前在伯明罕，金牌是她戰袍的顏色，但Bethany Firth今次在格拉斯哥只能接受銅牌的結局。\n\n她在女子S14 200米自由式以2分07秒63完賽名列第三，兩位隊友——英格蘭的Georgia Sheffield及Poppy Maskill在頒獎台上超越了她。\n\n獎牌終究是獎牌，若Firth心中有任何失落，也無暇讓它發酵——她領獎後旋即與年幼的女兒Charlotte團聚。\n\n這面銅牌別具意義：這是這位30歲泳手自2024年8月誕下Charlotte以來，首面重大賽事獎牌。\n\n既然Charlotte有到場觀戰，這面獎牌在她辉煌的獎牌櫃中無疑最具情感分量——她的收藏包括六面殘奧金牌。\n\nCharlotte看上去正忙於把玩這面新獎牌，Bethany受訪時她緊緊抱着它不放。\n\n更令人佩服的是，Firth腦海中始終想着女兒，仍克服難關站上頒獎台。她坦言，自產後復出以來，這個項目一直未能找回節奏。\n\n「賽前內心經歷了一場硬仗，那些女孩實在太強了，能夠站上去、拼盡全力並收穫獎牌，真的很高興，」她向BBC Sport NI表示。\n\n「這個項目在有了Charlotte之後，康復速度不及其他項目，所以能夠整合好並拿到獎牌，我真的很滿足。」\n\n**Firth以S14 200米銅牌為北愛爾蘭奪得首面獎牌**\n\n「我很慶幸自己咬着牙游完了。」\n\nCharlotte再有數月便滿兩歲，正學着說話，但她在今屆運動會對媽媽的激勵，超乎她所能想象。\n\nFirth在進入備戰室前一直提不起劲，但看到女兒在看台上，令她驅散疑慮，做回最擅長的事——全力以赴。\n\n她在Tollcross游泳中心的比賽中起步理想，其後「天賦出眾」的Sheffield後來居上摘金，Maskill亦以些微優勢壓過她取得銀牌。不過，Firth在頒獎台上的笑容說明了一切——堅持到底終有回報。\n\n「我覺得她令我變得更堅強。我真的很掙扎，曾想過『進備戰室又有何意義？來了也得不到想要的結果？』但我不斷想着我會對Charlotte說什麼，而她就站在水道盡頭為我打氣，」Firth補充道。\n\n「我很慶幸自己咬着牙游完了。」\n\n這位30歲泳手已用行動狠狠反駁了那些令她惱火的人——他們斷言她產後會退役。她本月較早前在荷蘭埃因霍溫舉行的荷蘭全國錦標賽上，於強項S14 100米仰泳打破了自己保持的世界紀錄。\n\n根據近期的表現，兩年後的洛杉矶奧運會是現實的目標，但撫養女兒如今已比游泳更為優先。現在論2028年尚嫌過早，她仍需一天一天在兩者之間取得平衡。\n\n「我只想一年一年地過，我不知道上帝為我預備了什麼，我們就這樣一年一年地走下去，盡力而為。」"
-    },
-    {
-      "title": "瑪德琳胞弟肖恩·麥肯晉級英聯邦決賽",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T12:27:09.000Z",
-      "summary": "肖恩·麥肯是瑪德琳·麥肯的弟弟，他在英聯邦運動會400米自由式晉級決賽。",
-      "sourceName": "BBC 運動（游泳）",
-      "sourceId": "bbc-swimming",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/80f9/live/a99cd4a0-881e-11f1-981c-7d4dd1ef3d1d.jpg",
-          "alt": "Sean McCann"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/5016/live/f8573fe0-881e-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Kate and Gerry McCann cheer on son Sean"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5bb4/live/f36633a0-883d-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Team Scotland house"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0p0vphp.jpg",
-          "alt": "Oleksandr Usyk"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/805c/live/3f236340-8824-11f1-bc76-7fa6f858478c.jpg",
-          "alt": "Harry Hansen"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/images/ic/400xn/p0p0tngd.jpg",
-          "alt": "British heavy weight boxer Anthony Joshua"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9152/live/37805f00-8796-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Anthony Joshua"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5e10/live/bfa19e10-8766-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Enzo Maresca and Pep Guardiola"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab28/live/41d7f7b0-867e-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "England Netball&#x27;s Anna Stembridge"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b4b7/live/1c814520-87aa-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Duncan Scott being interviewed"
-        }
-      ],
-      "bodyZh": "Sean McCann——Madeleine McCann的弟弟——在格拉斯哥通過早上的預賽，成功取得 Commonwealth Games 400米自由式周六決賽的參賽資格。\n\nMcCann的父母Kate和Gerry在看台上觀戰，他最終以預賽第四名完賽，以八名晉級者中最後一名的成績躋身決賽。這是他首次參加大型錦標賽。\n\n「我太興奮了，」這位21歲的運動員說。「鑑於參賽陣容如此強大，這確實不是賽前預期能達到的，但很高興看到自己成功晉級。」\n\nMcCann是拉夫堡大學的化學工程系學生，平時在該校接受訓練。他在英格蘭長大，但透過父親取得蘇格蘭的參賽資格。\n\n他在Tollcross游泳中心的現場觀眾熱烈支持下完成比賽。\n\n「太不可思議了，」他說。「整場比賽我都能聽到他們的歡呼聲。這激勵我在最後100米全力以赴。」\n\n「我不會說自己緊張，但如此多人矚目，確實感受到壓力。我希望不僅為自己，也為蘇格蘭代表隊表現出色。」\n\nMcCann和雙胞胎姐姐一同現身格拉斯哥觀眾席。2007年，Madeleine在三歲時，於葡萄牙普拉亞達盧什（Praia Da Luz）度假期間失踪，當時McCann和姐姐僅兩歲。\n\n該案成為全球最受矚目的失踪案之一，至今仍由倫敦都會警察局持續偵辦。\n\nMcCann瞄準奧運會\n\n決賽將於英國夏令時間19:07舉行，參賽陣容包括2023年世界冠軍兼最快晉級者、澳洲的Sam Short，800米奧運冠軍、北愛爾蘭的Daniel Wiffen，以及衛冕冠軍Elijah Winnington，英格蘭和北愛爾蘭的獎牌希望James Guy及Jack McMillan亦在列。\n\nMcCann自青少年時期加入蘇格蘭游泳計劃，本屆賽事還將出戰800米及1500米自由式。他今年較早前在英國錦標賽中獲得800米自由式第三名及1500米自由式第四名。\n\nMcCann此前參加的2024年錦標賽，同時作為英國代表隊的奧運選拔賽。\n\n週六預賽後受訪時，他坦言奧運會才是終極目標。「奧運會始終是更進一步的台階。能夠代表蘇格蘭是通往該目標的良好階梯。希望再努力幾年，我就能進入奧運會的角逐行列。」\n\n他的成年組 Commonwealth Games 晉級之路，始於2023年在千里達及托巴哥舉行的 Commonwealth Youth Games，代表蘇格蘭出賽。當時他在400米自由式獲得第五名，1500米自由式獲得第七名。他亦曾代表英國參加2025年在克羅地亞舉行的歐洲公開水域游泳錦標賽。"
-    },
-    {
-      "title": "殘疾人士的度假困境",
+      "title": "「我們無處可住」：殘疾人士的假期困境",
       "url": "https://www.bbc.co.uk/news/articles/c5y6dl612r3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-23T23:00:24.000Z",
-      "summary": "理查德·道格拉斯患有罕見遺傳疾病，在北愛爾蘭尋找度假去處十分困難，他直言「我們無處可住」。",
+      "summary": "理查德·道格拉斯患有一種罕見的遺傳疾病，他表示在北愛爾蘭找到可以休息的地方相當困難。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -231,37 +231,37 @@
           "alt": "A woman is taking a picture on her smartphone of the Dark Hedges in County Antrim. Her face is obscured but she appears to be wearing glasses and has dark  hair."
         },
         {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5b26/live/eea05930-8924-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "A sign showing the way to a check-in desk at Gatwick Airport"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a49f/live/a461e780-88d4-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Wes Streeting"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9cf8/live/f4f6cd80-8773-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "A para athlete racing in a specially adapted wheelchair. She is wearing a white crash helmet, a sun visor and a blue Team GB vest."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a8cb/live/72bc9ba0-8751-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "The Perseids Meteor shower with the Milky Way Galaxy."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0708/live/eaace260-8778-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "Members of the orchestra sit in front of a sign saying BBC Proms. In the foreground, a man sits playing kettle drums."
+        },
+        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab4f/live/cffccca0-886d-11f1-a7ab-8b30adf0800a.jpg",
           "alt": "Katie Hunter wearing a pink windproof coat, as she speaks to camera in front of a cloudy sky."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/04af/live/6715a490-8832-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Miles Phillips singing into a microphone"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0599/live/cbba9510-882b-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "A young woman in sunglasses and a white vest"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9c31/live/5f0c2e00-87ff-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Donald Trump speaking on stage in a tuxedo"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/84ea/live/970f0140-875c-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Sir David Beckham has short dark hair, a beard and a moustache. He is wearing a dark blue suit and tie, with a white shirt undernea"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0aff/live/5d898d40-875d-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Two sisters with long blonde hair and both wearing sunglasses smile for the camera. There are hills and green shrubs behind them. The girl on the left is wearing a dark blue sports shirt, the girl on the right is wearing a red one."
         }
       ],
-      "bodyZh": "無障礙出行：「在北愛爾蘭，我真的找不到適合我的度假地方」\n\n出行度假對李察·道格拉斯（Richard Douglas）非常重要，但找到能夠容納他的住宿，已變得愈來愈困難。\n\n李察患有裘馨氏肌肉失養症（Duchenne muscular dystrophy，簡稱 DMD）——這是一種罕見的遺傳疾病，會導致肌肉無力，且隨時間惡化。\n\n他需要升降機等專業設備，讓他能夠從輪椅轉移到床上，或協助他使用浴室。\n\n然而，當計劃度假時，即使在北愛爾蘭的家裡，他說：「真的沒有地方能夠適合我的需要。」\n\n在他患病的早期，還能夠與家人享受海外之旅，但多年來，他的身體活動能力逐漸喪失。\n\n「這些年來我們找到了一些真的很棒的地方，但北愛爾蘭真的沒有地方適合我的需要，」他解釋道。\n\n「我們真的沒有地方可以住。」\n\n為殘疾人士打造度假空間\n\n為了改變這個情況，李察現在打算籌集足夠的資金，建造專屬的沿海住宿，讓殘疾人士及其親友能夠在北愛爾蘭享有一個他們值得擁有的假期。\n\n他在愛爾蘭共和國多尼戈爾縣（County Donegal）卡爾達夫（Culdaff）參觀並入住過類似的住宿，之後受到啟發。\n\n「很多使用輪椅的人——他們無法乘坐飛機——實在太不方便了——所以在本地有一個這樣的地方非常重要，」李察說。他於三歲時確診 DMD。\n\n李察認為，北愛爾蘭缺乏足夠的支援，幫助像他這樣的人去度假。\n\n「法律規定的是合理調整，但對像我这样的人來說，這遠遠不夠——你需要升降機和特製床鋪，才能真正實行，」他說。\n\n法律怎麼說？\n\n北愛爾蘭平等委員會（Equality Commission）平等發展經理保羅·奧克斯（Paul Oakes）表示，服務提供者必須作出任何被視為合理調整的改動，讓殘疾人士能夠使用他們的服務。\n\n這項規定來自1995年《殘疾歧視法案》（Disability Discrimination Act）。\n\n保羅說，真正的問題在於這些調整必須是合理的。\n\n「合理與否取決於調整的成本，以及度假提供者可用的資源——例如大型度假提供者會被期望比經營 Airbnb 的人做得更多、花費更多，」他說。\n\n「殘疾問題不同於任何其他平等問題。\n\n「當你看待殘疾時，一切都關乎個人，而每個人都是不同的——即使是有相同殘疾的人——他們所受的影響及因此產生的需求也可能非常不同。\n\n「所以，你不能有一部過於硬性規定的法律，因為你所面對的是有個人需要的個人。」\n\n李察的母親莎倫·道格拉斯（Sharon Douglas）說，能夠到多尼戈爾縣度假對整個家庭都很重要。\n\n「當我們能夠去那種專門建造的住宿，裡面有李察需要的所有設備——這對李察來說很神奇，但實際上，對於照顧李察的整個家庭來說，也很神奇，」她說。\n\n「這可能非常緊張、非常耗費精力，而且我們很多人都花很多時間在家——所以能夠去不同的地方——換換環境，給我們所有人一個調劑。\n\n「照顧李察的工作全天候二十四小時——但能夠擁有那一絲正常的感覺——能夠出外，享受幾天離開家的時光，實在太神奇了。」\n\n經濟部（Department for the Economy）發言人表示，Tourism NI 支持「包容性旅遊業，鼓勵住宿提供者考慮遊客的多樣化需求」。\n\n他們還表示，客人使用 Tourism NI 消費者網站時，可以根據無障礙需求篩選住宿。\n\n然而，他們補充說，「法規規定了旅遊住宿的最低標準」，但「殘疾人通道不在這些法規的具體涵蓋範圍內，因為它受其他法規約束」。"
+      "bodyZh": "「我們真的無處可住」：殘疾人士面對的假期困境\n\n出行度假對理察·道格拉斯（Richard Douglas）非常重要，但找到能夠容納他的住所已變得愈來愈困難。\n\n理察患有杜興氏肌肉營養不良症（DMD）——這是一種罕見的遺傳疾病，會導致肌肉力量隨時間逐漸減弱。\n\n他需要升降機等專用設備，以便從輪椅轉移到床鋪，或協助他使用浴室。\n\n然而，在計劃度假時，即使在北愛爾蘭的家裡，他說「真的沒有什麼地方適合我的需要」。\n\n在發病初期，他能夠與家人一起享受海外旅行，但多年來，他的身體活動能力逐漸喪失。\n\n「多年來我們找到了一些真的很棒的地方，但北愛爾蘭真的沒有什麼地方能夠滿足我的需要，」他解釋道。\n\n「真的無處可住。」\n\n為殘疾人士打造度假空間\n\n為了改變這種狀況，理察現在打算籌集足夠的資金，興建專屬的海濱住宿，讓殘疾人士及其親人能夠在北愛爾蘭獲得他們應得的假期。\n\n他在愛爾蘭共和國多尼戈爾縣卡爾達夫（Culdaff）參觀並入住類似的住宿後受到了啟發。\n\n「許多使用輪椅的人——他們無法乘飛機——實在太不方便了——所以有個本地的地方非常重要，」理察說。他三歲時被確診患有DMD。\n\n理察認為，北愛爾蘭缺乏足夠的支持，來幫助像他這樣的人出外度假。\n\n「法律要求合理調整，但對像我這樣的人來說，這還遠遠不夠——你需要升降機和特製床鋪才能真正可行，」他說。\n\n法律如何規定？\n\n北愛爾蘭平等委員會平等發展經理保羅·奧克斯（Paul Oakes）表示，服務提供者必須作出任何被視為合理調整的措施，使殘疾人士能夠使用他們的服務。\n\n這一規定來自1995年《殘疾歧視法》。\n\n保羅說，真正的问题在於調整必須是「合理」的。\n\n「合理與調整的成本、度假提供者可用的資源等因素有關——例如大型度假提供商應該比經營民宿的人預期做得更多、花費更多，」他說。\n\n「殘疾與任何其他平等問題不同。\n\n「當你審視殘疾時，一切都是關乎個人，而每個人都是不同的——即使是患有相同殘疾的個人——他們所受的影響及因此產生的需求也可能非常不同。\n\n「所以，你不能有一部過於硬性規定的法律，因為你所面對的是有個人需求的個人。」\n\n圖片說明，\n\n莎倫說，能夠「享受幾天離開家的時光」真是太棒了\n\n理察的母親莎倫·道格拉斯（Sharon Douglas）說，能夠去多尼戈爾縣度假對整個家庭都很重要。\n\n「當我們能夠入住專門建造的住宿，配有理察所需的所有設備時——這對理察來說太棒了，但實際上，對於照顧理察的整個家庭來說也非常棒，」她說。\n\n「這可能非常緊張、非常耗費精力，而我們很多人都花很多時間在家——所以能夠去不同的地方——換換環境，只是給我們所有人一個提升。\n\n「照顧理察的工作每天24小時持續進行——但能夠擁有那一絲正常的感覺——能夠外出並享受幾天離開家的時光，實在是太棒了。」\n\n經濟部發言人表示，旅遊北愛爾蘭支持「包容性旅遊業，鼓勵住宿提供者考慮遊客的多樣化需求」。\n\n他們還表示，客人使用旅遊北愛爾蘭消費者網站時，可以根據無障礙需求篩選住宿。\n\n然而，他們補充說，「法規規定了旅遊住宿的最低標準」，但「殘疾人士出入通道並不在這些法規的具體涵蓋範圍內，因為它受其他法規約束」。"
     },
     {
-      "title": "醫生長期未能發現我的隱匿疾病，導致我永久傷殘",
+      "title": "醫生長期未能發現我的隱匿疾病，導致我永久殘障",
       "url": "https://www.bbc.co.uk/news/articles/c1k13l8jljeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-18T00:21:57.000Z",
-      "summary": "演員丹妮卡·埃奇爾斯正在演出以她的「醫療冷待」經歷為藍本的節目。",
+      "summary": "演員丹妮卡·埃切爾斯正在演出一部反映她「醫療冷回應」經歷的節目。",
       "sourceName": "BBC 新聞（健康）",
       "sourceId": "bbc-health",
       "images": [
@@ -278,41 +278,41 @@
           "alt": "Tom Wentworth is pictured in a blue knitted jumper sitting indoors on a dark sofa, facing the camera. The image is a close-up portrait with a plain cream-coloured wall in the background and soft natural lighting."
         },
         {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5b26/live/eea05930-8924-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "A sign showing the way to a check-in desk at Gatwick Airport"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a49f/live/a461e780-88d4-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Wes Streeting"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9cf8/live/f4f6cd80-8773-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "A para athlete racing in a specially adapted wheelchair. She is wearing a white crash helmet, a sun visor and a blue Team GB vest."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a8cb/live/72bc9ba0-8751-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "The Perseids Meteor shower with the Milky Way Galaxy."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0708/live/eaace260-8778-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "Members of the orchestra sit in front of a sign saying BBC Proms. In the foreground, a man sits playing kettle drums."
+        },
+        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab4f/live/cffccca0-886d-11f1-a7ab-8b30adf0800a.jpg",
           "alt": "Katie Hunter wearing a pink windproof coat, as she speaks to camera in front of a cloudy sky."
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/04af/live/6715a490-8832-11f1-b8ee-9b3c26ad07bb.jpg",
           "alt": "Miles Phillips singing into a microphone"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0599/live/cbba9510-882b-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "A young woman in sunglasses and a white vest"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9c31/live/5f0c2e00-87ff-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Donald Trump speaking on stage in a tuxedo"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/84ea/live/970f0140-875c-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Sir David Beckham has short dark hair, a beard and a moustache. He is wearing a dark blue suit and tie, with a white shirt undernea"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0aff/live/5d898d40-875d-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Two sisters with long blonde hair and both wearing sunglasses smile for the camera. There are hills and green shrubs behind them. The girl on the left is wearing a dark blue sports shirt, the girl on the right is wearing a red one."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8ce1/live/e5521e00-877a-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "A parched, brown park with London&#x27;s docklands skyline in the distance."
         }
       ],
-      "bodyZh": "醫生遲遲未能確診我的隱疾，令我永久殘障\n\nDaneka Etchells 12歲月經初來時，她立刻察覺情况不對。\n\n與許多朋友不同，她的經血量極多，且疼痛難忍。她就診時，醫生處方了避孕藥，但連這也毫無幫助。\n\n多次再訪普通科醫生都未獲真正解决，Etchells的病情惡化至永久身體殘障。她在BBC《Access All》 podcast 中表示，過去17年所經歷的是「醫療煤氣燈效應」（medical gaslighting）。\n\n這個術語指醫療專業人員漠視或否定患者的健康擔憂，令病人對自己的疼痛和顧慮產生懷疑。\n\nEtchells所患的是子宫内膜异位症（endometriosis）——一種影響十分之一女性的痛症，但醫生確診時病情已發展到相當嚴重的地步，她說這導致了永久性神經損傷。\n\n「它生長範圍極廣、時間極長，蔓延至連接着雙腿的神經和韌帶。」她說。\n\n雖然醫生為她切除了病灶，但她如今要與永久性身體殘障共存。\n\nEtchells認為自己在《秘密花園》新版舞台劇中的演出，正反映了她長期被醫療體系忽視的經歷。\n\n這齣由殘障人士主導的製作觸及了主要角色Colin本身遭受醫療煤氣燈效應的設定。\n\n這部115年前出版的經典名著，講述10歲的Mary搬進缺席舅舅的大宅，在那裡發現了一個被封閉的花園，以及被隱藏起來的殘障表兄Colin。\n\n在新版舞台上，Colin為自己發聲，終於得到倾听。\n\nEtchells表示，她的轉機始於一位女性GP為她處方藥物並轉介至婦科。\n\n平均而言，確診子宫内膜异位症需要九年。對神經多樣（neurodivergent）的Etchells而言，則長達17年。\n\n但她說，屆時損害已經造成。最後一根稻草是Etchells在莎士比亞環球劇場（Shakespeare's Globe）演出《泰特斯·安特洛尼克斯》中的Lucius角色——這是許多演員夢寐以求的倫敦標誌性劇院。\n\n這本應是她事業的慶祝時刻，却令她意識到工作已無法維繫。隨後她被迫請假六個月。\n\n「那時候我幾乎全程使用拐杖，連樓梯都幾乎上不了。」她說。\n\n「我感到極度不適、極度疲倦、疼痛難忍。」\n\nEtchells說她感覺自己被困在自己的身體裏，「完全失去活動能力」。經期疼痛劇烈、經血量驚人，加上嚴重的泌尿和腸道問題，她有好幾個月無法離開家門。\n\n無法再等待NHS的治療，她積蓄、借貸、在GoFundMe籌款以支付私人治療費用，甚至與外科醫生的助理還價以爭取最佳方案。\n\nEtchells接受了切除手術，一種移除子宫内膜异位症病變的手術，她說術後感到「輕鬆了」。\n\n但她說，被醫生漠視這麼久，已造成永久性損害和活動障礙。\n\n新版《秘密花園》不僅呼應了Etchells年輕時被否定的經歷，也反映了編劇Tom Wentworth的親身體驗。\n\nWentworth從小就喜歡這本書。與主角Colin一樣，他曾長期臥床，但他說原書結局並不符合他的現實，於是決定重寫。\n\n原書結局中，Colin因奇蹟康復而重新獲得父親的愛——他離開輪椅，能走路和奔跑。\n\n在Wentworth的版本中，Colin並未康復，孩子們學會了所需的话语權，為自己爭取所需。\n\nWentworth自稱為「酷兒及殘障人士」，近期出現了一系列泌尿問題。他說醫生往往把他的症狀首先歸因於腦癱，而不是嘗試正確診斷問題。\n\n「關鍵是，殘障人士對自己的身體瞭若指掌。」他說。\n\n「因此我堅信，我們應該比其他人更被信任，因為我們一直在這些身體裏生活，對它們長期保持着高度警覺。那種不被信任的感覺是顯而易見的。」\n\nWentworth表示，他曾多次向當地的病人建議及聯絡服務（Patient Advice and Liaison Service，簡稱PALS）投訴。該服務旨在解决病人可能面對的困難或挫折，但他說效果參差不齊。\n\nHealthwatch England自稱為「您的健康和社會服務倡導者」，與NHS合作改善不良的病人就醫體驗。\n\n其政策 interim總監William Pett表示，Etchells和Wentworth的經歷「不幸地」屢見不鮮，「對ADHD和子宫内膜异位症等疾病尤其常見」。\n\nPett說，該組織最常收到年輕人、女性及自認LGBTQ人士的反饋，他們反映「較其他群體更不易感到被醫護人員傾聽」。\n\nHealthwatch England呼籲改革NHS投訴機制，讓病人的訴求能得到更快、更令人滿意的回應。NHS最近亦推出了「瑪莎法則」（Martha's Rule），容許病人及其家屬或照顧者在病情惡化時要求快速覆檢。\n\n衛生及社會關懷部發言人表示：「我們重啟的女性健康策略承認，醫療煤氣燈效應是一個切實的障礙，尤其對子宫内膜异位症等疾病的患者而言。我們最近公布的質量策略訂立了明確標準，確保所有人——包括殘障人士——都獲得應有的優質、尊重的護理。」\n\n「每位病人都應被倾听、被信任、有尊嚴地對待，這就是為何我們的10年健康計劃闡明了如何將病人聲音置於NHS改革的核心。」\n\n雖然Etchells希望當初13歲首次就診時就能被倾听，她現在慶幸自己能夠得到一個專門的子宫内膜异位症團隊的照顧，他們確實會倾听。\n\n談到腿部神經痛——這是韌帶損傷的後遺症——她說，當因工作而無法服用強效止痛藥時，她學會了假裝疼痛不存在。\n\n諷刺的是，她說：「我讓自己進行醫療煤氣燈效應，只為撑過每一天。」"
+      "bodyZh": "醫生延誤確診　導致我永久殘疾\n\nDaneka Etchells十二歲月經初來，便察覺情況不對。\n\n與身邊許多朋友不同，她的經期流量極大，而且痛楚劇烈。\n\n求診時，醫生處方了避孕藥，卻毫無幫助。\n\n多次往返普通科醫生都未能解決問題，病情持續惡化，最終造成永久性身體殘疾。\n\n她接受 BBC Access All  podcast 訪問時形容，過去十七年所經歷的是「醫療 gaslighting」（醫療冷處理）。\n\n此術語指醫療專業人員漠視或否定病人的健康疑慮，導致患者對自身疼痛和擔憂產生懷疑。\n\nEtchells 所患的其實是 endometriosis（朱古力瘤／子宫内膜异位）——一種每十名女性便有一人受影響的痛症。然而確診時，病情已蔓延至留下永久性神經損傷。\n\n「它生長得太廣、太久，黏連到連接雙腿的神經與韌帶上。」她說。\n\n雖然醫生進行了手術切除，但她的身體已留下永久性殘疾。\n\nEtchells 表示，這次新編舞台劇《秘密花園》（The Secret Garden）正好映照她被醫療系統漠視的經歷，她本人亦參與演出。\n\n這部由殘疾人士主導的製作觸及主角 Colin 被醫療冷處理的經歷。\n\n這部經典小說原版於一百一十五年前出版，講述十歲的 Mary 搬到缺席舅父的大宅，發現一個被封鎖的花園，以及隱藏其中的殘疾表兄 Colin。\n\n在新舞台版本中，Colin 為自己發聲，終於得到聆聽。\n\nEtchells 的轉機出現在她遇到一位女醫生，對方處方藥物並將她轉介至婦科。\n\n一般而言，確診平均需時九年。而她這位神經多樣性（neurodivergent）患者，足足等了十七年。\n\n但她說那時已造成無可挽回的傷害。最後的導火線是她在莎士比亞環球劇場（Shakespeare's Globe）主演《泰特斯·安特洛尼克斯》中 Lucius 一角——這間倫敦知名劇院是眾多演員夢寐以求的舞台。\n\n這本該是 Etchells 事業的高光時刻，卻讓她發現工作已難以為繼。隨後她被迫請假六個月。\n\n「那時我幾乎隨時都要靠拐杖走路，樓梯都幾乎上不了。」她說。\n\n「感覺身體極度不適，極度疲倦，疼痛難忍。」\n\n她形容自己「被困在自己的身體裏」，行動極度受限，經期疼痛劇烈且流量驚人，膀胱及腸道問題嚴重，有時連續數月無法外出。\n\n無法再等待 NHS 公立醫療的治療，她儲錢、借貸、在 GoFundMe 眾籌，籌集私人治療費用，甚至與外科醫生的助理議價爭取最優惠收費。\n\nEtchells 接受了切除手術，移除朱古力瘤引發的病灶，她說術後感到「輕鬆多了」。\n\n然而，長期被醫生漠視所留下的創傷已無法逆轉，她從此面臨永久性行動障礙。\n\nBBC Access All\n\n節目音頻連結（關於無障礙音樂節，以及《秘密花園》主角 Mary Lennox 是否實際患有自閉症的討論）\n\nEtchells 目前需長期忍受疼痛，出入依靠助行工具——但她已重返舞台。\n\n新版本故事不僅呼應 Etchells 年輕時被漠視的經歷，也反映了編劇 Tom Wentworth 的親身體驗。\n\nWentworth 自小喜愛這本書。與主角 Colin 一樣，他曾長期臥床休養，但他認為原版結局並不符合現實，於是決定改寫。\n\n原版結局中，Colin 奇蹟康復——離開輪椅，能走能跑，重新獲得父親的愛。\n\nWentworth 的版本中，Colin 並無康復，孩子們學會了必要的語言為自己發聲，爭取所需。\n\nWentworth 自稱「酷兒與殘疾人士」，近期出現了一系列泌尿系統問題。他說醫生往往把他的症狀首先歸咎於腦癱，而非嘗試正確診斷。\n\n「要知道，殘疾人士對自己身體的了解程度是非常高的。」他說。\n\n「所以我堅信，我們應該比其他人更被信任，因為我們一直生活在這些身體裏，對它們長期保持高度警覺。那種不被信任的感覺是顯而易見的。」\n\nWentworth 表示曾多次向當地的病人服務聯絡處（PALS）投訴。該部門旨在解決病人面對的困難與挫折，但他說效果參差。\n\n透過新版《秘密花園》，Wentworth 希望讓年輕人了解如何識別自己可能正在被 gaslight，以及如何為自己發聲。\n\nHealthwatch England 自述為「您的健康和社會照護倡導者」，與 NHS 合作改善惡劣的病人體驗。\n\n該機構政策總監 interim William Pett 表示，Etchells 和 Wentworth 的遭遇「遺憾地」並非罕見，「在 ADHD 和朱古力瘤等病症中相當普遍」。\n\nPett 指出，組織最常收到年輕人、女性及自認 LGBTQ 群體的反映，他們表示「較其他群體更難感受到醫療專業人員的聆聽」。\n\nHealthwatch England 呼籲改革 NHS 投訴機制，讓病人的疑慮能得到更快、更滿意的回應。NHS 最近亦推出了「瑪莎規則」（Martha's Rule），允許病人及其家屬或照顧者在病情惡化時要求快速覆檢。\n\n衛生及社會照護部發言人表示：「我們重新發佈的女性健康策略認識到，醫療冷處理是一個切實障礙，尤其對於朱古力瘤等病患者。我們最近公布的質量策略訂立了明確標準，確保所有人——包括殘疾人士——都能獲得優質、尊重的護理。」\n\n「每位病人都值得被聆聽、被信任、被有尊嚴地對待，這就是我們十年健康計劃的核心——將病人聲音置於 NHS 改革的中心。」\n\n雖然 Etchells 希望能夠在十三歲首次就診時便被認真聆聽，她現在「慶幸」能獲得一個專門的朱古力瘤醫療團隊，團隊成員確實會聆聽她的意見。\n\n談到腿部神經痛——這是韌帶損傷的後遺症——她說在因工作無法服用強效止痛藥的日子，她學會了假裝疼痛不存在。\n\n諷刺的是，她說：「我每天都在自我醫療冷處理來熬過每一天。」"
     },
     {
-      "title": "報告顯示，超過一半有學習障礙的成年人活不過65歲",
+      "title": "報告指超過半數有學習障礙的成年人活不過65歲",
       "url": "https://www.bbc.co.uk/news/articles/cnv949z75jmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-13T17:14:08.000Z",
-      "summary": "政府表示有關發現令人震驚，而一個運動團體則認為這應該成為「頭條新聞」。",
+      "summary": "政府稱這些發現令人震驚，而一個倡議組織則表示這應該成為「頭條新聞」。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -333,37 +333,37 @@
           "alt": "A thin, grey banner promoting the News Daily newsletter. On the right, there is a graphic of an orange sphere with two concentric crescent shapes around it in a red-orange gradient, like a sound wave. The banner reads: &quot;The latest news in your inbox first thing.”"
         },
         {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5b26/live/eea05930-8924-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "A sign showing the way to a check-in desk at Gatwick Airport"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a49f/live/a461e780-88d4-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Wes Streeting"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9cf8/live/f4f6cd80-8773-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "A para athlete racing in a specially adapted wheelchair. She is wearing a white crash helmet, a sun visor and a blue Team GB vest."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a8cb/live/72bc9ba0-8751-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "The Perseids Meteor shower with the Milky Way Galaxy."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0708/live/eaace260-8778-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "Members of the orchestra sit in front of a sign saying BBC Proms. In the foreground, a man sits playing kettle drums."
+        },
+        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab4f/live/cffccca0-886d-11f1-a7ab-8b30adf0800a.jpg",
           "alt": "Katie Hunter wearing a pink windproof coat, as she speaks to camera in front of a cloudy sky."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/04af/live/6715a490-8832-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Miles Phillips singing into a microphone"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0599/live/cbba9510-882b-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "A young woman in sunglasses and a white vest"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9c31/live/5f0c2e00-87ff-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Donald Trump speaking on stage in a tuxedo"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/84ea/live/970f0140-875c-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Sir David Beckham has short dark hair, a beard and a moustache. He is wearing a dark blue suit and tie, with a white shirt undernea"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0aff/live/5d898d40-875d-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Two sisters with long blonde hair and both wearing sunglasses smile for the camera. There are hills and green shrubs behind them. The girl on the left is wearing a dark blue sports shirt, the girl on the right is wearing a red one."
         }
       ],
-      "bodyZh": "英格蘭有超過半數患有學習障礙的成年人，在65歲前已經去世——年度死亡報告顯示。\n\n一般人口中，該比例為15%。上述數據來自「學習障礙死亡回顧」（LeDeR），由英格蘭國民保健署（NHS England）委託進行。\n\n報告審視了2021至2024年間的死亡記錄，發現學習障礙患者的平均死亡年齡比一般人口年輕約19歲。\n\n政府發言人表示，「重大行動」已在進行中以改善護理服務，並稱大臣們將「竭盡所能照顧學習障礙患者及自閉症人士」。\n\n政府在書面聲明中形容LeDeR的發現「觸目驚心」，而學習障礙支援團體「Staying Alive and Well」則表示：「太多學習障礙患者仍然過早離世」，情況「理應成為頭條新聞」。\n\nLeDeR發現，學習障礙患者中可避免死亡的比例——即死於肺炎或癲癇等可治療疾病——已「顯著下降」，由2021年的46%降至2024年的39%，但仍幾近一般成年人口的兩倍。\n\n該回顧機制於2015年設立，旨在探究學習障礙及自閉症患者的高死亡率。當死亡個案向LeDeR登記後，會審視死者生前生活、接受的醫療服務、死因，以及是否有可改善之處。相關報告由倫敦國王學院整理編製。\n\n「Staying Alive and Well」團體由一群學習障礙患者組成，由金士頓大學研究人員提供支援。該團體表示：「報告中的數字對我們而言不只是數字，而是真實的人和事。有人過早離世——那可能是我們自己。」\n\n他們指出，學習障礙患者在需要醫療服務時可能感到「受歧視或不被認真看待」，為此感到「憤怒和難過」。\n\n「不要移開目光，即使讓你感到不安。」他們說：「或許我們看似毫無進展，但我們希望你們繼續報道和檢討學習障礙患者的死亡個案。」\n\n政府確認，周一發表的報告將是最後一份以現行形式出版的LeDeR，未來數據將與自閉症及ADHD患者的其他健康指標一併記錄。\n\n衞生大臣Preet Kaur Gill在書面聲明中表示，報告中的數據「令人無法接受」。「我想向你們保證，我們認真看待這些數據。」她說，政府致力透過早期介入來改善結果，並著重培訓以提升全科醫生（GP）對學習障礙患者的識別，確保他們接受健康檢查。\n\n英格蘭國民保健署表示，將為所有殘疾人士推行「合理調整數碼標記」，確保相關調整載入其醫療紀錄。\n\n英國皇家護士學會早前對專門照顧學習障礙或自閉症患者的醫護人數表示關注。該學會在今夏較早前發表的報告指出，專科執業護士人數在短短十多年間下跌44%——由7000人減至4500人——而今年僅錄得500名新入職人員學習該專科。\n\n學習障礙慈善機構Mencap行政總裁Jon Sparkes OBE表示，憂慮終止現行形式的LeDeR報告會令問題被「降級處理」。\n\n「這關乎生死，並可能令多年艱苦取得的進展付諸東流。」他說：「我們迫切需要知道，政府如何保持獨立監督，並重要的是，了解和解決可避免死亡的成因。學習障礙患者需要知道自己的生命是有價值的。」\n\n對Charlie Lander的家人而言，LeDeR是凸顯部分人士所面對健康不平等的重要工作。\n\nCharlie患有嚴重學習障礙及異食癖（一種令人渴望進食非食物物品的進食障礙），2022年6月他在醫院去世，終年48歲，死因是吞下塑膠手套引發腸道阻塞。\n\n死因裁判官裁定，他的死亡屬「醫療意外並涉及疏忽」，並指出多項缺失，包括延誤治療、觀察記錄不完整、未有升級護理级别，以及他離世時身邊無人在場。\n\n他的母親Rosalie Lander說：「Charlie的死本可避免，我們每天都承受著痛失他的痛苦。」「語言無法形容他所缺乏的護理。緊急手術疏通腸道很可能已救回他的性命。」\n\n死因研訊後，Ashford and St Peter's Hospitals NHS Foundation Trust醫療總監Mark Roland醫生就Charlie護理服務的缺失致歉。\n\n「我們的心與Lander先生的家人及摯愛同在。」他說，並補充該信托基金會致力減少學習障礙人士的健康不平等，並已就護理服務作出重大改善。\n\n衞生及社會關懷部發言人就周一發表的LeDeR報告回應稱：「我們對所有痛失摯愛的人致以慰問，並明白學習障礙及自閉症人士的護理服務有待改善。重大行動已在進行中。超過500萬人已完成強制培訓，加上新的數碼工具、改善後的數據共享及健康檢查，我們將竭盡所能照顧學習障礙患者及自閉症人士。」"
+      "bodyZh": "逾半有學習障礙的成年人活不過65歲——研究報告\n\n英格蘭逾半有學習障礙（learning disabilities）的成年人未滿65歲便去世，這是年度死亡率報告得出的結論。\n\n一般人口的相應數字為15%。此數據來自「學習障礙死亡率回顧」（Learning Disabilities Mortality Review，簡稱LeDeR），由英格蘭國民保健署（ NHS England）委託進行。\n\n報告審視2021至2024年間記錄的死亡個案，發現有學習障礙者的平均死亡年齡較一般人口年輕19歲。\n\n政府發言人表示，「重大行動」已在進行中以改善護理，並指官員將「竭盡所能」協助有學習障礙及自閉症人士。\n\n政府在一份書面部長聲明中形容LeDeR的發現「觸目驚心」；學習障礙關注團體Staying Alive and Well則表示，「太多有學習障礙的人仍過早離世」，並認為這應「成為頭條新聞」。\n\nLeDeR發現，有學習障礙者中可避免死亡的比率——即死於肺炎或癲癇等可治療疾病——已「顯著下降」，從2021年的46%降至2024年的39%，但仍幾近一般成年人口的兩倍。\n\n該回顧項目於2015年設立，旨在審查有學習障礙及自閉症人士的高死亡率。當死亡個案向項目登記後，會調查死者生平、接受的醫療護理、死因，以及是否有可作不同處理之處。\n\n最終報告由倫敦國王學院（King's College London）編製。\n\nStaying Alive and Well是一個由有學習障礙人士組成的小組，獲金士頓大學（Kingston University）研究人員支援。該小組表示：「報告中的數字對我們而言不僅是數字，而是非常真實的事。這關乎人命——有學習障礙者過早離世，這可能是我們每一個人。」\n\n該小組指出，有學習障礙者在需要醫療服務時可能感到「受到歧視或不被認真看待」，這令他們「既憤怒又難過」。\n\n他們說：「不要移開目光，無論這讓你感到多麼不安。」\n\n「或許看似我們毫無進展，但我們希望你們繼續報道和審查有學習障礙者的死亡個案。」\n\n政府已確認週一的報告將是最後一份以現有形式發表的LeDeR報告，未來數據將與英格蘭自閉症及ADHD人士的其他健康結果一併記錄。\n\n衛生部長Preet Kaur Gill在書面聲明中表示，報告中凸顯的統計數字「令人無法接受」。\n\n她說：「我想向你們保證，我們高度重視這些數據。」\n\n她表示，政府承諾透過早期介入改善結果，並著力培訓以提升基層醫生（GP）登記系統中對有學習障礙者的識別，確保他們按時接受健康檢查。\n\n英格蘭國民保健署表示，將向所有殘疾人士推行「合理調整數碼標記」，確保調整措施會保存在他們的醫療記錄中。\n\n英國皇家護士學會（Royal College of Nurses）早前已對專門護理有學習障礙或自閉症患者的醫護人數表示關注。\n\n該學會於今年較早前發表的報告指出，專科執業護士人數在短短十多年間下跌44%——從7000人減至4500人——今年僅有500名新人加入學習這門專科。\n\n學習障礙慈善機構Mencap行政總裁Jon Sparkes OBE表示，他擔憂終止以現有形式發表LeDeR報告，可能令這個問題被「降級忽視」。\n\n他說：「這關乎生死，很可能會令多年艱苦爭取得來的進展付諸東流。」\n\n「我們迫切需要知道，政府將如何維持獨立監督，並重要的是，了解和解決可避免死亡的成因。」\n\n「有學習障礙的人需要知道自己的生命是受到珍視的。」\n\n對Charlie Lander的家人而言，LeDeR是突顯部分人士面對健康不平等的重要工作。\n\nLander患有嚴重學習障礙及異食癖（Pica syndrome）——一種令人渴望進食非食物物品的飲食失調——於2022年6月在醫院去世，享年48歲，死因是吞下塑料手套引致腸道阻塞。\n\n死因裁判官裁定他的死亡屬「醫療意外，並涉及疏忽」，列出的過失包括延誤治療、觀察記錄不完整、未有升級護理级别，以及他獨自一人時離世。\n\n他的母親Rosalie Lander說：「Charlie的死本可避免，我們每天都活在失去他的痛苦中——他不應該這樣死去。」\n\n「語言無法表達他得不到的照顧。如果當時能即時動手術解除阻塞，很大機會可以救回他的命。」\n\n死因研訊後，阿什福德和聖彼得醫院國民保健署信托基金（Ashford and St Peter's Hospitals NHS Foundation Trust）首席醫療官Mark Roland醫生就Lander護理中的過失致歉。\n\n他說：「我們的心與Lander先生的家人及至親同在。」\n\n他補充，信托基金致力減少有學習障礙人士的健康不平等，並已對護理作出重大改善。\n\n衞生及社會關懷部（Department of Health and Social Care）發言人回應周一LeDeR報告時表示：「我們對所有痛失至親的人致以慰問，並明白有學習障礙及自閉症人士的護理需要改善。」\n\n「重大行動已在進行中以改善護理。逾500萬人已完成強制性培訓，加上新的數碼工具、改進的數據共享和健康檢查，我們將竭盡所能協助有學習障礙及自閉症人士。」"
     },
     {
-      "title": "秘密諾福克",
+      "title": "秘密的諾福克",
       "url": "https://www.bbc.co.uk/sounds/play/p0nyjd58?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-13T13:28:00.000Z",
-      "summary": "建築師塞爾溫·戈德史密斯以諾里奇作為殘疾人建築的測試場地。",
+      "summary": "建築師塞爾溫·戈德史密斯以 Norwich 為無障礙建築的試驗場地。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -376,13 +376,13 @@
           "alt": ""
         }
       ],
-      "bodyZh": "Secret Norfolk — 令英國變得無障礙的男人 — BBC Sounds\n\n主頁\n\n無障礙瀏覽連結\n\n跳至內容\n\n無障礙協助\n\nBBC 帳戶\n\n通知\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n商業\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音頻\n\n影片\n\n直播\n\n更多選單\n\n搜尋 Sounds\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n商業\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音頻\n\n影片\n\n直播\n\n關閉選單\n\nBBC Sounds\n\nSounds 主頁\n\n選單\n\n主頁\n\n音樂\n\nPodcast\n\n我的 Sounds\n\n在英國境外使用 BBC.com 或新版 BBC App，收聽 BBC podcast、Radio 4 及世界新聞廣播。\n\n了解如何收聽其他 BBC 電台\n\n節目資料\n\nRadio Norfolk\n\n·\n\n2026 年 7 月 13 日\n\n·\n\n10 分鐘\n\n令英國變得無障礙的男人\n\nSecret Norfolk\n\n播放\n\n收藏\n\n收藏\n\n訂閱\n\n訂閱\n\n一年以上可聽\n\n六十年代，建築師塞爾溫·戈德史密斯（Selwyn Goldsmith）以 Norwich 為試點，推行傷健共融建築設計。\n\n透過他的工作，這座城市成為英國首個設有無障礙公廁的地方，亦率先引入路緣斜道，此後這種設計在全國各地迅速普及。\n\nEmma Craig 深入了解他的工作，以及這些設計對現今殘疾人士的意義。\n\n圖片提供：Emma Craig / BBC\n\n節目網站\n\n收起\n\n更多節目\n\nCymraeg\n\nGaeilge\n\nGàidhlig\n\nBBC Sounds 協助\n\n聯絡、隱私及資訊\n\n登入協助\n\n電子通訊\n\n探索 BBC\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n商業\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音頻\n\n影片\n\n直播\n\n使用條款\n\n關於 BBC\n\n隱私政策\n\n隱私政策\n\nCookie\n\nCookie\n\n無障礙協助\n\n家長指引\n\n聯絡 BBC\n\n提出編輯投訴\n\nBBC 電郵通訊\n\n與我們合作\n\n版權 © 2026 BBC。\nBBC 對外部網站的內容不承擔責任。\n\n閱讀我們的外部連結處理方式。"
+      "bodyZh": "六十年代，建築師塞爾溫·戈德史密斯（Selwyn Goldsmith）選址諾里奇（Norwich）作為無障礙建築的測試地點。\n\n在他的工作下，該市成為英國首個設有傷殘人士專用公廁的地方，亦率先引入路緣斜坡，這項設計後來在全國各地普及。\n\n埃瑪·克雷格（Emma Craig）深入了解他的工作，以及這些設計對今天殘疾人士的意義。\n\n圖片來源：Emma Craig / BBC"
     },
     {
-      "title": "把包容性放在舞台中央的另類流行搖滾樂隊",
+      "title": "將包容性推向舞台中心的另類流行搖滾樂團",
       "url": "https://www.bbc.co.uk/news/articles/c862x7j2y63o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-11T23:00:24.000Z",
-      "summary": "Renegade Zoo由德里Tuned In Project的學生組成，該項目專門支持有學習障礙的年輕人。",
+      "summary": "Renegade Zoo 由德里「Tuned In Project」的學生組成，該項目支援有學習障礙的年輕成年人。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -419,21 +419,21 @@
           "alt": "Leo Miyagee. He has a dark beard and long dark hair tied back, wearing a a square shaped earring and black jumper. He is looking to his side."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab4f/live/cffccca0-886d-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Katie Hunter wearing a pink windproof coat, as she speaks to camera in front of a cloudy sky."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5b26/live/eea05930-8924-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "A sign showing the way to a check-in desk at Gatwick Airport"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/04af/live/6715a490-8832-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Miles Phillips singing into a microphone"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a49f/live/a461e780-88d4-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Wes Streeting"
         }
       ],
-      "bodyZh": "另類流行搖滾樂隊 Renegade Zoo：把共融放在舞台中央\n\n\n這幾個月對 Renegade Zoo 而言十分忙碌。這支樂隊由倫敦德里一項專為有學習障礙的青年而設的創意藝術項目孕育而成。\n\n樂隊於今年較早前推出首張專輯，展示他們另類流行風格；其後在夏季登上 Foyle  Maritime Festival 演出；隨後更於今年的 Stendhal Festival 登台。\n\n樂隊成員均就讀於德里（Derry）的 Tuned In Project，他們自稱是一群神經多樣及身體多元的音樂人。\n\n饒舌歌手 Donna Marie Duddy，藝名 DM，表示 Renegade Zoo「是關於不為自己設限」。\n\n她補充道，這亦關乎友誼，以及有機會創作歌曲。在加入樂隊之前，創作歌曲並非她有太多機會接觸的範疇。\n\n「歌詞比旋律容易得多。」她說。\n\nPhilip 'Wally' Wallace 是 Tuned In Project 駐德里的音樂媒體導師。\n\n他表示，Renegade Zoo 是從該項目更廣泛的工作中誕生的——鼓勵學生參與音樂活動。\n\n「我們發現自己有一名鼓手和幾位不同的樂手。一旦開始定期聚會，我們便意識到我們已有樂隊的雛形。」\n\n他說，置身樂隊之中有助這些年輕人提升自信、培養自尊。\n\n「我們所做的，是幫助學生透過音樂找到自己的聲音，並確保他們知道那聲音正在被聆聽。」\n\n「樂隊每個人都熱愛這個項目，我也是。雖然辛苦，但他們在歌曲創作、錄製和表演上都投入了大量心力。」\n\n今年三月，Renegade Zoo 在德里 New Gate Arts and Culture Centre 推出首張專輯《Eyes on the Road》。\n\n擔任歌手兼敲擊手的 Sarah Jane Murray，藝名 SJ，表示專輯發布是她加入樂隊以來最難忘的時刻之一。\n\n「看到大家站起來跟着我們自己創作的歌曲起舞，真的太棒了。」\n\n樂隊這張包含十二首曲目的首張專輯於今年較早前正式發行。\n\nSJ 同樣享受創作歌曲的過程，並透露有些歌曲在排練時會自然而然地誕生。\n\n「我們會坐在一起，哼出旋律和吉他 riff。有時 Wally 或其他人會帶來一段吉他 riff，我們便以此為基礎建構一首歌曲。」\n\n對 SJ 而言，Renegade Zoo 的意義在於「自信與創意」。\n\n「有時候我可能唱錯了音，或者這裏那裏有點不穩，但我清楚地知道這只是個過程，沒關係的。」\n\n樂隊的專輯反映了成員們所說定義 Renegade Zoo 的多元創作取向。\n\n他們的音樂風格廣泛涵蓋搖滾、流行、另類鄉村及嘻哈等多種影響。\n\n「我們很多歌曲並非典型的失戀歌曲或浪漫歌曲。」主音 Sorcha Friel 解釋道。\n\n「一首 Renegade Zoo 的歌曲要不承載一個很棒的信息，要不就是有點傻氣。」\n\n她說，其中一首作品《Waggledance》的靈感來自一個意想不到的來源——「某天一段關於蜜蜂的隨意對話」。\n\n在今年的 Stendhal Festival 演出是她加入樂隊以來的另一個亮點。\n\n「觀眾越多越好。人少的場合我反而更緊張。」\n\n\n「更多新歌，做真實的自己」\n\n\n繁忙的初夏過後，Renegade Zoo 已回到排練室創作出新作品。\n\n未來數月的計劃正在籌備中，成員們對未來有著不同的抱負。\n\nDM 夢想進行一次英國巡演，而 SJ 認為北愛爾蘭巡演或許是更現實的下一步。\n\nSorcha 的願望更為簡單：「更多新歌，做真實的自己。」"
+      "bodyZh": "Renegade Zoo 是一支另類流行搖滾樂隊，他們將包容性放在舞台的中心\n\n圖片來源：Barry Fahy\n\n圖片說明：在 Stendhal Festival 演出是樂隊 2026 年的亮點之一\n\n作者：David Wilson（BBC News NI）\n發布日期：2026 年 7 月 12 日\n\n對 Renegade Zoo 來說，這幾個月非常忙碌。這支樂隊由倫敦德里（Londonderry）一個專為有學習障礙的年輕人而設的創意藝術項目孕育而成。\n\n他們於今年較早前推出了首張專輯，展示了他們另類流行音樂的風格；隨後在夏季參加了 Foyle Maritime Festival 的演出，並在今年的 Stendhal Festival 登台表演。\n\n作為德里 Tuned In Project 的所有學生，樂隊自稱為一群神經多樣性及身體多元的音樂人。\n\n饒舌歌手 Donna Marie Duddy（藝名 DM）表示，Renegade Zoo 的核心理念是「不為自己設限」。她補充說，這關乎友誼，以及獲得創作歌曲的機會。在加入樂隊之前，音樂創作並非她有太多機會接觸的領域。「歌詞創作比旋律創作來得容易得多。」\n\n圖片說明：Sorcha、DM 和 SJ 表示她們熱愛撰寫、錄製和表演樂隊的音樂\n\nPhilip「Wally」Wallace 是 Tuned In Project 在德里的音樂傳媒導師。他指出，Renegade Zoo 源於該項目鼓勵學生參與音樂的更廣泛工作。「我們意識到我們有鼓手和幾位不同的演奏者。一旦我們開始定期聚會，就發現自己擁有了組樂隊的條件。」他認為，參與樂隊能幫助年輕人建立自信和培養自尊。\n\n圖片說明：Wally 認為，置身樂隊讓學生得以探索他們的創意\n\n「我們致力於幫助學生透過音樂找到自己的聲音，並確保那些聲音被聽見。樂隊中每個人都熱愛這個過程，包括我在內。工作很辛苦，但他們在歌曲創作、錄製和表演上都投入了大量心血。」\n\n今年三月，Renegade Zoo 在德里 New Gate Arts and Culture Centre 發布了他們的首張專輯 Eyes on the Road。擔任歌手和敲擊樂手的 Sarah Jane Murray（藝名 SJ）表示，專輯發布會是她加入樂隊以來最難忘的經歷之一。「看到每個人都站起來隨著我們親自創作的歌曲起舞，真的太棒了。」\n\n圖片來源：Marty Doherty\n\n圖片說明：樂隊的 12 曲首張專輯於今年較早前發布\n\nSJ 也熱愛歌曲創作的過程，並指出有些歌曲是在排練時自然浮現的。「我們會坐在一起，創作旋律和吉他 riff。有時 Wally 或其他人會帶來一個吉他 riff，我們就會以它為基礎構築一首歌曲。」對 SJ 而言，Renegade Zoo 代表著「自信與創意」。「有時候我可能唱錯了音符，或者有些地方不太對勁，但我清楚知道這只是過程的一部分，一切都會好起來的。」\n\n圖片來源：Barry Fahy\n\n圖片說明：樂隊最近在 Stendhal Festival 的 Woolly Woodland 舞台演出\n\n樂隊的專輯體現了成員們所說的 Renegade Zoo 特色——兼容並蓄的音樂風格。他們的音樂融合了搖滾、流行、另類鄉村和嘻哈等多種風格。「我們的歌曲大多不是典型的分手歌或情歌，」主唱 Sorcha Friel 解釋道，「Renegade Zoo 的歌曲要麼傳達一個很棒的訊息，要麼就是純粹好玩。」她說專輯中其中一首歌曲 Waggledance 的靈感來源頗為特別——「某天偶然聊到蜜蜂的對話」。在今年的 Stendhal Festival 演出是她在樂隊期間特別難忘的經歷。「觀眾越多越好，反而人少的場合讓我更緊張。」\n\n「更多新歌，更多做真實的自己」\n\n忙碌的初夏過後，Renegade Zoo 回到排練室創作出新作品。接下來數月的計劃正在籌備中，而樂隊成員對未來有著不同的期待。DM 夢想著進行英國巡演，而 SJ 則認為北愛爾蘭巡演可能是更現實的下一步。Sorcha 的願望則更為單純：「更多新歌，更多做真實的自己。」"
     },
     {
-      "title": "世衛呼籲擴大新生兒篩檢，以改善出生缺陷的早期發現和照護",
+      "title": "世衛呼籲擴大新生兒篩查以改善出生缺陷的早期檢測和護理",
       "url": "https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects",
       "publishedAt": "2026-06-23T10:01:11.000Z",
-      "summary": "世界衛生組織今日呼籲各國擴展新生兒出生缺陷篩檢，強調早期檢測和治療可挽救生命並減少數百萬兒童的終身殘疾。",
+      "summary": "世界衛生組織（世衛）今日呼籲各國擴大新生兒出生缺陷篩查，強調早期檢測和治療可挽救生命並減少數百萬兒童的終身殘疾。一份新世衛報告指出，低收入和中等收入國家尤其缺乏必要的篩查設施和治療能力。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
@@ -446,13 +446,13 @@
           "alt": "Home"
         }
       ],
-      "bodyZh": "世界衛生組織（WHO）今日呼籲各國擴大新生兒出生缺陷篩查，強調早期檢測和治療可拯救生命、減少數百萬兒童的終身殘疾。\n\n新報告《加強出生缺陷新生兒篩查、診斷及管理能力》將新生兒篩查列為加速改善兒童存活的重要機會。許多疾病若能於出生後早期發現即可有效治療，包括先天性甲狀腺功能減退症、鐮狀細胞病、聽力障礙及部分代謝疾病。然而仍有數百萬兒童確診過晚或根本未獲治療。\n\n全球每年約有800萬名嬰兒出生時伴有出生缺陷，出生缺陷現佔5歲以下兒童死亡的近8%。約90%患有嚴重出生缺陷的兒童生活在中低收入國家，篩查、診斷及治療的可及性仍然有限。\n\n世衛組織總幹事譚德塞博士表示：「任何兒童都不應因為先天性病症未能在早期發現，而失去健康的未來。全球各國的經驗表明，為一種或多種疾病進行新生兒篩查可以挽救生命、預防殘疾，讓新生兒享有充分發揮潛能的最佳機會。」\n\n各國之間的差距明顯：部分國家為所有新生兒篩查超過50種疾病，而其他國家卻無法篩查任何疾病。WHO鼓勵各國開始新生兒篩查，先從本國優先關注的疾病着手，再隨着能力提升逐步擴展。\n\n報告顯示，出生缺陷在多個地區佔5歲以下死亡的比例持續上升。2000年至2023年間，撒哈拉以南非洲由1%升至4%，南亞則由3%升至11%。這部分反映傳染病及其他可預防病因的死亡確實有所減少。\n\nWHO報告旨在協助衞生部門（尤其在中低收入國家）根據本國情況優先選擇新生兒篩查的疾病。\n\n報告展示了非洲、亞洲及美洲各國已成功將大規模新生兒篩查計劃整合至常規衞生服務的範例：\n\n阿根廷：新生兒篩查覆蓋率已提升至接近全民水平。\n\n巴西：已擴大全國篩查多項危及生命的疾病。\n\n埃及：「新生兒護理路徑」將聽力及先天性甲狀腺功能減退症的全民篩查整合至基層醫療服務。\n\n印度：國家計劃於三年內篩查超過2800萬名兒童，識別約90萬名出生缺陷兒童，並透過地區早期干預中心為他們提供診斷、治療及支援，包括長期護理和康復服務。\n\n菲律賓：由24間醫院的試點計劃發展至今，全國超過7000間設施為新生兒篩查29種疾病。所有篩查疾病在國家醫療體系內均有診斷及管理路徑。新生兒篩查由國家醫療保險覆蓋，並有法律規定。\n\n斯里蘭卡：新生兒篩查已整合至常規照護，包括可見出生缺陷及先天性甲狀腺功能減退症。目前約80%新生兒已接受先天性甲狀腺功能減退症篩查。\n\n烏干達：政府在疾病高負擔地區推行鐮狀細胞病計劃，早期識別受影響嬰兒，並提供救命治療及長期隨訪護理。\n\nWHO呼籲各國政府將新生兒篩查、診斷及治療整合至常規衞生服務及全民健康覆蓋計劃，先從本國優先關注且能在衞生體系內有效檢測、切實管理的疾病着手。\n\n報告由全球WHO協商會議提供資料，匯集政府代表、技術專家、臨床醫生、研究人員、專業團體、公民社會組織及受出生缺陷影響的家庭，共同識別加強新生兒篩查、診斷及長期護理的優先事項。"
+      "bodyZh": "世界衛生組織（WHO）敦促擴大新生兒篩查，以改善先天性缺陷的早期發現與照護\n\n2026年6月23日｜新聞稿｜日內瓦\n\n閱讀時間：\n\n\n世界衛生組織（WHO）今日呼籲各國擴大新生兒先天性缺陷篩查，並強調早期發現與治療可挽救生命、減少數百萬兒童的終身殘疾。\n\nWHO最新報告《加強先天性缺陷新生兒篩查、診斷及管理工作能力》將新生兒篩查確定為加速推進兒童存活率的重要契機。\n\n許多疾病若能在出生後早期識別，即可獲得有效治療，包括先天性甲狀腺功能減退症、鐮狀細胞病、聽力障礙及部分代謝性疾病。然而，數百萬兒童仍面臨確診過遲或根本未能獲得治療的困境。\n\n全球每年約有800萬名嬰兒出生時患有先天性缺陷，而先天性缺陷現已佔五歲以下兒童全部死因的近8%。估計患有嚴重先天性缺陷的兒童中，約90%生活在中低收入國家，當地的篩查、診斷及治療服務仍極為有限。\n\n「任何兒童都不應因為先天性病症未能在早期被發現，而失去健康成長的機會。」世衛組織總幹事譚德塞博士表示。「世界各地的經驗表明，為一種或多種病症進行新生兒篩查，可以挽救生命、預防殘疾，讓新生兒获得最佳機會充分發揮潛能。」\n\n各國之間的差距十分明顯：部分國家對超過50種病症進行全面篩查，而另有部分國家卻連一項篩查都無法開展。WHO鼓勵各國從本國優先病症起步，逐步建立新生兒篩查，並隨著能力提升不斷擴展。\n\n報告顯示，先天性缺陷在許多地區佔五歲以下死亡的比例正不斷上升。2000年至2023年間，撒哈拉以南非洲由先天性缺陷引致的五歲以下死亡比例從1%升至4%，南亞則從3%升至11%。這一變化部分反映了傳染病及其他可預防死因減少所取得的切實進展。\n\nWHO這份報告旨在支持衞生部門（尤其是中低收入國家的衞生部門），根據各國情況確定新生兒篩查的優先病症。\n\n報告展示了非洲、亞洲及美洲各國已成功將大規模新生兒篩查項目整合入常規衞生服務的實例：\n\n阿根廷：新生兒篩查覆蓋率提升至接近全面普及。\n\n巴西：已将篩查擴展至全國，覆蓋多種危及生命的病症。\n\n埃及：「新生兒照護路徑」將聽力及先天性甲狀腺功能減退症的全民新生兒篩查整合至基層醫療服務。\n\n印度：國家項目在三年內篩查超過2800萬名兒童，發現約90萬名患有先天性缺陷的兒童，並為他們提供診斷、治療及支援，包括通過地區早期介入中心提供長期照護及康復服務。\n\n菲律宾：一個最初在24間醫院進行的試點項目，如今已透過全國7000多間設施為新生兒篩查29種病症。所有篩查病症在國家醫療體系內均設有診斷及管理路徑。新生兒篩查已獲國家醫療保險覆蓋，並由法律強制規定。\n\n斯里蘭卡：新生兒篩查已整合至常規照護，涵蓋可見先天性缺陷及先天性甲狀腺功能減退症。目前約80%的新生兒已接受先天性甲狀腺功能減退症篩查。\n\n烏干達：針對高負擔地區的鐮狀細胞病政府主導項目，可及早識別受影響的嬰兒，並為他們提供救命治療及長期隨訪照護。\n\nWHO敦促各國政府將新生兒篩查、診斷及治療整合至常規衞生服務及全民健康覆蓋項目，先從各國優先重視且可在本國醫療體系內有效發現、切實管理的病症著手。\n\n本報告由WHO舉行的全球諮詢會議提供資料支持，會議匯集政府代表、技術專家、臨床醫生、研究人員、專業團體、民間組織及受先天性缺陷影響的家庭，共同識別加強新生兒篩查、診斷及長期照護的優先方向。\n\n關於WHO\n\nWHO致力增進全人類福祉，以科學為指引，引領並倡導全球行動，確保各地人人平等享有安全健康的機會。作為聯合國下負責健康的機構，WHO在150多個地點連結各國、合作夥伴及人民，引領全球應對衞生緊急事件、預防疾病、解決健康問題的根本原因，並擴大藥物及醫療服務的可及性。我們的使命是支持各國促進、提供和保障健康。\n\n「攜手促進健康．以科學為本」——2026年世界衞生日的主題，標誌著一項為期一年的運動，強調科學是全球保護健康及福祉的基礎。"
     },
     {
-      "title": "截癱學生走紅畢業禮後呼籲提升無障礙設施：「不該這麼困難」",
+      "title": "截癱學生走紅後呼籲提升無障礙設施：「不一定要這麼困難」",
       "url": "https://www.theguardian.com/education/2026/may/15/jaiden-picot-graduation-video-quadriplegic-accessibility",
       "publishedAt": "2026-05-15T09:30:36.000Z",
-      "summary": "Jaiden Picot 在 2024 年被卡車撞擊後癱瘓，他從未想過穿著未來感機械外骨骼走過維珍尼亞聯合大學畢業典禮舞台的影片會走紅。但既然走紅了，他表示希望",
+      "summary": "2024年，卡車撞擊導致Jaiden Picot癱瘓，他從未想過自己穿著未來感機械外骨骼走過維吉尼亞聯盟大學畢業典禮舞台的影片會走紅。但自從影片爆紅後，他表示希望藉此推動改變，讓所有行動不便的人都能更方便地參與各項活動。「不一定要這麼困難。」他說道。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -469,13 +469,13 @@
           "alt": "Virginia student paralysed by truck collision graduates in robotic suit – video"
         }
       ],
-      "bodyZh": "Jaiden Picot 在2024年被貨車撞到後癱瘓，他從未想過自己穿著未來風格的機械外骨骼走過維珍尼亞聯合大學（VUU）畢業禮舞台的影片會走紅。\n\n但自從影片爆紅後，他說希望世人知道他打算在整個職業生涯中，努力讓這個社會對輪椅使用者更加無障礙。\n\n他在接受《衛報》訪問時說：「我知道癱瘓後，我錯過了很多與朋友外出的機會。我無法進入某些餐廳、某些活動場所，只因為那裡沒有讓我進入的斜道。我覺得改變這一點非常重要，因為我們這個群體人數眾多，我們也希望能夠進入其他人可以去的地方。」\n\n「並不是因為我們經歷了悲劇，我們的生活就必須在事後變得如此艱難。」\n\n23歲、來自維珍尼亞州樸茨茅夫的 Picot，於2024年8月騎著電動滑板車時被一輛貨車撞倒。撞擊造成他第四頸椎的脊髓損傷，導致他胸口以下癱瘓。\n\n談及這種迫使他與截癱共存的生活時，他毫不留情。\n\nPicot 說：「從那天起，我的生活變得如此艱難。」他回憶自己癱瘓前每天健身、頻繁社交的時光，補充道：「車禍前我是個獨立的人。」\n\nPicot 決心重獲盡可能多的獨立性。他開始在維珍尼亞州里士滿的 Sheltering Arms Institute 接受康復治療，練習自理能力、在所謂的機械外骨骼中行走，以及操控電動輪椅——該機構在2024年12月的新聞稿中如此描述。\n\n他還開始掌握語音控制設備，用以操作電視、設置鬧鐘和提醒事項，以及在院內的房間裡播放音樂、遊戲或助眠音效。\n\n與此同時，Picot 按時在2025年春季完成了 VUU 的學士學位。他隨即開始攻讀研究生課程，並獲得了行政工商管理碩士學位。\n\nPicot 的母親、女友以及兩位康復治療師都在5月9日的畢業典禮上支持他。\n\n在畢業典禮上有一段畫面在網上瘋傳：Picot 穿上了他在 Sheltering Arms Institute 訓練行走時用過的機械外骨骼，在兩位治療師的協助下，踏上典禮舞台領取學位——外骨骼基本上是對他的身體搖擺作出反應。\n\n站在舞台上，他對著歡呼的觀眾說：「哦，哇——我做到了。我的生活——經歷了非常大的轉折。我完全可以把自己關進衣櫃裡，放棄生命，但我決定不讓我的處境控制我、阻止我實現目標。」\n\nPicot 後來引用了一個關於與機械軍團戰鬥的科幻電影系列來解釋這套外骨骼：「我喜歡叫它一套大型《變形金剛》服裝。」\n\nPicot 走過舞台的影片以及應得的熱烈掌聲，迅速在社交媒體和各大新聞平台上傳播。美國知名民權律師 Ben Crump 在 X 平台上發帖回應，成為這段影像和相關報導引發的典型對話之一，他部分寫道：「面對逆境時強大的韌力！」\n\n維珍尼亞聯合大學——一所歷史悠久的黑人學院——同時發表聲明，讚揚 Picot 是「當使命感遇上準備工作時所能實現的證明」。\n\n然而，這並不意味著 Picot 在適應美國約30萬名創傷性脊髓損傷患者的生活——其中絕大多數導致截癱或四肢癱瘓——時沒有遭遇重大障礙。\n\n儘管1990年以來聯邦《美國殘疾人法案》已要求服務公眾的企業提供合理的無障礙便利設施，Picot 描述，提前致電餐廳和活動場地確認是否有斜道及足夠空間容納他的輪椅，已成為他生活的日常。\n\n他說，由於一些地方兩者皆無，他無法參加在那裡舉辦的聚會。他說自己已經發現「這種地方非常多」。\n\nPicot 及其家人一直在網上募集資助，購買一輛無障礙客貨車，他們表示這將使他來往日常活動和事務時更加輕鬆安全。\n\n問及對剛起步的職業生涯有何展望時，Picot 說他想結合在房地產界闖出名堂，同時緩解他所遇到的部分無障礙問題。他說計劃先與該州的公职人员會面，推動這個議題。\n\nPicot 表示：「我正努力向著星辰前進，幫助我們達到每一個場所都為輪椅使用者提供某種便利設施的目標。我已在心理上準備好實現自己的目標，同時為像我這樣的人發聲。」"
+      "bodyZh": "在一場車禍中被撞癱瘓後，截癱學生雅伊登·皮科特（Jaiden Picot）戴著外骨骼機械套裝走過維珍尼亞聯盟大學的畢業禮台，相關影片隨即在網上瘋傳。他其後表示，希望世人知道他打算用整個職業生涯致力令各處場所更便利輪椅使用者出入。\n\n「我知道（癱瘓）之後，我錯過了很多與朋友外出的機會。」他在接受《衛報》訪問時說：「有些餐廳、有些活動，我根本進不去，因為那裡沒有供我進入的斜道。我覺得改變這一點非常重要，因為我們這個群體人數很多，都希望能夠進入其他人可以去的地方。」\n\n「並非因為我們經歷了不幸，就意味著……往後的生活必須如此艱難。」\n\n二十三歲的皮科特來自維珍尼亞州樸茨茅斯。二零二四年八月，他騎著電動滑板車時被一輛貨車撞倒，第四頸椎因而受創，導致胸部以下癱瘓。\n\n談及這種迫使他與截癱共存的重傷時，他毫不留情：「那一天以來，我的生活變得非常艱難。」他回憶受傷前每天健身、頻繁社交，說：「我曾是一個獨立的人。」\n\n皮科特決心重獲那種獨立生活的能力。他在里士滿的 Sheltering Arms Institute 開始接受復康訓練，練習自理、穿著俗稱外骨骼的機械支架行走，並操控電動輪椅——康復中心在二零二四年十二月的新聞稿中如此描述。\n\n他還學會使用語音控制的設備來開關電視、設定鬧鐘和提醒事項，以及在宿舍播放音樂、遊戲或助眠聲音。\n\n與此同時，皮科特如期在二零二五年春季完成了維珍尼亞聯盟大學的學士學位，隨即攻讀研究生課程，並取得行政工商管理碩士學位。\n\n五月九日的畢業典禮上，他的母親、女友及兩位復康治療師都在支持者之列。\n\n在典禮上，皮科特穿上他在 Sheltering Arms Institute 訓練行走時用過的外骨骼機械套裝，在兩位治療師的協助下走過典禮舞台——套裝基本上是隨著他的身體擺動而作出反應。這一幕在網上迅速走紅。\n\n「哦，哇——我做到了。」站在舞台上的皮科特對著歡呼的觀眾說：「我的人生……經歷了非常非常大的轉折。我大可以把自己關進角落，放棄人生，但我決定不讓我的處境控制我、阻止我達成目標。」\n\n後來，皮科特引用一個以抗擊機械兵團聞名的科幻電影系列來形容這套裝置：「我喜歡叫它『大黃蜂套裝』。」\n\n皮科特走過舞台的片段及現場所獲的熱烈掌聲，很快在社交媒體和新聞平台廣泛傳播。全國知名的民權律師本·克蘭普（Ben Crump）在 X 上發帖回應，頗能代表這段影像及相關報道所引發的討論：「在逆境中展現的強大韌力！」\n\n維珍尼亞聯盟大學——一所歷史悠久的黑人學府——同時發聲明，盛讚皮科特是「當目標遇上準備，一切皆有可能的最佳證明」。\n\n然而，這一切並不意味著皮科特在適應美國約三十萬創傷性脊髓損傷患者的生活時沒有遭遇重大障礙——其中大多數人最終會成為截癱或四肢癱瘓患者。\n\n儘管聯邦《美國殘疾人法》自一九九零年起已要求向公眾提供服務的商戶作出合理的無障礙安排，皮科特形容，提前致電餐廳及活動場地確認是否有斜道、輪椅是否有足夠空間，已成為他生活的常態。他說，有好些地方他根本無法出席聚會，因為那裡兩樣都沒有。他說這種情況「相當多」。\n\n皮科特及家人亦在網上募集資金，購買一輛無障礙客貨車，聲稱這能讓他往返日常活動和事務時更方便、更安全。\n\n被問及對初起步的職業生涯有何期望時，皮科特表示，他想將自己在房地產界闖出名堂，與減輕他所遭遇的部分無障礙障礙結合起來。他說，打算先聯絡該州的民政領袖就此議題展開對話。\n\n「我想力爭上游，幫助我們達到每一處場所都為輪椅使用者提供某種便利設施的境界。」皮科特說：「我在心理上已準備好達成自己的目標，同時為像我這樣的人發聲。」"
     },
     {
-      "title": "科學家揭示膝關節炎疼痛緩解的最佳運動",
+      "title": "科學家揭示緩解膝關節炎疼痛的最佳運動",
       "url": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
       "publishedAt": "2026-04-30T07:30:17.000Z",
-      "summary": "一項涵蓋 217 項試驗的大型綜合研究顯示，有氧運動是管理膝關節骨性關節炎最有效的選項。步行、騎單車和游泳等活動在減輕疼痛和改善活動能力方面優於其他運動類型。",
+      "summary": "一項涵蓋217項試驗的大型綜合評估顯示，有氧運動是控制膝關節退化最有效的方案。步行、騎單車和游泳等活動在減輕疼痛、改善活動能力方面表現最佳。雖然阻力訓練和身心運動等替代方案也有幫助，但最好與有氧運動配合使用。",
       "sourceName": "《科學日報》健康與體能",
       "sourceId": "sciencedaily-fitness",
       "images": [
@@ -488,13 +488,13 @@
           "alt": "Best Exercise for Knee Arthritis Pain"
         }
       ],
-      "bodyZh": "研究人員揭示膝關節炎疼痛緩解的最佳運動方式\n\n走路、騎單車和游泳是最有效且最安全的膝關節退化（knee osteoarthritis）緩解運動。\n\n一項涵蓋217項試驗的大型綜合評估顯示，有氧運動是管理膝關節退化最有效的選擇。走路、騎單車和游泳等活動在減輕疼痛及改善活動能力方面，表現優於其他運動類型。雖然力量訓練和身心運動等替代方案也有幫助，但最好與有氧運動配合使用。研究結果亦確認，運動是安全且必不可少的治療環節。\n\n來自超過15,000名參與者的證據顯示，有氧運動能為膝關節退化症狀帶來最大幅度的緩解。它在改善疼痛、活動能力和生活質素方面，均優於其他運動方式，同時保持安全。\n\n《BMJ》發表的一項大型研究表明，快走、騎單車和游泳等有氧活動，是膝關節退化患者最有效的運動。這些活動被發現能在疼痛、身體功能、步行能力及整體生活質素方面帶來最大改善。\n\n研究人員指出，雖然其他類型的運動仍有幫助，但應與有氧活動配合使用，而非將其取代為主要方法。\n\n膝關節退化的成因\n\n退化性關節炎是由於覆蓋骨端的軟骨逐漸磨損而形成。這會導致疼痛、腫脹和關節活動困難。儘管它可影響身體不同部位，膝關節特別容易受損。近三成45歲以上的成年人於X光檢查中顯示有膝關節退化跡象，其中約一半出現嚴重症狀。\n\n運動被廣泛推薦為治療的關鍵部分，但目前的指引往往缺乏關於哪些特定運動類型對膝關節退化最有效的清晰建議。\n\n涵蓋217項臨床試驗的大型評估\n\n為填補這一缺口，研究人員對運動療法進行了全面分析。他們審視了1990年至2024年間進行的217項隨機試驗，涉及共15,684名參與者。這些研究比較了多種運動形式，包括有氧、伸展、力量、身心、神經運動及混合訓練計劃，並與對照組進行比較。\n\n儘管試驗的質量各異，研究人員使用了公认的GRADE系統來評估證據的可靠程度。\n\n疼痛、功能及生活質素的測量\n\n分析聚焦於對患者最重要的結果指標，包括疼痛程度、身體功能、步態表現及生活質素。結果分別在短期（四週）、中期（十二週）和長期（二十四週）追蹤時段進行檢視。\n\n在各項指標中，有氧運動在所有研究的運動類型中持續排名最為有效。\n\n有氧運動展現最強效果\n\n中等確定性的證據顯示，有氧運動在短期和中期均能減輕疼痛，並在短期、中期和長期各時段改善身體功能。此外，它在短期和中期亦提升了步行能力和生活質素。\n\n其他形式的運動同樣帶來顯著益處。身心運動方法可能改善短期功能，神經運動訓練則可能提升短期步態表現。力量訓練和混合運動計劃似乎在中期追蹤時改善了功能。\n\n運動安全且普遍有益\n\n重要的是，與對照組相比，沒有一種運動類型與更高不良事件風險相關。這支持了運動是膝關節退化安全可靠治療選項的觀點。\n\n研究人員確實指出了一些局限性：許多比較屬間接比較，部分結果缺乏長期數據，小型研究可能影響了早期結果。\n\n為治療提供清晰指引\n\n儘管存在這些局限性，這項研究提供了迄今最全面、最新的膝關節退化運動療效評估之一。研究結果可幫助臨床醫生為患者選擇最有效的治療方案。\n\n基於研究結果，研究人員建議有氧運動「作為膝關節退化管理的一線干預措施，特別是當目標是改善功能能力和減輕疼痛時」。他們亦指出，若因個人限制而不適合有氧運動，「替代形式的結構化身體活動仍然可能有益」。"
+      "bodyZh": "科學家揭示舒緩膝關節炎疼痛的最佳運動\n\n步行、騎單車及游泳被列為對膝關節骨質疏鬆症最有效且最安全的運動。\n\n一項涵蓋217項試驗的大型綜述顯示，有氧運動是管理膝關節骨質疏鬆症最有效的方案。步行、騎單車及游泳等活動在減輕疼痛及改善活動能力方面，表現優於其他運動類型。雖然力量訓練及身心運動等替代方案也有幫助，但最好與有氧運動配合使用。研究結果亦確認，運動是安全且必要的治療組成部分。\n\n來自超過15,000名參與者的證據顯示，有氧運動為膝關節骨質疏鬆症症狀帶來最大程度的舒緩。它在改善疼痛、活動能力及生活質素方面，優於其他運動方案，同時保持安全。\n\n發表於《The BMJ》的大型研究指出，步行、騎單車及游泳等有氧活動，是對膝關節骨質疏鬆症患者最有效的運動。這些活動在疼痛、身體功能、步行能力及整體生活質素的改善方面，帶來最大幅度的提升。研究人員指出，雖然其他類型的運動仍有幫助，但它們應與有氧運動配合使用，而非取代有氧運動成為主要方案。\n\n什麼導致膝關節骨質疏鬆症？\n\n骨質疏鬆症在於緩衝骨骼末端的軟骨逐漸退化時形成。這會導致疼痛、腫脹及關節活動困難。雖然可影響身體不同部位，但膝蓋特別容易受影響。接近30%的45歲以上成年人於X光檢查中出現膝關節骨質疏鬆症徵兆，當中約有一半出現嚴重症狀。\n\n運動被廣泛推薦為治療的關鍵部分，但現有指引往往缺乏關於哪種具體運動類型對膝關節骨質疏鬆症最有效的清晰建議。\n\n涵蓋217項臨床試驗的大型綜述\n\n為填補這項缺口，研究人員對運動療法進行了全面分析。他們審視了1990年至2024年間進行的217項隨機對照試驗，涉及合共15,684名參與者。這些研究比較了多種運動形式，包括有氧運動、柔軟度運動、力量訓練、身心運動、神經動作訓練及混合方案，並與對照組進行比較。雖然各試驗的質量各有不同，研究人員使用了獲認可的GRADE系統來評估證據的可靠性。\n\n衡量疼痛、功能及生活質素\n\n分析聚焦於對患者最重要的關鍵結果，包括疼痛程度、身體功能、步態表現及生活質素。研究結果分短期（四周）、中期（十二周）及長期（二十四周）隨訪進行檢視。在各項衡量指標中，有氧運動在所有研究的運動類型中持續名列最有效方案。\n\n有氧運動顯示最強效果\n\n具有中等確定性的證據顯示，有氧運動在短期及中期均能減輕疼痛。它亦在短期、中期及長期時間框架內改善了身體功能。此外，有氧運動在短期及中期增強了步行能力及生活質素。\n\n其他形式的運動亦帶來顯著效益。身心方案可能在短期改善功能，而神經動作訓練可能在短期提升步態表現。力量訓練及混合運動方案似乎在中期隨訪時改善了功能。\n\n運動安全且普遍有益\n\n重要的是，與對照組相比，任何運動類型均與不良事件風險增加無關。這支持運動是膝關節骨質疏鬆症安全可靠治療方案的觀點。研究人員確實指出了一些局限性。許多比較屬間接比較，部分結果缺乏長期數據，而規模較小的研究可能影響了早期結果。\n\n治療的清晰指引\n\n儘管存在這些局限性，該研究提供了迄今對膝關節骨質疏鬆症運動治療最全面及最新的評估之一。這些發現可幫助臨床醫生在選擇最有效治療方案時提供指導。\n\n根據結果，研究人員建議有氧運動「作為膝關節骨質疏鬆症管理的第一線干預措施，特別是在旨在改善功能能力及減輕疼痛的情況下」。他們亦指出，若因個人限制而不適合進行有氧運動，「其他形式的結構化身體活動仍然可能有益」。"
     },
     {
-      "title": "成長過程中 ADHD 特質帶來的隱藏健康影響",
+      "title": "成長過程中ADHD特質帶來的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項歷時數十年的大型研究表明，兒童時期的 ADHD 特質可能帶來超越學校和行為層面的深遠後果。研究人員追蹤近 11,000 人從童年到中年，發現 10 歲時有明顯 ADHD 特質者到中年時更可能出現多種身體健康問題。",
+      "summary": "一項歷時數十年的大型研究表明，兒童時期的ADHD跡象所帶來的後果可能遠遠超出學業和行為層面。研究人員追蹤近11,000人從童年到中年，發現10歲時有明顯ADHD特質的人，到了中年更容易出現多種身體健康問題及健康相關的失能狀況。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -509,10 +509,10 @@
       ]
     },
     {
-      "title": "研究人員發現 ADHD 患者的優勢與更好的心理健康有關",
+      "title": "研究發現ADHD特質與更好的心理健康有關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示了 ADHD 光明的一面，顯示能識別並善用自身優勢的成年 ADHD 患者會更快樂、更健康且壓力更小。ADHD 患者更傾向於將創造力、幽默感和高度專注等特質視為個人優勢。",
+      "summary": "新研究揭示了ADHD較為光明的一面，顯示能夠認識並運用自身優勢的ADHD成人更快樂、更健康且壓力更小。ADHD患者更傾向於將創造力、幽默感和超專注等特質視為個人優勢。整體而言，運用這些優勢與更好的生活品質及較少的心理健康問題密切相關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -527,10 +527,10 @@
       ]
     },
     {
-      "title": "ADHD 藥物並非以我們想像的方式運作",
+      "title": "ADHD藥物的作用機制與我們所想不同",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD 興奮劑似乎並非透過提高專注度來運作，而是喚醒大腦。腦部掃描顯示這些藥物激活獎勵和警覺系統，幫助兒童對原本會逃避的任務保持興趣，甚至逆轉了與睡眠剝奪相關的腦部模式。",
+      "summary": "ADHD興奮劑似乎並非主要通過提高專注力來運作，而是透過唤醒大腦。腦部掃描顯示，這些藥物會激活獎勵和警覺系統，幫助孩子對通常會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠剝奪相關的腦部模式。研究人員表示，這可能使ADHD的診斷更加複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -545,10 +545,10 @@
       ]
     },
     {
-      "title": "為何這麼多患有ADHD的幼童接受錯誤的治療",
+      "title": "為何這麼多患有ADHD的幼童接受了錯誤的治療",
       "url": "https://www.sciencedaily.com/releases/2025/09/250915202839.htm",
       "publishedAt": "2025-09-16T09:10:52.000Z",
-      "summary": "患有ADHD的學前兒童在確診後往往立即獲配藥物，與醫療指引建議先以行為治療開始的做法相悖。儘管藥物治療對幼童存在風險且效果較差，但治療服務不足和醫生壓力仍是導致過早處方藥物的主要原因。",
+      "summary": "患有ADHD的學前兒童往往在確診後立即獲配藥物，這與醫學指引建議先以行為治療的建議相違背。despite risks and reduced effectiveness in young children.",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
