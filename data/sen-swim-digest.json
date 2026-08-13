@@ -1,12 +1,192 @@
 {
-  "updatedAt": "2026-08-12T03:32:17.516Z",
+  "updatedAt": "2026-08-13T03:33:55.107Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "'太驚人了！' - 英國的沙納漢贏得歐洲200米背泳金牌",
+      "title": "英國埃文斯奪得歐洲100米蛙泳金牌",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/ce34p76qedzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T19:23:41.000Z",
+      "summary": "英國的安格拉德·埃文斯在巴黎舉行的歐洲錦標賽100米蛙泳決賽中贏得個人首面金牌。",
+      "sourceName": "BBC 運動（游泳）",
+      "sourceId": "bbc-swimming",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/52a1/live/d9e391a0-9578-11f1-870d-5d08c49babb2.jpg",
+          "alt": "Celebrity MasterChef"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0krbrws.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/1a19/live/c8b08300-48a9-11f1-b55d-0f258dce1735.jpg",
+          "alt": "Motherland"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0nk2v1v.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/80fa/live/6847edf0-b3bd-11ef-96fe-07f2cc4afa88.jpg",
+          "alt": "Lionel Messi"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/69db/live/dca399f0-9652-11f1-9a70-ddb12b8bcc9e.jpg",
+          "alt": "Myles Lewis-Skelly in training."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/bfa5/live/d2c02e40-9656-11f1-9743-c91876572530.jpg",
+          "alt": "England players stand for the anthem at the 2025 World Cup final"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/37ad/live/e40a1400-9628-11f1-adec-3f90c109009f.jpg",
+          "alt": "Manchester United&#x27;s Youri Tielemans"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/252e/live/88530ed0-962f-11f1-acde-358da1a6646b.jpg",
+          "alt": "Pep Chavarria looks past the camera while wearing a Chelsea shirt"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/af44/live/70cbf600-9585-11f1-8636-978a48bd79b6.jpg",
+          "alt": "Amazon founder Jeff Bezos on stage at the VivaTech conference in Paris"
+        }
+      ],
+      "bodyZh": "英國的埃文斯在100米蛙泳決賽中奪得歐洲冠軍金牌\n\n英國的安格拉德·埃文斯（Angharad Evans）在巴黎舉行的歐洲游泳錦標賽100米蛙泳決賽中，贏得她首面歐洲錦標賽金牌。\n\n這位23歲泳手以1分4秒87的成績輕鬆奪冠，創下錦標賽紀錄，同時也是她的個人最佳成績及英國紀錄。\n\n埃文斯在半決賽中已打破錦標賽紀錄，最終以明顯優勢領先愛爾蘭的蒙娜·麥謝里（Mona McSharry）獲得金牌，意大利的貝內代塔·皮拉托（Benedetta Pilato）則奪得銅牌。\n\n英國的菲利普·諾瓦茨基（Filip Nowacki）上個月在格拉斯哥舉行的英聯邦運動會200米蛙泳項目為澤西島創下歷史，贏得金牌。他在歐洲水上運動錦標賽同一項目的半決賽中以最快成績晉級。這位18歲小將的時間為2分8秒60，在首場半決賽中擊敗隊友格雷格·巴特勒（Greg Butler），25歲的巴特勒同樣晉級決賽。\n\n英國的阿瑪莉·史密斯（Amalie Smith）在400米個人混合泳決賽中摘銀，以0.7秒之差負於愛爾蘭的埃倫·沃爾什（Ellen Walshe），波蘭的尤斯蒂娜·科贊（Justina Kozan）獲得銅牌。\n\n16歲的史密斯在周一曾贏得4×200米自由泳接力金牌，她也出戰4×100米自由泳接力，助球隊獲得第五名。\n\n另一位嶄露頭角的年輕泳手是意大利的莎拉·柯蒂斯（Sara Curtis），她在女子50米背泳半決賽中游出26秒63，打破世界紀錄。這位19歲小將將由澳洲泳手凱莉·麥基恩（Kaylee McKeown）三年前創下的世界紀錄縮短0.23秒。"
+    },
+    {
+      "title": "愛爾蘭沃爾什擊敗英國少女史密斯奪個人混合泳金牌",
+      "url": "https://www.bbc.co.uk/sport/swimming/videos/ckgdpyv4851o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T19:18:52.000Z",
+      "summary": "愛爾蘭的埃倫·沃爾什在巴黎舉行的歐洲水上錦標賽400米個人混合泳中，擊敗年僅16歲的英國選手阿瑪莉·史密斯，奪得金牌。",
+      "sourceName": "BBC 運動（游泳）",
+      "sourceId": "bbc-swimming",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/730e/live/608a0950-9682-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Amalie Smith, Ellen Walshe and Justina Anna Kozan"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c0ed/live/cc663f70-875c-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Theodora Taylor"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7718/live/82cfebe0-8941-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "Matt Richards, Tyler Melbourne-Smith, Kieran Bird and Dan Jones"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3b6a/live/86562340-90d2-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "Jemima Lines"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/cf4c/live/b18307a0-963a-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "Luis Enrique"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5ec3/live/539356f0-9585-11f1-870d-5d08c49babb2.jpg",
+          "alt": "Diego Forlan &amp; Luis Suarez"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/443a/live/ba594120-90e8-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Zeki Celik and Joao Pedro"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5727/live/064011a0-90f7-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Emilio Gay and Michael Vaughan discuss running"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4429/live/9324c430-8eae-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Joe Root"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0d69/live/4dd7e980-8dc7-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Antoine Semenyo and Nicolo Barella"
+        }
+      ],
+      "bodyZh": "愛爾蘭的 Walshe 擊敗英國小將 Smith，奪得個人混合泳金牌\n\n愛爾蘭的 Ellen Walshe 擊敗英國 16 歲小將 Amalie Smith，於巴黎舉行的歐洲水上運動錦標賽 400 米個人混合泳項目摘金。\n\n（僅供英國用戶觀看）"
+    },
+    {
+      "title": "埃文斯以英國紀錄時間奪得蛙泳金牌",
+      "url": "https://www.bbc.co.uk/sport/swimming/videos/c70gv8455jvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T19:15:40.000Z",
+      "summary": "安格拉德·埃文斯在巴黎舉行的歐洲水上錦標賽中，以創英國及賽事紀錄的時間贏得100米蛙泳金牌。",
+      "sourceName": "BBC 運動（游泳）",
+      "sourceId": "bbc-swimming",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/89da/live/1847f580-9682-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Angharad Evans"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e4b6/live/9018ce20-8fea-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "Archie Goodburn"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c0ed/live/cc663f70-875c-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Theodora Taylor"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/29f2/live/804425f0-8796-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "Ela Letton-Jones"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/58a5/live/87a49630-8814-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Sophie Davies"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/cf4c/live/b18307a0-963a-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "Luis Enrique"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5ec3/live/539356f0-9585-11f1-870d-5d08c49babb2.jpg",
+          "alt": "Diego Forlan &amp; Luis Suarez"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/443a/live/ba594120-90e8-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "Zeki Celik and Joao Pedro"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5727/live/064011a0-90f7-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Emilio Gay and Michael Vaughan discuss running"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4429/live/9324c430-8eae-11f1-b8ee-9b3c26ad07bb.jpg",
+          "alt": "Joe Root"
+        }
+      ],
+      "bodyZh": "埃文斯以英國紀錄時間奪得蛙泳金牌\n\n安格拉德·埃文斯（Angharad Evans）在巴黎舉行的歐洲水上運動錦標賽中，以英國及賽事紀錄時間奪得100米蛙泳金牌。\n\n（此內容僅供英國用戶觀看。）"
+    },
+    {
+      "title": "「總是開玩笑」：傑森·阿爾戴稱幼年不會說話惹質疑",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/12/jason-arday-cambridge-claim-non-verbal-child",
+      "publishedAt": "2026-08-12T15:00:33.000Z",
+      "summary": "劍橋大學學者傑森·阿爾戴成為劍橋大學史上最年輕的黑人教授，他的非凡崛起故事中有一個引人注目的說法：他直到近12歲才學會說話。如今小學同學對此提出質疑，但也有其他人支持這個說法。",
+      "sourceName": "《衛報》教育",
+      "sourceId": "guardian-education",
+      "images": [
+        {
+          "src": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=uk-news",
+          "alt": ""
+        },
+        {
+          "src": "https://i.guim.co.uk/img/media/e48e31a674c855dfefd1906f5a76eabf01e68e49/0_987_5379_4303/master/5379.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none",
+          "alt": "Jason Arday sits on a step in front of a window with small blue, yellow, green, pink and gold panes of stained glass and by a pale yellow brick wall. He has very long braids and wears a black shirt and tracksuit trousers with white stripes down the side. He has his hands clasped over one knee and looks thoughtful."
+        },
+        {
+          "src": "https://i.guim.co.uk/img/media/05879ff458e70c28d04f72e699f9f3cc0fdc5614/0_0_1517_1895/master/1517.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none",
+          "alt": "Closeup of Jonathan Stewart talking to a camera. He appears to be in a car. He is black, 40 years old, and wears sunglasses, a back-to-front baseball cap and a white top. He has a beard."
+        },
+        {
+          "src": "https://media.guim.co.uk/efd4be7a85fd7fb5118c712b7087c758bbf45e6b/0_0_1000_1000/1000.jpg",
+          "alt": ""
+        }
+      ],
+      "bodyZh": "Jason Arday claimed he was 'unable to speak until I was 11 years old'.\n\n「Jason Arday一直開玩笑」：外界質疑劍橋學者童年非語言障礙說法\n\n其小學同學對這位劍橋學者的故事提出質疑，惟亦有同學表示支持\n\nLanre Bakare、Aamna Mohdin及Sammy Gecsoyler\n\nJason Arday成為劍橋大學歷史上最年輕的黑人教授的故事之所以格外引人矚目，離不開他的一個說法：他直到快十二歲才學會說話。\n\n這一說法出現在他上週辭職的信件中。與此同時，外界對其學術工作及過往陳述的質疑正持續升溫。\n\nArday寫道，成為劍橋教授是他作為自閉症兒童「難以想像」的事，因為他「十一歲前無法說話」。\n\n其回憶錄《Great and Unfortunate Things》於週二在美國由Simon & Schuster出版，英國版定於8月27日推出。書中講述了他如何在37歲時加入劍橋，儘管整個童年都處於非語言狀態，且直到18歲才學會閱讀和書寫。\n\n然而，對其昔日同學的採訪卻呈現出截然不同的童年描述。兩名受訪者記得他在小學時會說話，形容他是個愛開玩笑的活潑孩子；另外兩人則表示，直到他升入中學才聽過他說話。\n\n四十歲的Jonathan Stewart告訴《衛報》，他記得他們在南倫敦一起長大的日子。他形容Arday是個出色的模仿者，透過模仿口音和唱歌來娛樂同學。\n\nStewart是一名YouTuber，他表示自己在倫敦西南部Nine Elms的Heathbrook小學比Arday低一屆。他說這位學者是班上的開心果。「他總是開玩笑，是個喜劇演員，還會模仿各種聲音，」Stewart聲稱，他與Arday定期一同上教堂。\n\nStewart說，在接載他們的周日學校小型巴士上，Arday會唱九十年代Baby All Gone娃娃廣告的配樂來娛樂同儕。他又說，Arday是個出色的守門員，會帶上自己的手套，即使在學校的水泥操場上也會飛身撲救。\n\n另一名同樣在Heathbrook比Arday低一屆、要求匿名的四十歲男子說：「我對他印象不深，但我肯定記得他會說話。」該男子和Stewart都表示，他們與曾在Arday班上的人都保持聯繫。\n\nArday在回憶錄中寫道，接近十二歲時，地方議會正準備取消他的言語治療支援，因為他進展甚微。\n\n「但奇蹟般地，就在我十二歲生日的幾天前，我說話了。那是在其中一節療程開始時，Katrina（他的言語治療師）剛說：『你好，Jason。』那一刻，我正在擺弄令我感到不適的助聽器，然後我把它從耳朵裡取出來，向她回應了問候。」\n\nArday說，母親在場見證了這一刻；此前他只是「說過零星的詞語，在不合時宜的情況下發出各種聲音」，但從未在正確的時機說出正確的話。\n\nArday否認了Stewart及另一名男子的描述，並安排《衛報》收到兩位同學Nick Clark和Mike Freeman的聲明，稱回憶錄中的描述準確反映了他們記憶中的那個男孩。\n\nClark說：「小時候，我記得Jason不說話，在Heathbrook期間常常被帶出課堂接受額外支援。我沒有和他上同一所中學，但我們在十三歲時加入了同一支足球隊，此後成為了好朋友，一直一起踢球。」\n\nClark的母親Caroline Russell-Clark也發來聲明，稱她在Arday很小的時候曾在Heathbrook幫忙了幾年。\n\n「我兒子Nick Clark在Heathbrook上幼兒園時，我被要求協助三歲的Jason，他有嚴重的學習障礙……我多次幫他聽故事、為他朗讀，」她說。\n\n「他升上學前班後，副校長……請我進班協助他，以及另一個孩子。她給了我陪他閱讀的任務，也請我向他解釋各種活動。Jason從未對我說過話，但他很乖巧，是個引人注目的孩子。」\n\nRussell-Clark說，Arday在小學期間一直與她兒子同班。「我不記得他說話，直到他十四、五歲時和我兒子在同一支足球隊踢球。」\n\nFreeman說：「我記得我們在Heathbrook小學期間他不說話。他常常被帶出課堂接受特殊教育需求支援。他的嚴重特殊需求並不妨礙他和我及其他孩子一起踢足球、做遊戲，因為他仍然很友善，能通過遊戲和動作進行交流。」\n\nArday上週從劍橋辭職，此前他被指控學術作品抄襲。外界亦對其過往經歷的諸多說法提出質疑，包括其耐力跑、足球成就、慈善籌款，以及學術職位、資格和著作權等。Arday表示，「持續的指控、猜測和公開評論已對我和我的至親造成深重影響」。\n\nStewart說：「他花了這麼長時間才走到那個位置，如今一切都毀了。（黑人社群）將比以前受到更嚴格的審視。我沒法告訴我的兒子們：『看看他，你們可以以他為榜樣。』」\n\nArday聲稱自己在三十五天內完成了三十場馬拉松，六天跑了六百英里，並在數年間為慈善籌集了五百萬英鎊。面對質疑後，他修訂了部分說法，轉而表示自己是無法透露名稱的籌款團體的一員，基於法律原因無法透露詳情。\n\n他亦告訴《衛報》，自從獲任命劍橋以來，他一直是威脅的目標，包括有人將一個切下的豬頭送到他父母的家。其後的調查未能找到支持這一說法的證據。\n\n據該學者稱，Simon & Schuster以七位數字買下其回憶錄，現正繼續推進在英國的出版和發布。出版商未回應置評請求。\n\n（附加報道：Kevin Rawlinson）"
+    },
+    {
+      "title": "「太驚人了！」——英國沙納漢奪得歐洲200米仰泳金牌",
       "url": "https://www.bbc.co.uk/sport/swimming/videos/cz970zxnegko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-11T18:21:27.000Z",
-      "summary": "凱蒂·沙納漢打破英國紀錄，在巴黎舉行的2026年歐洲水上運動錦標賽上奪得女子200米背泳金牌。",
+      "summary": "凱蒂·沙納漢在巴黎舉行的2026年歐洲水上錦標賽中，打破英國紀錄，贏得女子200米仰泳金牌。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -31,6 +211,10 @@
           "alt": "Para swimming sisters Astrid and Ursula Carroll"
         },
         {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/cf4c/live/b18307a0-963a-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "Luis Enrique"
+        },
+        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5ec3/live/539356f0-9585-11f1-870d-5d08c49babb2.jpg",
           "alt": "Diego Forlan &amp; Luis Suarez"
         },
@@ -45,70 +229,15 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4429/live/9324c430-8eae-11f1-b8ee-9b3c26ad07bb.jpg",
           "alt": "Joe Root"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0d69/live/4dd7e980-8dc7-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Antoine Semenyo and Nicolo Barella"
         }
       ],
-      "bodyZh": "歐洲游泳錦標賽：英國的Katie Shanahan奪得女子200米背泳金牌\n\n「太了不起！」— 英國的Shanahan贏得歐洲200米背泳金牌\n\nKatie Shanahan在2026年巴黎舉行的歐洲游泳錦標賽中打破英國紀錄，奪得女子200米背泳金牌。\n\n該內容僅供英國用戶瀏覽。\n\n相關視頻\n\n「太了不起！」— 英國的Shanahan贏得歐洲200米背泳金牌\n\nTaylor欣然迎接期望帶來的壓力\n\n游泳選手Davies珍惜格拉斯哥參賽經歷\n\n威爾斯室友備戰自由式決賽\n\n格拉斯哥2026：蘇格蘭與英格蘭的姐妹較量\n\n編輯精選\n\n新帥Forlan可能重新徵召Suarez重返烏拉圭\n\n車路士友賽落敗祖雲達斯補時絕殺\n\n想提高得分？Gay的擊球大師班\n\nRoot展現煥然一新狀態　力爭重掌隊長帥印——Cook\n\nMaresca首戰落敗國際米蘭互射十二碼險勝曼城\n\nCasemiro期待在邁阿密與「足球之神」美斯並肩作戰\n\nFinn的變速球投球技巧大師班\n\n希望他們不要毀掉世界盃——Ancelotti\n\nRodgers明確表示這將是其最後一個NFL賽季\n\n「我感到痛苦」——沒有英國護照的英國冠軍\n\n與阿根廷球迷一同觀看世界盃決賽\n\n「與歷史的約會，我們率先抵達」——西班牙慶祝世界盃奪冠"
+      "bodyZh": "歐洲游泳錦標賽：英國的Katie Shanahan勇奪女子200米背泳金牌\n\nKatie Shanahan在巴黎舉行的2026年歐洲水上運動錦標賽中，打破英國紀錄，奪得女子200米背泳金牌。\n\n「太出色了！」——英國的Shanahan贏得歐洲200米背泳金牌（影片，0:36）"
     },
     {
-      "title": "拉姆齊-皮蒂在歐洲錦標賽100米決賽中名列第五",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/c4g4vyrdpddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T17:49:22.000Z",
-      "summary": "亞當·拉姆齊-皮蒂在巴黎舉行的歐洲水上運動錦標賽100米蛙泳決賽中名列第五，首次在歐洲錦標賽中失利。",
-      "sourceName": "BBC 運動（游泳）",
-      "sourceId": "bbc-swimming",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/30d8/live/f1e37270-95aa-11f1-969e-eb6036cb8925.jpg",
-          "alt": "Adam Ramsay-Peaty"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ff10/live/8ecc87b0-957f-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Keely Hodgkinson"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0p3ykm7.jpg",
-          "alt": "Lisa Nandy"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dbe8/live/aabc35c0-95b0-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Spectators at European Championships"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2ede/live/6cc41f00-95a9-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Salzburg stadium"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/4134/live/82794f00-9487-11f1-870d-5d08c49babb2.jpg",
-          "alt": "Murder Trial: Death of a Dog Walker"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/7116/live/aad92f90-942f-11f1-870d-5d08c49babb2.jpg",
-          "alt": "Just A Minute"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/aa2d/live/4e44d610-8509-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "Movies with Ali Plumb"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/6ea6/live/0fec1890-9433-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Hiroshima, 8.15: The Lost Memoir by Kiyoshi Tanimoto and Koko Kondo"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/af44/live/70cbf600-9585-11f1-8636-978a48bd79b6.jpg",
-          "alt": "Jeff Bezos, founder of Amazon, points on stage at the VivaTech conference in Paris, France"
-        }
-      ],
-      "bodyZh": "Adam Ramsay-Peaty 在巴黎舉行的歐洲游泳錦標賽 100 米蛙泳決賽中僅得第五名，刷新他在這項賽事的首場敗仗。這位 31 歲泳手手握 16 面歐洲錦標賽金牌，此前從未在任何預賽、半準決賽或決賽中落敗。\n\n今仗冠軍由奧運金牌得主 Nicolo Martinenghi 奪得，時間為 58.58 秒；Ivan Kozhakin 取得第二，意大利的 Simone Cerasuolo 排第三。Ramsay-Peaty 以 0.01 秒之差、一個名次領先英國隊友 Filip Nowacki。\n\n這位三屆奧運冠軍、100 米蛙泳世界紀錄保持者坦言，上月在英聯邦運動會表現令人失望後，「一切都不合理」。他在伯明翰的英聯邦運動會只奪得兩面銅牌。\n\n今次巴黎之行，他的時間為 59.10 秒，比英聯邦運動會快 0.55 秒。該賽事中，他被 18 歲的 Nowacki 擊敗，而 Nowacki 在格拉斯哥舉行的 200 米蛙泳為澤西島寫下歷史，首奪金牌。\n\nRamsay-Peaty 其後出戰英國隊的男女混合 4×100 米混合接力決賽，蛙泳分段游出令人眼前一亮的 58.9 秒，但球隊最終排名第四。\n\n同日其他賽事，英國的 Katie Shanahan 在 200 米背泳展現壓倒性優勢，以 1.49 秒優勢奪金，時間為 2 分 06.13 秒。這位 22 歲泳手在 2022 年羅馬歐洲錦標賽同一項目取得銀牌。\n\n23 歲的英國泳手 Angharad Evans 在女子 100 米蛙泳半準決賽中刷新錦標賽紀錄，時間為 1 分 04.97 秒。"
-    },
-    {
-      "title": "殘疾人士在熱浪中：'我們在談論的是生存'",
+      "title": "殘疾人士在高溫熱浪中被困：「我們在談的是生存」",
       "url": "https://www.bbc.co.uk/news/articles/cd6923j2wnpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-11T00:18:49.000Z",
-      "summary": "殘疾人士維權人士表示，官方關於在熱浪中保持安全的建議可能會使他們面臨更大的危險。",
+      "summary": "殘疾人士倡導者表示，官方的熱浪安全建議反而可能讓他們陷入更大危險。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -129,139 +258,37 @@
           "alt": "A close-up outdoor selfie of a man wearing a green cap, rectangular tinted glasses, and a maroon T-shirt. He is centered in the frame with a neutral expression, on a sunny street with parked cars, apartment buildings, trees, and a bright blue sky with clouds in the background."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8790/live/66f90e00-95ea-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Man wearing blue shirt pointing to buildings behind him."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/726d/live/62b931e0-9620-11f1-870d-5d08c49babb2.jpg",
+          "alt": "The Perseids meteor shower with the Milky Way galaxy."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6757/live/c3f61c00-95c8-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Vanessa holding up a pair of solar eclipse glasses to her face and smiling."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/30a0/live/3f512740-964c-11f1-870d-5d08c49babb2.jpg",
+          "alt": "A woman with long red hair looks at someone off-camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f5e9/live/8511c090-95ad-11f1-870d-5d08c49babb2.jpg",
-          "alt": "An image of migrants wearing red lifejackets in an inflatable boat, in BBC Verify branding."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4bf9/live/8a8d4a60-960e-11f1-870d-5d08c49babb2.jpg",
+          "alt": "Tupac Shakur wearing a blue bandana and a blue and white shirt."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/64f7/live/8113c780-9577-11f1-870d-5d08c49babb2.jpg",
-          "alt": "Image os Tupac Shakur wearing a blue bandana and a brown leather vest over a spotty white shirt."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a908/live/dc20e520-9641-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "A woman places money in a gold piggy bank"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1524/live/b5722bf0-9565-11f1-870d-5d08c49babb2.jpg",
-          "alt": "A woman with long blonde hair wearing a grey top."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d3a3/live/f6a42c60-963a-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "A man with short hair wearing a dark suit stands at the door of a plane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9175/live/c3b56a50-9598-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Woman with long blonde hair wearing solar eclipse glasses"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2bef/live/afe965c0-9643-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "A man in a blue t-shirt doing yoga"
         }
       ],
-      "bodyZh": "殘疾人士遇上熱浪：「我們談的是生存」\n\n今年夏季的熱浪為數百萬人帶來交通癱瘓、室內過熱及學校停課——預計本周還會迎來第五波熱浪。\n\n早有大量記錄顯示，有既往健康問題及殘疾人士在極端炎熱時期面臨最高風險。\n\n但倡議人士及研究人員指出，他們所面對的這些額外且特殊的困難——從服務犬中暑到輪椅過熱——往往被忽視，甚至在公眾建議及緊急應變規劃中亦未獲考慮。\n\n「對健全人士來說只是不舒服，但如果你是殘疾人士，我們開始談的是生存。」倡議人士 Doug Paulley 說。\n\nEmily Davison 表示，氣溫飆升迫使她把導盲犬 Rosie 的福祉置於自身獨立之上。\n\n「狗的健康必須優先。」\n\nDavison 是倫敦的記者及內容創作者，但熱浪迫使她取消出席活動的行程，因為 Rosie 往往難以在高溫下安全出行——錯過了潛在收入。\n\n公共運輸如巴士經常過熱，她亦避開 Uber，因為「太多次他們不讓我帶狗上車」。\n\n她說，即使倫敦 Taxicard 計劃（為行動障礙或嚴重視力受損人士提供的資助的士服務）可供使用，尋找可用的士也變得更加困難。\n\nDavison 說，現在每次出行都需要仔細規劃，這令她感到孤立，並限制了她的工作和獨立。\n\n「這確實會讓你的生活停滯不前。當你處於這種情況，身邊有導盲犬卻甚麼都做不了，確實會令某些事情完全停擺。」\n\n她現在長時間在家工作——但表示自己很幸運仍能如此，並非所有殘疾人士都有這個選項。\n\n「我認為能夠在家工作的文化及這個選項，對確保殘疾人士繼續就業非常重要。」\n\nJimmy Macfarlane 是一名居於卡迪夫的演員，需要因工作而出行——因此他使用電動輪椅。\n\n在今夏的熱浪期間，人們在社交媒體上反映手機電池因高溫而消耗加快，但對 Jimmy 而言，電池是他四處行動的唯一依靠。\n\n「高溫肯定會影響輪椅，令電池消耗得快很多。」\n\nMacfarlane 說：「我一直要考慮，有没有办法在不需要移動輪椅的情況下到達目的地？」\n\n有時他甚至無法離開家门——他之前住在六樓單位，高溫導致電梯故障，令他被困。\n\nBBC News 亦報道了其他高層建築出現類似問題，但與其他住戶不同，Jimmy 無法靠樓梯解決問題。\n\n「有段時間我被困在單位裡（好幾天），直到修好為止。」\n\n室內的暑熱也變得難以應付。\n\n他說，由於腦麻痺，日常事務本已需要更多體力。「更換衣服、洗澡等……我做每件事的時間都是健全人士的兩倍。」\n\n「在炎熱的日子，就更加耗費精力。」\n\n保持室內涼爽的一般建議是關閉窗簾保存能量，在涼爽時開窗通風。\n\n但對 Claire Sisk 而言——一名視力扭曲的內容創作者及倡議者——這可能很危險。\n\n「如果我把所有窗戶和門都打開，我會感到非常不安全，因為我看不見是否有人走進我的住所。所以我必須全部關閉，這相當難以忍受。」\n\n其他旨在保持家居涼爽的措施可能帶來新風險。例如風扇可能成為絆倒危險物，因為它們並非她日常佈局的一部分。\n\n當她離開住所時，當前天氣會令她剩餘的視力變得更不可靠。\n\n「（當）陽光出來，那部分視力就消失了。」\n\n炎熱天氣可使出行難以預測，而通道問題會浪費本就疲憊的一天中寶貴的時間。她回憶有一次因人手不足，在地鐵站等候。\n\n「這有點令人沮丧，因為原本只需 45 分鐘的回家路程，最後花了兩小時。」\n\nHollye Kirkcaldy 是巴斯大學的博士研究人員，研究極端暑熱如何影響英國的殘疾人士，並表示這些經歷在全國各地很多人都曾面對。\n\n「城市基建的貧富不均、住房、圍繞社會網絡和護理的結構性條件等因素——當你把所有這些加在一起，再投入暑熱，就會造成『致殘效應』。」Kirkcaldy 說。\n\n她的研究發現，官方的熱浪指引往往未能反映殘疾人士的實際處境，而那些被呈現為簡單的措施，實際上可能製造新的障礙。\n\n她說，這會削弱他們的獨立性，損害精神健康，並增加經濟壓力。殘疾人士可能無法工作，同時面臨額外開支，如全天候降溫所產生的高昂電費。\n\nKirkcaldy 說，在某些情況下，這可能是「任何人都不應該做出的，健康與吃飯之間的二選一」。\n\n對於殘疾人士權利倡議者 Doug Paulley 而言，他在高溫下健康狀況會惡化，殘疾人士在熱浪期間的經歷，反映了社會中更深層的問題。\n\n「每當社會發生任何重大危機，殘疾人士總是最先受衝擊的群體之一，這次也不例外。」\n\n在一次熱浪期間，他取消了物理治療，並錯過了向新冠肺炎調查委員會提供證據的機會，因為出行變得不安全。\n\n「根本沒有辦法前往。當時熱得危險，我一定會很不舒服。」\n\nEmily Davison 說，氣候變化必須被納入人們思考無障礙通道及支援的方式。\n\n「氣候變化是事實。夏天的氣溫只會越來越高。」\n\n對 Doug 而言，問題不僅在於殘疾人士如何應對極端天氣，更在於未來的決策過程中考慮了誰的經歷。\n\n「政策往往是為他們而訂，而非與他們共同訂立。」"
+      "bodyZh": "炎炎酷熱下的殘疾人士：「我們現在說的是生存問題」\n\nBBC News\n\n記者：Maddie Molloy，氣候與科學記者\n\n發布日期：2026年8月11日\n\n今年夏季的熱浪為數百萬人帶來交通受阻、室內過熱及學校停課——而本周預計將有第五波熱浪來襲。\n\n已有健康問題及殘疾的人士在極端高溫期間面臨最高風險，這已有充分記錄。\n\n但倡議人士及研究人員指出，殘疾人士所面對的額外及特殊困難——從服務犬受熱困擾到輪椅過熱——往往被忽視，甚至在公共建議及緊急應變規劃中亦然。\n\n倡議人士Doug Paulley表示：「對一個健全人士來說，只是感到不適；但如果你自我認同為殘疾人士，我們開始談論的是生存問題。」\n\nEmily Davison表示，氣溫飆升迫使她將導盲犬Rosie的福祉置於自身獨立之上。\n\n「狗的健康必須優先。」\n\nDavison是倫敦的記者及內容創作者，但熱浪迫使她取消前往活動的行程，因為Rosie往往無法在高溫下安全出行——錯過了潛在收入。\n\n公共巴士等公共交通工具常常過熱，她也不再乘坐Uber，因為「多次經歷他們不讓我帶狗上車」。\n\n她表示，即使有倫敦Taxicard計劃（為行動障礙或嚴重視力受損人士提供的補貼的士服務），找車也變得愈發困難。\n\nDavison說，現在每次出行都需要仔細規劃，這使她感到孤立，並限制了工作及獨立能力。\n\n「這確實會拖慢你的生活步伐，」她說。「當你處於這種情況，身邊有一隻導盲犬，卻甚麼都做不了，確實會令某些事情陷入停頓。」\n\n她現時大部分時間在家工作——但坦言自己能夠如此已算幸運，並非所有殘疾人士都能做到。\n\n「我認為能夠遙距工作的文化及這種選擇，對於確保殘疾人士繼續就業而言非常重要。」\n\nJimmy Macfarlane uses a wheelchair - when lifts break down in the heat it can leave him stranded\n\nJimmy Macfarlane是卡迪夫的演員，工作需要經常出行——因此他使用電動輪椅。\n\n在今夏的熱浪期間，人們在社交媒體上反映手機電池因高溫而消耗更快；但對Jimmy而言，電池是讓他行動的命脈。\n\n「高溫肯定會影響輪椅，令電池消耗得更快。」\n\nMacfarlane說：「我經常要思考有沒有辦法去到我想去的地方，而不用移動輪椅？」\n\n有些日子他甚至無法離開家門——他之前住在六樓，高溫導致電梯故障。\n\nBBC News亦有報道其他高層建築物的類似問題，但與其他居民不同，Jimmy不能靠走樓梯解決問題。\n\n「有段時間我被困在單位裡好幾天，直到電梯修好。」\n\n室內的熱度也令他難以應付。\n\n他表示，由於腦麻痺，日常事務本已需要更多體力。「例如更衣、洗澡……我做的所有事情所需時間都是健全人士的兩倍。」\n\n「在炎熱的日子，就更令人筋疲力竭。」\n\n為視障人士，散熱方法可能暗藏危險\n\n應對高溫的常見建議是關閉窗簾保存能量，在涼爽時開窗通風以保持室內涼快。\n\n但對於內容創作者及倡議人士Claire Sisk而言，她視力受損，這種做法可能很危險。\n\n「如果我把門窗全部打開，我會感到極度不安，因為我看不見是否有人走進我的住所。所以我只能全部關上，這實在令人難以忍受。」Sisk說。\n\n其他旨在保持室內涼爽的措施亦可能帶來新的風險。例如風扇可能成為絆倒危險物，因為它們不在她日常熟悉的佈置中。\n\n當她外出時，當時的天氣會令她僅存的視力變得更不可靠。\n\n「當陽光出來時，那僅有的視力就消失了。」Sisk說。\n\n炎熱天氣會令出行難以預測，而通道問題可能浪費本已令人疲憊的一天中寶貴的時間。她回憶有一次在地鐵站因人手不足而需要等候。\n\n「這有點令人沮喪，因為原本只需45分鐘的行程，那天要花上兩小時才能到家。」\n\n熱浪的經濟負擔\n\nBath大學博士研究生Hollye Kirkcaldy研究極端高溫如何影響英國的殘疾人士，她表示全國各地許多人都有類似經歷。\n\n「城市基礎設施、房屋、不健全的社會網絡及護理條件等方面存在不平等。當你把所有這些因素加在一起，再遇上高溫，就會造成失能。」Kirkcaldy說。\n\n她的研究發現，官方的熱浪指引往往未能反映殘疾人士的實際情況，而那些被呈現為簡單的措施實際上可能帶來新的障礙。\n\n她指出，這會削弱獨立能力，損害他們的精神健康，並增加經濟壓力。殘疾人士可能因此無法工作，同時面臨額外開支，例如全天候降溫所產生的高昂電費。\n\nKirkcaldy表示，在某些情況下，這可能是「一種本不應有人需要在健康與溫飽之間作出的抉擇」。\n\nFor disability campaigner Doug Paulley, who has a number of health conditions which are exacerbated by hot temperatures, the experiences of disabled people during heatwaves point to wider problems in society.\n\n「殘疾人士在任何重大社會危機中總是最先受衝擊的群體之一，而這次也不例外。」Paulley說。\n\n有一次熱浪期間，他取消了物理治療，並錯過了向新冠疫情調查委員會提供證據的機會，因為出行變得不安全。\n\n「我就是沒有可能去。太熱了，而且我會病得很嚴重。」\n\nEmily Davison表示，氣候變化必須納入大眾對無障礙及支援的思考中。\n\n「氣候變化是事實。夏季只會愈來愈熱。」\n\n對Doug而言，問題不僅在於殘疾人士如何應對極端天氣，更在於未來決策時考慮了誰的經驗。\n\n「政策是為他們而設，而不是與他們共同制定。」"
     },
     {
-      "title": "英國在歐洲錦標賽上奪金",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/czrje837prlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T21:11:20.000Z",
-      "summary": "英國在巴黎舉行的歐洲水上運動錦標賽首日贏得三枚獎牌，而傑克·凱利創造新的愛爾蘭紀錄晉級蛙泳決賽。",
-      "sourceName": "BBC 運動（游泳）",
-      "sourceId": "bbc-swimming",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/54e2/live/9519e6b0-94ff-11f1-9181-85140b8ce01b.jpg",
-          "alt": "GB&#x27;s Matthew Richards, Jack McMillan, James Guy and Duncan Scott"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/0719/live/51887490-94fd-11f1-9181-85140b8ce01b.jpg",
-          "alt": "Jack Kelly"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ff10/live/8ecc87b0-957f-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Keely Hodgkinson"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0p3ykm7.jpg",
-          "alt": "Lisa Nandy"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dbe8/live/aabc35c0-95b0-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Spectators at European Championships"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2ede/live/6cc41f00-95a9-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Salzburg stadium"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/4134/live/82794f00-9487-11f1-870d-5d08c49babb2.jpg",
-          "alt": "Murder Trial: Death of a Dog Walker"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/7116/live/aad92f90-942f-11f1-870d-5d08c49babb2.jpg",
-          "alt": "Just A Minute"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/aa2d/live/4e44d610-8509-11f1-926f-c90d1bcfbc84.jpg",
-          "alt": "Movies with Ali Plumb"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/6ea6/live/0fec1890-9433-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Hiroshima, 8.15: The Lost Memoir by Kiyoshi Tanimoto and Koko Kondo"
-        }
-      ],
-      "bodyZh": "歐洲水上運動錦標賽：英國接力隊勇奪兩金\n\n英國在巴黎舉行的歐洲水上運動錦標賽首日斬獲三面獎牌。\n\n男子及女子4×200米自由泳接力隊雙雙摘金，馬克斯·利奇菲爾德則在男子400米個人混合泳獲得銅牌。\n\n詹姆斯·蓋伊、鄧肯·斯科特、馬特·理查茲及來自貝爾法斯特的傑克·麥基爾南，在男子4×200米接力決賽中率先觸池，時間為7分1秒52，擊敗法國及德國奪冠。\n\n女子決賽中，弗雷亞·安德森、利亚·施洛shan、阿比·伍德及弗雷亞·科爾伯特以7分45秒93的成績奪冠。匈牙利以7分49秒09獲得銀牌，中立運動員B隊以7分49秒13摘銅。\n\n「太難以置信了！」——英國在歐洲接力賽中勇奪雙金\n\n利奇菲爾德在男子400米個人混合泳決賽中以4分11秒58完賽，屈居第三。伊利亞·博羅丁以4分08秒17刷新錦標賽紀錄奪冠，意大利的艾爾貝托·拉澤蒂以4分10秒40獲得銀牌。\n\n凱利刷新愛爾蘭紀錄晉級蛙泳決賽\n\n傑克·凱利周一兩度刷新愛爾蘭100米蛙泳紀錄，確定晉級周二巴黎決賽。這位出生於紐約、透過母親取得愛爾蘭資格的泳手，此前將達拉赫·格林保持的紀錄打破——周一預賽以59秒27創下新猷，並在準決賽中進一步提升至58秒90。凱利落後意大利2024年奧運金牌得主尼科洛·馬爾蒂南吉，以58秒67完成賽事，位居第二。\n\n23歲的凱利表示：「突破59秒一直是我的夢想，看到計時牌上的成績真的令人驚嘆。這是我在今次比賽的完美開局，期待接下來的表現。氣氛令人振奮，我能感受到能量並從中汲取力量。這是非常棒的環境，我能聽到隊友們的聲援，我們關係密切，有這樣的隊友真的很幸運。明天我會全力出擊，這是我在100米的策略，看看我能做到什麼。」\n\n第二場準決賽中，2024年巴黎奧運銀牌得主、英國的亞當·拉姆齊-佩蒂以58秒94首名過終點，其英國隊友菲利普·諾瓦茨基以59秒03居次——這是澤西島泳手在100米的紀錄。100米蛙泳決賽將於周二英國夏令時間17:48舉行。\n\n另外，來自貝爾法斯特的洛蒂·卡倫在200米背泳準決賽中游出個人最佳成績，但仍不足以晉級決賽。這位代表愛爾蘭出戰的國家中心烏爾斯特泳手，以2分12秒22完成賽事，位列第六。"
-    },
-    {
-      "title": "'令人難以置信！' - 英國在歐洲接力賽中奪得雙金",
-      "url": "https://www.bbc.co.uk/sport/swimming/videos/cd7lje17dneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T18:55:26.000Z",
-      "summary": "英國在巴黎舉行的歐洲水上運動錦標賽女子和男子4x200米自由泳接力決賽中均獲金牌，男子以7分01秒52創下新的錦標賽紀錄。",
-      "sourceName": "BBC 運動（游泳）",
-      "sourceId": "bbc-swimming",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dde6/live/3623b050-94eb-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Team GB&#x27;s women&#x27;s freestyle relay team celebrate"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7718/live/82cfebe0-8941-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Matt Richards, Tyler Melbourne-Smith, Kieran Bird and Dan Jones"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c0ed/live/cc663f70-875c-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Theodora Taylor"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/58a5/live/87a49630-8814-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Sophie Davies"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7642/live/22d3eee0-8828-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Rhys Darbey and Dylan Broom"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5ec3/live/539356f0-9585-11f1-870d-5d08c49babb2.jpg",
-          "alt": "Diego Forlan &amp; Luis Suarez"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/443a/live/ba594120-90e8-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Zeki Celik and Joao Pedro"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5727/live/064011a0-90f7-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Emilio Gay and Michael Vaughan discuss running"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4429/live/9324c430-8eae-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Joe Root"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0d69/live/4dd7e980-8dc7-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Antoine Semenyo and Nicolo Barella"
-        }
-      ],
-      "bodyZh": "歐洲游泳錦標賽：英國男女4x200米自由泳接力均奪金——BBC Sport\n\n「難以置信！」——英國在歐洲接力賽中勇奪雙金\n\n英國在巴黎舉行的歐洲游泳錦標賽中，於女子及男子4x200米自由泳接力決賽雙雙摘金，男子接力隊更以7分01秒52刷新錦標賽紀錄。\n\n此內容在您所在的地區暫時無法觀看。"
-    },
-    {
-      "title": "「當你的孩子正在死去，你不應該需要乞求幫助」",
+      "title": "「當你的孩子正在死去，你不應該乞求幫助」",
       "url": "https://www.bbc.co.uk/news/articles/cedj6xgz5ypo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-05T23:01:10.000Z",
-      "summary": "一名嚴重殘疾的兩歲女童於五月去世，其父母表示，他們在女兒整個人生中都在為爭取對她複雜病情的支援而抗爭。",
+      "summary": "一名嚴重殘疾的兩歲兒童於五月離世，其父母表示，他們在女兒的一生中一直在為她的複雜病情爭取支援。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -306,13 +333,13 @@
           "alt": "A man is in the middle of getting from a wheelchair into the driver&#x27;s seat of a car - we can see the driver&#x27;s side door open, where the wheelchair is sitting empty. The man is mostly in the seat with some of his head still leaning out the door. The car is a silver estate, and behind where it is parked is a green bush."
         }
       ],
-      "bodyZh": "「當你的孩子正在死去，你不應該還要乞求幫助」\n\n萊拉·德裏普斯-威爾（Lila Dripps-Weir）於5月離世，當時她僅僅兩歲。\n\n萊拉有嚴重殘疾，她的父母表示，在女兒整個生命期間，他們一直在為爭取支援以應對她那種危及生命的疾病而不懈奮鬥。\n\n她患有一種罕見的遺傳性代謝疾病，稱為丙酮酸脫氫酶缺乏症（PDH），該疾病影響了她身體分解食物和飲品的方式。\n\n她的父母希望移除輪椅無障礙車輛及失禁用品等服務的年齡限制——這些正是有賴於這些服務的兒童所需的。\n\n社區部（DfC）表示，該部門「承認家庭在照顧患有複雜及危及生命疾病的兒童時所面臨的重大挑戰」。\n\n萊拉的母親海莉·德裏普（Hayley Dripp）形容她是「一個非常開心的小女孩⋯⋯是我一生中遇到過最堅強的人⋯⋯勇敢無畏，笑容能照亮整個房間」。\n\n但她說：「你只會接連撞牆。」\n\n「無論我有多少醫療支援信函，無論她的確診清單有多長，年齡永遠是一道關卡。他們沒有考慮到她的安全。」\n\n萊拉的父親羅伯特·威爾（Robert Weir）補充道：「當你的孩子正在死去，你不應該還要乞求她有權獲得的幫助。」\n\n庫克斯敦（Cookstown）這家人遇到的主要問題之一，是開車帶萊拉外出，這對家庭生活及他們前往醫院預約的能力造成了巨大影響。\n\n在北愛爾蘭，兒童必須年滿三歲才有資格申請傷殘生活津貼（DLA）的高額流動補助部件——這是參與行動輔助計劃（Motability Scheme）的必要條件——因為該補助取決於兒童的行走能力。\n\n萊拉無法翻身、坐起或站立，據一名兒科物理治療師所述，她在所有護理方面完全依賴他人。\n\n她獲提供了一輛專用嬰兒車，但家人仍需要一輛輪椅無障礙車輛來运送她和那輛嬰兒車。\n\n海莉表示，萊拉因此被「拒絕」獲得相關車輛，「是因為她的年齡，而非臨床需要」。\n\n羅伯特說，沒有安全的車輛运送女兒是「可怕的」，他不得不坐在車後座，雙手托著萊拉的頭部，「只為讓她能夠呼吸」。\n\n一個協助殘疾兒童的慈善機構介入幫忙，在萊拉兩歲生日前不久為這家人提供了一輛輪椅無障礙車輛。她的父親稱之為「救命線」。\n\n她的母親說：「她終於能夠安全出行，過上了她應得的生活，因為她終於可以走出家門了。」\n\n萊拉的三歲生日原定於8月1日。\n\n這家人將萊拉生命最後的幾周用來填寫表格，好讓她不會錯過在三歲生日之前申請流動傷殘津貼的截止日期。\n\n海莉說，她感覺女兒「因為天生與眾不同，就被剝奪了其他孩子應有的基本人權」。\n\n她說：「我希望各部門能與醫療專業人士合作，根據診斷和臨床需要，以及醫療專業人士的專業意見來作出判斷，而非根據年齡和生日。」\n\n社區部在聲明中表示，「與其他社會保障福利一樣，我們與工作及養老金部保持一致」，該部門並不知悉有任何計劃檢討適用於流動補助的年齡限制。\n\n社區部表示，部長樂意與這家人會面，直接聆聽他們的關切，他亦會就此問題向英國政府反映。\n\n失禁用品的維權之路\n\n但萊拉的父母還有另一場戰鬥——為她爭取失禁用品。\n\n海莉說，她的女兒因為年齡原因沒有資格獲得這些用品，但在萊拉離世前，她使用的是市面上最大碼的尿片。\n\n她說：「雖然她還很小，但萊拉在離世前體重已超過21公斤。」\n\n「我開始擔心當這些尿片再也穿不下的時候，我們該怎麼辦。\n\n「我們向多位醫療專業人士求助，他們也在努力與我們一起抗爭。但因為她未達年齡，我們無法獲得評估。\n\n「這是另一種額外壓力。」\n\n根據膀胱及腸道英國（Bladder and Bowel UK）的資料，失禁用品只會提供給至少五歲、已接受全面評估，並在如廁訓練技能發展計劃中獲得至少六個月支援的兒童。\n\n但對萊拉而言，如廁訓練是不可能的。\n\n斯托蒙特衛生委員會成員琳達·迪隆（Linda Dillon）表示，患有複雜及危及生命疾病的兒童家庭，不應該把寶貴的時間浪費在爭取服務上。\n\n「這些家庭所需的小型實際需求——能夠獲得尿片、能夠擁有一輛適合孩子的車——這些都是非常、非常細微的事，我認為我們可以有一定的彈性處理。\n\n「我認為衞生部長和社區部長可以迅速行動，修改年齡限制，這將對家庭提供極大幫助。」\n\n「我感到被搶走了時間」\n\n羅伯特說，他感到自己與「與眾不同」的 女兒相處的時間被「搶走」了。那些時間都用在了研究、打電話、發電郵、請求支援，卻沒有任何進展。\n\n他說：「我們永遠不會停止以她的名義為其他人和其他孩子抗爭。」\n\n「他們不能被推到最後、遭到遺忘。我們會竭盡所能確保這不會發生。」\n\n海莉說，萊拉的離世在她們的生活中留下了「巨大的空洞」。\n\n她說：「萊拉值得過上有尊嚴、得到所需支援的生活。如果我們能以她的名義，幫助其他孩子根據他們的臨床需要獲得尊嚴和支援，那麼我們就做了一件向她致敬的事。」"
+      "bodyZh": "「孩子正在死去，你不應被迫乞求幫助」\n\n萊拉·德ripps-Weir 在2026年5月去世，年僅兩歲。\n\n萊拉有嚴重殘疾，她的父母表示，他們在女兒整個生命中一直在為爭取她那有限壽命的疾病所需的支援而奮鬥。\n\n她患有一種名為丙酮酸脫氫酶缺乏症（PDH）的罕見遺傳性代謝疾病，影響了她身體分解食物和飲品的方式。\n\n她的父母希望取消輪椅無障礙車輛及失禁產品等服務的年齡限制，這些都是依賴這些服務的兒童所需。\n\n社區部（DfC）表示，他們「認識到照顧有複雜及有限壽命疾病的兒童的家庭所面臨的重大挑戰」。\n\n萊拉的母親海莉·德ripps形容女兒是「一個非常快樂的小女孩……是我一生中遇到的最堅強的人…勇敢無畏，笑容能照亮整個房間」。\n\n但她說：「你只會不斷撞牆。」\n\n「無論我有多少醫療支援信件，無論她的確診清單有多長，年齡永遠是一個因素。他們不考慮她的安全。」\n\n萊拉的父親羅伯特·韋爾補充道：「當你的孩子正在死去，你不應被迫乞求她有權獲得的幫助。」\n\n這戶庫克斯敦家庭遇到的主要問題之一是用私家車帶萊拉外出，這對家庭生活和前往醫院預約造成了巨大影響。\n\n在北愛爾蘭，兒童必須年滿三歲才能領取傷殘生活津貼（DLA）的高額流動組成部分——這是申請無障礙交通計劃（Motability Scheme）的必要條件——因為該津貼取決於兒童的行走能力。\n\n萊拉無法翻身、坐起或站立，根據一位兒科物理治療師的說法，她在所有護理方面完全依賴他人。\n\n她獲得了專用嬰兒車，但家人仍需要輪椅無障礙車輛來运输她和嬰兒車。\n\n海莉表示，萊拉因年齡而非臨床需要被「拒絕」了這項服務。\n\n羅伯特說，沒有一輛安全的車輛來接送女兒令他感到「糟透了」，他不得不在車後座扶著萊拉的頭部，「只是為了讓她能夠呼吸」。\n\n一個幫助殘疾兒童的慈善機構介入提供協助，在萊拉兩歲生日前不久為這個家庭提供了一輛輪椅無障礙車輛。她的父親說那是「救命線」。\n\n「她能夠安全出行，終於獲得了她應有的生活，因為她終於能夠出門了，」她的母親說。\n\n萊拉的三歲生日本應在8月1日。\n\n這家人將萊拉生命最後的數週用來填寫表格，以確保她在三歲生日前來得及申請流動傷殘津貼。\n\n海莉說，她覺得女兒因為「天生與眾不同」而無法享有「其他孩子應有的基本人權」。\n\n「我希望各部門能與醫療專業人員合作，根據診斷、臨床需要及醫療專業人員的專業意見來作出判斷，而非根據年齡和生日，」她說。\n\n社區部在聲明中表示，「與其他社會保障福利一樣，我們與工作及養老金部保持一致」，並表示不知道有任何計劃審視適用於流動津貼的年齡限制。\n\n社區部表示，部長很樂意與該家庭會面，親自聆聽他們的關注，並會就此問題向英國政府提出。\n\n失禁產品的爭取\n\n但萊拉的父母在為她獲取失禁產品方面還有另一場戰役。\n\n海莉說，她的女兒因年齡原因沒有資格獲得這些產品，但在萊拉去世前，她使用的是市面上最大尺寸的尿片。\n\n「雖然她年幼，萊拉在離世前體重已超過21公斤，」她說。\n\n「我開始擔心當這些尿片不再合身的時候我們該怎麼辦。」\n\n「我們聯繫了多位醫療專業人員。他們也在努力與我們一起爭取。但因為她未達年齡，我們無法獲得評估。」\n\n「這是另一種額外壓力。」\n\n根據膀胱及腸道英國（Bladder and Bowel UK）的資料，失禁產品只會提供給至少五歲、經過全面評估並在如廁訓練技能發展計劃中獲得至少六個月支援的兒童。\n\n但對萊拉來說，如廁訓練是不可能的。\n\n斯托蒙特衛生委員會委員琳達·狄龍表示，有複雜及有限壽命疾病的兒童家庭不應將寶貴時間浪費在爭取服務上。\n\n「這些家庭的小型實際需求——能夠獲得尿片、能夠擁有一輛適合孩子的汽車——這些都是非常、非常微小的事情，我認為我們可以有些彈性。」\n\n「我認為衞生部長和社區部長可以很快地著手改變年齡限制，這將對家庭帶來巨大幫助。」\n\n「我感到被騙走了時間」\n\n羅伯特說，他感到自己與「與眾不同」的女兒相處的時間被「騙走了」。那些時間都用在了研究、打電話、發電郵和要求支援上，但卻毫無進展。\n\n「我們永远不会停止以她的名義為其他人和其他孩子奮鬥，」他說。\n\n「他們不能被推到最後被遺忘。我們會竭盡所能確保這不會發生。」\n\n海莉說，萊拉的去世在他们生活中留下了「巨大的空洞」。\n\n「萊拉值得有尊嚴的生活和所需的支持，如果我們能以她的名義幫助其他孩子獲得基於臨床需要的有尊嚴和支持，那麼我們就做了值得紀念她的事，」她說。"
     },
     {
-      "title": "走進無障礙：殘疾新聞與心理健康",
+      "title": "《無障礙接達》：殘疾新聞及心理健康",
       "url": "https://www.bbc.co.uk/sounds/play/p0p2vscq?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-05T23:01:00.000Z",
-      "summary": "……以及被假日活動中心拒於門外的殘疾兒童",
+      "summary": "以及被假期俱樂部拒諸門外的殘疾兒童。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -325,13 +352,13 @@
           "alt": ""
         }
       ],
-      "bodyZh": "Access All：殘障新聞及心理健康——「就像喝醉了一樣」：KT Tunstall 暢談聽力損失及眩暈——BBC Sounds\n\n主頁\n\n無障礙瀏覽連結\n\n跳至內容\n\n無障礙幫助\n\nBBC 帳戶\n\n通知\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n美食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n美食\n\n主頁\n\n新聞\n\n體育\n\n商務\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音訊\n\n影片\n\n直播\n\n更多選單\n\n搜尋 Sounds\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n美食\n\n主頁\n\n新聞\n\n體育\n\n商務\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音訊\n\n影片\n\n直播\n\n關閉選單\n\nBBC Sounds\n\nSounds 主頁\n\n選單\n\n主頁\n\n音樂\n\nPodcasts\n\n我的 Sounds\n\n在英國境外使用 BBC.com 或新版 BBC App 收聽 BBC 播客、Radio 4 及 World Service。\n\n了解如何收聽其他 BBC 電台\n\n節目資料\n\nSounds\n\n·\n\n2026年8月5日\n\n·\n\n48 分鐘\n\n「就像喝醉了一樣」：KT Tunstall 暢談聽力損失及眩暈\n\nAccess All：殘障新聞及心理健康\n\n播放\n\n收藏\n\n收藏\n\n訂閱\n\n訂閱\n\n一年內可供收聽\n\n國際人氣製造者 KT Tunstall 在巡演期間醒來，發現自己失去了聽力並出現眩暈，一時不知如何是好。此後她向哥哥求助。他自幼失聰，卻以玩笑口吻說要「拿出他的小提琴」為她奏一曲，她說這讓她對自己的聽力損失有了新的認識。\n\nKT 的聽力損失至今仍在。這位蘇格蘭歌手兼詞曲作者帶着名為《The Singer》的劇場演出回歸，她為該劇創作了音樂。劇中描繪一名 D/deaf（D聾人／聾人）表演者與一名聽健音樂人之間的友誼，着重心放在低音及節拍上，讓 D/deaf 觀眾同樣能夠享受。\n\n如果你是靠假日俱樂部及營地度過孩子暑期，家長請舉手？三份近期報告均指出，殘障兒童的家長往往沒有這個選項。我們訪問了 Stephanie，她一邊照顧殘障兒子，一邊難以正常工作；Shumi 則因兩個孩子缺乏合適選項而深感挫敗，最終自己動手創辦了俱樂部。此外，我們亦訪問了慈善機構 Sense 的 Harriet Edwards，該機構正倡議訂立國家框架以協助解決這個問題。\n\nEmma Tracey 亦與 Beth Rose 談論《Timms 檢討》的最新進展，該檢討正審視個人獨立付款（PIP）制度。Jimothy 也有現身——這是一隻走紅網絡的殘障浣熊。\n\n主持及製作人：Emma Tracey\n\n系列監製兼主持友好：Beth Rose\n\n音效混音：Neil Churchill\n\n編輯：Damon Rose\n\n節目網站\n\n顯示較少\n\n更多節目\n\n威爾斯語\n\n愛爾蘭語\n\n蘇格蘭蓋爾語\n\nBBC Sounds 幫助\n\n聯絡、隱私及資訊\n\n登入幫助\n\n電子通訊\n\n探索 BBC\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n美食\n\n主頁\n\n新聞\n\n體育\n\n商務\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音訊\n\n影片\n\n直播\n\n使用條款\n\n關於 BBC\n\n隱私政策\n\n隱私政策\n\nCookies\n\nCookies\n\n無障礙幫助\n\n家長指引\n\n聯絡 BBC\n\n提出編輯投訴\n\n招聘\n\nBBC 電郵\n\n與我們合作\n\n版權 © 2026 BBC。\nBBC 對外部網站的內容概不負責。\n\n了解我們的外部連結處理方式。"
+      "bodyZh": "Access All: Disability News and Mental Health\n\n「就像喝醉了一樣」：KT Tunstall 談聽力損失與眩暈\n\nBBC Sounds\n\n主頁\n\n無障礙連結\n\n跳至內容\n\n無障礙協助\n\nBBC 帳戶\n\n通知\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\nBBC Sounds 主頁\n\n選單\n\n主頁\n\n音樂\n\nPodcasts\n\n我的 Sounds\n\n使用 BBC.com 或新版 BBC App，在英國以外的地區收聽 BBC podcasts、Radio 4 及世界新聞服務。\n\n了解如何收聽其他 BBC 電台\n\n節目資料\n\nSounds\n\n·\n\n2026 年 8 月 5 日\n\n·\n\n48 分鐘\n\n「就像喝醉了一樣」：KT Tunstall 談聽力損失與眩暈\n\nAccess All: Disability News and Mental Health\n\n播放\n\n收藏\n\n收藏\n\n訂閱\n\n訂閱\n\n一年以上可收聽\n\n國際暢銷歌手 KT Tunstall 在巡演途中醒來，發現自己失去了聽力並出現眩暈，一時不知所措。隨後她向哥哥求助。他自幼失聰，開玩笑地說要「拿出我的小提琴」為她演奏，她說這反而幫助她以另一個角度看待自己的聽力損失。\n\nKT 的聽力損失至今仍未恢復。這位蘇格蘭創作歌手如今帶着一齣名為《The Singer》的劇場演出回歸，她親自為該劇創作音樂。劇中描繪一名 D/deaf（聾人或重聽人士）表演者與一名健聽音樂人之間的友誼，着重強調低頻與節拍，讓聾人觀眾也能夠享受演出。\n\n如果你也依靠暑期俱樂部和夏令營來度過孩子的暑假，請舉手？三份近期報告顯示，殘疾兒童的家長往往沒有這個選項。我們採訪了 Stephanie，她一邊照顧殘疾兒子一邊為生計掙扎；Shumi 因為兩個孩子缺乏合適的活動選項而深感沮喪，索性自己創辦了一間俱樂部。此外，我們亦訪問了慈善機構 Sense 的 Harriet Edwards，該機構正呼籲建立一個全國性框架來解決這個問題。\n\nEmma Tracey 亦與 Beth Rose 談及 Timms Review 的最新進展，該審查正就個人獨立付款（PIP）制度進行研究。Jimothy 也有亮相——這隻殘疾浣熊曾在網上走紅。\n\n主持及製作：Emma Tracey\n\n系列製作人及主持的朋友：Beth Rose\n\n聲音混音：Neil Churchill\n\n編輯：Damon Rose\n\n節目網站\n\n顯示較少\n\n更多節目\n\nCymraeg\n\nGaeilge\n\nGàidhlig\n\nBBC Sounds 協助\n\n聯絡、私隱及資訊\n\n登入協助\n\n通訊\n\n探索 BBC\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n飲食\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\n私隱政策\n\nCookie 政策\n\nCookie 政策\n\n無障礙協助\n\n家長指引\n\n聯絡 BBC\n\n提出編輯投訴\n\n招聘\n\nBBC 電郵\n\n與我們合作\n\n版權 © 2026 BBC。\nBBC 對外部網站的內容不承擔責任。\n\n了解我們的外部連結處理方式。"
     },
     {
       "title": "「我們無處可留」：殘疾人士面臨的假期困境",
       "url": "https://www.bbc.co.uk/news/articles/c5y6dl612r3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-23T23:00:24.000Z",
-      "summary": "理查德·道格拉斯患有一種罕見的遺傳疾病，他說在北愛爾蘭找到可以休息的地方被證明是困難的。",
+      "summary": "理查德·道格拉斯患有一種罕見的遺傳疾病，他表示在北愛爾蘭找到可以休息的地方被證實相當困難。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -352,37 +379,37 @@
           "alt": "A woman is taking a picture on her smartphone of the Dark Hedges in County Antrim. Her face is obscured but she appears to be wearing glasses and has dark  hair."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8790/live/66f90e00-95ea-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Man wearing blue shirt pointing to buildings behind him."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/726d/live/62b931e0-9620-11f1-870d-5d08c49babb2.jpg",
+          "alt": "The Perseids meteor shower with the Milky Way galaxy."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6757/live/c3f61c00-95c8-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "Vanessa holding up a pair of solar eclipse glasses to her face and smiling."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/30a0/live/3f512740-964c-11f1-870d-5d08c49babb2.jpg",
+          "alt": "A woman with long red hair looks at someone off-camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f5e9/live/8511c090-95ad-11f1-870d-5d08c49babb2.jpg",
-          "alt": "An image of migrants wearing red lifejackets in an inflatable boat, in BBC Verify branding."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4bf9/live/8a8d4a60-960e-11f1-870d-5d08c49babb2.jpg",
+          "alt": "Tupac Shakur wearing a blue bandana and a blue and white shirt."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/64f7/live/8113c780-9577-11f1-870d-5d08c49babb2.jpg",
-          "alt": "Image os Tupac Shakur wearing a blue bandana and a brown leather vest over a spotty white shirt."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a908/live/dc20e520-9641-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "A woman places money in a gold piggy bank"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1524/live/b5722bf0-9565-11f1-870d-5d08c49babb2.jpg",
-          "alt": "A woman with long blonde hair wearing a grey top."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d3a3/live/f6a42c60-963a-11f1-b2ab-0dd01740f9f6.jpg",
+          "alt": "A man with short hair wearing a dark suit stands at the door of a plane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9175/live/c3b56a50-9598-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Woman with long blonde hair wearing solar eclipse glasses"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2bef/live/afe965c0-9643-11f1-a7ab-8b30adf0800a.jpg",
+          "alt": "A man in a blue t-shirt doing yoga"
         }
       ],
-      "bodyZh": "「我們根本沒有地方可住」：殘疾人士面對的度假困境\n\n度假對 Richard Douglas 非常重要，但找到能夠容納他的住宿已變得愈來愈困難。\n\nRichard 患有杜興氏肌肉營養不良症（DMD）——一種罕見的遺傳疾病，會導致肌肉無力，並隨時間惡化。\n\n他需要專業設備，例如能讓他從輪椅轉移到床上的升降機，或協助他使用浴室的器材。\n\n然而，規劃度假時，即使在北愛爾蘭的家裏，他說「真的沒有適合我需要的地方」。\n\n在發病初期，他能夠與家人一起享受國外旅行，但多年來他逐漸失去了移動身體的能力。\n\n「這些年來我們找到了一些很不錯的地方，但北愛爾蘭真的沒有適合我需要的地方，」他解釋道。\n\n「真的沒有我們可以住的地方。」\n\n為殘疾人士打造度假空間\n\n為此，Richard 現正籌集足夠資金，興建度身訂造的海濱住宿，讓殘疾人士及其摯愛能夠在北愛爾蘭享有他們應得的假期。\n\n他在Republic of Ireland County Donegal 的 Culdaff 入住類似住宿後受到啟發。\n\n「很多需要輪椅的人——他們無法乘搭飛機——實在太不方便了——所以有本地的地方非常重要，」確診時只得三歲的 Richard 說道。\n\nRichard 認為，北愛爾蘭缺乏足夠支援，讓像他一樣的人能夠度假。\n\n「法律只要求合理調整，但對像我這樣的人來說遠遠不夠——你需要升降機和特殊床才能真正可行，」他說。\n\n法律怎麼說？\n\n北愛爾蘭平等委員會平等發展經理 Paul Oakes 表示，服務供應商必須作出任何被視為合理調整的安排，讓殘疾人士能夠使用他們的服務。\n\n這一規定源自1995年《殘疾歧視法》。\n\nPaul 說，問題的關鍵在於調整必須是合理的。\n\n「合理與否取決於調整的成本、渡假供應商可用的資源等因素——例如大型渡假供應商會被期望做得更多、花費更多，而經營 Airbnb 的人可能就不需要，」他說。\n\n「殘疾與其他平等問題不同。\n\n「殘疾問題完全關乎個人，每個人都不一樣——即使有相同殘疾的人，他們受到的影響及因此產生的需求也可能截然不同。\n\n「所以，你不能有一部過於硬性規定的法律，因為你所面對的是有個人需求的個人。」\n\nRichard 的母親 Sharon Douglas 說，能夠到 County Donegal 度假對全家人都很重要。\n\n「當我們能夠入住專門建造的住宿，配有 Richard 需要的所有設備時——這對 Richard 來說太棒了，但實際上，對於照顧 Richard 的整個家庭來說也非常美好，」她說。\n\n「這可能非常緊張、非常吃力，我們很多人都花很多時間待在家裏——所以能夠去不同的地方——轉換一下環境，確實能讓我們所有人煥然一新。\n\n「照顧 Richard 的工作是全天候24小時進行的——但能夠擁有那一絲正常生活的片段——能夠外出，享受幾天離開家的時光，實在太棒了。」\n\n經濟部發言人表示，Tourism NI 通過鼓勵住宿供應商考慮訪客的多樣化需求，支援「包容性旅遊業」。\n\n他們還表示，訪客在使用 Tourism NI 消費者網站時可以根據無障礙需求篩選住宿。\n\n然而，他們補充說，「法規規定了旅遊住宿的最低標準」，但「殘疾人士通道並未被這些法規特別涵蓋，因為它屬於其他法規的範疇」。"
+      "bodyZh": "殘疾人士無障礙通道：「北愛爾蘭真的沒有適合我的度假地方」\n\n度假對 Richard Douglas 非常重要，但找到能夠容納他的住所已變得愈來愈困難。\n\nRichard 患有杜興氏肌肉營養不良症（DMD）——一種罕見的遺傳疾病，會導致肌肉無力並隨時間惡化。他需要升降機等專業設備，以便從輪椅轉移到床鋪，或協助他使用浴室。\n\n然而，當計劃度假時，即使在北愛爾蘭的家，他說：「真的沒有任何地方適合我的需要。」\n\n患病初期，他能夠與家人一起享受國外旅行，但多年來他逐漸失去了移動身體的能力。\n\n他解釋：「多年來我們找到了一些真的很棒的地方，但北愛爾蘭真的沒有適合我需要的地方。這裡真的沒有我們可以入住的地方。」\n\n為殘疾人士打造度假空間\n\n為此，Richard 決心籌集足夠的資金，建造量身定制的海濱住宿，讓殘疾人士及其親友能夠在北愛爾蘭獲得他們應得的假期體驗。\n\n他在愛爾蘭共和國多尼戈爾郡 Culdaff 參觀並入住類似住宿後受到了啟發。\n\nRichard 三歲時確診 DMD，他說：「很多使用輪椅的人——他們無法乘搭飛機——實在太不方便了——所以有一個本地地方非常重要。」\n\nRichard 認為北愛爾蘭對像他那樣的人提供的度假支援並不足夠。\n\n他說：「法律規定的是合理調整，但對像我这样的人來說這遠遠不夠——你需要升降機和床鋪才能真正實行。」\n\n法律怎麼說？\n\n北愛爾蘭平等委員會平等發展經理 Paul Oakes 表示，服務提供者必須作出任何被視為合理調整的措施，以便殘疾人士能夠使用他們的服務。\n\n該規定源自 1995 年《殘疾歧視法案》。\n\nPaul 說，真正的問題在於調整必須是合理的。\n\n他說：「合理與調整的成本、度假提供者可用的資源等因素有關——例如大型度假提供者預期會比經營 Airbnb 的人做更多、花費更多。」\n\n「殘疾不同於任何其他平等問題。\n\n當你看待殘疾時，一切都關乎個人，每個人都不同——即使有相同殘疾的人士，其影響及因此產生的需求也可能非常不同。\n\n因此，你不能有過於僵化的法律，因為你要應對的是有個人需求的個人。」\n\nRichard 的母親 Sharon Douglas 說，能夠前往多尼戈爾郡度假對整個家庭都很重要。\n\n她說：「當我們能夠入住專門建造的住宿，配有 Richard 需要的所有設備時——這對 Richard 太棒了，但實際上，對照顧 Richard 的整個家庭來說也很棒。」\n\n「這可能非常緊張、非常耗費精力，而且我們很多人都花很多時間待在家裡——所以能夠去不同的地方——換個環境，只是給我們所有人一個提振。」\n\n「照顧 Richard 的工作全天候 24 小時進行——但能夠離開家、享受幾天外出時光，擁有那一絲正常的感覺，實在是太棒了。」\n\n經濟部發言人表示，旅遊北愛爾蘭支持「包容性旅遊業，鼓勵住宿提供者考慮遊客的多樣化需求」。\n\n他們還表示，遊客在使用旅遊北愛爾蘭消費者網站時可以根據無障礙需求篩選住宿。\n\n然而，他們補充說，「法規列出了旅遊住宿的最低標準」，但「殘疾人士無障礙通道並不在這些法規的特定涵蓋範圍內，因為它屬於其他法規管轄」。"
     },
     {
-      "title": "成長過程中患有ADHD特質的隱藏健康影響",
+      "title": "成長過程中ADHD特質帶來的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項大型、持續數十年的研究表明，童年的ADHD跡象可能帶來超越學校和行為的長期後果。研究人員追蹤了近11,000人從童年到中年，發現10歲時有強烈ADHD特質的人，在中年時更可能出現多種身體健康問題和健康相關的殘疾。",
+      "summary": "一項大型長期研究顯示，ADHD在童年的跡象可能產生超越學校和行為的後果。研究人員追蹤近11,000人從童年到中年，發現10歲時有強烈ADHD特質者，更可能在中年出現多種身體健康問題及健康相關殘疾。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -395,13 +422,13 @@
           "alt": "ADHD in Childhood Can Affect Adult Health"
         }
       ],
-      "bodyZh": "兒時ADHD特質與隱藏的健康影響｜ScienceDaily\n\n跳至主內容\n\n最新研究資訊來源\n\n追蹤我們：\n\nFacebook\n\nX/Twitter\n\n訂閱：\n\nRSS摘要\n\n電子報\n\n全新！免費訂閱我們的電郵通訊。\n\n\n\n科學新聞\n\n來自各大研究機構\n\n兒時ADHD特質與隱藏的健康影響\n\n日期：\n\n2026年1月24日\n\n來源：\n\n倫敦大學學院\n\n摘要：\n\n一項歷時數十年的大型研究表明，兒童時期的ADHD跡象可能產生超越學業和行為的長期後果。研究人員追蹤近11,000人從童年到中年，發現10歲時有明顯ADHD特質的人，到40多歲時更可能出現多種身體健康問題及與健康相關的殘疾。\n\n分享：\n\nFacebook\n\nTwitter\n\nPinterest\n\nLinkedIN\n\n電郵\n\n全文\n\nADHD特質在童年與中年身體健康問題及殘疾風險較高相關｜Shutterstock\n\n根據倫敦大學學院（UCL）與利物浦大學研究人員領導的一項大型長期研究，10歲時顯現ADHD特質的兒童，到46歲時更可能出現身體健康問題及與健康相關的殘疾。\n\n研究人員表示，結果很可能反映了ADHD所伴隨的多種健康風險，以及ADHD患者在整個成年期獲得的治療和支援的長期影響。\n\n研究已發表於JAMA Network Open，是最大型且持續時間最長的研究之一，探討兒童期ADHD特質與日後身體健康的關聯。\n\n終身健康挑戰的證據\n\n資深作者、UCL心理學與語言科學系Joshua Stott教授表示：「我們在此為這套令人擔憂的證據庫再添一筆——ADHD患者一生中較普通人更可能經歷較差的健康狀況。\n\n「ADHD患者在適當支援下可以發揮所長，但這類支援往往不足，部分原因是針對性的支援服務匱乏，亦因為ADHD仍未被充分診斷，尤其在中年以上人士，其需求得不到關注。」\n\nADHD如何影響日常功能\n\nADHD患者在注意力方面存在差異，同時伴有較高的過動或衝動程度。許多人精力充沛，能對感興趣的活動高度專注，但在應對常規或較乏味的任務時則可能難以集中。\n\n這些困難會影響規劃、時間管理和衝動控制。長遠而言，這可能令學業和工作更加艱難，增加社交和職業方面長期困難的風險。\n\nADHD始於童年，儘管現時已廣泛確認它常延續至成年，但英國成年人接受的治療遠少於其他高收入國家，支援服務亦依然有限。\n\n數十年的健康結果追蹤\n\n為研究長期影響，研究人員分析了UCL主導的1970年英國世代研究中10,930名參加者的數據，該研究從出生開始追蹤個人至中年。\n\nADHD特質採用參加者10歲時由家長和教師填寫的行為問卷進行評估，無論參加者是否曾接受正式ADHD診斷，均使用這些測量結果。\n\n慢性病和殘疾比率較高\n\n研究發現，兒童期ADHD特質較高的人士，到46歲時更可能報告身體健康問題。他們報告兩種或以上疾病（包括偏頭痛、背部問題、癌症、癲癇或糖尿病）的概率高出14%。\n\n在10歲時有明顯ADHD特質的參加者中，42%在中年時報告至少兩種身體健康問題。相比之下，ADHD特質得分較低的參加者中，有37%報告同樣情況。\n\n兒童期ADHD特質較高的參加者，在46歲時亦更可能報告與身體健康相關的殘疾（即因身體健康問題而無法正常工作或日常活動）。\n\n健康差異的可能原因\n\n研究人員發現，身體健康結果較差部分與ADHD患者中較高的心理健康問題發生率、較高的BMI及吸煙率有關。\n\n先前研究亦顯示，ADHD患者較易經歷壓力性生活事件和社會排斥，亦較難獲得適時的醫療篩查和護理。\n\n兒童期ADHD特質與身體健康相關殘疾之間的關聯，在女性中似乎較男性更強。\n\nStott教授補充：「所有這些可能的解釋因素都與以下事實相符：ADHD令衝動控制更加困難、即時滿足和回報的需求更加強烈，同時亦因ADHD患者面對的社會弱勢地位，而與較差的心理健康狀況相關。」\n\n對支援和公共衛生的啟示\n\n同一研究團隊去年發表的另一項研究報告，ADHD成人確診者可能出現預期壽命縮短的情況，儘管該發現並非本研究的組成部分。\n\n通訊作者Amber John博士（在轉至利物浦大學前於UCL開始此項研究）強調適當支援的重要性：「重要的是，ADHD患者是一個多元群體，擁有各式各樣的長處和經歷，大多數人將會過上長壽、健康的生活。\n\n「然而，許多人在及時診斷和適切支援方面面臨重大障礙。這一點至關重要，因為為ADHD患者提供適切支援並滿足其需求，有助改善他們的身體和心理健康結果。\n\n「此外，公共衛生策略應考慮ADHD患者的需求，例如令篩查計劃和持續健康監測對ADHD患者更為可及。」\n\n相關主題\n\n健康與醫學\n\n糖尿病\n\n專注力不足/過度活躍症\n\n疾病與症狀\n\n個人化醫療\n\n心靈與大腦\n\nADHD與ADD\n\n學習障礙\n\n頭痛\n\n教育心理學\n\n相關詞彙\n\n心理學\n\n工作狂\n\n學習障礙\n\n解剖學\n\n攻擊性\n\n精神疾病\n\n邊緣系統\n\n教育\n\n故事來源：\n\n倫敦大學學院提供的材料。\n注：內容可能因風格及篇幅而有所編輯。\n\n期刊參考：\n\nJoshua Stott、Elizabeth O'Nions、Lucy Corrigan、Joanne Cotton、Warren James Donnellan、Danielle Nimmons、Henry Shelford、Céline El Baou、Gavin R. Stewart、Rachael W. Cheung、Roopal Desai、Douglas G. J. McKechnie、Aphrodite Eshetu、Rob Saunders、Jae Won Suh、William Mandy、Darya Gaysina、Philip Asherson、Jessica Agnew-Blais、Amber John。\n《兒童期專注力不足/過度活躍症特質與中年身體健康》。\nJAMA Network Open，2026年；9（1）：e2554802。\nDOI：10.1001/jamanetworkopen.2025.54802\n\n引用本頁：\n\nMLA\n\nAPA\n\n芝加哥\n\n倫敦大學學院。「兒時ADHD特質與隱藏的健康影響」。ScienceDaily。ScienceDaily，2026年1月24日。\n\n倫敦大學學院。（2026年1月24日）。「兒時ADHD特質與隱藏的健康影響」。ScienceDaily。於2026年8月10日擷取自www.sciencedaily.com/releases/2026/01/260124073920.htm\n\n探索更多\n\n來自ScienceDaily\n\n相關報道\n\n中年時的維生素D水平或可塑造數十年後的大腦\n\n2026年4月7日 —\n\n中年時的維生素D水平對長遠大腦健康的影響可能比先前所知更大。在一項跟進近800人超過16年的研究中，那些中年時維生素D水平較高的人……\n\n真的有所謂的中年危機嗎？新研究顯示，只有高技能工人的工作滿足感呈U形曲線\n\n2025年1月9日 —\n\n與長期以來認為中年危機困擾所有人的觀點相反，新研究表明，只有管理和專業人員的工作滿足感才呈U形軌跡。\n\n研究顯示，學年中較年幼的學童較同年齡較大的同學更常被診斷患有ADHD\n\n2024年6月6日 —\n\n新研究發現，教師可能將兒童因年齡相關的不成熟表現，歸因於專注力不足/過度活躍症（ADHD）或自閉症譜系障礙等症狀。\n\n新計劃改善了專注力不足/過度活躍症的檢測和評估\n\n2024年4月1日 —\n\nADHD是兒科神經行為障礙中最常見的一種，學齡兒童發病率約為7%至10%。ADHD顯著影響……\n\n30年研究顯示兒童肥胖和體能與中年認知能力的關聯\n\n2022年6月16日 —\n\n一項追蹤1985年為兒童的1,200多人超過30年的研究發現，兒童時期的體能表現和肥胖狀況對中年認知能力的影響……\n\n研究表明，中風治療對現有殘疾或癡呆症患者安全有效\n\n2022年3月28日 —\n\n研究審查發現，對已有殘疾或癡呆症的缺血性中風患者進行溶栓治療和機械取栓術，其安全性和有效性與其他成年人相若。\n\n本週熱門主題\n\n健康與醫學\n\n心臟病\n\n糖尿病\n\n高血壓\n\n心靈與大腦\n\n社會心理學\n\n智力\n\n學習障礙\n\n生活與福祉\n\n性別差異\n\n靈性\n\n行為\n\n稀奇古怪\n\n健康與醫學\n\n科學家稱僅7天冥想即可重塑大腦\n\n維生素C可能抗擊癌症——但並非科學家先前所想的方式\n\n挺直腰背可能改善情緒和決策能力\n\n心靈與大腦\n\n你的腸道可能協助大腦決定該記住什麼\n\n你的夢並非隨機——你的大腦正在重寫現實\n\n走進後室：互聯網上最詭異的地方正成為旅遊景點\n\n生活與福祉\n\n新微波炸製方法可令薯條更健康\n\n每日纖維補充劑減少膝關節炎疼痛並改善力量\n\n人工智能協助史丹福科學家發現「天然Ozempic」，且無常見副作用\n\n（本報道節錄自ScienceDaily）"
+      "bodyZh": "兒時ADHD特質的隱藏健康影響\n\n日期：2026年1月24日\n\n來源：University College London\n\n摘要：\n\n一項歷時數十年的大型研究表明，兒童時期的ADHD跡象可能產生遠超學業和行為層面的後果。研究人員追蹤了近11,000人從童年到中年，發現那些在10歲時具有較強ADHD特質的人，到中年時期更可能出現多種身體健康問題及與健康相關的殘疾。\n\n根據一項大型長期研究，兒童時期的ADHD特質與中年時期較高的身體健康問題及殘疾風險相關。\n\n由University College London（UCL）及University of Liverpool研究人員領導的這項研究發現，10歲時表現出ADHD特質的兒童，到46歲時更可能出現身體健康問題及與健康相關的殘疾。\n\n研究人員表示，結果可能反映了與ADHD相關的廣泛健康風險，以及ADHD患者在整個成年期獲得治療和支持的長期影響。\n\n發表於JAMA Network Open的這項研究，是最大規模、最長期追蹤的研究之一，探討兒童時期ADHD特質與晚年身體健康之間的關聯。\n\n終身健康挑戰的證據\n\n資深作者、UCL心理學與語言科學系Joshua Stott教授表示：「我們在這裡補充了令人擔憂的證據基礎，證明ADHD患者在一生中更可能經歷比平均水平更差的健康狀況。ADHD患者在適當支持下可以茁壯成長，但這往往不足，一方面是因為缺乏專門的支援服務，另一方面是因為ADHD仍然被低估診斷，特別是在中年及較年長的人群中，他們的需求未獲關注。」\n\nADHD如何影響日常功能\n\nADHD患者在注意力方面存在差異，同時有較高的過動或衝動水平。許多人精力充沛，能高度專注於引起興趣的活動，但可能在常規或較乏味的任務上難以保持專注。\n\n這些挑戰會影響計劃、時間管理和衝動控制。長期下來，這可能使學業和工作更加困難，增加長期社交和職業困難的風險。\n\nADHD始於兒童時期，儘管現在人們普遍認識到它常會持續到成年，但英國成年人接受的治療比其他高收入國家少。支援服務同樣有限。\n\n數十年的健康結果追蹤\n\n為檢視長期影響，研究人員分析了UCL主導的1970年英國隊列研究中10,930名參與者的數據，該研究從出生開始追蹤個人直至中年。\n\nADHD特質採用家長和教師在參與者10歲時完成的行为問卷進行評估，無論參與者是否曾確診ADHD，均使用這些測量結果。\n\n更高的慢性病及殘疾比率\n\n研究發現，兒童時期ADHD特質較高水平的人，到46歲時更可能報告身體健康問題。他們報告兩種或以上疾病（包括偏頭痛、背部問題、癌症、癲癇或糖尿病）的機率高出14%。\n\n在10歲時ADHD特質較高的受訪者中，42%在中年報告至少兩種身體健康問題。相比之下，ADHD特質得分較低的受訪者中，37%報告了同樣情況。\n\n兒童時期ADHD特質較高的參與者，在46歲時也更可能報告與身體健康相關的殘疾（因身體健康問題而報告工作或其他日常活動受限）。\n\n健康差異的可能原因\n\n研究人員發現，較差的身體健康結果部分與ADHD患者較高的心理健康問題發生率、BMI升高及吸煙率較高有關。\n\n先前的研究也表明，ADHD患者更可能經歷緊張的生活事件和社會排斥，且較不可能獲得及時的醫療篩查和護理。\n\n兒童時期ADHD特質與身體健康相關殘疾之間的關聯，在女性中似乎比男性更強。\n\nStott教授補充：「所有這些潛在的解釋因素都與ADHD使衝動控制更加困難、即時滿足和回報需求更加強烈的事實相符，同時也與ADHD患者因面臨的社會劣勢而導致的心理健康問題有關。」\n\n對支援及公共健康的影響\n\n同一研究團隊去年發表的另一項研究報告了確診ADHD的成年人可能壽命縮短，但此發現不在本研究的範圍內。\n\n通訊作者Amber John博士（在轉至University of Liverpool前於UCL開始此研究）強調適當支援的重要性：「需要注意的是，ADHD患者是一個多元群體，有各種不同的優勢和經驗，大多數人將過上長壽、健康的生活。然而，許多人面臨及時診斷和適當支援的重大障礙。這一點很重要，因為為ADHD患者提供正確的支援並滿足他們的需求，有助於改善他們的身體和心理健康結果。此外，公共健康策略應考慮ADHD患者的需求，例如使篩查計劃和持續健康監測對ADHD患者更加便利。」"
     },
     {
-      "title": "研究發現ADHD特質與更好的心理健康相關",
+      "title": "研究人員發現ADHD優勢與心理健康改善相關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示了ADHD更光明的一面，表明認識並善用自身優點的成年人會更快樂、更健康、壓力更小。ADHD患者更可能將創造力、幽默感和超專注等特質視為個人優勢。總體而言，發揮這些優勢與更好的生活品質和更少的心理健康問題相關。",
+      "summary": "新研究揭示了ADHD更光明的一面，顯示承認並運用自身優勢的成年人更快樂、更健康、壓力更小。ADHD患者更傾向於將創造力、幽默和超專注等特質識別為個人優勢。總體而言，運用這些優勢與更好的生活品質和更少的心理健康問題相關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -414,13 +441,13 @@
           "alt": "ADHD Strengths Linked to Better Mental Health"
         }
       ],
-      "bodyZh": "研究人員發現ADHD的強項與更佳心理健康有關\n\n日期：2025年12月31日\n\n來源：University of Bath\n\n摘要：\n\n新研究揭示了ADHD較為光明的一面，顯示善用自身強項的成年人更快樂、更健康、壓力更小。ADHD患者更傾向將創造力、幽默感及專注過度集中等特質視為個人強項。整體而言，運用這些強項與生活品質提升及較少心理健康症狀有關聯。此研究顯示擁抱自身強項或許能成為ADHD支援的重大轉捩點。\n\n研究概述\n\n根據一項新國際研究，ADHD成年人若能覺察自身個人強項並積極運用，普遍會報告整體幸福感更佳、生活品質更高，以及心理健康挑戰更少。\n\n研究於10月ADHD意識月期間發布，今年主題為「ADHD的多種面貌」。來自University of Bath、King's College London及荷蘭Radboud University Medical Center的科學家合作進行了首個大規模測量ADHD相關心理強項的研究。\n\n大型研究比較有ADHD及無ADHD成年人的強項\n\n發表於Psychological Medicine的研究檢視了200名確診ADHD的成年人及200名無ADHD的成年人。參加者需回答他們對25項正面特質的認同程度，包括創造力、幽默感、自發性及專注過度集中。研究人員將這些特質定義為「他們擅長或最擅長的事情」。\n\nADHD常被討論的內容包括衝動、健忘及難以維持專注力等困難。這項研究從不同角度出發，強調了覺察及運用強項的重要性。\n\nUniversity of Bath心理學系首席研究人員Luca Hargitai表示：「這些令人振奮的發現讓我們了解到哪些正面特質可能與ADHD相關，因此可被視為ADHD相關的強項。認識到ADHD雖與各種困難相關，但確實具有多個正面特質，這一點可以賦予人們力量。」\n\nADHD成年人更常認同的關鍵強項\n\n與無ADHD參加者相比，ADHD患者更強烈認同10項特定強項，包括：\n\n專注過度集中（對感興趣的任務深度專注）\n\n幽默感\n\n創造力\n\n自發性\n\n直覺敏銳\n\n即使ADHD成年人在工作、關係及心理健康方面面對眾所周知的挑戰，研究發現他們與神經典型參加者一樣，樂於覺察並在日常生活中運用自身強項。\n\n運用強項與兩組人士更佳心理健康相關\n\n在兩組參加者中，對自身強項覺察更深並更頻繁運用的人均報告了明確益處，包括：\n\n更高主觀幸福感\n\n更佳生活品質（涵蓋身體、心理、社交及環境範疇）\n\n焦慮、抑鬱及壓力症狀較少\n\nUniversity of Bath心理學副教授、資深作者Punit Shah博士表示：「我們的發現突顯了，知道我們具備某些技能和正面特質，並在適當時候運用這些強項，對我們的幸福感有益。這聽起來可能是顯而易見的，但既然我們的研究確認了這個假設，我們便能以此嶄新證據為基礎，設計心理支援方案。」\n\n支持ADHD護理中的強項為本方法\n\n研究結果為心理健康護理中的強項為本方法提供了更充分支持。雖然此框架在自閉症服務中日益常用，但在ADHD方面的關注仍相對較少。潛在應用包括心理教育計劃、教練指導，以及客製化治療，幫助人們更有效識別及運用自身強項。\n\nShah博士補充：「下一步是研究促進個人強項覺察與運用的介入措施，能否為ADHD成年人帶來心理健康方面的實質改善。ADHD及其他神經多樣人士長期以來一直倡議這一點，我們很高興能夠提供首批支持此觀點的研究之一。」\n\n為何比較ADHD與神經典型強項至關重要\n\n荷蘭Radboud University Medical Center的資深作者、助理教授Martine Hoogman強調，ADHD相關強項的研究仍在發展中。她指出，許多過往研究僅以ADHD患者為研究對象。\n\n「ADHD相關強項的研究仍處於早期階段。大多數研究只向ADHD患者詢問其強項，但我們也向神經典型人士提問。我們發現，沒有ADHD的人也認同許多相同的強項，儘管只有ADHD患者才會認同其中部分特質。這有助我們更好地理解ADHD強項。\n\n「向ADHD患者灌輸教育時，重要的是不僅要談及挑戰，還要談及他們的潛在強項，以提升生活品質並降低工作或教育方面的風險。」\n\n研究資助\n\n研究由英國經濟與社會研究委員會及荷蘭研究委員會資助。\n\n相關主題\n\n健康與醫學\n\n飲食與體重控制\n\n心理健康研究\n\n另類療法\n\n職業健康\n\n心智與大腦\n\n心理健康\n\n抑鬱症\n\n學習障礙\n\n自閉症\n\n相關詞彙\n\n心理疾病\n\n心理學\n\n成人注意力不足過動症\n\n工作狂\n\n營養學\n\n心理病理學\n\n生活品質\n\n空氣污染\n\n故事來源\n\nUniversity of Bath提供的材料。\n\n注意：內容或因風格及篇幅而被編輯。\n\n期刊參考：\n\nLuca D. Hargitai, Emma L. M. Laan, Lessa M. Schippers, Lucy A. Livingston, Graeme Fairchild, Punit Shah, Martine Hoogman.\nThe role of psychological strengths in positive life outcomes in adults with ADHD.\nPsychological Medicine, 2025; 55 DOI: 10.1017/S0033291725101232"
+      "bodyZh": "研究人員發現ADHD的優勢與更佳心理健康有關\n\n日期：2025年12月31日\n來源：University of Bath\n\n摘要：\n\n新研究揭示了ADHD更光明的一面，顯示能夠認識並運用自身優勢的成年人會感到更快樂、更健康，壓力也更小。ADHD患者更傾向於將創造力、幽默感和專注過度集中（hyperfocus）等特質視為個人優勢。整體而言，運用這些優勢與更佳的生活質量及較少的心理健康症狀相關聯。這項研究表明，善用優勢可能為ADHD支援工作帶來突破性的改變。\n\n成年ADHD患者若能發揮自身優勢，往往感覺更好、生活品質更高、掙扎更少——這為重新審視ADHD提供了一個有力的新方向。\n\n根據一項新的國際研究，意識到自己個人優勢並積極運用這些優勢的ADHD成年人，普遍報告整體幸福感更佳、生活品質更高、心理健康問題更少。\n\n這項研究於10月「ADHD意識月」期間發布，今年的主題是「ADHD的多種面貌」。來自University of Bath、King's College London及荷蘭Radboud University Medical Center的科學家合作開展了首次大規模測量ADHD相關心理優勢的研究。\n\n大型研究比較ADHD與非ADHD成年人的優勢\n\n這項發表於《Psychological Medicine》的研究調查了200名確診ADHD的成年人及200名非ADHD成年人。參加者被問及他們對25項正面特質的認同程度，包括創造力、幽默感、自發性及專注過度集中等。研究人員將這些特質定義為「他們做得很好或最擅長的事情」。\n\nADHD通常以困難層面來討論，如衝動、健忘及專注持續困難等。這項研究從不同角度出發，強調認識和利用優勢的重要性。\n\nUniversity of Bath心理學系首席研究員Luca Hargitai表示：「這些令人振奮的發現讓我們了解到哪些正面特質可能與ADHD相關，因此可以被視為ADHD相關的優勢。認識到ADHD雖然伴隨各種困難，但確實擁有多項正面特質，這一點可以帶來很大的賦權感。」\n\nADHD成年人更常認可的主要優勢\n\n與非ADHD參加者相比，ADHD患者更強烈地認同10項特定優勢，包括：\n\n專注過度集中（對感興趣任務的深度專注）\n幽默感\n創造力\n自發性\n直覺力\n\n儘管ADHD成年人常在工作、關係及心理健康方面面對有據可查的挑戰，研究發現他們在日常生活中的優勢認識和使用方面，與神經典型參加者一樣積極。\n\n運用優勢與兩組人的更佳心理健康相關\n\n在兩組人中，對自身優勢有更強認識且更頻繁應用這些優勢的人，都報告了明顯益處，包括：\n\n更高的主觀幸福感\n更好的生活品質（涵蓋身體、心理、社會及環境領域）\n焦慮、抑鬱及壓力症狀較少\n\nUniversity of Bath心理學副教授、資深作者Punit Shah博士表示：「我們的發現強調，認識到自己擁有某些技能和正面特質，並在適當時運用這些優勢，對我們的幸福感是有益的。這聽起來可能顯而易見，但既然我們的研究證實了這一假設，我們就可以開始根據這些嶄新證據來設計心理支援方案。」\n\n支持ADHD護理中以優勢為本的方法\n\n研究結果為心理健康護理中的優勢為本方法提供了更有力的支持。雖然這種框架在自閉症服務中越來越普遍，但在ADHD領域受到的關注相對較少。潛在應用包括心理教育計劃、 coaching（教練輔導）及定制療法，幫助人們更有效地識別和運用自身優勢。\n\nShah博士補充道：「下一步是研究促進個人優勢認識和使用的介入措施，是否能為ADHD成年人帶來心理健康方面的切實改善。ADHD患者和其他神經多樣性人士長期以來一直在倡導這一點，我們很高興能夠提供首批支持這一觀點的研究之一。」\n\n為何比較ADHD與神經典型優勢很重要\n\n荷蘭Radboud University Medical Center助理教授、資深作者Martine Hoogman強調，ADHD相關優勢的研究仍在發展階段。她指出，許多過往研究只聚焦於ADHD患者。\n\n「ADHD相關優勢的研究仍處於早期階段。大多數研究只詢問ADHD患者自身的優勢，但我們也詢問了神經典型人士。我們發現，沒有ADHD的人也能認可許多相同的優勢，儘管只有ADHD患者會認同其中某些特質。這有助於我們更好地理解ADHD的優勢。\n\n「重要的是，不僅要教育ADHD患者了解他們面對的挑戰，還要讓他們認識自己的潛在優勢，從而改善生活品質並降低在工作或教育環境中的風險。」\n\n研究資助\n\n這項研究由英國經濟與社會研究委員會及荷蘭研究委員會資助。\n\n期刊參考：\n\nLuca D. Hargitai, Emma L. M. Laan, Lessa M. Schippers, Lucy A. Livingston, Graeme Fairchild, Punit Shah, Martine Hoogman.\nThe role of psychological strengths in positive life outcomes in adults with ADHD.\nPsychological Medicine, 2025; 55 DOI: 10.1017/S0033291725101232"
     },
     {
-      "title": "我們對ADHD藥物的認識有誤",
+      "title": "ADHD藥物的作用機制與我們所想不同",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD興奮劑似乎並非主要透過提升專注力來運作，而是喚醒大腦。腦部掃描顯示，這些藥物會激活獎勵和警覺系統，幫助兒童對通常會回避的任務保持興趣。這些藥物甚至逆轉了與睡眠剝奪相關的大腦模式。研究人員表示，這可能使ADHD診斷變得更加複雜。",
+      "summary": "ADHD興奮劑似乎並非通過提高專注力來發揮作用，而是通過喚醒大腦。腦部掃描顯示，這些藥物激活獎勵和警覺系統，幫助兒童對他們通常會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠剝奪相關的腦部模式。研究人員表示，這可能使ADHD診斷變得複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -433,13 +460,13 @@
           "alt": "ADHD Drugs Don’t Work the Way We Thought"
         }
       ],
-      "bodyZh": "ADHD藥物作用機制與既有認知不同 | ScienceDaily\n\n跳至主內容\n\n最新研究資訊來源\n\n關注：\n\nFacebook\n\nX/Twitter\n\n訂閱：\n\nRSS Feed\n\n電子報\n\n新功能！\n免費訂閱我們的電子報\n\n科學新聞\n\n來自研究機構\n\nADHD藥物作用機制與既有認知不同\n\nADHD藥物可能透過喚醒大腦來幫助兒童集中注意力，而非直接改善專注力。\n\n日期：\n\n2025年12月29日\n\n來源：\n\n聖路易斯華盛頓大學\n\n摘要：\n\n治療ADHD的興奮劑似乎並非透過增強專注來發揮作用，而是喚醒大腦。腦部掃描顯示，這些藥物會激活獎勵與警覺系統，幫助兒童對平時會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠不足相關的大腦模式。研究人員表示，若睡眠問題才是真正根本原因，這一發現可能使ADHD診斷變得複雜。\n\n分享：\n\nFacebook\n\nTwitter\n\nPinterest\n\nLinkedIN\n\n電子郵件\n\n完整報道\n\n腦部掃描顯示，治療ADHD的興奮劑並非如先前所想般直接改善注意力，反而令大腦更警覺、更有動力，有時甚至模擬了充足睡眠的效果。版權：Shutterstock\n\n處方興奮劑藥物如Ritalin及Adderall常用於治療專注力失調及過度活躍症（ADHD），兒童亦包括在內。在美國，估計有350萬名3至17歲兒童正服用ADHD藥物。隨着這種神經發育障礙的診斷日益普遍，該數字持續上升。\n\n數十年來，興奮劑藥物一直被認為透過直接影響負責專注力的大腦區域來發揮作用。聖路易斯華盛頓大學醫學院的一項新研究對此解釋提出質疑。該研究由神經學助理教授Benjamin Kay（醫學博士、博士）及David M. & Tracy S. Holtzman神經學教授Nico U. Dosenbach（醫學博士、博士）領導。研究結果表明，這些藥物主要影響與獎勵和清醒狀態相關的大腦系統，而非傳統上與注意力相關的神經網絡。\n\n這項研究於12月24日發表於《Cell》，指出興奮劑可能透過令ADHD患者感到更警覺、對正在做的事情更感興趣來提升表現。這些藥物並非直接增強專注力，而是似乎增加了對任務的投入程度。研究人員亦觀察到大腦活動模式與充足睡眠的效果相似，能抵消睡眠不足所帶來的典型大腦變化。\n\n「作為兒童神經科醫生，我經常處方興奮劑，一直以來所學的是它們能促進注意力系統，讓人對專注的對象有更多自主控制。」Kay說道，他於聖路易斯兒童醫院診治患者。「但我們已證明事實並非如此。我們觀察到的注意力改善，其實是兒童變得更警覺、覺得任務更有回報所帶來的次要效果，自然而然促使他們更專注。」\n\nKay表示，研究結果強調了在評估兒童ADHD時，需將睡眠質素與藥物治療一併考慮。\n\n腦部影像揭示意想不到的模式\n\n為了解興奮劑如何影響大腦，研究人員分析了5,795名8至11歲兒童的靜息態功能性磁力共振成像（fMRI）數據，這些兒童參加了「青少年大腦認知發展（ABCD）」研究。靜息態fMRI用於測量受試者在未執行特定任務時的大腦活動。ABCD研究是一項長期、多中心項目，追蹤美國超過11,000名兒童的大腦發育情況，其中包括WashU Medicine的一個研究點。\n\n團隊比較了在掃描當日有服用處方興奮劑的兒童與未服用者的大腦連接情況。有服用興奮劑的兒童，在與警覺及清醒狀態相關的大腦區域，以及與預測活動回報程度相關的區域，均顯示較強的活動。然而，掃描中並未顯示傳統上與注意力相關的區域有明顯增加。\n\n成人實驗印證研究發現\n\n研究人員在一項小型研究中驗證了他們的結果，該研究涉及5名身體健康且沒有ADHD、不常服用興奮劑的成年人。每位參與者在服用一劑興奮劑前後，分別接受靜息態fMRI掃描。這使團隊能精確追蹤大腦連接的變化。結果再次顯示，藥物激活的是獎勵和警覺網絡，而非注意力網絡。\n\n「基本上，我們發現興奮劑預先獎勵我們的大腦，讓我們能繼續專注於平常不會吸引我們的事情——例如學校裡最不喜歡的課。」Dosenbach說道。他解釋，興奮劑並非直接激活注意力中樞，而是令通常難以專注的任務變得更有回報感。那種增強的回報感可以幫助兒童堅持完成艱難且重複的活動。\n\nDosenbach補充道：「這些結果也為興奮劑如何治療過動症提供了一個可能的解釋，而這在以前看似是矛盾的。孩子們無法專注的任務——那些令他們坐立不安的任務——正是他們覺得沒有回報的任務。服用興奮劑後，他們能更好地坐定不動，因為他們不再站起來去找更好的事情做。」\n\nADHD治療、睡眠與表現\n\n在ABCD研究中，根據家長報告，服用興奮劑藥物的ADHD兒童學業成績較好，在認知測試中的表現亦優於未服藥的ADHD兒童。ADHD症狀較嚴重的兒童改善幅度最大。\n\n然而，這種益處並非每位兒童都能獲得。每晚睡眠少於建議的9小時或以上的參與者中，服用興奮劑者的成績優於未服藥的睡眠不足兒童。相反，在睡眠充足的典型發育兒童中，興奮劑則與表現提升無關。（目前尚不清楚這些孩子為何服用興奮劑藥物。）整體而言，興奮劑與認知表現提升之間的關聯，似乎只出現於ADHD兒童或睡眠不足的兒童身上。\n\n「我們看到，若參與者睡眠不足但有服用興奮劑，睡眠不足的大腦特徵就會消失，相關的行為及認知退化也會消失。」Dosenbach說道。\n\n掩蓋睡眠不足的潛在風險\n\n研究人員警告，在睡眠不足的情況下表現改善，可能帶來長遠後果。\n\n「睡眠不足永遠對身體有害，對兒童尤其如此。」Kay說道。他指出，疲倦的兒童可能表現出類似ADHD的症狀，包括難以在課堂上集中注意力或成績下滑。在某些情況下，當睡眠不足才是根本問題時，這可能導致誤診。興奮劑藥物或許能透過模擬充足睡眠的部分效果而看似有所幫助，但兒童仍會暴露於慢性睡眠不足的長期傷害之中。Kay敦促臨床醫生在ADHD評估中考慮睡眠不足問題，並探索改善睡眠的方法。\n\n待解的問題\n\nDosenbach與Kay表示，他們的發現突顯了有必要進一步研究興奮劑使用對大腦的長期影響。他們指出，興奮劑或許能在清醒時發揮修復作用，激活大腦的廢物清除系統。然而，若這些藥物被用來彌補持續的睡眠不足，亦可能造成持久的傷害。\n\nKay BP, Wheelock MD, Siegel JS, Raut R, Chauvin RJ, Metoki A, Rajesh A, Eck A, Pollaro J, Wang A, Suljic V, Adeyemo B, Baden NJ, Scheidter KM, Monk JS, Whiting FI, Ramirez-Perez N, Krimmel SR, Shinohara RT, Tervo-Clemmens B, Hermosillo RJM, Nelson SM, Hendrickson TJ, Madison T, Moore LA, Miranda-Domínguez O, Randolph A, Feczko E, Roland JL, Nicol GE, Laumann TO, Marek S, Gordon EM, Raichle ME, Barch DM, Fair DA, and Dosenbach NUF. Stimulant medications affect arousal and reward, not attention networks. Cell. Dec. 24, 2025. DOI: 10.1016/j.cell.2025.11.039\n\n此項工作獲得以下NIH補助資助：NS140256、EB029343、MH121518、MH129493、NS123345、NS098482、DA041148、DA04112、MH115357、MH096773、MH122066、MH121276、MH124567及NS129521；並獲National Spasmodic Dysphonia Association、Mallinckrodt Institute of Radiology pilot funding、University of Pittsburgh Dietrich School of Arts & Sciences的Andrew Mellon Predoctoral Fellowship，以及Extreme Science and Engineering Discovery Environment（XSEDE）Pittsburgh Supercomputing Center的項目資助（TG-IBN200009）。\n\n計算工作使用了Washington University Research Computing and Informatics Facility（RCIF）的設施。RCIF獲得NIH S10計劃補助資助：1S10OD025200-01A1及1S10OD030477-01。\n\n本文反映作者觀點，未必代表NIH或ABCD聯盟研究人員的意見或觀點。\n\n相關主題\n\n健康與醫學\n\n專注力失調\n\n今日醫療\n\n醫學影像\n\n醫療設備\n\n心智與大腦\n\nADHD與ADD\n\n學習障礙\n\n智力\n\n精神健康\n\n相關詞彙\n\n工作狂\n\n睡眠障礙\n\n睡眠窒息症\n\n睡眠\n\n阻塞性睡眠窒息症\n\n減肥藥\n\n晝夜節律睡眠障礙\n\n精神藥理學\n\n故事來源：\n\n材料由聖路易斯華盛頓大學提供。\n備註：內容可能因風格及篇幅而有所編輯。\n\n期刊參考：\n\nBenjamin P. Kay, Muriah D. Wheelock, Joshua S. Siegel, Ryan V. Raut, Roselyne J. Chauvin, Athanasia Metoki, Aishwarya Rajesh, Andrew Eck, Jim Pollaro, Anxu Wang, Vahdeta Suljic, Babatunde Adeyemo, Noah J. Baden, Kristen M. Scheidter, Julia S. Monk, Forrest I. Whiting, Nadeshka Ramirez-Perez, Samuel R. Krimmel, Russell T. Shinohara, Brenden Tervo-Clemmens, Robert J.M. Hermosillo, Steven M. Nelson, Timothy J. Hendrickson, Thomas Madison, Lucille A. Moore, Óscar Miranda-Domínguez, Anita Randolph, Eric Feczko, Jarod L. Roland, Ginger E. Nicol, Timothy O. Laumann, Scott Marek, Evan M. Gordon, Marcus E. Raichle, Deanna M. Barch, Damien A. Fair, Nico U.F. Dosenbach.\nStimulant medications affect arousal and reward, not attention networks.\nCell, 2025; 188 (26): 7529 DOI: 10.1016/j.cell.2025.11.039\n\n引用此文：\n\nMLA\n\nAPA\n\nChicago\n\n聖路易斯華盛頓大學。「ADHD藥物作用機制與既有認知不同」。ScienceDaily。ScienceDaily，2025年12月29日。\n\n聖路易斯華盛頓大學。（2025年12月29日）。ADHD藥物作用機制與既有認知不同。ScienceDaily。\n\n探索更多\n\n來自ScienceDaily的資訊\n\n相關報道\n\n晨光沐浴：自然光減輕早晨疲勞\n\n2025年4月14日—\n研究人員測試在醒來前將光線引入卧室是否能改善早晨清醒度，發現某個時長似乎有助於對抗疲勞並提高警覺性……\n\n同年入學的較年幼兒童較常被診斷為ADHD，而非較年長的同學——新研究顯示\n\n2024年6月6日—\n新研究發現，教師可能將兒童與年齡相關的不成熟表現，誤認為是……"
+      "bodyZh": "ADHD藥物的作用原理與我們以往認知不同 | ScienceDaily\n\n跳至主內容\n\n您的最新研究資訊來源\n\n關注：\n\nFacebook\n\nX/Twitter\n\n訂閱：\n\nRSS Feeds\n\n電子報\n\n新功能！\n免費訂閱我們的電郵通訊。\n\n科學新聞\n\n來自研究機構\n\nADHD藥物的作用原理與我們以往認知不同\n\n治療ADHD的藥物可能透過喚醒大腦來幫助兒童集中注意力，而非直接改善專注力本身。\n\n日期：\n\n2025年12月29日\n\n來源：\n\n聖路易斯華盛頓大學\n\n摘要：\n\nADHD興奮劑藥物似乎並非透過增強專注力來發揮作用，而是透過喚醒大腦。腦部掃描顯示，這些藥物會激活獎勵和警覺系統，幫助兒童對他們平時會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠不足相關的腦部模式。研究人員表示，如果睡眠問題才是真正的根本原因，這一發現可能會使ADHD診斷變得複雜。\n\n分享：\n\nFacebook\nTwitter\nPinterest\nLinkedIN\nEmail\n\n全文報導\n\n腦部掃描顯示，ADHD興奮劑藥物並非如以往所想般直接改善注意力。相反，它們使大腦更加警覺和更有動力，有時甚至模擬了充足睡眠的效果。圖片來源：Shutterstock\n\n處方興奮劑藥物如Ritalin和Adderall常用於治療注意力缺陷多動障礙（ADHD），兒童亦包括在內。在美國，估計有350萬名3至17歲的兒童服用ADHD藥物。隨著這種神經發育障礙的診斷日益普遍，該數字持續上升。\n\n數十年來，興奮劑藥物一直被認為透過直接影響負責注意力的大腦區域來發揮作用。聖路易斯華盛頓大學醫學院的一項新研究對這一解釋提出質疑。這項研究由神經學助理教授Benjamin Kay（醫學博士、博士）以及David M. & Tracy S. Holtzman神經學教授Nico U. Dosenbach（醫學博士、博士）領導。他們的發現表明，這些藥物主要影響與獎勵和清醒相關的大腦系統，而非傳統上與注意力相關的神經網絡。\n\n這項研究於12月24日發表在Cell期刊上，表明興奮劑可能透過使人們感到更加警覺、對正在做的事情更感興趣來改善表現。這些藥物似乎並非直接增強專注力，而是增加了對任務的投入程度。研究人員還觀察到類似充足睡眠效果的腦部活動模式，抵消了睡眠不足所帶來的典型腦部變化。\n\n「作為一名兒童神經科醫生，我開了很多興奮劑藥物，一直被教導說它們能促進注意力系統，讓人對專注的對象有更多自主控制權，」Kay說道，他在聖路易斯兒童醫院執業。「但我們已經證明事實並非如此。我們觀察到的注意力改善，其實是孩子更加警覺、覺得任務更有趣所帶來的次要效果，這自然幫助他們更加專注。」\n\nKay表示，這些結果強調了在評估兒童ADHD時，需要將睡眠質量與藥物治療一併考慮。\n\n腦部成像揭示意料之外的模式\n\n為檢視興奮劑如何影響大腦，研究人員分析了5,795名8至11歲兒童的靜息態功能性磁振造影（resting state fMRI）數據，這些兒童參加了青少年大腦認知發展（ABCD）研究。靜息態fMRI用於測量個人在沒有執行特定任務時的腦部活動。ABCD研究是一項長期、多中心項目，追蹤美國超過11,000名兒童的大腦發育情況，其中包括WashU Medicine的一個研究站點。\n\n研究團隊比較了掃描當日服用處方興奮劑的兒童與未服用者的腦部連接情況。服用興奮劑的兒童在與警覺和清醒相關的大腦區域表現出更強的活動，同時在預測活動獎勵程度的區域也有類似表現。相比之下，掃描並未顯示與注意力傳統相關的大腦區域有明顯增加。\n\n成人實驗證實研究發現\n\n研究人員在一項涉及5名健康成人的小型研究中驗證了他們的結果，這些成人本身沒有ADHD，亦通常不服用興奮劑藥物。每位參與者在服用一劑興奮劑前後分別接受了靜息態fMRI掃描。這使團隊能夠精確追蹤腦部連接的變化。研究結果再次表明，藥物激活的是獎勵和警覺網絡，而非注意力網絡。\n\n「基本上，我們發現興奮劑會預先獎勵我們的大腦，讓我們能夠繼續做一些通常無法引起我們興趣的事情——例如學校裡我們最不喜歡的科目，」Dosenbach解釋道。他說，興奮劑並非直接激活注意力中樞，而是讓那些通常難以專注的任務變得更具獎勵感。這種增強的獎勵感可以幫助兒童堅持完成具有挑戰性和重複性的活動。\n\n「這些結果也為興奮劑如何治療多動症提供了一個可能的解釋，而這在之前似乎難以理解，」Dosenbach補充道。「無論孩子無法專注的任務——那些讓他們坐立不安的任務——都是他們認為沒有回報的任務。服用興奮劑後，他們能更好地坐著不動，因為他們不再起身去找更好的事情做。」\n\nADHD治療、睡眠與表現\n\n根據家長報告，在ABCD研究中，服用興奮劑藥物的ADHD兒童學業成績較好，在認知測試中的表現亦優於未服用興奮劑的ADHD兒童。ADHD症狀較嚴重的兒童改善幅度最大。\n\n然而，並非所有兒童都觀察到這種益處。在每晚睡眠少於建議的9小時或以上的參與者中，服用興奮劑者的成績優於未服藥的睡眠不足兒童。相比之下，在睡眠充足的典型發育兒童中，興奮劑與改善表現並無關聯。（目前尚不清楚這些孩子為何服用興奮劑藥物。）總體而言，興奮劑與認知表現改善之間的關聯僅出現在ADHD兒童或睡眠不足的兒童身上。\n\n「我們看到，如果參與者睡眠不足但服用了興奮劑，睡眠不足的腦部特徵就會消失，相關的行為和認知退化也會隨之消除，」Dosenbach說道。\n\n掩蓋睡眠不足的潛在風險\n\n研究人員警告說，在睡眠不足的情況下表現更好，可能伴隨長期的後果。\n\n「睡眠不足總是對健康有害，對兒童尤其如此，」Kay說。他指出，睡眠不足的兒童可能表現出類似ADHD的症狀，包括在課堂上難以集中注意力或成績下降。在某些情況下，這可能導致誤診，因為睡眠不足才是潛在問題。興奮劑藥物可能透過模擬充足睡眠的部分效果而看似有幫助，但兒童仍然暴露於慢性睡眠不足的長期危害之中。Kay敦促臨床醫生在ADHD評估中考慮睡眠不足問題，並探索改善睡眠的方法。\n\n待解的問題\n\nDosenbach和Kay表示，他們的發現凸顯了進一步研究興奮劑對大腦長期影響的必要性。他們指出，興奮劑可能在清醒期間激活大腦的廢物清除系統，發揮恢復作用。同時，如果這些藥物被用來彌補持續的睡眠不足，也可能造成持久的傷害。\n\nKay BP, Wheelock MD, Siegel JS, Raut R, Chauvin RJ, Metoki A, Rajesh A, Eck A, Pollaro J, Wang A, Suljic V, Adeyemo B, Baden NJ, Scheidter KM, Monk JS, Whiting FI, Ramirez-Perez N, Krimmel SR, Shinohara RT, Tervo-Clemmens B, Hermosillo RJM, Nelson SM, Hendrickson TJ, Madison T, Moore LA, Miranda-Domínguez O, Randolph A, Feczko E, Roland JL, Nicol GE, Laumann TO, Marek S, Gordon EM, Raichle ME, Barch DM, Fair DA, and Dosenbach NUF. Stimulant medications affect arousal and reward, not attention networks. Cell. Dec. 24, 2025. DOI: 10.1016/j.cell.2025.11.039\n\n這項工作獲得了NIH資助：NS140256（EMG、NUFD）、EB029343（MW）、MH121518（SM）、MH129493（DMB）、NS123345（BPK）、NS098482（BPK）、DA041148（DAF）、DA04112（DAF）、MH115357（DAF）、MH096773（DAF和NUFD）、MH122066（EMG、DAF和NUFD）、MH121276（EMG、DAF和NUFD）、MH124567（EMG、DAF和NUFD）以及NS129521（EMG、DAF和NUFD）；同時獲得National Spasmodic Dysphonia Association（EMG）資助；Mallinckrodt Institute of Radiology pilot funding（EMG）；以及Pittsburgh大學Dietrich School of Arts & Sciences的Andrew Mellon Predoctoral Fellowship（BTC）；以及Extreme Science and Engineering Discovery Environment（XSEDE）Pittsburgh Supercomputing Center的Bridges項目資助，分配編號TG-IBN200009（BTC）。\n\n計算使用了Washington University Research Computing and Informatics Facility（RCIF）的設施。RCIF獲得了NIH S10計劃資助：1S10OD025200-01A1和1S10OD030477-01。\n\n本文反映作者觀點，可能不代表NIH或ABCD聯盟研究人員的意見。\n\n相關主題\n\n健康與醫學\n\n注意力缺陷障礙\n\n今日醫療\n\n醫學成像\n\n醫療設備\n\n心智與大腦\n\nADHD與ADD\n\n學習障礙\n\n智力\n\n心理健康\n\n相關詞彙\n\n工作狂\n\n睡眠障礙\n\n睡眠呼吸中止症\n\n睡眠\n\n阻塞性睡眠呼吸中止症\n\n減肥藥\n\n生理節律睡眠障礙\n\n精神藥理學\n\n故事來源：\n\n材料由聖路易斯華盛頓大學提供。\n注意：內容可能因風格和篇幅而進行編輯。\n\n期刊參考：\n\nBenjamin P. Kay, Muriah D. Wheelock, Joshua S. Siegel, Ryan V. Raut, Roselyne J. Chauvin, Athanasia Metoki, Aishwarya Rajesh, Andrew Eck, Jim Pollaro, Anxu Wang, Vahdeta Suljic, Babatunde Adeyemo, Noah J. Baden, Kristen M. Scheidter, Julia S. Monk, Forrest I. Whiting, Nadeshka Ramirez-Perez, Samuel R. Krimmel, Russell T. Shinohara, Brenden Tervo-Clemmens, Robert J.M. Hermosillo, Steven M. Nelson, Timothy J. Hendrickson, Thomas Madison, Lucille A. Moore, Óscar Miranda-Domínguez, Anita Randolph, Eric Feczko, Jarod L. Roland, Ginger E. Nicol, Timothy O. Laumann, Scott Marek, Evan M. Gordon, Marcus E. Raichle, Deanna M. Barch, Damien A. Fair, Nico U.F. Dosenbach.\nStimulant medications affect arousal and reward, not attention networks.\nCell, 2025; 188 (26): 7529 DOI:\n10.1016/j.cell.2025.11.039\n\n引用此文：\n\nMLA\n\nAPA\n\nChicago\n\n華盛頓大學聖路易斯分校。「ADHD藥物的作用原理與我們以往認知不同。」ScienceDaily。ScienceDaily，2025年12月29日。\n\n華盛頓大學聖路易斯分校。（2025年12月29日）。ADHD藥物的作用原理與我們以往認知不同。\nScienceDaily。檢索日期：2026年8月12日。\n\n探索更多\n\n來自ScienceDaily的資訊\n\n相關報導\n\n起床與振作：自然光減輕早晨疲勞\n\n2025年4月14日\n研究人員測試了在起床前將光線引入臥室是否能改善早晨的清醒度，發現有一段時間似乎有助於對抗疲勞並提高警覺性……\n\n研究顯示，學年內年齡較小的兒童比年長同學更常被診斷為ADHD\n\n2024年6月6日\n新研究發現，教師可能將兒童與年齡相關的不成熟表現歸因於ADHD……"
     },
     {
-      "title": "為何那麼多ADHD幼童接受錯誤治療",
+      "title": "為何這麼多ADHD幼童正在接受錯誤的治療",
       "url": "https://www.sciencedaily.com/releases/2025/09/250915202839.htm",
       "publishedAt": "2025-09-16T09:10:52.000Z",
-      "summary": "ADHD幼童往往在確診後立即用藥，與醫療指南建議先從行為治療開始的原則相悖。由於治療資源有限且醫生面臨壓力，導致過早開藥，儘管這些藥物對幼童存在風險且效果較差。",
+      "summary": "患有ADHD的學前兒童通常在確診後立即接受藥物治療，這與建議先從行為治療開始的醫學指南相悖。治療資源的缺乏和醫生壓力推動了早期藥物處方，尽管年幼兒童面臨更大的副作用風險和更低的藥物效果。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -451,14 +478,13 @@
           "src": "https://www.sciencedaily.com/images/1920/adhd-medication-pills.webp",
           "alt": "ADHD Drugs Rushed to Young Kids, Study Finds"
         }
-      ],
-      "bodyZh": "為何這麼多患有ADHD的幼童接受了錯誤的治療\n\n研究來源：Stanford Medicine\n\n患有注意力不足/過動症（ADHD）的學前幼童往往在確診後隨即獲處方藥物，這與醫療指引相悖——有關指引建議先從行為治療著手。一項由史丹福醫學院（Stanford Medicine）領導的研究發現，治療服務有限以及醫生的壓力，導致幼童過早獲處方藥物，而這些藥物在幼童身上的療效較低且存在風險。\n\n研究結果於8月29日發表於《JAMA Network Open》，揭示了4至5歲ADHD患者醫療護理中的缺口。治療指引建議，這些幼童及其家庭應先嘗試六個月的行為治療，然後才開始服用ADHD藥物。\n\n但研究人員分析近萬名在美國八個兒科健康網絡就診的幼童的醫療記錄後發現，兒科醫生往往在確診後立即處方藥物。\n\n研究第一作者、兒科助理教授Yair Bannett醫生表示：「我們發現許多幼童在確診ADHD後很短時間內就被處方藥物。這令人擔憂，因為我們知道以行為療法開始ADHD治療是有益的——對孩子以至整個家庭都有很大的正面影響。」\n\nBannett又指出，用於治療ADHD的興奮劑藥物在幼童身上會產生比年長兒童更多的副作用。6歲以下兒童的身體未能完全代謝這些藥物。\n\n他說：「我們並不擔心這些藥物對4至5歲幼童的毒性問題，但我們知道治療失敗的可能性很高，因為許多家庭會認為副作用大於療效。」興奮劑藥物可使幼童變得更容易躁怒、情緒化及具攻擊性。\n\nADHD是一種以過度活躍、專注力困難及衝動行為為特徵的發育障礙。\n\nBannett說：「及早發現很重要，因為我們知道這些孩子出現學業問題及未能完成學業的風險較高。」及早識別及有效治療ADHD能改善兒童的學業表現。研究顯示，良好的治療亦有助ADHD患者為成年生活的各方面做好準備，例如維持就業、建立成功的關係，以及避免觸犯法律。\n\n相輔相成的治療方法\n\n行為治療與藥物治療是ADHD治療的兩大支柱，各有不同的作用。\n\nBannett解釋：「行為治療作用于孩子的周圍環境：父母的行為及孩子的作息規律。」治療幫助父母和孩子建立技能，養成適合孩子大腦運作方式的習慣。\n\n美國兒科學會（American Academy of Pediatrics）建議的實證行為治療稱為「家長行為管理訓練」。訓練幫助家長與孩子建立堅固、正面的關係；指導家長如何獎勵孩子的良好行為及忽視負面行為；並提供幫助ADHD兒童的工具，例如製作視覺日程表以協助他們保持有條理。\n\n相比之下，藥物則舒緩ADHD的症狀如過度活躍及注意力不集中，但藥效會隨著身體分解每劑藥物而消退。\n\n大多數ADHD兒童需要兩種方法並用才能取得良好效果。但此前對4或5歲確診的學前幼童進行的研究顯示，最好先進行六個月行為治療，然後才處方藥物。\n\n快速處方\n\n研究人員分析了美國八所學術醫療中心附屬基層醫療診所的電子健康記錄。他們從202016至2023年間就診至少兩次、為期至少六個月的3至5歲兒童記錄中，筛选出712,478份記錄。\n\n在這些記錄中，科學家識別出9,708名確診ADHD的兒童，佔最初樣本的1.4%。他們發現當中42.2%（超過4,000名兒童）在確診ADHD後一個月內獲處方藥物。只有14.1%的ADHD兒童在確診超過六個月後才首次獲處方藥物。研究人員無法取得行為治療轉介的數據，但既然幼童應該先單獨嘗試治療六個月後才獲處方藥物，任何較早獲處方藥物者很可能並未按照學會指引接受治療。2021年發表的一項較小型研究顯示，僅有11%的家庭按指引接受了行為治療。\n\n最初獲正式確診ADHD的兒童，比最初僅在病歷中記錄部分ADHD症狀（日後才確診）的兒童，更有可能在首30天內獲處方藥物。但即使在最初未完全符合ADHD確診標準的學前幼童中，仍有22.9%在30天內獲處方藥物。\n\n行為治療的障礙？\n\n由於研究建基於電子病歷分析，研究人員無法詢問醫生作出治療決定的原因。然而，Bannett的團隊在研究範圍之外，與醫生進行了非正式對話，詢問他們為何處方藥物。\n\nBannett說：「經常出現的一個重要問題是獲得行為治療的途徑。」有些地區幾乎沒有提供這種治療的治療師，或患者的保險可能不涵蓋這項治療。「醫生告訴我們：『我們沒有地方可以轉介這些家庭接受行為管理訓練，所以權衡利弊後，我們認為給予藥物總比完全不提供治療好。』」\n\nBannett表示，他希望教育基層兒科醫生如何彌合這一缺口。例如，為想學習行為治療原則的家長提供免費或低成本的網上資源。\n\n雖然研究集中於最年幼的ADHD患者，但行為管理治療對確診的較年長兒童同樣有幫助。\n\nBannett說：「對於6歲及以上的兒童，建議是兩種治療並用，因為行為治療會教導孩子和家長可終身受用的技能。藥物做不到這一點，所以我們從不認為藥物是ADHD的唯一解決方案。」"
+      ]
     },
     {
-      "title": "愛爾蘭與世衛合作提升全球輔助科技的獲取",
+      "title": "愛爾蘭與世衛組織合作改善全球輔助技術的可及性",
       "url": "https://www.who.int/news/item/17-05-2024-ireland-and-who-work-together-to-improve-access-to-assistive-technology-globally",
       "publishedAt": "2024-05-17T13:17:27.000Z",
-      "summary": "愛爾蘭正在成為數碼科技創新領域的全球領導者，運用科技克服醫療服務獲取的各種障礙。愛爾蘭與世衛合作，認識到動員輔助科技來幫助全球25億有需要人士（包括長者、殘疾人士及邊緣群體）的重要性。",
+      "summary": "愛爾蘭正在成為利用數碼技術作為工具來克服各種就醫障礙的創新領域的全球領導者。愛爾蘭與世衛組織一致認為，動員輔助技術對於幫助全球25億有需要的人至關重要，包括老年人、殘疾人士及相關群體。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
