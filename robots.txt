@@ -20,15 +20,37 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
+# AI／LLM 爬蟲（允許讀取公開頁與 llms.txt）
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# 允許瀏覽器／站內 JS 讀取公開 JSON（搜尋索引）；仍禁止爬目錄其餘敏感檔
 User-agent: *
 Allow: /
+Allow: /data/search-index.json
+Allow: /data/weekly-article-meta.json
+Allow: /data/sen-swim-digest.json
+Allow: /data/site-public.json
 Disallow: /automation/
 Disallow: /data/
-Disallow: /css/
-Disallow: /js/
 Disallow: /images/icons/
 
-# 網站地圖
+# 網站地圖與機器可讀摘要
 Sitemap: https://www.leisure.org.hk/sitemap.xml
 
 # 禁止惡意或過度爬蟲

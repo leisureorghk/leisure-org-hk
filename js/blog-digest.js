@@ -81,7 +81,9 @@
             esc(fmtDateTime(data.updatedAt)) +
             '</span>';
         }
-        var items = data.items || [];
+        var items = (data.items || []).slice().sort(function (a, b) {
+          return (b.featured ? 1 : 0) - (a.featured ? 1 : 0);
+        });
         if (!items.length) {
           grid.innerHTML = '<p class="digest-empty" role="status">暫無摘要。請稍後再試或確認已執行更新。</p>';
           return;
@@ -95,10 +97,17 @@
               'digest-article.html?u=' +
               encodeURIComponent(it.url || '') +
               '&from=blog';
+            var feat =
+              it.featured
+                ? '<span class="digest-badge" style="margin-left:0.35rem">本週精選</span>'
+                : '';
             return (
-              '<article class="digest-card">' +
+              '<article class="digest-card' +
+              (it.featured ? ' digest-card-featured' : '') +
+              '">' +
               '<div class="digest-card-source">' +
               esc(it.sourceName || it.sourceId || '來源') +
+              feat +
               '</div>' +
               '<h3 class="digest-card-title"><a href="' +
               esc(detailHref) +

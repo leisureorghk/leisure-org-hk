@@ -78,6 +78,12 @@ export function renderHeadJsonLd(site, page, config) {
   if (schemas.includes('faq') && config.faq?.length) {
     blocks.push(faqPageJsonLd(config.faq));
   }
+  if (schemas.includes('article') || (page.ogType === 'article' && schemas.includes('breadcrumb'))) {
+    // 固定專欄／下載頁：有 article schema 或 og:article + breadcrumb 時輸出 Article
+    if (schemas.includes('article') || String(page.file || '').startsWith('blog-article-')) {
+      blocks.push(articleJsonLd(site, page));
+    }
+  }
 
   if (!blocks.length) return '';
 
@@ -106,15 +112,24 @@ function breadcrumbJsonLd(site, page) {
 }
 
 function webSiteJsonLd(site) {
+  const base = site.baseUrl.replace(/\/$/, '');
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    '@id': `${site.baseUrl}/#website`,
+    '@id': `${base}/#website`,
     name: site.name,
     alternateName: site.nameFull,
-    url: `${site.baseUrl}/`,
+    url: `${base}/`,
     inLanguage: 'zh-Hant-HK',
-    publisher: { '@id': `${site.baseUrl}/#organization` },
+    publisher: { '@id': `${base}/#organization` },
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: `${base}/blog.html?q={search_term_string}`,
+      },
+      'query-input': 'required name=search_term_string',
+    },
   };
 }
 
@@ -130,6 +145,25 @@ function faqPageJsonLd(faq) {
         text: item.answer,
       },
     })),
+  };
+}
+
+function articleJsonLd(site, page) {
+  const url = absUrl(site, page.path);
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: page.title,
+    description: page.description,
+    url,
+    inLanguage: 'zh-Hant-HK',
+    datePublished: page.datePublished || page.lastmod || site.contentLastmod,
+    dateModified: page.dateModified || page.lastmod || site.contentLastmod,
+    author: { '@type': 'Organization', name: site.nameFull },
+    publisher: { '@id': `${site.baseUrl.replace(/\/$/, '')}/#organization` },
+    isPartOf: { '@id': `${site.baseUrl.replace(/\/$/, '')}/#website` },
+    image: imageUrl(site, site.defaultImage),
+    keywords: page.keywords || undefined,
   };
 }
 
@@ -207,16 +241,30 @@ export function optimizeFontLinks(html) {
 }
 
 const SITE_SCRIPTS = `    <script src="js/site-ui.js?v=20260525a" defer></script>
+    <script src="js/share.js?v=20260821a" defer></script>
     <script src="js/analytics.js?v=20260525a" defer></script>
 `;
 
 export function injectSiteScripts(html) {
-  if (html.includes('js/analytics.js')) return html;
-  const marker = '<script src="js/security.js">';
-  if (html.includes(marker)) {
-    return html.replace(marker, SITE_SCRIPTS + marker);
+  let out = html;
+
+  // 確保 share.js 在 analytics 之前（或至少存在）
+  if (!out.includes('js/share.js')) {
+    if (/js\/analytics\.js/.test(out)) {
+      out = out.replace(
+        /(<script[^>]*src="js\/analytics\.js[^"]*"[^>]*><\/script>)/,
+        '    <script src="js/share.js?v=20260821a" defer></script>\n    $1'
+      );
+    }
   }
-  return html.replace('</body>', SITE_SCRIPTS + '</body>');
+
+  if (out.includes('js/analytics.js')) return out;
+
+  const marker = '<script src="js/security.js">';
+  if (out.includes(marker)) {
+    return out.replace(marker, SITE_SCRIPTS + marker);
+  }
+  return out.replace('</body>', SITE_SCRIPTS + '</body>');
 }
 
 export function discoverBlogWeeklyFiles(root) {
@@ -303,13 +351,27 @@ export function writeSitemap(root, config, extraUrls = []) {
   const defaultLastmod = site.contentLastmod || new Date().toISOString().slice(0, 10);
   const indexed = pages.filter((p) => !(p.robots || '').includes('noindex'));
 
+  const fileLastmod = (file) => {
+    try {
+      const st = fs.statSync(path.join(root, file));
+      return st.mtime.toISOString().slice(0, 10);
+    } catch {
+      return null;
+    }
+  };
+
   const urls = [
-    ...indexed.map((p) => ({
-      loc: absUrl(site, p.path),
-      priority: p.priority ?? 0.5,
-      changefreq: p.changefreq ?? 'monthly',
-      lastmod: p.lastmod || defaultLastmod,
-    })),
+    ...indexed.map((p) => {
+      const fromFile = p.file ? fileLastmod(p.file) : null;
+      let lastmod = p.lastmod || fromFile || defaultLastmod;
+      if (fromFile && (!p.lastmod || fromFile > (p.lastmod || ''))) lastmod = fromFile;
+      return {
+        loc: absUrl(site, p.path),
+        priority: p.priority ?? 0.5,
+        changefreq: p.changefreq ?? 'monthly',
+        lastmod,
+      };
+    }),
     ...extraUrls,
   ];
 
@@ -423,4 +485,136 @@ ${channelItems}
 </rss>
 `;
   fs.writeFileSync(path.join(root, 'rss.xml'), xml, 'utf8');
+}
+
+/**
+ * 產出根目錄 llms.txt（給大型語言模型／AI 搜尋引用的機構摘要）
+ */
+export function writeLlmsTxt(root, config) {
+  const { site, pages, faq } = config;
+  const base = site.baseUrl.replace(/\/$/, '');
+  const lines = [
+    `# ${site.nameFull}`,
+    '',
+    `> 香港專為 SEN（特殊教育需要）學童設立的游泳及多功能發展中心。網站：${base}/`,
+    '',
+    '## 關於',
+    '',
+    `${site.name} 提供個人化游泳教學、感統訓練、專注力與社交技巧課程，服務自閉症、ADHD、讀寫障礙等特殊需要家庭。電話 ${site.telephone}；WhatsApp https://wa.me/${String(site.telephone || '').replace(/\D/g, '')}`,
+    '',
+    '## 主要頁面',
+    '',
+  ];
+
+  const mainPages = (pages || []).filter(
+    (p) =>
+      !(p.robots || '').includes('noindex') &&
+      !String(p.file || '').startsWith('download-') &&
+      !String(p.file || '').startsWith('digest-')
+  );
+  for (const p of mainPages) {
+    lines.push(`- [${p.title}](${absUrl(site, p.path)}): ${p.description || ''}`);
+  }
+
+  lines.push('', '## 最新教練專欄週報', '');
+  const metaPath = path.join(root, 'data', 'weekly-article-meta.json');
+  if (fs.existsSync(metaPath)) {
+    const meta = JSON.parse(fs.readFileSync(metaPath, 'utf8'));
+    const list = [meta.latest, ...(meta.history || [])].filter(Boolean);
+    const seen = new Set();
+    for (const e of list.slice(0, 8)) {
+      if (!e?.slug || seen.has(e.slug)) continue;
+      seen.add(e.slug);
+      lines.push(`- [${e.title}](${absUrl(site, `/${e.slug}`)})`);
+    }
+  } else {
+    lines.push('- （尚無週報）');
+  }
+
+  if (faq?.length) {
+    lines.push('', '## 常見問題', '');
+    for (const item of faq.slice(0, 8)) {
+      lines.push(`### ${item.question}`);
+      lines.push('');
+      lines.push(item.answer);
+      lines.push('');
+    }
+  }
+
+  lines.push('## 選用檔案', '');
+  lines.push(`- [網站地圖](${base}/sitemap.xml)`);
+  lines.push(`- [RSS 教練專欄](${base}/rss.xml)`);
+  lines.push(`- [完整說明（llms-full）](${base}/llms-full.txt)`);
+  lines.push('');
+
+  fs.writeFileSync(path.join(root, 'llms.txt'), lines.join('\n'), 'utf8');
+
+  const full = [
+    ...lines,
+    '## 服務關鍵字',
+    '',
+    'SEN游泳、香港特殊教育游泳、自閉症游泳課程、ADHD游泳、感統訓練、特殊需要兒童游泳、新天地',
+    '',
+  ];
+  fs.writeFileSync(path.join(root, 'llms-full.txt'), full.join('\n'), 'utf8');
+}
+
+/**
+ * 依週報／頁面關鍵字挑選 2–3 則內鏈著陸頁
+ */
+export function pickRelatedLandingPages(config, textBlob, limit = 3) {
+  const blob = String(textBlob || '').toLowerCase();
+  const candidates = [
+    {
+      path: '/sen-swim-autism.html',
+      title: '自閉症游泳課程',
+      keys: ['自閉', 'autism', 'asd', '感官', '視覺提示'],
+    },
+    {
+      path: '/sen-swim-adhd.html',
+      title: 'ADHD 游泳專注力訓練',
+      keys: ['adhd', '專注', '過動', '衝動'],
+    },
+    {
+      path: '/areas-hong-kong.html',
+      title: '香港各區 SEN 游泳服務',
+      keys: ['九龍', '新界', '港島', '地區', '泳池'],
+    },
+    {
+      path: '/services.html',
+      title: '服務項目',
+      keys: ['課程', '感統', '社交', '親子'],
+    },
+    {
+      path: '/booking.html',
+      title: '預約課程',
+      keys: ['預約', '報名', '查詢'],
+    },
+    {
+      path: '/resources.html',
+      title: '家長資源',
+      keys: ['家長', '指南', '資源'],
+    },
+  ];
+  const scored = candidates
+    .map((c) => ({
+      ...c,
+      score: c.keys.reduce((n, k) => n + (blob.includes(k.toLowerCase()) ? 1 : 0), 0),
+    }))
+    .sort((a, b) => b.score - a.score);
+
+  const picked = [];
+  for (const c of scored) {
+    if (picked.length >= limit) break;
+    if (c.score > 0 || picked.length < 2) picked.push(c);
+  }
+  return picked.slice(0, limit).map((c) => {
+    const page = (config.pages || []).find((p) => p.path === c.path);
+    return {
+      path: c.path,
+      title: page?.title?.split('|')[0]?.trim() || c.title,
+      description: page?.description || '',
+      url: absUrl(config.site, c.path),
+    };
+  });
 }

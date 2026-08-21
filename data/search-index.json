@@ -1,0 +1,413 @@
+{
+  "builtAt": "2026-08-21T03:41:31.360Z",
+  "count": 44,
+  "items": [
+    {
+      "type": "page",
+      "path": "/",
+      "url": "https://www.leisure.org.hk/",
+      "title": "新天地 | SEN學生游泳及多功能發展中心 — 香港",
+      "description": "新天地 — 香港首間專為 SEN（特殊教育需要）學生設立的游泳及多功能發展中心。三十年經驗、個人化游泳教學、感統訓練、自閉症與 ADHD 專項課程。",
+      "keywords": "SEN游泳, 香港特殊教育游泳, 自閉症游泳課程, ADHD游泳, 感統訓練, 特殊需要兒童游泳, 新天地"
+    },
+    {
+      "type": "page",
+      "path": "about.html",
+      "url": "https://www.leisure.org.hk/about.html",
+      "title": "關於我們",
+      "description": "了解新天地的專業教練團隊、三十年 SEN 游泳教學理念與發展歷程。香港首間專為特殊教育需要學生設立的游泳及多功能發展中心。",
+      "keywords": "SEN游泳, 新天地, 曹柏林教練, 特殊教育游泳, 自閉症游泳課程, ADHD游泳教學, 香港游泳中心"
+    },
+    {
+      "type": "page",
+      "path": "services.html",
+      "url": "https://www.leisure.org.hk/services.html",
+      "title": "服務項目",
+      "description": "新天地提供 SEN 學生游泳教學、感統訓練、專注力訓練、社交技巧小組及親子游泳等多元化課程，一對一或小組授課。",
+      "keywords": "SEN游泳課程, 香港感統訓練, 自閉症游泳教學, ADHD專注力訓練, 社交技巧小組, 親子游泳"
+    },
+    {
+      "type": "page",
+      "path": "why-us.html",
+      "url": "https://www.leisure.org.hk/why-us.html",
+      "title": "為何選擇新天地 | 香港 SEN 游泳專業團隊",
+      "description": "三十年 SEN 游泳教學經驗、個人化課程設計、專業特殊教育教練團隊。了解家長為何選擇新天地作為孩子學泳的首選。",
+      "keywords": "新天地優勢, 香港SEN游泳學校, 曹柏林教練團隊, 個人化游泳教學, 特殊教育游泳"
+    },
+    {
+      "type": "page",
+      "path": "resources.html",
+      "url": "https://www.leisure.org.hk/resources.html",
+      "title": "家長資源",
+      "description": "新天地家長資源：SEN 教育資訊、親子游泳技巧、感統訓練指南與免費下載教材，支援香港特殊需要兒童家長。",
+      "keywords": "SEN家長資源, 親子游泳技巧, 香港感統訓練指南, 自閉症教育資訊, ADHD家長支援"
+    },
+    {
+      "type": "page",
+      "path": "blog.html",
+      "url": "https://www.leisure.org.hk/blog.html",
+      "title": "教練專欄",
+      "description": "曹柏林教練與團隊分享 SEN 游泳教學心得、自閉症與 ADHD 育兒建議、感統訓練與香港游泳教育專業文章。",
+      "keywords": "SEN游泳教學心得, 自閉症游泳, ADHD專注力, 曹柏林教練, 香港游泳教練專欄"
+    },
+    {
+      "type": "page",
+      "path": "booking.html",
+      "url": "https://www.leisure.org.hk/booking.html",
+      "title": "預約課程",
+      "description": "線上預約新天地 SEN 游泳及多功能發展課程。自閉症、ADHD、讀寫障礙等學生均可查詢合適班別，WhatsApp 即時回覆。",
+      "keywords": "香港SEN游泳預約, 自閉症游泳課程預約, ADHD游泳報名, 新天地預約"
+    },
+    {
+      "type": "page",
+      "path": "contact.html",
+      "url": "https://www.leisure.org.hk/contact.html",
+      "title": "聯絡我們",
+      "description": "聯絡新天地：課程查詢、預約合適班別、合作洽談。電話 9708 3907、電郵 info@leisure.org.hk，服務香港各區。",
+      "keywords": "香港SEN游泳查詢, 新天地預約, 自閉症游泳課程, ADHD課程, 香港游泳教練聯絡"
+    },
+    {
+      "type": "article",
+      "path": "download-parent-guide-first-swim.html",
+      "url": "https://www.leisure.org.hk/download-parent-guide-first-swim.html",
+      "title": "第一次游泳課家長指南（免費下載）",
+      "description": "免費下載：SEN 孩子第一次游泳課家長準備清單、情緒安撫技巧與與教練溝通要點，由新天地專業團隊編製。",
+      "keywords": "SEN游泳家長指南, 第一次游泳課, 特殊需要兒童游泳準備"
+    },
+    {
+      "type": "article",
+      "path": "download-sensory-games-home-guide.html",
+      "url": "https://www.leisure.org.hk/download-sensory-games-home-guide.html",
+      "title": "家居感統遊戲指南（免費下載）",
+      "description": "免費下載家居感統訓練遊戲指南，適合 SEN 兒童在家練習，配合游泳課程前的感覺統合準備。",
+      "keywords": "感統訓練, 家居感統遊戲, SEN兒童, 香港感統"
+    },
+    {
+      "type": "article",
+      "path": "download-visual-cue-cards-pack.html",
+      "url": "https://www.leisure.org.hk/download-visual-cue-cards-pack.html",
+      "title": "視覺提示卡套裝（免費下載）",
+      "description": "免費下載 SEN 游泳課視覺提示卡，協助自閉症及語言發展較慢的孩子理解課堂流程，由新天地教練團隊設計。",
+      "keywords": "視覺提示卡, 自閉症游泳, SEN游泳教具, 圖卡教材"
+    },
+    {
+      "type": "page",
+      "path": "sen-swim-autism.html",
+      "url": "https://www.leisure.org.hk/sen-swim-autism.html",
+      "title": "自閉症游泳課程",
+      "description": "香港自閉症兒童專項游泳教學：視覺提示、感官調節、小步進階。三十年 SEN 經驗，一對一或小組。",
+      "keywords": "自閉症游泳, 自閉症游泳課程, 香港SEN游泳, 視覺提示"
+    },
+    {
+      "type": "page",
+      "path": "sen-swim-adhd.html",
+      "url": "https://www.leisure.org.hk/sen-swim-adhd.html",
+      "title": "ADHD 游泳專注力訓練",
+      "description": "ADHD 兒童游泳課程：分段指令、即時回饋、水中專注力訓練。香港 SEN 游泳中心。",
+      "keywords": "ADHD游泳, ADHD專注力訓練, SEN游泳香港"
+    },
+    {
+      "type": "page",
+      "path": "areas-hong-kong.html",
+      "url": "https://www.leisure.org.hk/areas-hong-kong.html",
+      "title": "香港各區 SEN 游泳服務",
+      "description": "服務香港九龍、新界及港島家庭。SEN 游泳、感統與專注力課程，WhatsApp 9708 3907 查詢班別。",
+      "keywords": "香港SEN游泳, 九龍游泳, 新界游泳, 港島游泳"
+    },
+    {
+      "type": "article",
+      "path": "blog-article-sensory.html",
+      "url": "https://www.leisure.org.hk/blog-article-sensory.html",
+      "title": "水中感統訓練為何對 SEN 孩子特別有效",
+      "description": "曹柏林教練解釋水中感統訓練如何幫助 SEN 孩子調節感官、建立專注與情緒穩定。",
+      "keywords": "感統訓練, SEN游泳, 水中感統"
+    },
+    {
+      "type": "article",
+      "path": "blog-article-waiting.html",
+      "url": "https://www.leisure.org.hk/blog-article-waiting.html",
+      "title": "教了三十年游泳，我學會的一件事：等待",
+      "description": "三十年 SEN 游泳教學心得：等待孩子準備好，比催促進步更重要。",
+      "keywords": "SEN游泳教學, 游泳教練心得"
+    },
+    {
+      "type": "article",
+      "path": "blog-article-adhd.html",
+      "url": "https://www.leisure.org.hk/blog-article-adhd.html",
+      "title": "ADHD 孩子學游泳的 5 個實用技巧",
+      "description": "五個實用技巧協助 ADHD 孩子在游泳課建立專注、遵守流程與水中安全。",
+      "keywords": "ADHD游泳, 專注力訓練, SEN游泳"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W34.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W34.html",
+      "title": "ADHD 孩子的泳池優勢：從「專注力不足」看見水中潛能",
+      "description": "ADHD 孩子的泳池優勢：從「專注力不足」看見水中潛能 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-08-17T03:48:59.674Z"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W33.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W33.html",
+      "title": "每個孩子都可以在水中發光：教練與家長攜手陪伴SEN學童的游泳之路",
+      "description": "每個孩子都可以在水中發光：教練與家長攜手陪伴SEN學童的游泳之路 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-08-10T04:28:27.726Z"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W32.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W32.html",
+      "title": "陪伴與突破——教練視角下的 SEN 學童游泳教學",
+      "description": "陪伴與突破——教練視角下的 SEN 學童游泳教學 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-08-03T06:22:23.170Z"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W31.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W31.html",
+      "title": "拆解焦慮與觸感門檻：SEN 學童游泳課的信任建立策略",
+      "description": "拆解焦慮與觸感門檻：SEN 學童游泳課的信任建立策略 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-07-27T06:29:44.229Z"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W30.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W30.html",
+      "title": "讓孩子在水中找回節奏：SEN 學童游泳課的信任建立與學習節奏",
+      "description": "讓孩子在水中找回節奏：SEN 學童游泳課的信任建立與學習節奏 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-07-20T06:17:53.428Z"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W29.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W29.html",
+      "title": "為SEN學童打開水中世界的大門：家長與教練同行指南",
+      "description": "為SEN學童打開水中世界的大門：家長與教練同行指南 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-07-13T06:17:17.179Z"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W28.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W28.html",
+      "title": "當 ADHD 孩子遇上游泳課：拆解專注與焦慮的教學卡點",
+      "description": "當 ADHD 孩子遇上游泳課：拆解專注與焦慮的教學卡點 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-07-06T07:13:01.373Z"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W27.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W27.html",
+      "title": "走進水池的第一步：協助SEN學童建立游泳的安全感與學習節奏",
+      "description": "走進水池的第一步：協助SEN學童建立游泳的安全感與學習節奏 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-06-29T08:12:32.594Z"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W26.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W26.html",
+      "title": "給 SEN 學童的家長與教練：在游泳課中建立安全感的竅門",
+      "description": "給 SEN 學童的家長與教練：在游泳課中建立安全感的竅門 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-06-22T08:57:31.018Z"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W25.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W25.html",
+      "title": "當水面成為橋樑：協助SEN學童克服水中焦慮的教學策略",
+      "description": "當水面成為橋樑：協助SEN學童克服水中焦慮的教學策略 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-06-15T18:57:59.376Z"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W24.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W24.html",
+      "title": "當專注力遇上池水：教練與家長攜手陪伴SEN孩子游出節奏",
+      "description": "當專注力遇上池水：教練與家長攜手陪伴SEN孩子游出節奏 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-06-08T16:54:17.119Z"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W23.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W23.html",
+      "title": "當游泳池遇上特殊學習需要：給家長與教練的實務指南",
+      "description": "當游泳池遇上特殊學習需要：給家長與教練的實務指南 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-06-01T20:04:27.254Z"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W22.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W22.html",
+      "title": "孩子下水前，先走進他的世界：教練與家長的SEN游泳課同行指南",
+      "description": "孩子下水前，先走進他的世界：教練與家長的SEN游泳課同行指南 — 新天地教練專欄每週專題",
+      "keywords": "SEN游泳, 教練專欄",
+      "publishedAt": "2026-05-25T14:19:13.096Z"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fvideos%2Fc79gp2gweexo%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fvideos%2Fc79gp2gweexo%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "title": "失去一條腿可能是我一生中最美好的一天",
+      "description": "馬克·威廉姆斯在1982年失去了他的腿，後來成為世界冠軍游泳運動員。",
+      "keywords": "BBC 新聞（障礙）, SEN游泳, 產業摘要",
+      "publishedAt": "2026-08-20T20:53:23.000Z",
+      "featured": true,
+      "externalUrl": "https://www.bbc.co.uk/news/videos/c79gp2gweexo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Farticles%2Fcy452v427ngo%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Farticles%2Fcy452v427ngo%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "title": "44年前意外奪去他的腿後，殘奧運運動員想要感謝肇事司機",
+      "description": "馬克·威廉姆斯在1982年失去了他的腿，後來成為世界冠軍游泳運動員。",
+      "keywords": "BBC 新聞（障礙）, SEN游泳, 產業摘要",
+      "publishedAt": "2026-08-20T20:45:49.000Z",
+      "featured": false,
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cy452v427ngo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Fswimming%2Farticles%2Fcvglyzd5wweo%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Fswimming%2Farticles%2Fcvglyzd5wweo%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "title": "諾瓦茨基在游泳頂尖水準「還有一段時間」",
+      "description": "菲力普·諾瓦茨基表示，他在歐洲和聯邦運動會上獲得的金牌證明他達到了世界頂尖水準。",
+      "keywords": "BBC 運動（游泳）, SEN游泳, 產業摘要",
+      "publishedAt": "2026-08-19T06:05:02.000Z",
+      "featured": false,
+      "externalUrl": "https://www.bbc.co.uk/sport/swimming/articles/cvglyzd5wweo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Farticles%2Fcn8nmm51l49o%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Farticles%2Fcn8nmm51l49o%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "title": "報告指聾啞患者因手語錯誤被錯誤注射",
+      "description": "一份監察員報告指出，殘疾人士因缺乏無障礙的溝通方式而受到忽視。",
+      "keywords": "BBC 新聞（障礙）, SEN游泳, 產業摘要",
+      "publishedAt": "2026-08-19T00:28:56.000Z",
+      "featured": false,
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cn8nmm51l49o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Farticles%2Fcjwx5vx21y2o%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Farticles%2Fcjwx5vx21y2o%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "title": "英格蘭殘疾人士將獲得24小時免費巴士出行",
+      "description": "這項變革受到倡議團體的歡迎，將於英格蘭4月起生效。",
+      "keywords": "BBC 新聞（障礙）, SEN游泳, 產業摘要",
+      "publishedAt": "2026-08-18T06:11:30.000Z",
+      "featured": false,
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Fswimming%2Farticles%2Fcly5rgy7n1jo%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Fswimming%2Farticles%2Fcly5rgy7n1jo%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "title": "麥金尼斯閃耀　英國歐錦賽獎牌榜高居榜首",
+      "description": "大不列顛在巴黎舉行的歐洲水上錦標賽上獎牌榜名列前茅，基安娜·麥金尼斯在週日幫助他們奪得兩枚金牌。",
+      "keywords": "BBC 運動（游泳）, SEN游泳, 產業摘要",
+      "publishedAt": "2026-08-17T11:56:39.000Z",
+      "featured": false,
+      "externalUrl": "https://www.bbc.co.uk/sport/swimming/articles/cly5rgy7n1jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Fswimming%2Fvideos%2Fcgewwvggx11o%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Fswimming%2Fvideos%2Fcgewwvggx11o%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "title": "「最後一划！」——英國戲劇性奪得接力金牌",
+      "description": "大不列顛在女子4x100米接力賽中奪金，在戲劇性的最後時刻從意大利手中搶走勝利，游泳比賽一直持續到最後一刻。",
+      "keywords": "BBC 運動（游泳）, SEN游泳, 產業摘要",
+      "publishedAt": "2026-08-16T18:46:21.000Z",
+      "featured": false,
+      "externalUrl": "https://www.bbc.co.uk/sport/swimming/videos/cgewwvggx11o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Fswimming%2Fvideos%2Fce8llpk2xrro%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Fswimming%2Fvideos%2Fce8llpk2xrro%3Fat_medium%3DRSS%26at_campaign%3Drss",
+      "title": "「出色！」英國的麥金尼斯以「頑強」的游泳奪得200米蝶泳金牌",
+      "description": "英國的基安娜·麥金尼斯在歐洲水上錦標賽的女子200米蝶泳比賽中堅持到底奪得金牌，游出個人最佳成績。",
+      "keywords": "BBC 運動（游泳）, SEN游泳, 產業摘要",
+      "publishedAt": "2026-08-16T17:36:31.000Z",
+      "featured": false,
+      "externalUrl": "https://www.bbc.co.uk/sport/swimming/videos/ce8llpk2xrro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2026%2F08%2F260814235852.htm",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2026%2F08%2F260814235852.htm",
+      "title": "可能加劇關節老化的常見錯誤",
+      "description": "老化會逐漸磨損保護關節的軟骨和滑液，但避免運動反而可能使情況惡化。運動有助於滋養軟骨，強化保護關節的肌肉，並能減輕骨關節炎症狀。游泳、單車、太極、瑜伽及在多變地形行走等低衝擊活動也可改善平衡。",
+      "keywords": "《科學日報》健康與體能, SEN游泳, 產業摘要",
+      "publishedAt": "2026-08-16T11:23:47.000Z",
+      "featured": false,
+      "externalUrl": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2026%2F01%2F260124073920.htm",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2026%2F01%2F260124073920.htm",
+      "title": "成長過程中患有多動症特徵的隱藏健康影響",
+      "description": "一項歷時數十年的龐大研究表明，兒童時期的多動症跡象可能帶來超越學業和行為的深遠後果。研究人員追蹤了近11,000人從童年到中年，發現那些在10歲時就表現出強烈多動症特徵的人，到中年時更可能出現多種身體健康問題和與健康相關的殘疾。",
+      "keywords": "《科學日報》心理與大腦, SEN游泳, 產業摘要",
+      "publishedAt": "2026-01-24T12:39:20.000Z",
+      "featured": false,
+      "externalUrl": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2025%2F12%2F251223084852.htm",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2025%2F12%2F251223084852.htm",
+      "title": "研究人員發現 ADHD 優勢與心理健康之間的關聯",
+      "description": "新研究揭示了 ADHD 較為光明的一面，顯示善用自身優勢的成年人更快樂、更健康，壓力也更小。ADHD 患者較容易將創造力、幽默感和專注過度等特質視為個人優勢。總體而言，善用這些優勢與更好的生活品質和較少的精神健康問題有關。",
+      "keywords": "《科學日報》心理與大腦, SEN游泳, 產業摘要",
+      "publishedAt": "2025-12-31T15:51:21.000Z",
+      "featured": false,
+      "externalUrl": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2025%2F12%2F251225235942.htm",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2025%2F12%2F251225235942.htm",
+      "title": "ADHD 藥物的作用機制與我們所想不同",
+      "description": "ADHD 興奮劑似乎並非主要通過提高專注力來運作，而是透過喚醒大腦。腦部掃描顯示，這些藥物會激活獎勵和警覺系統，幫助孩子對通常會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠不足相關的腦部模式。研究人員表示，這可能會使 ADHD 診斷變得複雜。",
+      "keywords": "《科學日報》心理與大腦, SEN游泳, 產業摘要",
+      "publishedAt": "2025-12-26T04:59:42.000Z",
+      "featured": false,
+      "externalUrl": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2025%2F09%2F250915202839.htm",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2025%2F09%2F250915202839.htm",
+      "title": "為何這麼多幼童 ADHD 患者接受了錯誤的治療",
+      "description": "學前 ADHD 兒童通常在確診後立即接受藥物治療，這與建議先進行行為治療的醫學指引相悖。儘管存在風險且對幼童效果較差，但治療資源有限和醫生壓力導致過早開藥。",
+      "keywords": "《科學日報》心理與大腦, SEN游泳, 產業摘要",
+      "publishedAt": "2025-09-16T09:10:52.000Z",
+      "featured": false,
+      "externalUrl": "https://www.sciencedaily.com/releases/2025/09/250915202839.htm"
+    },
+    {
+      "type": "digest",
+      "path": "digest-article.html?u=https%3A%2F%2Fwww.who.int%2Fnews%2Fitem%2F17-05-2024-ireland-and-who-work-together-to-improve-access-to-assistive-technology-globally",
+      "url": "https://www.leisure.org.hk/digest-article.html?u=https%3A%2F%2Fwww.who.int%2Fnews%2Fitem%2F17-05-2024-ireland-and-who-work-together-to-improve-access-to-assistive-technology-globally",
+      "title": "愛爾蘭與世衛組織攜手改善全球輔助科技的獲取途徑",
+      "description": "愛爾蘭正在成為利用數碼科技克服就醫障礙的創新領域全球領袖。愛爾蘭與世衛組織保持一致，認識到動員輔助科技來幫助全球 25 億有需要人士（包括老年人、殘疾人士等）的重要性。",
+      "keywords": "世衛新聞, SEN游泳, 產業摘要",
+      "publishedAt": "2024-05-17T13:17:27.000Z",
+      "featured": false,
+      "externalUrl": "https://www.who.int/news/item/17-05-2024-ireland-and-who-work-together-to-improve-access-to-assistive-technology-globally"
+    }
+  ]
+}

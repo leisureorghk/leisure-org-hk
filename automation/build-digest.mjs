@@ -13,7 +13,8 @@ import {
   minimaxApiKeySanityHint,
   stripMinimaxMessageContent,
 } from './minimax-chat.mjs';
-import { isSenOrSwimRelevant } from './sen-swim-relevance.mjs';
+import { isSenOrSwimRelevant, relevanceScore } from './sen-swim-relevance.mjs';
+import { buildSearchIndex } from './build-search-index.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
@@ -471,6 +472,19 @@ async function main() {
     fetchArticleTimeoutMs: digestFetchArticleTimeoutMs,
   });
 
+  // 標記本批最值得置頂的一則（SEN＋游泳雙相關優先）
+  let bestIdx = -1;
+  let bestScore = -1;
+  items.forEach((it, i) => {
+    const sc = relevanceScore(`${it.title || ''} ${it.summary || ''}`);
+    it.featured = false;
+    if (sc > bestScore) {
+      bestScore = sc;
+      bestIdx = i;
+    }
+  });
+  if (bestIdx >= 0 && bestScore > 0) items[bestIdx].featured = true;
+
   const out = {
     updatedAt: new Date().toISOString(),
     disclaimer: apiKey
@@ -482,6 +496,12 @@ async function main() {
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
   fs.writeFileSync(outPath, JSON.stringify(out, null, 2), 'utf8');
   console.error(`Wrote ${items.length} items -> ${outPath}`);
+  try {
+    const search = buildSearchIndex(root);
+    console.error(`Updated search-index (${search.count} items)`);
+  } catch (e) {
+    console.error('search-index skip:', e.message || e);
+  }
 }
 
 main().catch((e) => {

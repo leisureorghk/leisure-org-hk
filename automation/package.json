@@ -4,7 +4,10 @@
   "type": "module",
   "scripts": {
     "seo": "node apply-seo.mjs",
-    "pages": "node generate-content-pages.mjs"
+    "pages": "node generate-content-pages.mjs",
+    "search-index": "node build-search-index.mjs",
+    "discovery": "node refresh-discovery.mjs",
+    "indexnow": "node notify-indexnow.mjs"
   },
   "dependencies": {
     "js-yaml": "^4.1.0",

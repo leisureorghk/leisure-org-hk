@@ -29,6 +29,7 @@
 | `MINIMAX_API_KEY` | 週報必填；**摘要若要英→繁亦必填**（同一筆） | [MiniMax 平台](https://platform.minimax.io) 取得之 API Key；Bearer 驗證。 |
 | `MINIMAX_MODEL` | 否 | 預設為 `MiniMax-M3`；可改為文件支援之其他模型。 |
 | `MINIMAX_API_BASE` | 否 | 預設 `https://api.minimax.io`。部分帳戶／地區需改為 **`https://api.minimaxi.com/v1`** 才能通過驗證（否則可能出現 **401 invalid api key**）；設為此值時腳本會正確接上 `chat/completions`。 |
+| `INDEXNOW_KEY` | 否（建議） | [IndexNow](https://www.indexnow.org/) 金鑰（UUID 或任意字串）。設定後，digest／週報 workflow 會通知 Bing 等引擎更新 URL，並在網站根目錄寫入 `{金鑰}.txt`。 |
 
 未設定 `MINIMAX_API_KEY` 時，`automation/weekly-article.mjs` 會**安靜結束**（exit 0），不會更新週報檔案；週期 workflow 仍會成功，但不會產生可合併的變更。`build-digest.mjs` 則不會翻譯，摘要 JSON 內標題／摘要維持 RSS 原文。
 
@@ -38,8 +39,8 @@
 
 | 檔案 | 排程 | 說明 |
 |------|------|------|
-| [`.github/workflows/daily-digest.yml`](.github/workflows/daily-digest.yml) | 每日 UTC 01:00（約香港 09:00） | 執行 `automation/build-digest.mjs`，更新 [`data/sen-swim-digest.json`](data/sen-swim-digest.json)，**直接 commit 並 push 到 `main`**（觸發 Pages 部署；無需手動合併 PR）。 |
-| [`.github/workflows/weekly-article.yml`](.github/workflows/weekly-article.yml) | 每週一 UTC 03:00（約香港 11:00） | 執行 `automation/weekly-article.mjs`，成功後 **直接 push 到 `main`**（含 `blog-weekly-*.html`、sitemap、rss.xml），並部署 Pages。建議發布前快速閱讀週報文稿。 |
+| [`.github/workflows/daily-digest.yml`](.github/workflows/daily-digest.yml) | 每日 UTC 01:00（約香港 09:00） | 執行 `automation/build-digest.mjs`，更新 [`data/sen-swim-digest.json`](data/sen-swim-digest.json)、搜尋索引／llms／sitemap，可選 IndexNow，**直接 commit 並 push 到 `main`**（觸發 Pages 部署；無需手動合併 PR）。 |
+| [`.github/workflows/weekly-article.yml`](.github/workflows/weekly-article.yml) | 每週一 UTC 03:00（約香港 11:00） | 執行 `automation/weekly-article.mjs`，成功後 **直接 push 到 `main`**（含 `blog-weekly-*.html`、sitemap、rss、llms、社群文案、IndexNow），並部署 Pages。建議發布前快速閱讀週報文稿。 |
 | [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) | `main` push；digest／週報成功後 | GitHub Pages 部署至 `www.leisure.org.hk`。 |
 
 digest 與週報 workflow 皆支援 **Actions 手動執行**（`workflow_dispatch`）。

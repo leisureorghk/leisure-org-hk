@@ -16,10 +16,12 @@ import {
   replaceFooterJsonLd,
   writeSitemap,
   writeRssFeed,
+  writeLlmsTxt,
   collectWeeklyArticleUrls,
   optimizeFontLinks,
   injectSiteScripts,
 } from './seo-lib.mjs';
+import { buildSearchIndex } from './build-search-index.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
@@ -59,8 +61,11 @@ for (const page of config.pages) {
 const weeklyUrls = collectWeeklyArticleUrls(root);
 writeSitemap(root, config, weeklyUrls);
 writeRssFeed(root, config);
+writeLlmsTxt(root, config);
+const search = buildSearchIndex(root);
 console.log(
-  'Updated sitemap.xml + rss.xml (%d indexed + %d weekly)',
+  'Updated sitemap.xml + rss.xml + llms.txt (%d indexed + %d weekly); search-index %d items',
   config.pages.filter((p) => !(p.robots || '').includes('noindex')).length,
-  weeklyUrls.length
+  weeklyUrls.length,
+  search.count
 );

@@ -19,12 +19,19 @@ import {
   renderSeoHead,
   renderHeadJsonLd,
   absUrl,
+  writeSitemap,
+  writeRssFeed,
+  writeLlmsTxt,
+  collectWeeklyArticleUrls,
+  pickRelatedLandingPages,
 } from './seo-lib.mjs';
+import { buildSearchIndex } from './build-search-index.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
 const yamlPath = path.join(__dirname, 'feed-sources.yaml');
 const metaPath = path.join(root, 'data', 'weekly-article-meta.json');
+const socialPath = path.join(root, 'data', 'weekly-social-copy.txt');
 
 function stripHtml(html) {
   if (!html) return '';
@@ -82,6 +89,47 @@ function softenPublicArticleHtml(html) {
     .replace(/人工智能/g, '相關技術');
 }
 
+function extractJsonPayload(raw) {
+  const text = stripThinking(raw);
+  const fence = text.match(/```(?:json)?\s*([\s\S]*?)```/i);
+  const candidate = fence ? fence[1].trim() : text.trim();
+  const start = candidate.indexOf('{');
+  const end = candidate.lastIndexOf('}');
+  if (start < 0 || end <= start) return null;
+  try {
+    return JSON.parse(candidate.slice(start, end + 1));
+  } catch {
+    return null;
+  }
+}
+
+function normalizeKeywords(raw) {
+  let list = [];
+  if (Array.isArray(raw)) list = raw.map((x) => String(x || '').trim()).filter(Boolean);
+  else if (typeof raw === 'string') {
+    list = raw
+      .split(/[,，、]/)
+      .map((x) => x.trim())
+      .filter(Boolean);
+  }
+  const defaults = ['SEN游泳', '香港特殊教育游泳', '特殊需要兒童游泳'];
+  for (const d of defaults) {
+    if (!list.some((k) => k.toLowerCase() === d.toLowerCase())) list.push(d);
+  }
+  return list.slice(0, 8);
+}
+
+function normalizeFaqs(raw) {
+  if (!Array.isArray(raw)) return [];
+  return raw
+    .map((f) => ({
+      question: String(f?.question || '').trim(),
+      answer: String(f?.answer || '').trim(),
+    }))
+    .filter((f) => f.question && f.answer)
+    .slice(0, 4);
+}
+
 async function fetchFeedItems(parser, src, limit, timeoutMs) {
   const timeout = new Promise((_, rej) =>
     setTimeout(() => rej(new Error('timeout')), timeoutMs)
@@ -105,7 +153,18 @@ async function fetchFeedItems(parser, src, limit, timeoutMs) {
   return out.filter((row) => isSenOrSwimRelevant(`${row.title} ${row.summary}`));
 }
 
-function buildStandalonePage({ title, bodyHtml, refs, slug, site }) {
+function buildStandalonePage({
+  title,
+  description,
+  keywords,
+  faqs,
+  bodyHtml,
+  refs,
+  related,
+  slug,
+  site,
+  publishedAt,
+}) {
   const esc = (s) =>
     String(s || '')
       .replace(/&/g, '&amp;')
@@ -114,22 +173,25 @@ function buildStandalonePage({ title, bodyHtml, refs, slug, site }) {
       .replace(/"/g, '&quot;');
 
   const pagePath = `/${slug}`;
-  const description = `${title} — 新天地教練專欄每週原創文章，聚焦香港 SEN 學童游泳教學與家長實務。`;
+  const kwStr = Array.isArray(keywords) ? keywords.join(', ') : String(keywords || '');
   const seoPage = {
     path: pagePath,
     title: `${title} | 新天地教練專欄`,
     description,
-    keywords: 'SEN游泳, 教練專欄, 特殊教育游泳, 自閉症游泳, 香港游泳',
+    keywords: kwStr,
     ogType: 'article',
     breadcrumb: [
       { name: '教練專欄', path: '/blog.html' },
       { name: title.slice(0, 40), path: pagePath },
     ],
     schemas: ['breadcrumb'],
+    datePublished: publishedAt,
+    dateModified: publishedAt,
   };
   const seoHead = site ? renderSeoHead(site, seoPage) : '';
+  const pageFaqs = faqs?.length ? faqs : [];
   const seoJsonLd = site
-    ? renderHeadJsonLd(site, seoPage, { faq: [] })
+    ? renderHeadJsonLd(site, seoPage, { faq: pageFaqs })
     : '';
 
   const refBlock = refs
@@ -139,6 +201,44 @@ function buildStandalonePage({ title, bodyHtml, refs, slug, site }) {
     )
     .join('\n');
 
+  const relatedBlock =
+    related?.length > 0
+      ? `<section class="weekly-related" aria-labelledby="weekly-related-h">
+        <h2 id="weekly-related-h">延伸閱讀</h2>
+        <ul>
+          ${related
+            .map(
+              (r) =>
+                `<li><a href="${esc(r.path.replace(/^\//, ''))}">${esc(r.title)}</a>${
+                  r.description
+                    ? ` — <span style="color:var(--text-muted);font-size:0.9rem">${esc(
+                        r.description.slice(0, 80)
+                      )}${r.description.length > 80 ? '…' : ''}</span>`
+                    : ''
+                }</li>`
+            )
+            .join('\n')}
+        </ul>
+      </section>`
+      : '';
+
+  const faqBlock =
+    pageFaqs.length > 0
+      ? `<section class="weekly-faq" aria-labelledby="weekly-faq-h">
+        <h2 id="weekly-faq-h">家長常見問題</h2>
+        <div class="faq-list">
+          ${pageFaqs
+            .map(
+              (f) => `<div class="faq-item">
+            <h3 class="faq-question" style="font-size:1rem;margin:1rem 0 0.35rem">${esc(f.question)}</h3>
+            <p class="faq-answer-content" style="margin:0 0 0.75rem;line-height:1.8">${esc(f.answer)}</p>
+          </div>`
+            )
+            .join('\n')}
+        </div>
+      </section>`
+      : '';
+
   const articleJsonLd = site
     ? `  <script type="application/ld+json">
   ${JSON.stringify(
@@ -147,11 +247,15 @@ function buildStandalonePage({ title, bodyHtml, refs, slug, site }) {
       '@type': 'Article',
       headline: title,
       description,
+      keywords: kwStr,
       url: absUrl(site, pagePath),
       inLanguage: 'zh-Hant-HK',
+      datePublished: publishedAt,
+      dateModified: publishedAt,
       author: { '@type': 'Organization', name: site.nameFull },
       publisher: { '@id': `${site.baseUrl}/#organization` },
       isPartOf: { '@id': `${site.baseUrl}/#website` },
+      image: absUrl(site, site.defaultImage || '/images/hero-banner.webp'),
     },
     null,
     2
@@ -159,17 +263,39 @@ function buildStandalonePage({ title, bodyHtml, refs, slug, site }) {
   </script>`
     : '';
 
+  const faqJsonLd =
+    site && pageFaqs.length
+      ? `  <script type="application/ld+json">
+  ${JSON.stringify(
+    {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: pageFaqs.map((item) => ({
+        '@type': 'Question',
+        name: item.question,
+        acceptedAnswer: { '@type': 'Answer', text: item.answer },
+      })),
+    },
+    null,
+    2
+  )}
+  </script>`
+      : '';
+
+  const pageUrl = site ? absUrl(site, pagePath) : slug;
+
   return `<!DOCTYPE html>
 <html lang="zh-Hant-HK">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta name="description" content="${esc(description)}">
-  <meta name="keywords" content="${esc(seoPage.keywords)}">
+  <meta name="keywords" content="${esc(kwStr)}">
   <title>${esc(seoPage.title)}</title>
 ${seoHead}
 ${seoJsonLd}
 ${articleJsonLd}
+${faqJsonLd}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
@@ -192,8 +318,9 @@ ${articleJsonLd}
     .weekly-ai-body article p { margin-bottom: 1rem; line-height: 2; }
     .weekly-ai-body article ul { margin: 0.5rem 0 1rem 1.25rem; list-style: disc; }
     .weekly-ai-body article li { margin-bottom: 0.35rem; }
-    .weekly-ai-refs { margin-top: 2rem; padding-top: 1.25rem; border-top: 1px solid var(--gray-mist); }
-    .weekly-ai-refs h2 { font-size: 1.1rem; margin-bottom: 0.5rem; }
+    .weekly-ai-refs, .weekly-related, .weekly-faq { margin-top: 2rem; padding-top: 1.25rem; border-top: 1px solid var(--gray-mist); }
+    .weekly-ai-refs h2, .weekly-related h2, .weekly-faq h2 { font-size: 1.1rem; margin-bottom: 0.5rem; }
+    .weekly-share { display:flex; flex-wrap:wrap; gap:0.5rem; margin: 1rem 0 1.5rem; }
   </style>
 </head>
 <body style="font-family:'Noto Sans TC',sans-serif;background:var(--cream);color:var(--text-body);">
@@ -211,6 +338,15 @@ ${articleJsonLd}
   <main class="weekly-ai-shell container">
     <p style="font-size:0.85rem;color:var(--text-muted);margin-bottom:0.5rem;">${esc(slug)}</p>
     <h1 style="font-size:clamp(1.35rem,4vw,1.85rem);color:var(--text-dark);margin-bottom:1rem;line-height:1.3;">${esc(title)}</h1>
+    <div class="weekly-share" data-share-root
+         data-share-title="${esc(title)}"
+         data-share-text="${esc(description)}"
+         data-share-url="${esc(pageUrl)}">
+      <button type="button" class="btn btn-outline" data-share-native>分享</button>
+      <button type="button" class="btn btn-outline" data-share-copy>複製連結</button>
+      <a class="btn btn-outline" data-share-whatsapp target="_blank" rel="noopener">WhatsApp</a>
+      <a class="btn btn-outline" data-share-facebook target="_blank" rel="noopener">Facebook</a>
+    </div>
     <div class="weekly-ai-banner">
       <strong>聲明：</strong>本篇依多個公開 RSS 摘要與連結作為靈感參考，由撰寫流程輔助以繁體中文重新組織與改寫，主題<strong>僅限 SEN 學童／青少年與游泳教學實務</strong>，<strong>非原文翻譯或抄襲</strong>。內容可能仍有疏漏，請讀者自行查證原文；發布前建議由機構負責人審閱。
     </div>
@@ -218,6 +354,8 @@ ${articleJsonLd}
       <article>
         ${bodyHtml}
       </article>
+      ${faqBlock}
+      ${relatedBlock}
       <section class="weekly-ai-refs">
         <h2>參考靈感來源（公開連結）</h2>
         <ul>${refBlock}</ul>
@@ -225,6 +363,8 @@ ${articleJsonLd}
     </div>
     <p style="margin-top:2rem;"><a href="blog.html" class="btn btn-primary">返回教練專欄</a></p>
   </main>
+  <script src="js/share.js?v=20260821a" defer></script>
+  <script src="js/analytics.js?v=20260525a" defer></script>
 </body>
 </html>`;
 }
@@ -284,57 +424,141 @@ async function main() {
 寫作語言：繁體中文（香港書面語習慣）。
 
 主題範圍（必須嚴格遵守，不可偏題）：
-- 全文只討論「有特殊教育需要（SEN）的學童／青少年」以及「游泳」相關內容，例如：水中適應、泳姿學習節奏、安全感、小組／個別化安排、家長溝通、教練策略、泳池環境與安全、與 SEN 常見特質（如感官、專注、焦慮）在「游泳課」情境下的連結。
-- 禁止寫與 SEN／游泳無明顯關聯的議題（例如：一般成人健身減重、無關的傳染病新聞、泛泛的國際政治經濟、純學科升學策略等）。若參考摘要偏離主題，請忽略該部分，仍只圍繞 SEN＋游泳寫作。
+- 全文只討論「有特殊教育需要（SEN）的學童／青少年」以及「游泳」相關內容。
+- 禁止寫與 SEN／游泳無明顯關聯的議題。
 
 硬性規則：
 - 絕對禁止逐句翻譯或複製英文原文；不可出現長段外文引句。
-- 必須重新組織論點，加入與「SEN 學童／家長／游泳教學現場」相關的在地化例子與實務建議（可合理虛構教學情境，但不可捏造醫療或法規「新聞」）。
-- 輸出格式：僅輸出「文章主體」的 HTML 片段，不要 <!DOCTYPE> 或 <html> 包裹。
-- 只可使用標籤：h2, h3, p, ul, li, strong, em。不要使用 markdown。
-- 篇幅約 900–1300 字（中文）。
-- 正文語氣以機構教練觀點撰寫，避免提及「自動程式撰稿」或類似技術製作描述。`;
+- 必須重新組織論點，加入與「SEN 學童／家長／游泳教學現場」相關的在地化例子與實務建議。
+- 標題要具體、可搜尋（避免空泛如「給家長的一些建議」）；正文第一段約 80 字內直接回答搜尋意圖。
+- 正文語氣以機構教練觀點撰寫，避免提及「自動程式撰稿」或類似技術製作描述。
+- 只輸出一個 JSON 物件（不要 markdown 圍欄以外的說明文字）。JSON 結構：
+{
+  "title": "文章標題（繁中，≤40字）",
+  "description": "SEO meta 描述一句，約 70–110 字，含 SEN／游泳關鍵語",
+  "keywords": ["3至6個香港家長會搜尋的關鍵字，例：SEN游水、自閉症游泳、ADHD泳池"],
+  "faqs": [
+    {"question":"家長會問的問題1","answer":"簡短實務回答"},
+    {"question":"家長會問的問題2","answer":"簡短實務回答"}
+  ],
+  "bodyHtml": "文章主體 HTML 片段（只用 h2,h3,p,ul,li,strong,em；約 900–1300 字；第一個 h2 可與 title 呼應但勿重複整段）"
+}`;
 
-  const user = `以下是本週隨機選出、且已篩選為與 SEN 或游泳相關的公開 RSS 摘要（僅作靈感，請勿抄寫句子）：\n\n${refText}\n\n請撰寫一篇獨立文章，協助家長與教練，且全文必須只圍繞 SEN 與游泳（含水中安全與教學實務）；不要引入與游泳無關的長篇醫療或新聞敘述。`;
+  const user = `以下是本週隨機選出、且已篩選為與 SEN 或游泳相關的公開 RSS 摘要（僅作靈感，請勿抄寫句子）：\n\n${refText}\n\n請依規定只輸出 JSON。`;
 
-  const rawHtml = await minimaxChat({ apiKey, base, model, system, user });
-  const bodyHtml = softenPublicArticleHtml(sanitizeArticleHtml(rawHtml));
+  const rawOut = await minimaxChat({ apiKey, base, model, system, user });
+  let parsed = extractJsonPayload(rawOut);
 
-  const titleMatch = bodyHtml.match(/<h2[^>]*>([\s\S]*?)<\/h2>/i);
-  const titlePlain = titleMatch
-    ? stripHtml(titleMatch[1]).slice(0, 80) || '本週專題：SEN 與游泳教學觀察'
-    : '本週專題：SEN 與游泳教學觀察';
+  let titlePlain;
+  let description;
+  let keywords;
+  let faqs;
+  let bodyHtml;
+
+  if (parsed && (parsed.bodyHtml || parsed.body_html)) {
+    titlePlain = String(parsed.title || '').trim() || '本週專題：SEN 與游泳教學觀察';
+    description =
+      String(parsed.description || '').trim() ||
+      `${titlePlain} — 新天地教練專欄每週原創文章，聚焦香港 SEN 學童游泳教學與家長實務。`;
+    keywords = normalizeKeywords(parsed.keywords);
+    faqs = normalizeFaqs(parsed.faqs || parsed.faq);
+    bodyHtml = softenPublicArticleHtml(
+      sanitizeArticleHtml(parsed.bodyHtml || parsed.body_html)
+    );
+  } else {
+    console.error('JSON 解析失敗，回退為純 HTML 模式。');
+    bodyHtml = softenPublicArticleHtml(sanitizeArticleHtml(rawOut));
+    const titleMatch = bodyHtml.match(/<h2[^>]*>([\s\S]*?)<\/h2>/i);
+    titlePlain = titleMatch
+      ? stripHtml(titleMatch[1]).slice(0, 80) || '本週專題：SEN 與游泳教學觀察'
+      : '本週專題：SEN 與游泳教學觀察';
+    description = `${titlePlain} — 新天地教練專欄每週原創文章，聚焦香港 SEN 學童游泳教學與家長實務。`;
+    keywords = normalizeKeywords([]);
+    faqs = [];
+  }
+
+  if (!bodyHtml || bodyHtml.length < 80) {
+    console.error('正文過短，中止。');
+    process.exit(1);
+  }
 
   const { slug } = isoWeekInfo();
-  const outHtmlPath = path.join(root, slug);
+  const publishedAt = new Date().toISOString();
   const seoConfig = loadSeoConfig(root);
+  const related = pickRelatedLandingPages(
+    seoConfig,
+    `${titlePlain} ${description} ${keywords.join(' ')} ${stripHtml(bodyHtml)}`,
+    3
+  );
+
   const page = buildStandalonePage({
     title: titlePlain,
+    description,
+    keywords,
+    faqs,
     bodyHtml,
     refs,
+    related,
     slug,
     site: seoConfig.site,
+    publishedAt,
   });
 
+  const outHtmlPath = path.join(root, slug);
   fs.writeFileSync(outHtmlPath, page, 'utf8');
   console.error('Wrote', outHtmlPath);
 
-  const publishedAt = new Date().toISOString();
   let meta = { latest: null, history: [] };
   try {
     meta = JSON.parse(fs.readFileSync(metaPath, 'utf8'));
   } catch {
     /* fresh */
   }
-  const entry = { slug, title: titlePlain, publishedAt };
+  const entry = {
+    slug,
+    title: titlePlain,
+    description,
+    keywords,
+    faqs,
+    publishedAt,
+  };
   meta.latest = entry;
   meta.history = [entry, ...(meta.history || []).filter((h) => h.slug !== slug)].slice(0, 36);
+  meta.note =
+    '由 automation/weekly-article.mjs 於每週 workflow 成功執行後更新；latest 指向最新 HTML 檔名與標題。';
   fs.writeFileSync(metaPath, JSON.stringify(meta, null, 2), 'utf8');
   console.error('Updated', metaPath);
 
-  const { writeSitemap, collectWeeklyArticleUrls } = await import('./seo-lib.mjs');
+  const pageUrl = absUrl(seoConfig.site, `/${slug}`);
+  const socialCopy = [
+    `【新天地教練專欄｜本週專題】`,
+    titlePlain,
+    '',
+    description,
+    '',
+    pageUrl,
+    '',
+    `WhatsApp 查詢：https://wa.me/${String(seoConfig.site.telephone || '').replace(/\D/g, '')}`,
+    '',
+    '（可貼上 Google 商家檔案／WhatsApp Status／家長群組）',
+  ].join('\n');
+  fs.writeFileSync(socialPath, socialCopy, 'utf8');
+  console.error('Updated', socialPath);
+  console.error('--- social copy ---\n' + socialCopy + '\n---');
+
+  // 輕量把本週 FAQ 合併提示寫入（不覆寫全站 FAQ，避免膨脹）
+  seoConfig.site.contentLastmod = publishedAt.slice(0, 10);
+  fs.writeFileSync(
+    path.join(root, 'data', 'seo-config.json'),
+    JSON.stringify(seoConfig, null, 2) + '\n',
+    'utf8'
+  );
+
   writeSitemap(root, seoConfig, collectWeeklyArticleUrls(root));
-  console.error('Updated sitemap.xml');
+  writeRssFeed(root, seoConfig);
+  writeLlmsTxt(root, seoConfig);
+  buildSearchIndex(root);
+  console.error('Updated sitemap.xml, rss.xml, llms.txt, search-index.json');
 }
 
 main().catch((e) => {

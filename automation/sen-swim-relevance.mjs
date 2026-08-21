@@ -21,3 +21,19 @@ export function isSenOrSwimRelevant(text) {
 
   return swim || sen;
 }
+
+/** 分數愈高愈適合置頂（同時命中 SEN＋游泳優先） */
+export function relevanceScore(text) {
+  const s = String(text || '').toLowerCase();
+  if (!s.trim()) return 0;
+  let score = 0;
+  if (/\b(swim|swimming|pool|aquatic)|游泳|泳池|水中|泳班/.test(s)) {
+    score += 2;
+  }
+  if (/\b(autis|asd|adhd|\bsen\b)|自閉|過動|專注力|感統|特殊學習|特教/.test(s)) {
+    score += 2;
+  }
+  if (score >= 4) score += 2;
+  if (/香港|hong kong|\bhk\b/.test(s)) score += 1;
+  return score;
+}

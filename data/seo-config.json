@@ -212,7 +212,7 @@
         { "name": "教練專欄", "path": "/blog.html" },
         { "name": "水中感統訓練", "path": "/blog-article-sensory.html" }
       ],
-      "schemas": ["breadcrumb"]
+      "schemas": ["breadcrumb", "article"]
     },
     {
       "file": "blog-article-waiting.html",
@@ -227,7 +227,7 @@
         { "name": "教練專欄", "path": "/blog.html" },
         { "name": "等待", "path": "/blog-article-waiting.html" }
       ],
-      "schemas": ["breadcrumb"]
+      "schemas": ["breadcrumb", "article"]
     },
     {
       "file": "blog-article-adhd.html",
@@ -242,7 +242,7 @@
         { "name": "教練專欄", "path": "/blog.html" },
         { "name": "ADHD 游泳技巧", "path": "/blog-article-adhd.html" }
       ],
-      "schemas": ["breadcrumb"]
+      "schemas": ["breadcrumb", "article"]
     },
     {
       "file": "digest-article.html",

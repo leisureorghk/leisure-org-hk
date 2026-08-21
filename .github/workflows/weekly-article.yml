@@ -57,6 +57,13 @@ jobs:
       - name: Apply SEO and sitemap
         run: node automation/apply-seo.mjs
 
+      - name: Notify IndexNow
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+        run: |
+          cd automation
+          node notify-indexnow.mjs
+
       - name: Commit and push to main
         id: commit
         run: |

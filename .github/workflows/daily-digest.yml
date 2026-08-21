@@ -23,6 +23,7 @@ jobs:
       MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
       MINIMAX_MODEL: ${{ secrets.MINIMAX_MODEL || 'MiniMax-M3' }}
       MINIMAX_API_BASE: ${{ secrets.MINIMAX_API_BASE }}
+      INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -50,17 +51,38 @@ jobs:
           npm ci
           node build-digest.mjs
 
+      - name: Refresh search index and llms
+        run: |
+          cd automation
+          node refresh-discovery.mjs
+
+      - name: Notify IndexNow
+        run: |
+          cd automation
+          node notify-indexnow.mjs
+
       - name: Commit and push to main
         id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- data/sen-swim-digest.json; then
-            echo "Digest unchanged; skip push."
+          git add data/sen-swim-digest.json data/search-index.json llms.txt llms-full.txt sitemap.xml rss.xml
+          # IndexNow 金鑰驗證檔（根目錄 {uuid}.txt）
+          for f in *.txt; do
+            case "$f" in
+              robots.txt|llms.txt|llms-full.txt) ;;
+              *)
+                if [ -f "$f" ] && [ ${#f} -gt 20 ]; then
+                  git add -- "$f"
+                fi
+                ;;
+            esac
+          done
+          if git diff --staged --quiet; then
+            echo "No content changes; skip push."
             echo "pushed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          git add data/sen-swim-digest.json
           git commit -m "chore(data): update SEN/swim RSS digest [automated]"
           git push origin HEAD:main
           echo "pushed=true" >> "$GITHUB_OUTPUT"

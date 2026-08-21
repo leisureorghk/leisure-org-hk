@@ -20,6 +20,7 @@
 ## 內容營運（引流）
 
 - 每週發佈 1 則貼文：連結最新 `blog-weekly-*.html` 或教練專欄
+- 自動化產出建議文案：合併週報後可直接複製 [`data/weekly-social-copy.txt`](data/weekly-social-copy.txt)（標題＋一句＋網址）貼到商家檔案／WhatsApp Status
 - 上傳課堂／中心照片（需家長授權）
 - 鼓勵滿意家長在 Google 留下**真實**評價（勿捏造評分）
 

@@ -25,6 +25,8 @@
 cd automation
 npm install
 node build-digest.mjs
+node build-search-index.mjs   # 站內搜尋索引
+node apply-seo.mjs            # SEO head、sitemap、llms.txt、search-index
 ```
 
 摘要翻譯／週報（需環境變數 `MINIMAX_API_KEY`）。若出現 **401 invalid api key** 且金鑰正確，請一併指定 API 網域（與 [MiniMax 文件](https://platform.minimax.io) 帳戶所屬端點一致）：
@@ -36,6 +38,9 @@ export MINIMAX_MODEL="MiniMax-M3"   # 可選，預設見腳本
 node build-digest.mjs
 # 或
 node weekly-article.mjs
+# 可選：通知搜尋引擎（需 INDEXNOW_KEY）
+export INDEXNOW_KEY="你的-uuid"
+node notify-indexnow.mjs
 ```
 
 Windows PowerShell 範例：
