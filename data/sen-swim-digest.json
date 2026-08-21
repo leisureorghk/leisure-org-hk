@@ -1,12 +1,114 @@
 {
-  "updatedAt": "2026-08-20T02:24:45.246Z",
+  "updatedAt": "2026-08-21T02:31:25.762Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "諾瓦奇稱自己「會在泳壇頂尖水準待一段時間」",
+      "title": "失去一條腿可能是我一生中最美好的一天",
+      "url": "https://www.bbc.co.uk/news/videos/c79gp2gweexo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T20:53:23.000Z",
+      "summary": "馬克·威廉姆斯在1982年失去了他的腿，後來成為世界冠軍游泳運動員。",
+      "sourceName": "BBC 新聞（障礙）",
+      "sourceId": "bbc-disability",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8caf/live/723900e0-9c93-11f1-a291-b542ee92de7c.jpg",
+          "alt": "Black and white photograph of a boy standing next to an indoor swimming pool with a swimming cap and goggles on his head and a towel over his shoulders"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d6c5/live/90906020-9cc4-11f1-aed2-8d6da8d75094.jpg",
+          "alt": "Prince William and Prince Harry"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1c19/live/afd9c7b0-9ccd-11f1-89bd-5bf7cf30291a.jpg",
+          "alt": "Two men inside a cooling box in the middle of the sea"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b8ba/live/de339b60-9c8a-11f1-b109-879e35c24276.jpg",
+          "alt": "Prince Harry and his wife and children pose in a sunlit garden"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/92a4/live/43ea6b80-9c4c-11f1-b109-879e35c24276.jpg",
+          "alt": "The Duke and Duchess of Sussex siting next to each other smiling at something."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8852/live/a02cc490-9bf4-11f1-b109-879e35c24276.png",
+          "alt": "A photo from a cafe in western Gaza, following an Israeli strike, in a BBC Verify branded border."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0cab/live/644e3cd0-9bde-11f1-a291-b542ee92de7c.jpg",
+          "alt": "People protest against the replacement of former defense minister Mykhailo Fedorov, and a picture of Fedorov on the right"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/32f8/live/0f3c86f0-9bef-11f1-a291-b542ee92de7c.jpg",
+          "alt": "SpaceX rocket floating on the ocean"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/27ac/live/08b5c2c0-9b4e-11f1-a291-b542ee92de7c.jpg",
+          "alt": "A close-up of correspondent Caroline Hawley in newsroom"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/12f3/live/af2297f0-9aa4-11f1-aed2-8d6da8d75094.jpg",
+          "alt": "Split screen. Tupac Shakur and Suge Knight on the left. Duane &quot;Keffe D&quot; Davis on the right."
+        }
+      ],
+      "bodyZh": "殘奧會游泳運動員對車禍失去腿部感到「感恩」\n\nBBC News\n\n「失去一條腿可能是我一生中最美好的一天」\n\n【影片】\n\n這段影片講述一位殘奧會游泳運動員在車禍中失去一條腿後，對這段經歷表達感恩的故事。\n\n相關議題：威爾斯、殘疾、Rhyl\n\n发布时间：5小時前"
+    },
+    {
+      "title": "44年前意外奪去他的腿後，殘奧運運動員想要感謝肇事司機",
+      "url": "https://www.bbc.co.uk/news/articles/cy452v427ngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T20:45:49.000Z",
+      "summary": "馬克·威廉姆斯在1982年失去了他的腿，後來成為世界冠軍游泳運動員。",
+      "sourceName": "BBC 新聞（障礙）",
+      "sourceId": "bbc-disability",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1040/cpsprodpb/1a2c/live/de68f4b0-9cb5-11f1-84cf-fd4cfd9d6c84.jpg",
+          "alt": "Mark Williams stands in a field alongside his wife, Rachael. Mark has close-cropped grey hair and a short beard and he&#x27;s smiling into the camera. Rachael has blonde hair and is smiling too. Both of them are wearing black and blue T-shirts with their company&#x27;s logo."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/00cb/live/f6c58730-9cb5-11f1-84cf-fd4cfd9d6c84.jpg",
+          "alt": "Four disabled swimmers are photographed just as they are about to jump into a pool at the start of a race. Mark is on the starting block that is furthest away from the camera and is wearing a white swimming cap with his amputated leg lifted as he gets ready to launch."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/812/cpsprodpb/130f/live/0a0c3870-9cb6-11f1-84cf-fd4cfd9d6c84.jpg",
+          "alt": "A black and white photo of Mark as a child, waving at the camera from the steps of a swimming pool. He is wearing swimming trunks and a swimming cap, and his left leg is amputated below the knee."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/7e53/live/2b1e8f40-9cb6-11f1-84cf-fd4cfd9d6c84.jpg",
+          "alt": "An old photo from 1982 of Mark Williams&#x27; damaged bicycle. It is a red road bike with a slightly damaged back wheel and the chain broken. The front wheel is missing, and the metal wheel rim with no spokes is leaning up against the frame of the bike."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/3a27/live/425d55b0-9cb6-11f1-84cf-fd4cfd9d6c84.jpg",
+          "alt": "Four Team GB swimmers stand in the podium in a line as they are given bronze medals by a dignitary at the 1998 Seoul Paralympics, while a woman looks on. The four are all wearing blue, red and white Team GB track suits and holding flowers. Mark, who has close-cropped blond hair, is second from left and is smiling into the camera."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/601b/live/533f3bf0-9cb6-11f1-84cf-fd4cfd9d6c84.jpg",
+          "alt": "Mark as a young man stands in front of a large statue in Seoul, South Korea, showing the five Olympic rings. He has close-cropped blond hair and is wearing a white T-shirt with a large Adidas logo on the front and tight cycling shorts in Team GB colours of red, white and blue."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/244d/live/66ecc550-9cb6-11f1-84cf-fd4cfd9d6c84.jpg",
+          "alt": "Mark poses for a full length photo in a studio. He has close-cropped grey hair and a stubbly beard. He&#x27;s wearing a black and blue T-shirt with his company logo, black shorts and blue trainers. He has the Olympic rings tattooed on his right leg, and his left prosthetic leg has a cover attached to it mimicking the shape of a lower leg. The cover is brightly patterned with the red, green and white colours of the Welsh flag."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f02d/live/e8dc9180-9bf8-11f1-b109-879e35c24276.png",
+          "alt": "A young man is pictured with blonde hair looking at the camera"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d8cf/live/05eda8f0-9c89-11f1-aed2-8d6da8d75094.jpg",
+          "alt": "Mugshot of Joseph Gibson."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e132/live/a883ddf0-9c7f-11f1-aed2-8d6da8d75094.jpg",
+          "alt": "A Suffragette Christmas card dating from approximately 1910. It reads &#x27;to vote you have a right and may they all get them&#x27;. The centre of the card reads &#x27;woman&#x27;s rights&#x27;, with &#x27;royal time this xmas&#x27; above it."
+        }
+      ],
+      "bodyZh": "一名男子10歲時被汽車撞擊導致截肢，他表示想感謝這位司機，因為對方「改變了他的人生，使其變得更好」。\n\n馬克·威廉斯（Mark Williams）日後成為世界冠軍泳手，並在1988年首爾殘奧會摘下銀牌，之後更創立了自己的公司。\n\n他表示，1982年6月騎單車回家途中撞倒他的不明司機，現時可能已80多歲，可能因事件留下「創傷」，但他想讓對方知道，自己因此獲得了「精彩的事」。\n\n「我最擔心的是，他不知道我的故事。我只希望他給我發個訊息，聯絡我。」他說。\n\n1982年6月21日威廉王子出生的那天，10歲的馬克正騎單車從學校回家，卻不幸遭遇車禍。\n\n「我剛通過了單車能力測試，拿了最高分——我是最安全的騎手。」他說。\n\n「證書放在背包裡，我正騎車回家給爸媽看。」\n\n他在里爾（Rhyl）一個繁忙路口附近出事，具體經過已無印象，只記得學校的一位朋友踩單車去他家通知父母。\n\n父親是 caravan 維修員，哥哥跑了半英里趕到現場，正好看到馬克被送上救護車。\n\n送院後，一位外科醫生先告訴父母，查理斯王子和戴安娜王妃剛誕下男嬰——隨後才帶來壞消息：馬克的腿已出現壞疽。\n\n父母被告知，若不截肢，他「在幾小時內就會死亡」。\n\n馬克說，從中可見當年社會對殘障的態度——父母花了一段時間才決定是否簽署手術同意書。\n\n數天後，他在深切治療部醒來，「右腿那邊有一團東西，左腿那邊卻甚麼都沒有」。\n\n涉事司機是個30多歲的男人，事故後留在現場，數天後還到醫院詢問馬克的情況。\n\n警方決定不提檢控，肇事司機的身份亦無任何記錄。\n\n2019年他曾透過當地媒體尋人，後來有消息傳來：一星期後，一名70多歲的陌生男子出現在附近農場，「看來驚恐萬分」，找馬克。\n\n可是，那人得知馬克的農舍位置後，始終沒有現身。馬克至今仍在懷疑，那人是否就是當年的司機，還是純屬巧合——他非常希望對方能主動聯絡。\n\n車禍醒來後，馬克一度以為「人生完了」，害怕往後只能依靠父母。\n\n然而，「精彩的事」相繼而來。\n\n康復始於他在醫院物理治療池認識了萊爾海豚游泳會（Rhyl Dolphins Swimming Club）的會長米克·瓊斯（Mick Jones）。\n\n米克當時在泳池邊摔倒，正從脊椎受傷中康復，而馬克還不會游泳。\n\n「對米克來說是不幸，但對我來說卻很幸運，因為他主動負責教我。」馬克說。\n\n「出院時，他問我父母，能否讓我免費學一年游泳。」\n\n四個月後，馬克參加一個游泳比賽，與比他更有經驗、同齡且非殘障的男孩同場競技。\n\n他「贏了大半比賽」，米克於是聯絡了設於斯托克·曼德維爾（Stoke Mandeville）的英國殘疾人體育協會（BSAD）——那裡被稱為殘奧運動的發源地。\n\n他們發來參加英國錦標賽的達標時間，大約五個月後，馬克成功達標。\n\n可是，協會回信表示他們搞錯了——發出的不是達標時間，而是英國紀錄。\n\n六星期後，在父母的支持下，馬克征戰英國錦標賽，摘下五金並創下五項英國新紀錄。\n\n後來他的游泳事業遍及全球，最終踏上1988年首爾殘奧會的舞台。\n\n他形容與英國代表隊在開幕禮上面對95000名觀眾邁步進場，是「非凡的體驗」。\n\n摘下銀牌和銅牌後，他在1989年邁阿密世界青年運動會再奪金牌並打破世界紀錄。\n\n「我在飛機上戴著獎牌，回程從尤斯頓站搭火車回里爾，一路上都戴著。」他說。\n\n回到家後，他決定休息——從此再也沒有復出。\n\n「我感覺完全不同了。」他稱這是「正確的決定」。\n\n「我給自己定了那個目標，那一直是推動我前進的力量。」\n\n馬克之後轉做銷售，最終與57歲的妻子雷切爾（Rachael）合夥創業，生產義肢外殼。\n\n公司 LimbArt 屢獲獎項，更令馬克有機會與查理斯三世及威廉王子見面。\n\n馬克與妻子育有兩名親生子女及兩名繼子女。他說，找到當年撞他的司機，能為這件事「畫上句號」。\n\n「我很清楚自己在英國各地走入學校，告訴大家我有多感激這件事的發生，但他可能一無所知。」他說。\n\n「我最擔心的是，他現在可能每天晚上失眠，為當年的事懊惱不已。」\n\n「我壓根不想跟他談論那一天。我只想讓他知道，我有多感恩。」"
+    },
+    {
+      "title": "諾瓦茨基在游泳頂尖水準「還有一段時間」",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cvglyzd5wweo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T06:05:02.000Z",
-      "summary": "菲利普·諾瓦奇表示，他的歐洲錦標賽和共和聯邦運動會金牌證明他已達到世界級水準。",
+      "summary": "菲力普·諾瓦茨基表示，他在歐洲和聯邦運動會上獲得的金牌證明他達到了世界頂尖水準。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -19,45 +121,44 @@
           "alt": "Filip Nowacki"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8f1a/live/44146280-9c1c-11f1-b109-879e35c24276.jpg",
-          "alt": "Martin O&#x27;Neill"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9d89/live/ebaf5f80-9cc7-11f1-a291-b542ee92de7c.jpg",
+          "alt": "Aryna Sabalekna"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4cb6/live/873cc450-9bf7-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "Leon Baptiste"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1bd6/live/bc096e80-9ce3-11f1-a291-b542ee92de7c.jpg",
+          "alt": "Julien Laurens &amp; James Horncastle, with Bernardo Silva, Desire Doue &amp; Ismael Saibari in the foreground"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f684/live/8da22670-9beb-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "Premier League trophy and trophy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/85f1/live/a6b29000-9ce5-11f1-b109-879e35c24276.jpg",
+          "alt": "Derek McInnes"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4b25/live/e2094370-9be5-11f1-a291-b542ee92de7c.jpg",
-          "alt": "Carlos Baleba celebrating for Brighton"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bb49/live/fa8f8680-9cc0-11f1-aed2-8d6da8d75094.jpg",
+          "alt": "Xabi Alonso and Enzo Fernandez"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6575/live/a847f690-9bf4-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "Tour of Britain Women riders"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/39b7/live/bc218f60-9cac-11f1-b366-155f83b9d1f8.jpg",
+          "alt": "Arsenal fans"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/490b/live/985ffd50-9bcb-11f1-a291-b542ee92de7c.jpg",
-          "alt": "Nick Kyrgios. He is holding a tennis racquet, and is wearing a black shirt and a white cap."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8574/live/95141680-9ca3-11f1-b109-879e35c24276.jpg",
+          "alt": "Viktor Gyokeres with a photo of Mikel Arteta pointing"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/22c9/live/a335e6e0-9be9-11f1-b109-879e35c24276.jpg",
-          "alt": "Carl Jenkinsomn and Myles Lewis-Skelly"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2870/live/6dc69420-9caa-11f1-84cf-fd4cfd9d6c84.jpg",
+          "alt": "Matthias Jaissle"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/fe87/live/20628020-9af4-11f1-b792-a710e56a11dc.jpg",
-          "alt": "Panorama: Child Maintenance: Parents under Pressure"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ea6e/live/9f8524c0-9cb6-11f1-a291-b542ee92de7c.jpg",
+          "alt": "Jack Wilshere with a photo of his HT speech"
         }
-      ],
-      "bodyZh": "Filip Nowacki：歐洲冠軍表示自己「會在頂尖水平待上一段時間」——BBC Sport\n\nBBC Sport\n\nNowacki「會在游泳頂尖水平待上一段時間」\n\nFilip Nowacki稱，他贏得的歐洲及英聯邦運動會金牌，證明他已達到世界級水平。\n\n這位18歲泳手本月在200米蛙泳項目於兩項賽事均奪冠，奠定了他在該項目名列世界前茅的地位。\n\n澤西島的Nowacki去年在100米及200米蛙泳世青賽稱霸後，升級至成人組別。\n\n「過去三週取得的成績，我還未真正有时间好好反思，」他向BBC Jersey表示。「但我認為這是迈向明年世錦賽和奥運會的很好階梯。「我只是很高興能延續去年的表現，更重要的是，讓自己確信去年並非僥倖，我會在頂尖水平待上一段時間。」\n\nFilip Nowacki以0.08秒之差擊敗荷蘭泳手Caspar Corbeau，赢得歐洲冠軍\n\nNowacki晉升至成人組別的表現令人印象深刻——在他首兩個國際賽事中均奪得金牌。\n\n他在英聯邦運動會奪金，是澤西島運動員自1990年以來的首面金牌。數天前，他在100米項目中擊敗Adam Ramsay-Peaty，赢得銀牌。\n\n其後在歐洲錦標賽中，他展現驚人後勁，在200米決賽後半程從第六位急起直追，最終超越奧運銅牌得主Caspar Corbeau，奪得第一。\n\nNowacki相信明年自己會游得更快。\n\n「對泳手來說，很重要的一點是磨練場館技巧，包括如何控制自己在場館內的狀態，以及最終如何演繹一場比賽，」他說。「200米蛙泳涉及很多戰術，其他200米項目亦然。「在英聯邦運動會和歐洲錦標賽，我的成績都略遜於個人最佳（PB），我認為主要原因——如果不是唯一原因的話——是自己在場館內的自我管理，比賽時有點太緊張。「我認為明年我會專注在比賽中盡量保持放鬆，全力衝擊個人最佳。「我今年掌握的技術比去年進步很多，我想如果明年這個時候再問我，我大概會說同樣的話。」\n\nNowacki的目標是2028年洛杉矶奧運會，但首先希望入選明年在匈牙利舉行的世錦賽。\n\n「歐錦賽只是邁向明年世錦賽的另一個台階，」他說。「我很希望再上一層樓，希望能再挑战自己的個人最佳。「如果能與日本、澳洲、美國等國的泳手較量，累積經驗，對後年的奧運會會很有幫助。」"
+      ]
     },
     {
-      "title": "報告指聾人患者因手語錯誤獲錯誤注射",
+      "title": "報告指聾啞患者因手語錯誤被錯誤注射",
       "url": "https://www.bbc.co.uk/news/articles/cn8nmm51l49o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T00:28:56.000Z",
-      "summary": "監察員報告指出，殘疾人士正因缺乏無障礙溝通方式而飽受影響。",
+      "summary": "一份監察員報告指出，殘疾人士因缺乏無障礙的溝通方式而受到忽視。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -70,45 +171,45 @@
           "alt": "Alan Graham pictured holding a fish. He is wearing a khaki hat and fisherman&#x27;s jacket. He has a grey beard and wears circular silver framed glasses"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2325/live/54ed2e90-9bfc-11f1-b109-879e35c24276.jpg",
-          "alt": "A photo from a cafe in western Gaza, following an Israeli strike, in a BBC Verify branded border."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ce07/live/9fbcb1e0-9cea-11f1-a291-b542ee92de7c.jpg",
+          "alt": "Two fishermen in a blue cool box"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7e9c/live/81252420-9bef-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "A man wearing a checkered shirt and glasses testifies in court."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a860/live/40947bc0-9ce6-11f1-b109-879e35c24276.jpg",
+          "alt": "A government poster that reads &#x27;Do not photograph or film people in public&#x27;"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3caf/live/6d68ea30-9bee-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "Volodymyr Zelensky dressed in all black with his right hand placed across his chest."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/fd1c/live/525ec4d0-9ca7-11f1-b109-879e35c24276.jpg",
+          "alt": "A number of cars submerged in water in a car park"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/126c/live/48e3b4c0-9be3-11f1-b109-879e35c24276.jpg",
-          "alt": "A homeless man wearing a hood holds out a paper cup."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5e8f/live/2ab46db0-9cb4-11f1-a291-b542ee92de7c.jpg",
+          "alt": "A man in a suit and tie testifies."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/40a0/live/d6519780-9bea-11f1-a291-b542ee92de7c.jpg",
-          "alt": "Young man wearing a white shirt during sit-down interview"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4e66/live/cfe9a7a0-9c96-11f1-b109-879e35c24276.jpg",
+          "alt": "Young man lay in ambulance"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/82d9/live/381cc830-9bf1-11f1-b109-879e35c24276.jpg",
-          "alt": "Image of a white jellyfish swimming around"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4f7d/live/1d167990-9c8d-11f1-a291-b542ee92de7c.jpg",
+          "alt": "Harry and Meghan holding hands"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3031/live/d96fdd90-9be1-11f1-a291-b542ee92de7c.jpg",
-          "alt": "Woman in park dressed in grey shirt and dark green trousers"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/21c9/live/afa861a0-9c84-11f1-a291-b542ee92de7c.jpg",
+          "alt": "Rows of hens&#x27; eggs in an egg box."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e9be/live/f5ab1890-9bdb-11f1-a291-b542ee92de7c.jpg",
-          "alt": "A court sketch of a woman with dark hair and glasses grimacing."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b6c3/live/26e2ba20-9c91-11f1-aed2-8d6da8d75094.jpg",
+          "alt": "Five-year-old Hind Rajab has long, wavy brown hair. She is wearing a pink t-shirt and a headband that looks like a pink flower crown."
         }
       ],
-      "bodyZh": "聾人病人因手語出錯而獲錯誤疫苗注射　報告揭示\n\nBBC News\n\n殘疾事務記者 Beth Rose 及 Emma Tracey 報道\n\n2026年8月19日發布\n\n據一份報告指出，一名聾人女子在醫生診所未獲提供英國手語（BSL）傳譯員的情況下，被注射了錯誤的疫苗。\n\n議會及衛生服務監察專員（PHSO）表示，殘疾人士正因無障礙溝通的缺失而備受忽視。\n\n報告指出，病人 Samantha 預約了流感疫苗注射，但卻被注射了新冠疫苗。醫護人員未有向她展示一段英國手語短片，而該短片本可揭示這一錯誤。她形容這次經歷對她造成了「深遠的影響」。\n\n衞生及社會關懷部表示，這些「令人深感痛心的故事」是「完全不可接受的」， NHS 及社會關懷機構有責任令服務變得無障礙。\n\nPHSO 負責調查涉及英國政府部門、公共機構及英格蘭 NHS 的投訴。\n\n報告指，公共服務在法律上有義務支援有 無障礙溝通需求的人士，這些需求可能基於殘疾、神經多樣性，或英語並非其第一語言。\n\nPHSO 表示，Samantha 原本預約了流感疫苗和新冠疫苗，分別在不同週接受注射。她向護士展示手機上的備忘，寫明她是來「只打流感針」的。\n\n然而，診所方面聲稱他們確認 Samantha 想注射新冠疫苗，並透過她的祖母取得同意——惟該祖母當時處於認知障礙早期，並不在治療室內。\n\n經調查後，PHSO 建議該診所向 Samantha 道歉並支付 £450 補償。診所其後亦已與一間手語傳譯公司簽訂合約。\n\nNHS Northamptonshire 綜合護理委員會對 Samantha 的遭遇表示「深感抱歉」，並期望各診所作出「合理調整以支援有效溝通」。\n\nPHSO 表示，他們發現殘疾人士因缺乏大字體或音頻等無障礙格式，面臨無法獲得醫療、財務或就業方面重要資訊的風險。\n\n報告指出，自2020年4月以來， PHSO 已完成623宗涉及合理調整的調查，其中496宗被確認或部分確認。\n\n報告亦提及 Alan Graham 的個案。他是一名聾人，正在 University Hospitals Birmingham NHS Trust 接受心臟衰竭治療。\n\n當傳譯員未能到場時，醫院職員請他十幾歲的孫兒為家人傳譯，並告知 Graham 的聾人女兒他可能會死。\n\n經監察專員調查後，該信托基金會道歉並表示「我們未有妥善處理」。\n\n他們表示已引入新措施協助聾人病人，包括加強認知及無障礙安排，確保病人的溝通需求得到更佳照顧。\n\n他們說：「我們致力從此事中汲取教訓，並為所有病人提供包容且富有同理心的護理。」\n\n監察專員報告發布後， NHS England 表示「對聾人或視障人士在使用或理解所需醫療服務時遇到障礙，是完全不可接受的」。\n\n他們補充指，已更新相關標準，列明服務機構應如何為有溝通需求的人士提供安全有效的護理。\n\nPHSO 表示，雖然他們並非監管機構，但如確認投訴成立，可命令公共機構支付經濟補償。\n\n行政總裁 Rebecca Hilsenrath 表示：「當人們感到自己的聲音未被聆聽、需求未被滿足，他們便會對那些本應支援他們的服務失去信任。」\n\nPHSO 在報告中亦讚揚 North Cheshire and Mersey NHS Foundation Trust 為有效溝通的良好範例。該信托基金會與當地倡議團體及聾人合作，改善了對聾人病人的服務——此前聾人病人反映感到被排斥。\n\n該信托基金會為病人提供了關於如何使用傳譯及翻譯服務的指南，一年內傳譯員使用率提升了50%。"
+      "bodyZh": "一名聾人女子因醫生診所未提供英國手語（BSL）翻譯員，而獲得了錯誤的疫苗，報告指出。\n\n議會及衛生服務監察專員（PHSO）表示，殘疾人士正因缺乏無障礙溝通而備受影響。\n\n報告指出，病人Samantha預約了流感疫苗注射，但員工未有向她展示BSL視頻以標示錯誤，最終她獲得了新冠疫苗。她表示這次經歷對她造成「深遠影響」。\n\n衞生及社會關懷部表示，這些「令人深感不安的故事」是「完全不可接受的」，NHS和社會關懷組織有責任使服務可及。\n\nPHSO負責調查涉及英國政府部門、公共組織及英格蘭NHS的投訴。報告指公共服務在法律上有義務支援有溝通需求的人士，相關需求可能來自殘疾、神經多樣性或英語並非其第一語言。\n\nPHSO表示，Samantha已預約流感及新冠疫苗注射於不同星期，並向護士展示手機上的備忘，說明她只是來注射「流感疫苗」。\n\n然而，診所方面聲稱相信自己已正確確認Samantha想要新冠疫苗，並透過她的祖母取得同意——但該祖母當時已處於認知障礙初期，並不在治療室內。\n\n經調查後，PHSO建議該診所道歉並向Samantha支付450英鎊。診所其後亦已與一間手語翻譯公司簽訂合約。\n\nNHS北安普敦郡綜合護理委員會表示對Samantha的經歷「深感遺憾」，並期望各診所作出「合理調整以支援有效溝通」。\n\nPHSO表示，他們發現殘疾人士因缺乏大字體或音頻材料等無障礙格式，而可能無法獲取醫療、財務或就業方面的重要資訊。自2020年4月以來，PHSO已完成623宗與合理調整相關的調查，其中496宗獲確認或部分確認。\n\n報告同時披露了Alan Graham的案例。這名聾人正在University Hospitals Birmingham NHS Trust接受心臟衰竭治療。由於沒有翻譯員，醫院員工請他十幾歲的孫子為家人傳譯，並向Graham的聾人女兒轉達他可能會死的信息。\n\n經監察專員調查後，該信托致歉並表示「我們沒有做好」。他們表示已推出新措施協助聾人病人，包括加強意識及無障礙安排，以確保病人的溝通需求得到更妥善照顧。\n\n他們表示：「我們致力從此事中汲取教訓，為所有病人提供包容而富有同理心的護理。」\n\n監察專員報告發表後，NHS England表示「對聾人或視障人士在獲取或理解所需醫療服務時面臨障礙，完全不可接受」。\n\n他們又指近期已更新標準，列明服務應如何為有溝通需求的人士提供安全而有效的護理。\n\nPHSO表示，雖然他們並非監管機構，但若投訴獲確認，可命令公共組織支付經濟補償。\n\n行政總裁Rebecca Hilsenrath表示：「當人們感到自己的意見未被聆聽、需求未獲滿足時，他們便會對專為支援他們而設的服務失去信任。」\n\n報告中，PHSO以North Cheshire and Mersey NHS Foundation Trust為提供有效溝通的好例子。該信托與當地倡導團體及聾人合作，改善了對聾人病人的服務。信托為病人提供指南，說明如何獲得傳譯及翻譯服務，口譯員使用量在一年內增加了50%。"
     },
     {
-      "title": "英格蘭殘疾人士將享全日免費巴士服務",
+      "title": "英格蘭殘疾人士將獲得24小時免費巴士出行",
       "url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T06:11:30.000Z",
-      "summary": "這項備受團體歡迎的改變將於四月在英格蘭生效。",
+      "summary": "這項變革受到倡議團體的歡迎，將於英格蘭4月起生效。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -129,37 +230,37 @@
           "alt": "A thin, grey banner promoting the News Daily newsletter. On the right, there is a graphic of an orange sphere with two concentric crescent shapes around it in a red-orange gradient, like a sound wave. The banner reads: “The latest news in your inbox first thing.”"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2325/live/54ed2e90-9bfc-11f1-b109-879e35c24276.jpg",
-          "alt": "A photo from a cafe in western Gaza, following an Israeli strike, in a BBC Verify branded border."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ce07/live/9fbcb1e0-9cea-11f1-a291-b542ee92de7c.jpg",
+          "alt": "Two fishermen in a blue cool box"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7e9c/live/81252420-9bef-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "A man wearing a checkered shirt and glasses testifies in court."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a860/live/40947bc0-9ce6-11f1-b109-879e35c24276.jpg",
+          "alt": "A government poster that reads &#x27;Do not photograph or film people in public&#x27;"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3caf/live/6d68ea30-9bee-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "Volodymyr Zelensky dressed in all black with his right hand placed across his chest."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/fd1c/live/525ec4d0-9ca7-11f1-b109-879e35c24276.jpg",
+          "alt": "A number of cars submerged in water in a car park"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/126c/live/48e3b4c0-9be3-11f1-b109-879e35c24276.jpg",
-          "alt": "A homeless man wearing a hood holds out a paper cup."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5e8f/live/2ab46db0-9cb4-11f1-a291-b542ee92de7c.jpg",
+          "alt": "A man in a suit and tie testifies."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/40a0/live/d6519780-9bea-11f1-a291-b542ee92de7c.jpg",
-          "alt": "Young man wearing a white shirt during sit-down interview"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4e66/live/cfe9a7a0-9c96-11f1-b109-879e35c24276.jpg",
+          "alt": "Young man lay in ambulance"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/82d9/live/381cc830-9bf1-11f1-b109-879e35c24276.jpg",
-          "alt": "Image of a white jellyfish swimming around"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4f7d/live/1d167990-9c8d-11f1-a291-b542ee92de7c.jpg",
+          "alt": "Harry and Meghan holding hands"
         }
       ],
-      "bodyZh": "英格蘭殘疾人士將可全日免費乘搭巴士\n\n英國政府宣布，居住在英格蘭的殘疾人士從明年四月起，將可在任何時間免費乘搭巴士。\n\n目前，殘疾人士巴士通行證僅在平日09:30至23:00期間適用，令不少人難以在正常工作時間往返公司或出席晚間活動。周末及銀行假期則可全日使用。\n\n政府估計是次改變將令約一百萬人受惠。措施為政府降低生活成本及鼓勵民眾就業的方針之一。\n\n殘疾人士慈善機構Scope表示，此舉將「消除日常生活的障礙」。\n\n據政府所述，巴士是英格蘭最受歡迎的交通方式，對許多人而言是「生命線」。\n\n首相Andy Burnham表示：「許多殘疾人士在某些時段無法使用通行證乘車，這實在不合理。」\n\n他指出，政府將作出改變——此前他在擔任大曼徹斯特市市长期間已推行過類似措施。今年較早時，Burnham在曼徹斯特廢除了殘疾通行證的時段限制，讓市民可在該市Bee Network巴士系統全日任意乘搭。\n\n「現在能為全國推行，我深感自豪。」他說。\n\n自由民主黨國會議員Tom Gordon（Harrogate and Knaresborough選區）稱此政策是「殘疾社群的重大勝利」，更是「兩年倡議運動的成果」。\n\n然而，保守黨發言人要求首相「交代清楚」如何為「這份日益增長的政策清單」籌集資金，並指「只不過是部門預算之間的帳面騰挪」。\n\n由殘疾人士主導的慈善機構Transport for All的James Barber形容這是「殘疾人士的真正勝利」，屬「非常受歡迎的消息」。他指出，措施亦有助終結「各地規則不一、令人困惑及不公平的郵遞區號彩票現象」。\n\nDisability Rights UK對此表示歡迎，但同時強調這「只是旅程的一部分」，未來仍需努力確保通行證的申請資格在全國各地一致執行。\n\n「政府必須與殘疾人士組織合作，確保整個系統得到轉型，而不只是改變使用時段。」該組織表示。\n\n來自Sheffield的Kurtis Crossthorn是視障人士，他形容新措施將令人「非常歡迎」，並使不少殘疾人士感到「如釋重負」及「被聆聽」。\n\n「殘疾人士需要上班，需要生活。」他補充，巴士對社區中無法駕駛的人士而言是「命脈」。\n\n新措施將於四月一日生效。\n\n政府表示，造價六千萬鎊的計劃將由交通部及就業及退休金部撥款資助。\n\n就業及退休金事務國務大臣Lilian Greenwood MP表示，措施是一項「長期承諾」而非短期政策，政府將在未來的支出審查中檢視資金來源。\n\n作為降低生活成本方針的一部分，政府早前已在八月推出十六歲以下人士免費巴士服務，並設定兩鎊單程車票上限，鼓勵巴士公司參與。\n\n英國各地目前情況各異：蘇格蘭及威爾斯的殘疾人士已享有免費巴士服務；北愛爾蘭方面，視障人士及殘疾退伍軍人可免費乘車，其他持殘疾通行證人士則享半價優惠。"
+      "bodyZh": "英格蘭殘疾人士免費巴士服務將擴展至全天候\n\n英格蘭殘疾人士將可於4月起全天候免費乘搭巴士，政府已作出宣布。\n\n現時殘疾人士巴士通行證僅在工作日上午9時30分至晚上11時有效，令不少人難以在清晨乘車上班或出席較晚的活動。周末及銀行假日則全日可用。\n\n估計約100萬人可受惠於今次改變，措施是政府降低生活成本及鼓勵民眾就業的其一重點。\n\n殘疾人士慈善機構Scope表示，此舉將「消除日常生活的障礙」。\n\n政府指出，巴士是英格蘭最受歡迎的交通方式，對很多人而言是「救命線」。\n\n首相Andy Burnham表示，「很多殘疾人士在某些時段無法使用通行證乘車，這顯然並不合理」。他說政府將對此作出改變，正如他之前擔任大曼徹斯特市長時所做的一樣。\n\n今年較早前，Burnham已在曼徹斯特取消殘疾通行證的時間限制，讓持有通行證人士可在當地Bee Network巴士系統全日使用。他說：「現在為全國推行，我為此感到自豪。」\n\nHarrogate and Knaresborough選區自由民主黨國會議員Tom Gordon是這項政策的重要倡議者，他形容這是「殘疾人士社群的巨大勝利」，亦是「兩年來倡議運動的成果」。\n\n然而，保守黨發言人要求首相「交代清楚」如何資助「這份愈來愈長的政策清單」，並指「這只是現有部門預算的重新調配」。\n\n由殘疾人士主導的慈善機構Transport for All的James Barber形容這是「殘疾人士的真正勝利」，是「備受歡迎的消息」。他表示，此舉亦有助終止「不同地區規例各異所造成令人困惑及不公的 postcode lottery」。\n\nDisability Rights UK亦對措施表示歡迎，但強調這「只是旅程的一部分」，仍需努力確保通行證的申請資格在全國各地一致執行。他們指出：「政府必須與殘疾人士組織合作，確保整個系統得到轉型，而不只是使用系統的時段。」\n\n來自Sheffield的Kurtis Crossthorn為法定盲人，他表示改變將「非常受歡迎」，會讓很多殘疾人士感到「如釋重負」及「被聆聽」。他說：「殘疾人士需要上班，也需要過正常生活。」他形容巴士對社區中無法駕駛的人士而言是「救命線」。\n\n新措施將於明年4月1日生效。\n\n政府表示，6,000萬鎊的計劃將由交通部及就業及養老金部的預算撥款資助。\n\n就業及養老金大臣Lilian Greenwood國會議員表示，這項改變是「長期的承諾」，而非短期政策，政府將在未來的支出審查中探討如何資助。\n\n作為降低生活成本的重點工作，政府已於8月推出16歲以下人士免費巴士服務，以及2鎊的單程車票上限，政府鼓勵巴士公司自願參與。當局亦下調酒吧業務評稅，並撤銷電費帳單的增值稅。\n\n英國各地現況：蘇格蘭及威爾斯的殘疾人士已享有免費巴士服務；北愛爾蘭方面，盲人及殘疾退伍軍人可免費乘車，持有殘疾通行證的其他人士則享半價優惠。"
     },
     {
-      "title": "麥金尼斯表现出色 英國隊歐錦賽獎牌榜居首",
+      "title": "麥金尼斯閃耀　英國歐錦賽獎牌榜高居榜首",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cly5rgy7n1jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T11:56:39.000Z",
-      "summary": "基安娜·麥金尼斯協助英國在巴黎歐洲水上運動錦標賽中贏得兩面金牌，週日英國隊最終獎牌榜居首。",
+      "summary": "大不列顛在巴黎舉行的歐洲水上錦標賽上獎牌榜名列前茅，基安娜·麥金尼斯在週日幫助他們奪得兩枚金牌。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -184,33 +285,33 @@
           "alt": "Lois Toulson and Maisie Bond celebrate winning gold"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8f1a/live/44146280-9c1c-11f1-b109-879e35c24276.jpg",
-          "alt": "Martin O&#x27;Neill"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9d89/live/ebaf5f80-9cc7-11f1-a291-b542ee92de7c.jpg",
+          "alt": "Aryna Sabalekna"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4cb6/live/873cc450-9bf7-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "Leon Baptiste"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1bd6/live/bc096e80-9ce3-11f1-a291-b542ee92de7c.jpg",
+          "alt": "Julien Laurens &amp; James Horncastle, with Bernardo Silva, Desire Doue &amp; Ismael Saibari in the foreground"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f684/live/8da22670-9beb-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "Premier League trophy and trophy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/85f1/live/a6b29000-9ce5-11f1-b109-879e35c24276.jpg",
+          "alt": "Derek McInnes"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4b25/live/e2094370-9be5-11f1-a291-b542ee92de7c.jpg",
-          "alt": "Carlos Baleba celebrating for Brighton"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bb49/live/fa8f8680-9cc0-11f1-aed2-8d6da8d75094.jpg",
+          "alt": "Xabi Alonso and Enzo Fernandez"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6575/live/a847f690-9bf4-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "Tour of Britain Women riders"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/39b7/live/bc218f60-9cac-11f1-b366-155f83b9d1f8.jpg",
+          "alt": "Arsenal fans"
         }
       ],
-      "bodyZh": "歐洲水上錦標賽2026：基安娜·麥克英尼斯大放異彩　英國獎牌榜居首\n\nBBC體育\n\n24歲的基安娜·麥克英尼斯（Keanna MacInnes）在巴黎舉行的歐洲水上錦標賽最後一個比賽日，協助英國隊奪得兩面金牌，助英國最終登上獎牌榜首位。\n\n這位24歲泳手以2分5秒90刷新蘇格蘭紀錄，贏得200米蝶泳金牌，其後在女子4×100米混合接力中出戰蝶泳，英國隊最終奪魁。\n\n安哈拉德·埃文斯（Angharad Evans）在個人100米蛙泳摘金後再下一城，夥拍隊友Lauren Cox及Freya Colbert，游出3分53秒50的錦標賽紀錄，創下女子接力蛙泳最快分段成績，帶領球隊大熱奪金。\n\n這面接力金牌確保英國在獎牌榜上壓過意大利，僅以0.1秒之差險勝對手，最終以14面金牌登上榜首，意大利以13面金牌名列第二。\n\n英國代表團在巴黎共奪得四面銀牌及八面銅牌，26面獎牌中有14面來自游泳項目。\n\n泳隊共獲8金、2銀、4銅，包括18歲的菲利普·諾瓦茨基（Filip Nowacki）於周四在男子200米蛙泳奪冠。\n\n跳水項目取得2金、2銀、3銅，藝術游泳則有4金及1銅。\n\n英國在游泳及藝術游泳項目均居獎牌榜首位，跳水則排第四。\n\n麥克英尼斯表示：「我等了一整個星期才拿到第一面獎牌，能在一晚之內拿到兩面，真的非常特別。」\n\n\n其他報道\n\n蘭姆西-皮蒂對提前出局感到困惑\n\n歐洲金牌「非常特別」——諾瓦茨基\n\n英國的埃文斯在100米蛙泳奪得歐洲金牌\n\n英國在歐洲錦標賽奪金\n\n英國在歐洲水上錦標賽再添兩金"
+      "bodyZh": "2026年歐洲水上運動錦標賽：基安娜·麥克因尼斯閃耀　英國稱霸獎牌榜\n\n麥克因尼斯閃耀　英國稱霸歐錦賽獎牌榜\n\n英國在巴黎舉行的歐洲水上運動錦標賽中稱霸獎牌榜，基安娜·麥克因尼斯在周日最後一個比賽日為英國奪得兩面金牌，居功至偉。\n\n這位24歲泳手以2分5秒90創下蘇格蘭新紀錄，贏得200米蝶泳金牌，隨後在女子4×100米混合接力中擔任蝶泳一棒，助英國奪冠。\n\n安格哈拉德·埃文斯此前已獲女子100米蛙泳個人金牌，此番再創女子接力蛙泳最快分段成績，聯同隊友Lauren Cox及Freya Colbert，以3分53秒50破錦標賽紀錄的成績奪冠。\n\n這面接力金牌令英國以0.1秒的優勢力壓意大利，穩居獎牌榜首位，英國最終以14金居首，意大利以13金位居次席。\n\n英國代表隊在巴黎還獲得4銀8銅，在26面獎牌中有14面來自游泳項目。\n\n游泳隊共獲8金2銀4銅，包括18歲的Filip Nowacki在周四的男子200米蛙泳金牌。\n\n跳水隊亦取得2金2銀3銅，藝術游泳隊則有4金1銅進帳。\n\n英國在游泳和藝術游泳項目獎牌榜居首，跳水項目則排名第四。\n\n「等待第一面獎牌等了一整個星期，能在一晚內收獲兩面，實在非常非常特別。」麥克因尼斯說。"
     },
     {
       "title": "「最後一划！」——英國戲劇性奪得接力金牌",
       "url": "https://www.bbc.co.uk/sport/swimming/videos/cgewwvggx11o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T18:46:21.000Z",
-      "summary": "英國女子四乘一百米接力戲劇性擊敗意大利，最後一刻趕超對手奪金。",
+      "summary": "大不列顛在女子4x100米接力賽中奪金，在戲劇性的最後時刻從意大利手中搶走勝利，游泳比賽一直持續到最後一刻。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -235,6 +336,14 @@
           "alt": "Para swimming sisters Astrid and Ursula Carroll"
         },
         {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/daf5/live/f874e1b0-9cb1-11f1-aed2-8d6da8d75094.jpg",
+          "alt": "Max Verstappen"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c3bd/live/7ec25f70-9cb4-11f1-aed2-8d6da8d75094.jpg",
+          "alt": "Mikel Arteta"
+        },
+        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3db3/live/80a6b0b0-9bc0-11f1-aed2-8d6da8d75094.jpg",
           "alt": "Frank Lampard"
         },
@@ -243,25 +352,17 @@
           "alt": "Manchester City lifting Premier League trophy"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5f14/live/8e336f10-9a2c-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "Mikel Arteta"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d36d/live/15457450-97c9-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Novak Djokovic"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/771b/live/cfc4b490-9732-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "A Formula 1 car speeds past a blurred crowd"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a64a/live/d4b4ed60-9bbc-11f1-b109-879e35c24276.jpg",
+          "alt": "Gianni Buttice"
         }
       ],
-      "bodyZh": "歐洲游泳錦標賽：英國戲劇性奪女子4×100米接力冠軍\n\n「最後一划！」——英國戲劇性奪接力金牌\n\n英國在女子4×100米接力賽中奪得金牌，在戲劇性的衝線中從意大利手上搶走勝利，泳池爭持直至最後一刻。\n\n更多內容：BBC Sport游泳報道\n\n僅供英國用戶使用。"
+      "bodyZh": "歐洲游泳錦標賽：英國隊在女子4×100米接力賽中戲劇性奪冠\n\n英國隊在女子4×100米接力賽中奪得金牌，在緊張刺激的最後關頭從意大利手中搶走勝利，比賽結果直至最後一刻才揭曉。\n\n「最後一划！」——英國隊戲劇性奪得接力金牌\n\n片段時長：1分20秒\n\n詳情請瀏覽BBC Sport游泳專頁（僅限英國用戶）"
     },
     {
-      "title": "「太出色了！」英國麥金尼斯以「頑強」的表現奪下200公尺蝶式金牌",
+      "title": "「出色！」英國的麥金尼斯以「頑強」的游泳奪得200米蝶泳金牌",
       "url": "https://www.bbc.co.uk/sport/swimming/videos/ce8llpk2xrro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T17:36:31.000Z",
-      "summary": "英國的基安娜·麥金尼斯在歐洲水上運動錦標賽中堅持到底，贏得女子200公尺蝶式金牌，游出個人最佳成績。",
+      "summary": "英國的基安娜·麥金尼斯在歐洲水上錦標賽的女子200米蝶泳比賽中堅持到底奪得金牌，游出個人最佳成績。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -286,6 +387,14 @@
           "alt": "Sophie Davies"
         },
         {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/daf5/live/f874e1b0-9cb1-11f1-aed2-8d6da8d75094.jpg",
+          "alt": "Max Verstappen"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c3bd/live/7ec25f70-9cb4-11f1-aed2-8d6da8d75094.jpg",
+          "alt": "Mikel Arteta"
+        },
+        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3db3/live/80a6b0b0-9bc0-11f1-aed2-8d6da8d75094.jpg",
           "alt": "Frank Lampard"
         },
@@ -294,25 +403,17 @@
           "alt": "Manchester City lifting Premier League trophy"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5f14/live/8e336f10-9a2c-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "Mikel Arteta"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d36d/live/15457450-97c9-11f1-b2ab-0dd01740f9f6.jpg",
-          "alt": "Novak Djokovic"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/771b/live/cfc4b490-9732-11f1-a7ab-8b30adf0800a.jpg",
-          "alt": "A Formula 1 car speeds past a blurred crowd"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a64a/live/d4b4ed60-9bbc-11f1-b109-879e35c24276.jpg",
+          "alt": "Gianni Buttice"
         }
       ],
-      "bodyZh": "歐洲游泳錦標賽：英國泳手基安娜·麥肯尼斯勇奪女子200米蝶泳金牌\n\n英國泳手基安娜·麥肯尼斯（Keanna Macinnes）在歐洲游泳錦標賽中成功守住領先位置，奪得女子200米蝶泳金牌，游出個人最佳成績。\n\n報道形容這位英國泳將的表現「出色！」（Outstanding!），並以「頑強」（gutsy）一詞形容她的表現。\n\n此內容在您所在的地區無法使用。\n\n麥肯尼斯在比賽中展現出色耐力與爆發力，最終以優異成績觸池，為英國代表隊再添一金。她的個人最佳時間標誌著其職業生涯的重要突破。\n\nBBC Sport 游泳報道\n\n僅限英國用戶使用"
+      "bodyZh": "歐洲游泳錦標賽：Keanna Macinnes 奪女子200米蝶泳金牌\n\n英國的 Keanna Macinnes 在歐洲游泳錦標賽女子200米蝶泳項目中頂住壓力奪金，創下個人最佳成績。\n\n「太出色了！」英國的 Macinnes 以「頑強」的表現赢得200米蝶泳金牌\n\nBBC Sport 游泳報道\n\n此內容僅供英國用戶瀏覽。"
     },
     {
-      "title": "可能讓老化的關節更疼痛的常見錯誤",
+      "title": "可能加劇關節老化的常見錯誤",
       "url": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
       "publishedAt": "2026-08-16T11:23:47.000Z",
-      "summary": "老化會逐漸磨損保護關節的軟骨和滑液，但避免活動反而可能使情況更糟。運動有助於滋養軟骨、強化保護關節的肌肉，並能減緩骨關節炎症狀。游泳、騎自行車、太極、瑜伽和在多變地形行走等低衝擊活動也能改善平衡感。",
+      "summary": "老化會逐漸磨損保護關節的軟骨和滑液，但避免運動反而可能使情況惡化。運動有助於滋養軟骨，強化保護關節的肌肉，並能減輕骨關節炎症狀。游泳、單車、太極、瑜伽及在多變地形行走等低衝擊活動也可改善平衡。",
       "sourceName": "《科學日報》健康與體能",
       "sourceId": "sciencedaily-fitness",
       "images": [
@@ -329,115 +430,13 @@
           "alt": "The Conversation"
         }
       ],
-      "bodyZh": "關節疼痛的常見錯誤——可能令老化的關節更痛\n\n隨着年齡增長，保護關節的軟骨和滑液逐漸流失，但避免活動反而可能使情況惡化。運動有助滋養軟骨、強化保護關節的肌肉，並能減輕骨關節炎症狀。游泳、單車、太極、瑜伽及在多變地形步行等低衝擊活動，亦可改善平衡感和活動能力。適量的正確運動已能帶來顯著分別。\n\n隨年月過去，我們曾能應付各種屈伸活動的關節開始衰弱。這是因為關節內的軟骨（一種坚韧但富有彈性的結締組織）和滑液會隨時間減少。\n\n這可能令部分人避免運動等活動。然而，只要方法正確，運動其實可以保護關節。\n\n關節的重要性\n\n每個關節都由關節軟骨所保護，這種特殊組織覆蓋着骨骼末端。軟骨保護關節，並為活動提供光滑表面。\n\n一種名為滑液的稠密液體亦有助潤滑膝蓋、髖關節和肩關節。它通過減少軟骨與關節之間的摩擦來實現這一點。滑液同時為軟骨提供關鍵營養。\n\n然而，軟骨的自我修復能力有限。這部分因為軟骨缺乏自身的血液供應。\n\n軟骨逐漸退化稱為骨關節炎，全球超過5億人受此疾病影響。骨關節炎患者通常在承重關節（如膝蓋、髖關節和脊椎）感受到最劇烈的疼痛。\n\n運動如何影響關節\n\n身體通過活動來分布滑液。因此，運動有助將這種液體及其含有的營養送到軟骨。\n\n與此同時，關節周圍的肌肉起着緩衝作用。因此，通過舉重等運動強化肌肉，有助減少關節承受的壓力。研究表明，針對大腿前側股四頭肌的力量訓練在減輕關節疼痛方面特別有效。\n\n一項重要的Cochrane系統評估綜合了所有關於運動對骨關節炎影響的相關證據，發現運動能減輕膝關節炎患者的疼痛並改善功能。它亦顯示運動的效果與消炎藥物相近，但沒有同樣的副作用。\n\n運動可能亦有助維持本體感覺，即身體感知自身位置和動作的能力。然而，本體感覺會隨年齡下降。隨着年齡增長，大腦較難接收這些信號，可能導致關節承受重量不均勻，從而加速關節磨損。\n\n然而，在多變甚至不穩定的地面上運動可以減少這種磨損過程。這會迫使踝、膝和髖關節迅速調整動作，保持關節的活躍度和靈活性。\n\n低衝擊運動是什麼？\n\n低衝擊運動是指運動時至少有一隻腳着地，或以其他方式支撐身體。這類運動減少關節承受的重量和力量。\n\n低衝擊運動的例子包括游泳和水中有氧運動。兩者均涉及在水中懸浮，而水可支撐高達體重90%的重量。單車運動對關節同樣有益，特別是膝蓋。\n\n太極是另一個選擇，這是一種結合柔和動作和呼吸技巧的温和運動形式。研究表明，對於膝關節炎患者，太極可能與物理治療一樣有效。瑜伽亦可強化關節周圍的肌肉並改善整體柔韌性。\n\n步行值得特别提及。在不平坦的地形（如草地、碎石或山林小徑）上步行，有助維持本體感覺。2026年的一項研究發現，不穩定表面訓練能顯著改善長者的姿勢控制能力，即保持穩定的能力。\n\n另一項系統評估發現，挑戰平衡感的運動能將跌倒率降低約23%。這點相當重要，因為跌倒是65歲以上成年人因傷致死的首要原因。\n\n我從未做過低衝擊運動，該如何開始？\n\n以下是三個建議，令低衝擊運動既安全又有效：\n\n1. 循序漸進\n\n開始時無需任何專業器材。盡可能選擇在不平坦的表面上步行，如草地、沙地或碎石，而非行人路。即使只是在公園草坪上步行十分鐘，亦能改善關節活動。\n\n你亦可練習單腳站立，例如刷牙時。最好先在堅實的地面上開始，目標是每條腿站立30秒，然後可進展到站在摺好的毛巾或泡棉墊上。重要的是，在提升難度前必須先掌握每個動作。\n\n2. 使用輔助\n\n安全至關重要。做低衝擊運動時，應在可以扶靠的物件附近進行，如公園長椅或浴室洗手盆。如果步行作為運動，行走杖是很好的選擇。重要的是，疲倦時千萬不要在不穩定的表面上運動。\n\n3. 尋求專業意見\n\n任何運動都有風險。例如，超出活動範圍維持瑜伽姿勢可能傷及下背、肩膊或膝蓋。姿勢不佳地做深蹲或弓步會對膝關節造成不必要的壓力。\n\n因此，開始前請諮詢合資格的運動生理學家或物理治療師。他們可以幫助你設計個人化的運動計劃。\n\n總結\n\n關節難免隨年齡磨損，但低衝擊運動有所幫助。因此無論年齡大小，都值得一試。"
+      "bodyZh": "令關節老化疼痛加劇的常見錯誤\n\n年紀漸長會逐漸磨損保護關節的軟骨與滑液，但避免活動反而可能令情況更糟。運動有助滋養軟骨、強化保護關節的肌肉，並能減輕骨關節炎症狀。游泳、騎單車、太極、瑜伽，以及在多變地形上步行等低衝擊活動，亦可改善平衡力與活動能力。即使只做幾分鐘適當的動作，亦能帶來改變。\n\n關節的重要性\n\n每個關節都由關節軟骨支撐減壓——這種特殊組織覆蓋骨骼末端，保護關節並提供平滑的活動表面。一種稱為滑液的黏稠液體亦有助潤滑膝關節、髖關節及肩關節，原理是減少軟骨與關節之間的摩擦。滑液同時為軟骨提供重要營養。\n\n然而，軟骨自我修復的能力相當有限，部分原因是軟骨本身缺乏血液供應。\n\n軟骨逐漸退化稱為骨關節炎，全球超過五億人受此問題困擾。骨關節炎患者最常在承重關節（如膝關節、髖關節及脊椎）感到疼痛。\n\n運動如何影響關節\n\n身體透過活動分布滑液，因此運動有助將這種液體及其所含營養送到軟骨。\n\n與此同時，關節周圍的肌肉擔當避震器角色。因此透過負重訓練等運動強化肌肉，有助減輕關節承受的壓力。研究顯示，針對股四頭肌（大腿前側的肌肉群）的力量訓練，對減輕關節疼痛特別有效。\n\n一項重要的 Cochrane 系統性文獻回顧評估了所有關於運動對骨關節炎影響的相關證據，發現運動能減輕膝關節骨關節炎患者的疼痛並改善功能。研究亦顯示，運動的效果與消炎藥物相若，但沒有同樣的副作用。\n\n運動亦可能有助維持本體感覺——即身體感知自身位置與動作的能力。然而，本體感覺會隨年齡增長而衰退。因此隨著年紀增長，大腦較難接收這些信號，可能導致關節承重不均，令關節磨損加劇。\n\n然而，在多變甚至不穩定的地面上運動，可減少這種磨損過程。這會迫使踝關節、膝關節及髖關節快速調整動作，保持關節活躍靈活。\n\n低衝擊運動又如何？\n\n低衝擊運動是指運動時至少有一隻腳着地，或以其他方式支撐身體的運動。這類運動可減少關節承受的重量與力量。\n\n低衝擊運動的例子包括游泳及水中健體操。兩者均涉及浮於水中，身體重量最多可有九成獲得水支撐。騎單車對關節亦有好處，尤其對膝關節。\n\n太極是另一個選擇，這是一種以柔和動作及呼吸技巧為基礎的溫和運動形式。研究顯示，對於膝關節骨關節炎患者，太極的效果可能與物理治療相若。瑜伽亦有助強化關節周圍的肌肉，並改善整體柔韌性。\n\n步行值得特別一提。在不平坦的地形（如草地、碎石路或山林小徑）上步行，有助維持本體感覺。2026年一項研究發現，不穩定地面訓練能顯著改善長者的姿勢控制（即保持穩定的能力）。\n\n另一項系統性文獻回顧發現，挑戰平衡感的運動能將跌倒率降低約百分之二十三。這點相當重要，因為跌倒是六十五歲以上成年人因傷致死的首要原因。\n\n我從未做過低衝擊運動，該如何開始？\n\n以下三個建議有助安全有效地開始低衝擊運動。\n\n一、从小处着手\n\n開始時無需任何特殊器材。盡可能選擇在不平坦的地面（如草地、沙地或碎石路）步行，而非在行人路上行走。即使只在公園草坪上步行十分鐘，亦能改善關節活動。\n\n你亦可練習單腳站立，例如刷牙時。每隻腳先在堅實地面站立三十秒為目標，其後可進展至站立在摺疊毛巾或泡棉墊上。重點是每個動作或難度級別都要熟練掌握，方可前進。\n\n二、使用支撐\n\n安全至關重要。進行低衝擊運動時，應在可握住支撐物（如公園長椅或浴室洗手盆）附近進行。如外出步行運動，行走手杖是很好的選擇。最重要的是，疲倦時切勿在不穩定地面上運動。\n\n三、尋求建議\n\n任何運動都有一定風險。例如，超出活動範圍維持瑜伽姿勢可能傷及下背、肩膊或膝關節。姿勢不良地做深蹲或弓步，亦會對膝關節造成不必要的壓力。\n\n因此，開始之前請諮詢認可的運動生理學家或物理治療師。他們可以幫助你設計個人化的運動計劃。\n\n結語\n\n關節難逃年齡帶來的磨損，但低衝擊運動有助改善情況。因此，無論年紀大小，都值得一試。"
     },
     {
-      "title": "家長在特殊教育支援不足的擔憂下創建「生命線」暑期活動",
-      "url": "https://www.bbc.co.uk/news/articles/cp8el5n3831o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T05:48:19.000Z",
-      "summary": "參與者的需求複雜多樣，在校期間需要護理照顧。",
-      "sourceName": "BBC 新聞（障礙）",
-      "sourceId": "bbc-disability",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0cec/live/2ede5790-97ee-11f1-9bd9-d1c2814d5e5d.jpg",
-          "alt": "A woman in a grey top has her hand around a girl with long brown hair, wearing a red t-shirt. The woman has black glasses and long brown hair. They both smile as they look of-camera to the right. Behind them is a white-walled kitchen with a grey fridge in the middle."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/8d64/live/bab9b7a0-97ee-11f1-9bd9-d1c2814d5e5d.jpg",
-          "alt": "A long white table sits a dozen people. There are plates of food in-front of each person. The table is in a small white-walled room. There are half a dozen bunches of flowers down the centre of the table."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3f99/live/d8218ef0-97ec-11f1-a655-8fe1097dfbd0.jpg",
-          "alt": "A woman with short brown hair smiles at the camera in a grey-tshirt, while her son, who is on her left, sitting on her knee looks slightly of camera to the right as he wears a bright yellow t-shirt. They sit in a kitchen with green panelling and a white floor."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e424/live/894c6fc0-97ec-11f1-a655-8fe1097dfbd0.jpg",
-          "alt": "A woman with long blonde hair kneels down and smiles at the camera, alongside her son, who has short blonde hair and sits in a wheelchair, wearing a blue t-shirt. There is a white wall behind the pair. The woman, who wears a black t-shirt, is on the left."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/50f2/live/e1ba6ad0-97ed-11f1-9bd9-d1c2814d5e5d.jpg",
-          "alt": "In a sports hall with a blue floor a woman in a white top smiles to the camera as she has her hand on the back of her daughters wheelchair. The woman, who is kneeling beside her daughter is on the left of her daughter. Her daughter looks of to the right of the camera as she sits wearing a lilac top."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4480/live/6376cf10-97ed-11f1-9bd9-d1c2814d5e5d.jpg",
-          "alt": "A man with short brown hair and a short brown beard and moustache smiles to the camera."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/817b/live/82fb9c60-2931-11f1-b930-6bf1eac08e0d.png",
-          "alt": "Claire Miller with her son Danny. Claire has shoulder-length brown hair, wearing a blue denim shirt. Danny has short brown hair, wearing a black t-shirt and headphones."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/34bd/live/4b68e180-29ff-11f1-99ef-b5dfea7d5974.jpg",
-          "alt": "A child is wearing an orange top and is playing with a wooden maths game. The game consists of wooden pegs and coloured pieces to help count."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/738/cpsprodpb/977f/live/a662ccb0-6bed-11f1-8150-ff9f130ca186.jpg",
-          "alt": "A woman with long blonde hair wears a pink top as her small ginger haired son sits on her lap. She is looking at the camera while he looks of to the left. He wears a black long-sleeve t-shirt. Behind them is a blue wall with wooden beams on the wall."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2325/live/54ed2e90-9bfc-11f1-b109-879e35c24276.jpg",
-          "alt": "A photo from a cafe in western Gaza, following an Israeli strike, in a BBC Verify branded border."
-        }
-      ],
-      "bodyZh": "家長自行籌辦暑期活動　成為SEN學童的「生命線」\n\n【圖片說明】Karen Ryan是Sensability的創辦人之一，協助籌辦今次暑期活動。\n\n撰文：Robbie Meredith　BBC News NI 教育及藝術事務記者\n\n刊發日期：2026年8月16日\n\n利斯本（Lisburn）一個專為嚴重學習障礙學童而設的暑期活動，被形容為家長的「生命線」。\n\n這個為期一週的活動於利斯本舉辦，緣起於年初其他特殊學校的暑期計劃一度存疑。活動由利斯本及卡斯托里亞格市議會資助，由慈善機構Sensability負責營運，服務近20名5至19歲的學童及青少年。參加者均有複雜的特殊教育需要，在校就讀時需要護理照顧。\n\nSensability是一家支援嚴重學習障礙青少年及成年人的慈善機構。另外，Stepping Stones Northern Ireland亦獲市議會支持，舉辦了為期六週的青年服務暑期活動。\n\n今年初，部分特殊教育需要（SEN）學童的暑期活動曾因護理人手問題而陷入存廢危機。教育局（Education Authority）表示，因「對參加學童的健康護理安排存有疑慮」而需取消相關活動。其後議會在復活節特別召開會議討論此事，決定最終逆轉。\n\n然而Sensability與利斯本的家長決定自行籌辦，確保子女在暑假期間有活動可參加，是次活動在市內的Grove Activity Centre舉行，並於週五圓滿結束，家長與學童一同享用了特別午餐。\n\n【圖片說明】Kristin Hutchinson表示，有規律的日程對兒子極為重要。\n\n不少參加活動的學童及青少年需要使用輪椅、無法言語，並有醫療需求。\n\nKaren Ryan的17歲女兒Emily天生患有罕見染色體疾病，有深度特殊需要。Emily無法言語，需要管道餵飼，並需使用輪椅，目前於利斯本的Parkview特殊學校就讀。Karen是Sensability的創辦人之一，亦協助籌辦今次暑期活動。\n\n她表示：「大部分參加者需要使用輪椅，可能患有癲癇或糖尿病，需要管道餵飼，無法言語，而且個人護理需求需全天候由人照顧。」\n\nSensability資助了Diverse Minds Events的導師提供感統活動，但家長須陪同子女前來。Karen解釋：「這樣家長可以隨時處理醫療需要、餵飼及個人護理需求。」\n\n對於Kristin Hutchinson而言，能夠陪同6歲患有嚴重學習障礙的兒子Adam前來，形容這點「至關重要」。\n\n她說：「Adam在學校沒有規律時，完全無法自我調節。整個暑假他每天都十分困擾，讓我也感到十分難受。要找到適合他的活動實在太困難了。」她又指，能夠有一些私人時間對她幫助很大：「昨天離開時，我感覺比進場時輕鬆多了。」\n\n【圖片說明】Michelle表示，活動令兒子Alfie的行為有了巨大轉變。\n\nMichelle McCreadie的8歲兒子Alfie患有嚴重學習障礙及自閉症，同樣需要透過胃造口管道餵飼。\n\n她說：「他是一個頗為複雜的小朋友，但他是家中的閃耀之星，我們都很愛他。專門為有Alfie這類需要的學童提供的服務實在太少了。這週我見到Alfie的行為有很大轉變，他很快樂。他不再困擾、不再傷心，能夠來這裡與其他小朋友一起玩、享受樂趣，這本來就應該是夏天的樣子。」\n\n【圖片說明】Rebecca Guist的女兒Elsie有參加活動，她認為讓孩子置身於社交環境非常重要。\n\nRebecca Guist的10歲女兒Elsie特別喜歡在感統空間進行活動。\n\n她說：「Elsie無法言語，需要使用輪椅，基本上24小時都需要一對一的照顧，但她很棒。這類服務我們的孩子根本沒有。有社交環境同時又能配合感統需要的活動，對孩子來說非常重要。她在這裡有自己的小習慣，知道自己喜歡做什麼。這令每一個人每一天都更美好。」\n\n【圖片說明】Graeme Dickson有兩名子女均有參加今次活動。\n\nGraeme Dickson的14歲兒子George需要使用輪椅並患有嚴重學習障礙，10歲女兒Jessica均有出席。\n\n他說：「得知這個活動舉行，真的猶如找到了一條生命線。女兒Jessica在這週結交了新朋友。在她的學校班上，事實上全班只有一個同學能夠說話。」\n\n他說，通常Jessica很難結交新朋友，但「這週她交到了一個新朋友」，「實在太好了。」"
-    },
-    {
-      "title": "殘疾人在熱浪中：「我們在討論的是生存」",
-      "url": "https://www.bbc.co.uk/news/articles/cd6923j2wnpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T00:18:49.000Z",
-      "summary": "殘疾人倡議者表示，面對熱浪的安全官方建議可能反而讓他們陷入更大危險。",
-      "sourceName": "BBC 新聞（障礙）",
-      "sourceId": "bbc-disability",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/9edc/live/9e63a0f0-8a67-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Emily, a young woman with mid length auburn hair, kneels in a park beside Rosie, a black Labrador guide dog, gently holding her paw. Emily is wearing a light cream dress and sitting among bright yellow daffodils, with flowers in front of her and behind her. Behind them is a large tree trunk, a fountain, and out of focus greenery."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ec15/live/5b543340-8f4b-11f1-9818-6fa9a4d75fb0.jpg",
-          "alt": "A smiling young man is seated outdoors in a park beneath blooming trees with pink flowers and fallen petals covering the ground. He has dark wavy hair and a light beard, and is wearing a gray and brown hoodie over a white shirt that says cozy, the backrest of his wheelchair is visible behind him."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/489e/live/5b956040-8b40-11f1-b2d7-b96c6bc9d7f5.jpg",
-          "alt": "Smiling blonde woman with mid length wavy hair wearing a navy dress with white polka dots and long sleeves. She&#x27;s holding a red-handled cane and standing outdoors in front of a patterned building with greenery and flowers in the background."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4761/live/5c270f80-8c1d-11f1-94b2-05bc97107049.jpg",
-          "alt": "A close-up outdoor selfie of a man wearing a green cap, rectangular tinted glasses, and a maroon T-shirt. He is centered in the frame with a neutral expression, on a sunny street with parked cars, apartment buildings, trees, and a bright blue sky with clouds in the background."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2325/live/54ed2e90-9bfc-11f1-b109-879e35c24276.jpg",
-          "alt": "A photo from a cafe in western Gaza, following an Israeli strike, in a BBC Verify branded border."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7e9c/live/81252420-9bef-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "A man wearing a checkered shirt and glasses testifies in court."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3caf/live/6d68ea30-9bee-11f1-aed2-8d6da8d75094.jpg",
-          "alt": "Volodymyr Zelensky dressed in all black with his right hand placed across his chest."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/126c/live/48e3b4c0-9be3-11f1-b109-879e35c24276.jpg",
-          "alt": "A homeless man wearing a hood holds out a paper cup."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/40a0/live/d6519780-9bea-11f1-a291-b542ee92de7c.jpg",
-          "alt": "Young man wearing a white shirt during sit-down interview"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/82d9/live/381cc830-9bf1-11f1-b109-879e35c24276.jpg",
-          "alt": "Image of a white jellyfish swimming around"
-        }
-      ],
-      "bodyZh": "酷暑下的殘疾人士：「我們說的是生存」\n\n今夏的熱浪為數百萬人帶來交通癱瘓、室內過熱及學校停課——預計本周將有第五波熱浪來襲。\n\n已知有健康問題及殘疾的人士在極端高溫期間面臨最高風險。但倡議人士及研究人員指出，這些額外且特殊的挑戰——從服務犬中暑到輪椅過熱——往往被忽略，即使在公眾建議及緊急應變規劃中亦然。\n\n「對健全人士而言只是不舒服，但如果你是殘疾人士，我們開始談論的是生存。」倡議人士 Doug Paulley 表示。\n\nEmily Davison 指出，氣溫飆升迫使她必須將導盲犬 Rosie 的福祉置於自身獨立性之上。「狗的健康必須擺在第一位。」\n\nDavison 是居於倫敦的記者及內容創作者，但熱浪迫使她取消出席活動的行程，因為 Rosie 往往無法在高溫下安全乘車，錯過潛在收入。公共交通如巴士經常過熱，她避免使用 Uber，因為「多次經歷被拒絕攜犬乘車」。她表示，即使有倫敦 Taxicard 計劃——為行動障礙或嚴重視力受損人士提供的補貼的士服務——尋找可用的士也愈發困難。\n\nDavison 說，現在每次出行都需要仔細規劃，令她感到孤立，同時限制了工作和獨立性。「這確實讓生活停滯不前。當你身處困境，帶着導盲犬卻甚麼都做不了，某些事情確實會陷入停頓。」她現時長時間在家工作——但慶幸自己仍可如此，並非所有殘疾人士都能這樣。「能夠居家工作是一個很重要的選項，對確保殘疾人士繼續就業真的很重要。」\n\nJimmy Macfarlane 是卡迪夫的演員，工作需要出行，因此使用電動輪椅。今夏熱浪期間，有人在社交媒體上反映電話電池因高溫消耗更快；但對 Jimmy 而言，電池是讓他行動的關鍵。「高溫肯定影響輪椅，令電池消耗得更快。『我總是要想，有没有办法不移動輪椅就能到達目的地？』Macfarlane 說。\n\n有些日子他甚至無法離開家門——他之前住在六樓，高溫導致電梯故障。BBC News 也報道過其他高層建築的類似問題，但 Jimmy 不像其他住戶，不能靠走樓梯解決問題。「有段時間我在公寓裏困了好幾天，直到修好為止。」公寓內的炎熱也難以應付。他說，由於腦性麻痹，日常事務本身就已經耗費更多精力。「更衣、洗澡……我做的每件事都比健全人士多花一倍時間。在炎熱的日子，更加疲憊。」\n\n一般應對酷熱的建議——關窗簾保持涼爽、天氣轉涼時開窗——對視力受損的內容創作者及倡議人士 Claire Sisk 來說可能很危險。「如果我把所有門窗都打開，會感到極度不安，因為我看不見是否有人走進我的住所。所以我必須全部關上，這樣真的很難受。」\n\n其他讓家居保持涼爽的措施亦會帶來新風險。例如風扇可能成為絆倒危險，因為它們不在她日常熟悉的布局中。當她外出時，天氣會令她剩餘的視力變得更不可靠。「陽光出來時，那部分視力就消失了。」炎熱天氣會令出行變得不可預測，而通道問題會浪費本已令人疲憊的一天中寶貴的時間。她記得在地铁站因人手不足而需要等候。「這有點令人沮喪，因為回家要花兩小時，而非應有的 45 分鐘。」\n\nBath 大學博士生 Hollye Kirkcaldy 研究極端高溫如何影響英國殘疾人士，她表示這些經歷在全國各地十分普遍。「城市基建設施、住房、社會網絡及護理等結構性條件方面存在不平等。把所有這些加起來，再放進高溫，就是造成困境的原因。」\n\n她的研究發現，官方熱浪指引往往未能反映殘疾人士的實際情況，而那些被標榜為簡單的措施實際上可能製造新的障礙。她指出，這會削弱自主能力，損害心理健康，並帶來經濟壓力。殘疾人士可能因此無法工作，同時面對更高的額外開支，例如全天候降溫的電費。Kirkcaldy 表示，某些情況下這變成了「沒有人應該做出的取捨——在健康與溫飽之間抉擇」。\n\n殘疾人士權利倡議者 Doug Paulley 本身有多種健康問題，高溫會令病情加劇。他認為熱浪期間殘疾人士的經歷，反映了社會中更深層的問題。「殘疾人士在任何重大危機中總是最先受衝擊的群體，這次也不例外。」有一次熱浪期間，他取消了物理治療並錯過向新冠調查提供證據的機會，因為出行變得不安全。「根本沒有辦法去。外面危險地炎熱，而我肯定會很不舒服。」\n\nEmily Davison 認為，氣候變化必須納入大眾對通道及支援的思考中。「氣候變化是事實。夏天只會愈來愈熱。」\n\n對 Doug 而言，問題不僅在於殘疾人士如何應對極端天氣，更關乎在制定未來決策時考慮了誰的經驗。「政策是非常多為他們而設，而非與他們一起訂立的。」"
-    },
-    {
-      "title": "成長過程中出現ADHD特質的隱藏健康影響",
+      "title": "成長過程中患有多動症特徵的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項歷時數十年的大型研究表明，童年的ADHD跡象可能產生超越學校和行為的深遠後果。研究人員追蹤近11,000人從童年到中年，發現10歲時有明顯ADHD特質者，到中年時更可能出現多種身體健康問題和健康相關殘疾。",
+      "summary": "一項歷時數十年的龐大研究表明，兒童時期的多動症跡象可能帶來超越學業和行為的深遠後果。研究人員追蹤了近11,000人從童年到中年，發現那些在10歲時就表現出強烈多動症特徵的人，到中年時更可能出現多種身體健康問題和與健康相關的殘疾。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -450,13 +449,13 @@
           "alt": "ADHD in Childhood Can Affect Adult Health"
         }
       ],
-      "bodyZh": "成長過程中ADHD特質的隱藏健康影響\n\n您的最新研究資訊來源\n\n追蹤：\n\nFacebook\n\nX/Twitter\n\n訂閱：\n\nRSS資訊\n\n時事通訊\n\n全新！\n免費訂閱我們的\n電郵時事通訊\n\n。\n\n來自研究機構的科學新聞\n\n成長過程中ADHD特質的隱藏健康影響\n\n日期：\n\n2026年1月24日\n\n來源：\n\n倫敦大學學院\n\n摘要：\n\n一項長達數十年的大型研究表明，童年的ADHD徵兆可能產生超越學校和行為的深遠影響。研究人員追蹤近11,000人從童年到中年，發現那些在10歲時有明顯ADHD特質的人，到40多歲時更可能出現多種身體健康問題及與健康相關的殘疾。\n\n在童年時展現ADHD特質的人，到了中年出現身體健康問題和健康相關殘疾的風險更高，這是根據一項大型長期研究得出的結論。圖片來源：Shutterstock\n\n倫敦大學學院（UCL）和利物浦大學的研究人員領導的這項研究發現，在10歲時顯示ADHD特質的兒童，到了46歲時更可能出現身體健康問題和與健康相關的殘疾。\n\n研究人員表示，這些結果很可能反映了與專注力不足及過度活躍症（ADHD）相關的廣泛健康風險，以及ADHD患者在整個成年期獲得的治療和支援的長期影響。\n\n這項發表於JAMA Network Open的研究，是最大型且運行時間最長的研究之一，旨在探討童年的ADHD特質與日後身體健康之間的關聯。\n\n終身健康挑戰的證據\n\n資深作者、UCL心理學與語言科學系Joshua Stott教授表示：「我們在此為這令人擔憂的證據庫增添了新內容，顯示ADHD患者在整個人生過程中出現健康問題的機會高於平均水平。\n\n「ADHD患者在適當的支援下可以發揮所長，但這類支援往往不足，一方面是針對性的服務不足，另一方面是ADHD仍然被低估診斷，尤其是在中年及較年長的人士當中，他們的需求未被關注。」\n\nADHD如何影響日常功能\n\nADHD患者在專注力方面存在差異，同時伴隨較高的過動或衝動水平。許多患者精力充沛，能夠高度專注於感興趣的活動，但在執行常規或較乏味的任務時則難以集中。\n\n這些挑戰會影響規劃、時間管理和衝動控制。長遠而言，這可能使學業和工作更加困難，增加日後出現社交和職業困難的風險。\n\nADHD始於童年，儘管現在廣泛認為它經常持續至成年，但英國成年人獲得的治療比在其他高收入國家為少。支援服務同樣有限。\n\n數十年健康結果追蹤\n\n為檢視長期影響，研究人員分析了UCL主導的1970年英國隊列研究中10,930名參與者的數據，該研究從出生開始追蹤個人直至中年。\n\nADHD特質是透過參與者10歲時由家長和教師填寫的行為問卷進行評估。無論參與者是否曾確診ADHD，這些量度方法均被採用。\n\n慢性病和殘疾比率較高\n\n研究發現，在童年時期有較高ADHD特質水平的人，到了46歲時更可能報告身體健康問題。他們報告兩種或以上疾病（包括偏頭痛、脊椎問題、癌症、癲癇或糖尿病）的 odds 高出14%。\n\n在10歲時有較高ADHD特質的人當中，42%表示在中年時至少有两种身體健康問題。相比之下，ADHD特質分數較低的人當中，有37%報告同樣情況。\n\n在童年時期有較高ADHD特質的參與者，到了46歲時也更可能報告與身體健康相關的殘疾（即因身體健康問題而影響工作或其他日常活動）。\n\n健康差異的可能原因\n\n研究人員發現，較差的身體健康結果部分與ADHD患者中較高的心理健康問題發生率、較高的BMI值以及較高的吸煙率有關。\n\n先前的研究也表明，ADHD患者更可能經歷壓力性生活事件和社交排斥，亦較少獲得適時的醫療篩查和護理。\n\n童年ADHD特質與身體健康相關殘疾之間的關聯，在女性中似乎比男性更強。\n\nStott教授補充：「所有這些潛在的解釋因素都與以下事實一致：ADHD使衝動控制更加困難，即時滿足和獎勵的需求更加強烈，同時由於ADHD患者面對的社會劣勢，其心理健康狀況也較差。」\n\n對支援和公共衛生的影響\n\n同一研究團隊去年發表的另一項研究報告了確診ADHD的成年人可能出現預期壽命縮短的情況，儘管這項發現並非本次研究的一部分。\n\n第一作者Amber John博士（此前在UCL工作，現於利物浦大學任職）強調適當支援的重要性：「值得注意的是，ADHD患者是一個多元群體，擁有各種不同的長處和經歷，大多數人都會過上長壽、健康的生活。\n\n「然而，許多人在及時診斷和獲得適切支援方面面臨重大障礙。這一點很重要，因為為ADHD患者提供適當的支援並滿足他們的需求，有助於改善其身體和心理健康結果。\n\n「此外，公共衛生策略應考慮ADHD患者的需求，例如令篩查計劃和持續健康監測對ADHD患者更加便利。」\n\n健康與醫學\n\n糖尿病\n\n專注力不足及過度活躍症\n\n疾病與病況\n\n個人化醫學\n\n心理與大腦\n\nADHD\n\n學習障礙\n\n頭痛\n\n教育心理學\n\n期刊參考：\n\nJoshua Stott, Elizabeth O'Nions, Lucy Corrigan, Joanne Cotton, Warren James Donnellan, Danielle Nimmons, Henry Shelford, Céline El Baou, Gavin R. Stewart, Rachael W. Cheung, Roopal Desai, Douglas G. J. McKechnie, Aphrodite Eshetu, Rob Saunders, Jae Won Suh, William Mandy, Darya Gaysina, Philip Asherson, Jessica Agnew-Blais, Amber John.\n童年時期的專注力不足及過度活躍症特質與中年身體健康\n。\nJAMA Network Open\n，2026年；9（1）：e2554802 DOI：\n10.1001/jamanetworkopen.2025.54802\n\n資料來源：\n\n倫敦大學學院\n\n。\n\n探索更多\n\n來自ScienceDaily的資訊"
+      "bodyZh": "兒童時期的ADHD特質與中年健康影響\n\n一項大型、歷時數十年的研究表明，兒童時期的ADHD跡象可能帶來超越學業和行為的長期後果。研究人員追蹤近11,000人從童年到中年，發現10歲時具有較強ADHD特質的人，到了40多歲時更有可能出現多種身體健康問題及健康相關殘疾。\n\n研究由倫敦大學學院（UCL）和利物浦大學的研究人員主導，發現10歲時顯現ADHD特質的兒童，到46歲時更可能出現身體健康問題及健康相關殘疾。\n\n研究結果反映ADHD患者面臨的廣泛健康風險，以及在整個成年期獲得的治療和支援不足所帶來的長期影響。\n\n該研究發表於《JAMA Network Open》，是規模最大、追蹤時間最長的研究之一，探討兒童時期的ADHD特質與日後身體健康的關聯。\n\n資深作者、UCL心理學與語言科學系Joshua Stott教授表示：「我們的研究進一步充實了令人擔憂的證據——ADHD患者一生中出現健康問題的機率高於平均水平。ADHD患者在適當支援下可以蓬勃發展，但這種支援往往匱乏，不僅因為針對性的支援服務不足，ADHD的診斷率仍然偏低，尤其是中年及較年長人士，他們的需求未被關注。」\n\nADHD患者的日常功能挑戰\n\nADHD患者在注意力方面存在差異，同時伴有較高的多動或衝動程度。許多人精力充沛，能夠高度專注於感興趣的活動，但可能在常規或較乏味的任務上難以集中注意力。\n\n這些挑戰會影響計劃、時間管理和衝動控制。長期而言，這可能使學業和工作更加困難，增加社交和職業方面的長期困難風險。\n\nADHD始於兒童時期，雖然現已廣泛認識到它往往持續至成年，但英國成年人獲得的治療少於其他高收入國家，支援服務亦仍然有限。\n\n數十年的健康追蹤\n\n為檢視長期影響，研究人員分析了UCL主導的1970年英國世代研究中10,930名參與者的數據，該研究從出生起追蹤個人至中年。\n\nADHD特質採用家長和教師在參與者10歲時填寫的行為問卷進行評估。這些測量適用於所有參與者，無論他們是否曾接受正式的ADHD診斷。\n\n慢性病和殘疾比率較高\n\n研究發現，兒童時期ADHD特質較高的人，到46歲時更可能報告身體健康問題。他們報告兩種或以上疾病（包括偏頭痛、脊椎問題、癌症、癲癇或糖尿病）的可能性高出14%。\n\n在10歲時ADHD特質較高的受訪者中，42%在中年時報告至少兩種身體健康問題。相比之下，ADHD特質較低的受訪者中，有37%報告同樣情況。\n\n兒童時期ADHD特質較高的參與者，在46歲時也更可能報告與身體健康相關的殘疾（即因身體健康問題而影響工作或其他日常活動）。\n\n健康差異的可能原因\n\n研究人員發現，身體健康狀況較差與以下因素部分相關：ADHD患者心理健康問題發生率較高、BMI較高，以及吸煙率較高。\n\n先前研究亦顯示，ADHD患者更可能經歷高壓生活事件和社會排斥，且較難及時獲得醫療篩查和護理。\n\n兒童時期ADHD特質與身體健康相關殘疾之間的關聯，在女性中似乎比男性更強。\n\nStott教授補充：「所有這些可能的解釋因素都與ADHD使衝動控制更困難、即時滿足和獎勵需求更強烈的事實相符，並且部分由於ADHD患者面對的社會劣勢，導致心理健康狀況較差。」\n\n對支援和公共衛生的啟示\n\n同一研究團隊去年發表的另一項研究報告了ADHD成年患者可能出現預期壽命縮短的現象，儘管該發現不在本研究的範圍內。\n\n第一作者Amber John博士（在UCL開始此項工作後轉至利物浦大學）強調適當支援的重要性：「重要的是要注意，ADHD患者是一個多元群體，具有各種不同的優勢和經驗，大多數人將過著長壽、健康的生活。然而，許多人在及時診斷和適當支援方面面臨重大障礙。這一點至關重要，因為為ADHD患者提供正確的支援並滿足他們的需求，有助於改善他們的身體和心理健康結果。此外，公共衛生策略應考慮ADHD患者的需求，例如讓篩查計劃和持續健康監測對ADHD患者更加容易獲取。」"
     },
     {
-      "title": "研究人員發現ADHD患者的優勢與更好的心理健康相關",
+      "title": "研究人員發現 ADHD 優勢與心理健康之間的關聯",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示了ADHD更光明的一面，顯示承認並善用自身優勢的成年人更快樂、更健康、壓力更小。ADHD患者更可能將創造力、幽默感和過度專注等特質視為個人優勢。總體而言，運用這些優勢與更好的生活品質和更少的心理健康問題有關。",
+      "summary": "新研究揭示了 ADHD 較為光明的一面，顯示善用自身優勢的成年人更快樂、更健康，壓力也更小。ADHD 患者較容易將創造力、幽默感和專注過度等特質視為個人優勢。總體而言，善用這些優勢與更好的生活品質和較少的精神健康問題有關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -469,13 +468,13 @@
           "alt": "ADHD Strengths Linked to Better Mental Health"
         }
       ],
-      "bodyZh": "研究人員發現ADHD的強項與更好的心理健康相關聯\n\nBath大學的新研究揭示了ADHD更光明的一面：善用自身強項的成年人會感到更快樂、更健康，壓力也更小。ADHD患者更傾向於將創造力、幽默感和專注過度等特質視為個人強項。總體而言，善用這些強項與更高質量的生活及較少的精神健康症狀相關聯。這項研究表明，接納並發揮強項可能是ADHD支援工作的一個突破性改變。\n\nBath大學心理學系的研究人員Luca Hargitai表示：「這些令人振奮的發現讓我們了解到哪些正面素質可能與ADHD有關，因此可以被視為ADHD相關的強項。認識到ADHD雖然伴隨各種困難，但確實具有若干正面特質，這一點可以令人備受鼓舞。」\n\nBath大學、King's College London及荷蘭Radboud University Medical Center的科學家展開了首個大規模研究，旨在衡量與ADHD相關的心理強項。\n\n研究人員在《Psychological Medicine》期刊上發表了這項研究，檢視了200名確診ADHD的成年人及200名非ADHD成年人。參與者被問及他們對25種正面特質的認同程度，包括創造力、幽默感、自發性及專注過度等。研究人員將這些特質定義為「他們做得好或最好的事情」。\n\nADHD通常以困難（如衝動、健忘及專注力難以持續）來討論，但這項研究從另一個角度強調了認識和運用強項的重要性。\n\n與沒有ADHD的參與者相比，ADHD患者更強烈地認同10項特定強項，包括：\n\nHyperfocus（對感興趣任務的深度專注）\n\n幽默感\n\n創造力\n\n自發性\n\n直覺力\n\n儘管ADHD成年人在工作、關係和精神健康方面面臨眾所周知的挑戰，但研究發現他們與神經典型（neurotypical）參與者一樣，能夠在日常生活中認識和使用自己的強項。\n\n在兩個組別中，對自身強項有更高認識並更頻繁運用的人均報告了明確的益處，包括：\n\n更高的主觀幸福感\n\n更好的生活質量（涵蓋身體、心理、社會和環境範疇）\n\n較少的焦慮、抑鬱和壓力症狀\n\nBath大學心理學副教授Punit Shah博士表示：「我們的發現凸顯了認識到自己擁有某些技能和正面特質，並在適當時候運用這些強項，對我們的身心健康是有益的。這聽起來可能是顯而易見的，但既然我們的研究確認了這一假設，我們便可以開始以此新證據來設計心理支援方案。」\n\n研究結果為心理健康護理中的強項導向方法增添了支持。這種框架在自閉症服務中越來越普遍，但在ADHD領域受到的關注相對較少。潛在應用包括心理教育計劃、教練指導和定制療法，幫助人們更有效地識別和應用自身強項。\n\nShah博士補充道：「下一步是研究促進認識和使用個人強項的干預措施，能否為ADHD成年人帶來切實的心理健康改善。ADHD患者和其他神經多樣群體長期以來一直在呼籲這一點，我們很高興能夠提供首批支持這一觀點的研究。」\n\n荷蘭Radboud University Medical Center的助理教授Martine Hoogman強調，ADHD相關強項的研究仍處於早期階段。她指出，許多先前的研究只詢問ADHD患者本人的看法。\n\n她表示：「ADHD相關強項的研究仍處於初期階段。大多數研究只詢問ADHD患者對其強項的看法，但我們也詢問了神經典型人士。我們發現，沒有ADHD的人也能認識到許多相同的強項，雖然只有ADHD患者會認同其中某些強項。這有助於我們更好地理解ADHD的強項。」\n\n「重要的是，不僅要教育ADHD患者了解他們面臨的挑戰，還要讓他們了解自己的潛在強項，以改善生活質量並降低工作或學業方面的風險。」\n\n研究由英國經濟和社會研究委員會（UK Economic and Social Research Council）及荷蘭研究委員會（Dutch Research Council）資助。"
+      "bodyZh": "研究人員發現ADHD的優勢與更佳心理健康相關\n\n最新研究揭示了ADHD較為光明的一面：懂得識別並善用自己的優勢的成年人，會感到更快樂、更健康，壓力也更小。ADHD患者更傾向於将创造力、幽默感和专注力過強等特質視為個人優勢。總體而言，運用這些優勢與更佳生活質量及更少心理健康症狀相關。這項研究表明，擁抱自身優勢有望成為ADHD支援服務的突破性方向。\n\n了解自身優勢並積極運用這些優勢的ADHD成年人，普遍反映整體幸福感更強、生活質量更高、心理挑戰更少——這是根據一項新的大型國際研究得出的結論。\n\n該研究在10月ADHD宣傳月期間發布，今年的主題是「ADHD的多種面貌」。來自巴斯大學、倫敦國王學院及荷蘭拉德堡德大學醫學中心科學家攜手合作，進行了首次大規模測量與ADHD相關的心理優勢研究。\n\n大型研究比較ADHD與非ADHD成年人的優勢\n\n這項發表於《心理醫學》期刊的研究，檢視了200名確診ADHD的成年人及200名非ADHD成年人。參與者需回答他們對25項正面特質的認同程度，包括創造力、幽默感、自發性及专注力過強等。研究人員將這些特質定義為「他們做得很好或最擅長的事情」。\n\nADHD通常以困難層面來討論，如衝動、健忘及難以維持專注力等。然而，這項研究從不同角度切入，強調識別及運用優勢的重要性。\n\n巴斯大學心理學系首席研究員Luca Hargitai表示：「這些令人振奮的發現讓我們了解到哪些正面特質可能與ADHD相關，因此可被視為ADHD相關的優勢。認識到ADHD雖伴隨各種困難，但確實具有多個正面特質，這一點可以非常赋權。」\n\nADHD成年人更常認可的關鍵優勢\n\n与非ADHD參與者相比，ADHD患者更強烈地認同10項特定優勢，包括：\n\n专注力過強（對感興趣的任務深度專注）\n幽默感\n創造力\n自發性\n直覺敏銳\n\n儘管ADHD成年人普遍在工作、人際關係及心理健康方面面臨有據可查的挑戰，但研究發現他們識別並在日常生活中運用自身優勢的可能性，與非ADHD參與者相若。\n\n運用優勢與兩組群體更佳心理健康相關\n\n在兩個群組中，對自身優勢認識更深且更頻繁運用這些優勢的人，普遍報告了明顯益處，包括：\n\n主觀幸福感更高\n生活質量更好（涵蓋生理、心理、社會及環境範疇）\n焦慮、抑鬱及壓力症狀更少\n\n高級作者、巴斯大學心理學副教授Punit Shah博士表示：「我們的發現突顯了，知道我們擁有某些技能和正面特質，並在適當時候運用這些優勢，對我們的幸福感有益。這聽起來或許顯而易見，但既然我們的研究驗證了這一假設，我們便可以開始基於這些新證據來設計心理支援方案。」\n\n支持ADHD護理中的優勢導向方法\n\n研究結果為心理健康護理中的優勢導向方法提供了更有力的支持。雖然這種框架在自閉症服務中應用日益廣泛，但在ADHD領域卻較少受到關注。潛在應用包括心理教育計劃、 coaching輔導及定制療法，幫助人們更有效地識別及運用自身優勢。\n\nShah博士補充道：「下一步是研究促進個人優勢識別與運用的介入措施，能否為ADHD成年人帶來心理健康方面的實質改善。ADHD患者和其他神經多樣性群體長期以來一直在倡導這一點，我們很高興能夠提供首批支持這一觀點的研究。」\n\n為何比較ADHD與非ADHD優勢很重要\n\n高級作者、荷蘭拉德堡德大學醫學中心助理教授Martine Hoogman強調，有關ADHD相關優勢的研究仍在發展階段。她指出，許多先前的研究僅聚焦於ADHD患者。\n\n「ADHD相關優勢的研究仍處於早期階段。大多數研究只詢問ADHD患者本身的優勢，但我們也詢問了非ADHD人士。我們發現，沒有ADHD的人也能識別出許多相同的優勢，儘管只有ADHD患者會認同其中部分特質。這有助於我們更好地理解ADHD的優勢。\n\n「向ADHD患者進行教育時，不僅要介紹他們面臨的挑戰，還要介紹他們的潛在優勢，以改善生活質量並降低在工作或教育環境中的風險，這一點很重要。」\n\n研究資助\n\n該研究由英國經濟與社會研究委員會及荷蘭研究委員會資助。\n\n期刊參考：\n\nLuca D. Hargitai, Emma L. M. Laan, Lessa M. Schippers, Lucy A. Livingston, Graeme Fairchild, Punit Shah, Martine Hoogman. 心理優勢在ADHD成年人正面生活結果中的角色. 《心理醫學》, 2025; DOI: 10.1017/S0033291725101232"
     },
     {
-      "title": "ADHD藥物的作用機制與我們所想不同",
+      "title": "ADHD 藥物的作用機制與我們所想不同",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD興奮劑似乎並非主要通過提高專注力來发挥作用，而是通過唤醒大脑。脑部扫描显示，这些药物激活奖励和警觉系统，帮助孩子对通常会回避的任务保持兴趣。这些药物甚至逆转了与睡眠不足相关的大脑模式，研究人員表示這可能使ADHD診斷更加複雜。",
+      "summary": "ADHD 興奮劑似乎並非主要通過提高專注力來運作，而是透過喚醒大腦。腦部掃描顯示，這些藥物會激活獎勵和警覺系統，幫助孩子對通常會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠不足相關的腦部模式。研究人員表示，這可能會使 ADHD 診斷變得複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -488,13 +487,13 @@
           "alt": "ADHD Drugs Don’t Work the Way We Thought"
         }
       ],
-      "bodyZh": "ADHD藥物的作用機制與我們原本的認知不同 | ScienceDaily\n\n跳至主內容\n\n最新研究資訊來源\n\n追蹤：\n\nFacebook\n\nX/Twitter\n\n訂閱：\n\nRSS資訊\n\n電子報\n\n新功能！免費訂閱電郵通訊\n\n。\n\n科學新聞\n\n來自研究機構\n\nADHD藥物的作用機制與我們原本的認知不同\n\nADHD藥物可能透過喚醒大腦而非修復注意力本身來幫助兒童專注。\n\n日期：\n\n2025年12月29日\n\n來源：\n\n聖路易斯華盛頓大學\n\n摘要：\n\nADHD興奮劑似乎並非透過增強專注力的方式運作，而是喚醒大腦。腦部掃描顯示，這些藥物激活獎勵與警覺系統，幫助兒童對平常會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠不足相關的大腦模式。研究人員表示，如果睡眠問題才是真正的根本原因，這一發現可能使ADHD診斷變得複雜。\n\n分享：\n\nFacebook\n\nTwitter\n\nPinterest\n\nLinkedIN\n\n電郵\n\n完整報道\n\n腦部掃描顯示，ADHD興奮劑並非如以往所想般直接改善注意力。相反，它們使大腦更加警覺和積極，有時甚至模擬充足睡眠的效果。鳴謝：Shutterstock\n\n處方興奮劑如Ritalin和Adderall常用於治療注意力缺陷過動症（ADHD），包括兒童患者。在美國，估計有350萬名3至17歲的兒童服用ADHD藥物。隨著這種神經發育障礙的診斷日益普遍，這一數字持續上升。\n\n數十年來，興奮劑藥物一直被認為是透過直接影響負責注意力的大腦區域來发挥作用。聖路易斯華盛頓大學醫學院的新研究對這一解釋提出質疑。該研究由神經學助理教授Benjamin Kay（醫學博士、博士）領導，神經學David M. & Tracy S. Holtzman教授Nico U. Dosenbach（醫學博士、博士）共同主持。他們的發現表明，這些藥物主要影響與獎勵和清醒狀態相關的大腦系統，而非傳統上與注意力相關的神經網絡。\n\n這項研究於12月24日發表在《Cell》期刊上，表明興奮劑可能透過使人們感到更加警覺、對正在做的事情更感興趣來提升表現。這些藥物似乎並非直接增強專注力，而是增加對任務的參與度。研究人員還觀察到類似充足睡眠效果的大腦活動模式，抵消了睡眠不足帶來的典型大腦變化。\n\n「作為一名兒童神經科醫生，我開了很多興奮劑，我一直被告知它們能促進注意力系統，讓人們對注意力的控制更加自願，」Kay說道，他在聖路易斯兒童醫院執業。「但我們已經證明事實並非如此。我們觀察到的注意力改善，其實是孩子更加警覺、覺得任務更有回報的次級效應，這自然幫助他們更加專注。」\n\nKay表示，這些結果強調了在評估兒童ADHD時，需要將睡眠質量與藥物治療一併考慮。\n\n腦部成像揭示意想不到的模式\n\n為研究興奮劑如何影響大腦，研究人員分析了5,795名8至11歲兒童的靜息態功能性磁振造影（fMRI）數據，這些兒童參加了青少年大腦認知發育（ABCD）研究。靜息態fMRI測量的是人在不執行特定任務時的大腦活動。ABCD研究是一個長期、多中心項目，追蹤美國超過11,000名兒童的大腦發育情況，其中包括WashU Medicine的一個研究站點。\n\n研究團隊比較了在掃描當天服用處方興奮劑的兒童與未服用者的腦部連接情況。服用興奮劑的兒童在與覺醒和清醒狀態相關的大腦區域表現出更強的活動，以及與預測活動獎勵程度相關的區域也更為活躍。相比之下，掃描中並未顯示與注意力傳統相關的腦區有明顯增加。\n\n成人實驗證實發現\n\n研究人員在一項涉及5名健康成人（無ADHD，通常不服用興奮劑藥物）的小型研究中驗證了他們的結果。每位參與者在服用一劑興奮劑前後分別進行靜息態fMRI掃描。這使團隊能夠精確追蹤大腦連接的變化。同樣地，藥物激活了獎勵和覺醒網絡，而非注意力網絡。\n\n「基本上，我們發現興奮劑預先獎勵我們的大腦，讓我們能夠繼續堅持那些通常無法引起興趣的事情——比如學校裡最不喜歡的課程，」Dosenbach說。他解釋說，興奮劑並非直接激活注意力中樞，而是讓通常難以專注的任務感覺更有回報。這種增強的回報感可以幫助兒童堅持具有挑戰性和重複性的活動。\n\n「這些結果也為興奮劑如何治療過動症提供了一個可能的解釋，這在以前似乎是矛盾的，」Dosenbach補充道。「無論孩子無法專注的事情——那些讓他們坐立不安的任務——都是他們覺得沒有回報的事情。服用興奮劑後，他們能更好地坐穩，因為他們不需要起身去找更好玩的事情。」\n\nADHD治療、睡眠與表現\n\n在ABCD研究中，根據家長報告，服用興奮劑藥物的ADHD兒童學業成績較好，在認知測試中的表現也優於未服用興奮劑的ADHD兒童。ADHD症狀較嚴重的兒童改善最為明顯。\n\n然而，這些益處並非在每個孩子身上都能觀察到。在睡眠不足9小時或以上的兒童中，服用興奮劑者的成績優於未服藥的睡眠不足兒童。相比之下，在睡眠充足的神經典型發育兒童中，興奮劑與表現改善無關。（目前尚不清楚這些孩子為何服用興奮劑藥物。）整體而言，興奮劑與認知表現改善之間的關聯僅出現在ADHD兒童或睡眠不足的兒童身上。\n\n「我們看到，如果參與者睡眠不足，但他們服用興奮劑，睡眠不足的大腦特徵就會被消除，相關的行為和認知退化也會隨之消失，」Dosenbach說。\n\n掩蓋睡眠不足的潛在風險\n\n研究人員警告說，在睡眠不足的情況下表現改善可能帶來長遠後果。\n\n「睡眠不足總是對健康有害，對孩子尤其如此，」Kay說。他指出，疲倦的孩子可能表現出類似ADHD的症狀，包括在課堂上難以集中注意力或成績下降。在某些情況下，這可能導致誤診，而睡眠不足才是潛在問題。興奮劑藥物可能透過模擬充足睡眠的部分效果而看似有所幫助，但同時仍使兒童暴露於慢性睡眠不足的長期危害中。Kay呼籲臨床醫生在ADHD評估中考慮睡眠不足的因素，並探索改善睡眠的方法。\n\n待解答的問題\n\nDosenbach和Kay表示，他們的發現凸顯了進一步研究興奮劑對大腦長期影響的必要性。他們指出，興奮劑可能在清醒期間激活大腦的廢物清除系統，發揮恢復作用。同時，如果這些藥物被用來彌補持續的睡眠不足，可能會造成持久的傷害。\n\nKay BP, Wheelock MD, Siegel JS, Raut R, Chauvin RJ, Metoki A, Rajesh A, Eck A, Pollaro J, Wang A, Suljic V, Adeyemo B, Baden NJ, Scheidter KM, Monk JS, Whiting FI, Ramirez-Perez N, Krimmel SR, Shinohara RT, Tervo-Clemmens B, Hermosillo RJM, Nelson SM, Hendrickson TJ, Madison T, Moore LA, Miranda-Domínguez O, Randolph A, Feczko E, Roland JL, Nicol GE, Laumann TO, Marek S, Gordon EM, Raichle ME, Barch DM, Fair DA, and Dosenbach NUF. Stimulant medications affect arousal and reward, not attention networks. Cell. Dec. 24, 2025. DOI: 10.1016/j.cell.2025.11.039\n\n本研究由NIH資助，撥款編號包括NS140256、EB029343、MH121518、MH129493、NS123345、NS098482、DA041148、DA04112、MH115357、MH096773、MH122066、MH121276、MH124567及NS129521；由National Spasmodic Dysphonia Association資助；由Mallinckrodt Institute of Radiology pilot funding資助；由University of Pittsburgh Dietrich School of Arts & Sciences的Andrew Mellon Predoctoral Fellowship資助；以及由Extreme Science and Engineering Discovery Environment（XSEDE）Pittsburgh Supercomputing Center的Bridges項目資助（撥款編號TG-IBN200009）。\n\n計算工作使用了Washington University Research Computing and Informatics Facility（RCIF）的設施。RCIF獲得NIH S10計劃資助（撥款編號1S10OD025200-01A1及1S10OD030477-01）。\n\n本文反映作者觀點，未必代表NIH或ABCD consortium研究人员的意見。\n\n相關主題\n\n健康與醫學\n\n注意力缺陷障礙\n\n今日醫療保健\n\n醫學成像\n\n醫療設備\n\n心靈與大腦\n\nADD與ADHD\n\n學習障礙\n\n智力\n\n心理健康\n\n相關詞彙\n\n工作狂\n\n睡眠障礙\n\n睡眠窒息症\n\n睡眠\n\n阻塞性睡眠窒息症\n\n抗肥胖藥物\n\n晝夜節律睡眠障礙\n\n精神藥理學\n\n故事來源：\n\n材料由聖路易斯華盛頓大學提供。\n注：內容可能因風格和長度而編輯。\n\n期刊參考：\n\nBenjamin P. Kay, Muriah D. Wheelock, Joshua S. Siegel, Ryan V. Raut, Roselyne J. Chauvin, Athanasia Metoki, Aishwarya Rajesh, Andrew Eck, Jim Pollaro, Anxu Wang, Vahdeta Suljic, Babatunde Adeyemo, Noah J. Baden, Kristen M. Scheidter, Julia S. Monk, Forrest I. Whiting, Nadeshka Ramirez-Perez, Samuel R. Krimmel, Russell T. Shinohara, Brenden Tervo-Clemmens, Robert J.M. Hermosillo, Steven M. Nelson, Timothy J. Hendrickson, Thomas Madison, Lucille A. Moore, Óscar Miranda-Domínguez, Anita Randolph, Eric Feczko, Jarod L. Roland, Ginger E. Nicol, Timothy O. Laumann, Scott Marek, Evan M. Gordon, Marcus E. Raichle, Deanna M. Barch, Damien A. Fair, Nico U.F. Dosenbach.\nStimulant medications affect arousal and reward, not attention networks.\nCell, 2025; 188 (26): 7529 DOI: 10.1016/j.cell.2025.11.039\n\n引用本頁：\n\nMLA\n\nAPA\n\nChicago\n\n聖路易斯華盛頓大學。「ADHD藥物的作用機制與我們原本的認知不同。」ScienceDaily。ScienceDaily，2025年12月29日。\n\n聖路易斯華盛頓大學。（2025年12月29日）。ADHD藥物的作用機制與我們原本的認知不同。ScienceDaily。於2026年8月19日從www.sciencedaily.com/releases/2025/12/251225235942.htm檢索。\n\n探索更多\n\n來自ScienceDaily\n\n相關報道\n\n起床並煥發活力：自然光減輕早晨疲勞\n\n2025年4月14日 —\n 研究人員測試了在醒來前將光線引入臥室是否能改善早晨的清醒度，發現有一段時間似乎有助於對抗疲勞和提高警覺性……\n\n研究顯示：學年中年紀較小的孩子比年長同學更常被診斷為ADHD\n\n2024年6月6日 —\n 新研究發現，教師可能將孩子與年齡相關的幼稚表現歸因於……"
+      "bodyZh": "ADHD藥物的作用機制與過往認知不同 | ScienceDaily\n\nADHD藥物或許透過喚醒大腦來幫助兒童集中注意力，而非直接改善專注功能。\n\n日期：2025年12月29日\n\n來源：聖路易斯華盛頓大學\n\n摘要：ADHD興奮劑藥物似乎並非直接增強專注能力，而是透過喚醒大腦發揮作用。腦部掃描顯示，這些藥物激活獎賞與警覺系統，幫助兒童對平常會逃避的任務保持興趣。藥物甚至逆轉了與睡眠不足相關的腦部模式。研究人員指出，若睡眠問題才是真正根本原因，此發現可能令ADHD的診斷更趨複雜。\n\n腦部掃描顯示，ADHD興奮劑藥物並非如既往所想般直接改善注意力，而是令大腦更為警覺並提升動機，有時甚至類似充足睡眠的效果。\n\n處方興奮劑藥物如Ritalin及Adderall廣泛用於治療ADHD，當中包括兒童。在美國，估計有350萬名3至17歲兒童正服用ADHD藥物。隨着這種神經發育障礙的診斷日益普遍，相關數字持續上升。\n\n數十年來，興奮劑藥物一直被認為透過直接影響負責注意力的大腦區域來發揮療效。聖路易斯華盛頓大學醫學院的新研究對此說法提出質疑。該研究由Benjamin Kay（醫學博士、哲學博士，神經學助理教授）及Nico U. Dosenbach（醫學博士、哲學博士，David M. & Tracy S. Holtzman神經學教授）領導。研究結果表明，這些藥物主要影響與獎賞及清醒狀態相關的神經系統，而非過往與注意力掛鈎的網絡。\n\n研究於12月24日發表於Cell期刊，指出興奮劑藥物可能是透過令ADHD患者感到更警覺、對正在做的事情更感興趣來提升表現。這些藥物並非直接增強專注能力，而是似乎能增加對任務的投入程度。研究人員亦觀察到腦活動模式與一夜好眠的效果相似，能抵消睡眠不足所引發的典型腦部變化。\n\nKay醫生表示：「作為兒童神經科醫生，我處方大量興奮劑藥物，過往一直被教導它們能促進注意力系統，讓人對專注的內容擁有更多自主控制。但我們已經證明事實並非如此。我們觀察到的注意力改善，其實是孩子更為警覺、對任務感到更有價值的次級效果，這自然有助他們更專注於任務。」Kay指出，研究結果凸顯了對ADHD兒童進行評估時，需要將睡眠質素與藥物治療一併考慮。\n\n腦部影像揭示意外模式\n\n為了解興奮劑藥物如何影響大腦，研究團隊分析了5,795名8至11歲兒童的靜息態功能性磁力共振成像（fMRI）數據。這些兒童參與了「青少年大腦認知發育（ABCD）研究」。靜息態fMRI用於測量受試者在未執行特定任務時的腦部活動。ABCD研究是一項長期、多中心項目，追蹤美國超過11,000名兒童的大腦發育情況，當中包括華盛頓大學醫學院的一個研究點。\n\n團隊比較了接受掃描當日有服用處方興奮劑藥物與未曾服用的兒童之間的腦部連接情況。曾服用興奮劑的兒童在與警覺和清醒狀態相關的腦區，以及與預測活動獎賞價值相關的區域，均顯示更強的活動。然而，掃描中未見與注意力傳統上相關的腦區出現明顯增加。\n\n成人實驗印證研究結果\n\n研究人員在另一項涉及5名健康成人的小型研究中驗證結果——這些成人本身沒有ADHD，亦非常規服用興奮劑藥物。每位參與者在服用一劑興奮劑前、後分別接受靜息態fMRI掃描，令團隊能精確追蹤腦部連接的變化。藥物再次激活了獎賞及覺醒網絡，而非注意力網絡。\n\nDosenbach教授解釋：「基本上，我們發現興奮劑藥物會預先為大腦提供獎賞機制，讓我們能夠持續專注於平常不會感興趣的事物——例如學校裏最不喜歡的科目。」他指出，興奮劑藥物並非直接激活注意力中樞，而是令通常難以專注的任務變得更具獎賞感。這種強化的獎賞感能幫助兒童堅持完成困難且重複的活動。\n\nDosenbach補充：「這些結果也為興奮劑藥物如何治療過動症提供了一個可能的解釋——這在過去看似矛盾。那些令孩子坐立不安、無法專注的任務，其實是他們感到無趣的任務。服用興奮劑後，由於他們不再需要站起來找更好的事情做，自然能坐得更安穩。」\n\nADHD治療、睡眠與表現\n\n根據家長報告，ABCD研究中正在服用興奮劑藥物的ADHD兒童，學業成績較未服藥的ADHD兒童為佳，在認知測試中表現亦更佳。ADHD症狀較嚴重的兒童，改善幅度最大。\n\n然而，此類效益並非見於所有兒童。在睡眠少於建議的9小時或以上的參與者中，服用興奮劑者比未曾服藥的睡眠不足兒童取得更好成績。相反，在睡眠充足的正常發展兒童中，興奮劑藥物與表現提升並無關聯。（目前未能確定這些兒童為何服用興奮劑藥物。）整體而言，興奮劑藥物與認知表現改善之間的關聯，似乎僅出現於ADHD兒童或睡眠不足的兒童群組中。\n\nDosenbach指出：「我們發現，若參與者睡眠不足但服用興奮劑藥物，睡眠不足的腦部特徵便會消失，相關的行為及認知功能退化亦隨之消除。」\n\n掩蓋睡眠不足的潛在風險\n\n研究人員警告，即使睡眠不足的情況下仍表現佳，可能伴隨長期後果。\n\nKay醫生表示：「睡眠不足始終對健康有害，對兒童尤其如此。」他指出，睡眠不足的兒童可能出現與ADHD相似的症狀，包括課堂上難以集中注意力或成績下滑。在某些情況下，這可能導致誤診，因為根本問題其實是睡眠不足。興奮劑藥物或許能透過模擬充足睡眠的部分效果來看似有所幫助，但兒童仍會暴露於慢性睡眠不足的長期傷害之中。Kay敦促臨床醫生在評估ADHD時考虑睡眠不足因素，並探索改善睡眠的方法。\n\n尚待解答的問題\n\nDosenbach與Kay表示，研究結果凸顯了需要進一步研究興奮劑藥物對大腦的長期影響。他們指出，興奮劑藥物或許能在清醒期間激活大腦的廢物清除系統，發揮恢復作用；但與此同時，若持續用藥來彌補睡眠不足，亦可能造成持久的傷害。\n\n研究出處：\n\nBenjamin P. Kay, Muriah D. Wheelock, Joshua S. Siegel等。《Stimulant medications affect arousal and reward, not attention networks》。Cell，2025年12月24日。DOI: 10.1016/j.cell.2025.11.039\n\n華盛頓大學聖路易斯分校。「ADHD drugs don't work the way we thought。」ScienceDaily，2025年12月29日。"
     },
     {
-      "title": "為何這麼多患有ADHD的幼童接受了錯誤的治療",
+      "title": "為何這麼多幼童 ADHD 患者接受了錯誤的治療",
       "url": "https://www.sciencedaily.com/releases/2025/09/250915202839.htm",
       "publishedAt": "2025-09-16T09:10:52.000Z",
-      "summary": "患有ADHD的學齡前兒童通常在確診後立即接受藥物治療，這違反了建議先從行為治療開始的醫療指南。儘管年幼兒童存在風險且藥物效果較差，但治療服務的可及性受限和醫生壓力導致早期處方。",
+      "summary": "學前 ADHD 兒童通常在確診後立即接受藥物治療，這與建議先進行行為治療的醫學指引相悖。儘管存在風險且對幼童效果較差，但治療資源有限和醫生壓力導致過早開藥。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -509,10 +508,10 @@
       ]
     },
     {
-      "title": "愛爾蘭與世衛組織合作改善全球輔助技術的可及性",
+      "title": "愛爾蘭與世衛組織攜手改善全球輔助科技的獲取途徑",
       "url": "https://www.who.int/news/item/17-05-2024-ireland-and-who-work-together-to-improve-access-to-assistive-technology-globally",
       "publishedAt": "2024-05-17T13:17:27.000Z",
-      "summary": "愛爾蘭正在成為數位技術創新領域的全球領導者，利用數位工具克服各種就醫障礙。愛爾蘭與世衛組織一致認為動員輔助技術的重要性，幫助全球25億有需要的人，包括老年人、殘疾人士和長期病患者。",
+      "summary": "愛爾蘭正在成為利用數碼科技克服就醫障礙的創新領域全球領袖。愛爾蘭與世衛組織保持一致，認識到動員輔助科技來幫助全球 25 億有需要人士（包括老年人、殘疾人士等）的重要性。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
