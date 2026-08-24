@@ -9,7 +9,7 @@
     "telephone": "+85297083907",
     "email": "info@leisure.org.hk",
     "areaServed": "香港",
-    "contentLastmod": "2026-05-25",
+    "contentLastmod": "2026-08-24",
     "googleSiteVerification": "6eT8B5wew1o97FH2hJRpmKznvw9qpp_qnII0puP40Ks",
     "streetAddress": "香港（詳細上課泳池地址請 WhatsApp 或致電查詢）",
     "addressLocality": "香港",
@@ -29,10 +29,14 @@
       "description": "新天地 — 香港首間專為 SEN（特殊教育需要）學生設立的游泳及多功能發展中心。三十年經驗、個人化游泳教學、感統訓練、自閉症與 ADHD 專項課程。",
       "keywords": "SEN游泳, 香港特殊教育游泳, 自閉症游泳課程, ADHD游泳, 感統訓練, 特殊需要兒童游泳, 新天地",
       "ogType": "website",
-      "priority": 1.0,
+      "priority": 1,
       "changefreq": "weekly",
       "breadcrumb": [],
-      "schemas": ["website", "faq", "localBusiness"]
+      "schemas": [
+        "website",
+        "faq",
+        "localBusiness"
+      ]
     },
     {
       "file": "about.html",
@@ -43,8 +47,16 @@
       "ogType": "website",
       "priority": 0.8,
       "changefreq": "monthly",
-      "breadcrumb": [{ "name": "關於我們", "path": "/about.html" }],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "breadcrumb": [
+        {
+          "name": "關於我們",
+          "path": "/about.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ]
     },
     {
       "file": "services.html",
@@ -55,8 +67,16 @@
       "ogType": "website",
       "priority": 0.9,
       "changefreq": "monthly",
-      "breadcrumb": [{ "name": "服務項目", "path": "/services.html" }],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "breadcrumb": [
+        {
+          "name": "服務項目",
+          "path": "/services.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ]
     },
     {
       "file": "why-us.html",
@@ -67,8 +87,16 @@
       "ogType": "website",
       "priority": 0.7,
       "changefreq": "monthly",
-      "breadcrumb": [{ "name": "為何選擇我們", "path": "/why-us.html" }],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "breadcrumb": [
+        {
+          "name": "為何選擇我們",
+          "path": "/why-us.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ]
     },
     {
       "file": "resources.html",
@@ -79,8 +107,16 @@
       "ogType": "website",
       "priority": 0.7,
       "changefreq": "monthly",
-      "breadcrumb": [{ "name": "家長資源", "path": "/resources.html" }],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "breadcrumb": [
+        {
+          "name": "家長資源",
+          "path": "/resources.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ]
     },
     {
       "file": "blog.html",
@@ -91,8 +127,16 @@
       "ogType": "website",
       "priority": 0.8,
       "changefreq": "weekly",
-      "breadcrumb": [{ "name": "教練專欄", "path": "/blog.html" }],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "breadcrumb": [
+        {
+          "name": "教練專欄",
+          "path": "/blog.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ]
     },
     {
       "file": "booking.html",
@@ -103,8 +147,16 @@
       "ogType": "website",
       "priority": 0.9,
       "changefreq": "monthly",
-      "breadcrumb": [{ "name": "預約課程", "path": "/booking.html" }],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "breadcrumb": [
+        {
+          "name": "預約課程",
+          "path": "/booking.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ]
     },
     {
       "file": "contact.html",
@@ -115,8 +167,16 @@
       "ogType": "website",
       "priority": 0.7,
       "changefreq": "monthly",
-      "breadcrumb": [{ "name": "聯絡我們", "path": "/contact.html" }],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "breadcrumb": [
+        {
+          "name": "聯絡我們",
+          "path": "/contact.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ]
     },
     {
       "file": "download-parent-guide-first-swim.html",
@@ -128,10 +188,18 @@
       "priority": 0.5,
       "changefreq": "yearly",
       "breadcrumb": [
-        { "name": "家長資源", "path": "/resources.html" },
-        { "name": "第一次游泳課家長指南", "path": "/download-parent-guide-first-swim.html" }
+        {
+          "name": "家長資源",
+          "path": "/resources.html"
+        },
+        {
+          "name": "第一次游泳課家長指南",
+          "path": "/download-parent-guide-first-swim.html"
+        }
       ],
-      "schemas": ["breadcrumb"]
+      "schemas": [
+        "breadcrumb"
+      ]
     },
     {
       "file": "download-sensory-games-home-guide.html",
@@ -143,10 +211,18 @@
       "priority": 0.5,
       "changefreq": "yearly",
       "breadcrumb": [
-        { "name": "家長資源", "path": "/resources.html" },
-        { "name": "家居感統遊戲指南", "path": "/download-sensory-games-home-guide.html" }
+        {
+          "name": "家長資源",
+          "path": "/resources.html"
+        },
+        {
+          "name": "家居感統遊戲指南",
+          "path": "/download-sensory-games-home-guide.html"
+        }
       ],
-      "schemas": ["breadcrumb"]
+      "schemas": [
+        "breadcrumb"
+      ]
     },
     {
       "file": "download-visual-cue-cards-pack.html",
@@ -158,10 +234,18 @@
       "priority": 0.5,
       "changefreq": "yearly",
       "breadcrumb": [
-        { "name": "家長資源", "path": "/resources.html" },
-        { "name": "視覺提示卡套裝", "path": "/download-visual-cue-cards-pack.html" }
+        {
+          "name": "家長資源",
+          "path": "/resources.html"
+        },
+        {
+          "name": "視覺提示卡套裝",
+          "path": "/download-visual-cue-cards-pack.html"
+        }
       ],
-      "schemas": ["breadcrumb"]
+      "schemas": [
+        "breadcrumb"
+      ]
     },
     {
       "file": "sen-swim-autism.html",
@@ -172,8 +256,16 @@
       "ogType": "website",
       "priority": 0.85,
       "changefreq": "monthly",
-      "breadcrumb": [{ "name": "自閉症游泳", "path": "/sen-swim-autism.html" }],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "breadcrumb": [
+        {
+          "name": "自閉症游泳",
+          "path": "/sen-swim-autism.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ]
     },
     {
       "file": "sen-swim-adhd.html",
@@ -184,8 +276,16 @@
       "ogType": "website",
       "priority": 0.85,
       "changefreq": "monthly",
-      "breadcrumb": [{ "name": "ADHD 游泳", "path": "/sen-swim-adhd.html" }],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "breadcrumb": [
+        {
+          "name": "ADHD 游泳",
+          "path": "/sen-swim-adhd.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ]
     },
     {
       "file": "areas-hong-kong.html",
@@ -196,8 +296,16 @@
       "ogType": "website",
       "priority": 0.8,
       "changefreq": "monthly",
-      "breadcrumb": [{ "name": "服務地區", "path": "/areas-hong-kong.html" }],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "breadcrumb": [
+        {
+          "name": "服務地區",
+          "path": "/areas-hong-kong.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ]
     },
     {
       "file": "blog-article-sensory.html",
@@ -209,10 +317,19 @@
       "priority": 0.7,
       "changefreq": "yearly",
       "breadcrumb": [
-        { "name": "教練專欄", "path": "/blog.html" },
-        { "name": "水中感統訓練", "path": "/blog-article-sensory.html" }
+        {
+          "name": "教練專欄",
+          "path": "/blog.html"
+        },
+        {
+          "name": "水中感統訓練",
+          "path": "/blog-article-sensory.html"
+        }
       ],
-      "schemas": ["breadcrumb", "article"]
+      "schemas": [
+        "breadcrumb",
+        "article"
+      ]
     },
     {
       "file": "blog-article-waiting.html",
@@ -224,10 +341,19 @@
       "priority": 0.7,
       "changefreq": "yearly",
       "breadcrumb": [
-        { "name": "教練專欄", "path": "/blog.html" },
-        { "name": "等待", "path": "/blog-article-waiting.html" }
+        {
+          "name": "教練專欄",
+          "path": "/blog.html"
+        },
+        {
+          "name": "等待",
+          "path": "/blog-article-waiting.html"
+        }
       ],
-      "schemas": ["breadcrumb", "article"]
+      "schemas": [
+        "breadcrumb",
+        "article"
+      ]
     },
     {
       "file": "blog-article-adhd.html",
@@ -239,10 +365,19 @@
       "priority": 0.7,
       "changefreq": "yearly",
       "breadcrumb": [
-        { "name": "教練專欄", "path": "/blog.html" },
-        { "name": "ADHD 游泳技巧", "path": "/blog-article-adhd.html" }
+        {
+          "name": "教練專欄",
+          "path": "/blog.html"
+        },
+        {
+          "name": "ADHD 游泳技巧",
+          "path": "/blog-article-adhd.html"
+        }
       ],
-      "schemas": ["breadcrumb", "article"]
+      "schemas": [
+        "breadcrumb",
+        "article"
+      ]
     },
     {
       "file": "digest-article.html",
@@ -255,10 +390,18 @@
       "priority": 0.3,
       "changefreq": "daily",
       "breadcrumb": [
-        { "name": "教練專欄", "path": "/blog.html" },
-        { "name": "產業摘要", "path": "/digest-article.html" }
+        {
+          "name": "教練專欄",
+          "path": "/blog.html"
+        },
+        {
+          "name": "產業摘要",
+          "path": "/digest-article.html"
+        }
       ],
-      "schemas": ["breadcrumb"]
+      "schemas": [
+        "breadcrumb"
+      ]
     }
   ],
   "faq": [
