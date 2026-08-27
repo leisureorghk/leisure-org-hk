@@ -5,6 +5,7 @@ automation/node_modules/
 .env
 .env.*
 ftp_local.env
+indexnow_key
 
 # OS / editor
 Thumbs.db

@@ -240,7 +240,7 @@ export function optimizeFontLinks(html) {
   );
 }
 
-const SITE_SCRIPTS = `    <script src="js/site-ui.js?v=20260525a" defer></script>
+const SITE_SCRIPTS = `    <script src="js/site-ui.js?v=20260827a" defer></script>
     <script src="js/share.js?v=20260821a" defer></script>
     <script src="js/analytics.js?v=20260525a" defer></script>
 `;
