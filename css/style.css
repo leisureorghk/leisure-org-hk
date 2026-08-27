@@ -618,19 +618,19 @@ p { margin-bottom: var(--spacing-sm); }
 .site-search {
     display: flex;
     align-items: center;
-    gap: 0.35rem;
-    margin-left: auto;
-    margin-right: 0.5rem;
+    gap: 0.25rem;
+    margin-left: 0.35rem;
+    margin-right: 0;
     flex-shrink: 0;
 }
 
 .site-search input[type="search"] {
-    width: 8.5rem;
-    max-width: 28vw;
-    padding: 0.4rem 0.75rem;
+    width: 6.25rem;
+    max-width: 22vw;
+    padding: 0.35rem 0.7rem;
     border: 1px solid var(--gray-mist);
     border-radius: 999px;
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     font-family: inherit;
     background: var(--white);
     color: var(--text-body);
@@ -642,15 +642,23 @@ p { margin-bottom: var(--spacing-sm); }
 }
 
 .site-search-btn {
-    padding: 0.4rem 0.7rem;
+    width: 2.1rem;
+    height: 2.1rem;
+    padding: 0;
     border: none;
     border-radius: 999px;
     background: var(--ocean-blue);
     color: var(--white);
-    font-size: 0.8rem;
-    font-weight: 600;
-    font-family: inherit;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     cursor: pointer;
+}
+
+.site-search-btn svg {
+    width: 1rem;
+    height: 1rem;
+    display: block;
 }
 
 .site-search-btn:hover {
@@ -3081,7 +3089,9 @@ p { margin-bottom: var(--spacing-sm); }
     }
 
     .header-inner {
-        gap: var(--spacing-md);
+        gap: var(--spacing-sm);
+        padding-left: var(--spacing-md);
+        padding-right: var(--spacing-md);
     }
 
     .nav {
@@ -3104,28 +3114,41 @@ p { margin-bottom: var(--spacing-sm); }
     .nav-drawer-links {
         display: flex !important;
         flex-direction: row;
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
         align-items: center;
         justify-content: flex-end;
-        gap: var(--spacing-xs);
+        gap: 0.15rem;
         padding: 0;
         margin: 0;
     }
 
     .nav-drawer-links .nav-link {
         white-space: nowrap;
+        padding: var(--spacing-xs) 0.45rem;
+        font-size: 0.8125rem;
     }
 }
 
 /* 窄桌面／小平板橫向：導覽較擠時略縮字級與間距 */
-@media (min-width: 1024px) and (max-width: 1200px) {
+@media (min-width: 1024px) and (max-width: 1280px) {
+    .nav-drawer-links .nav-link {
+        padding: 0.35rem 0.32rem;
+        font-size: 0.75rem;
+    }
+
+    .site-search input[type="search"] {
+        width: 5.25rem;
+    }
+}
+
+@media (min-width: 1360px) {
     .nav-drawer-links {
-        gap: 0.25rem;
+        gap: var(--spacing-xs);
     }
 
     .nav-drawer-links .nav-link {
-        padding: var(--spacing-xs) 0.45rem;
-        font-size: 0.8125rem;
+        padding: var(--spacing-xs) var(--spacing-sm);
+        font-size: var(--text-sm);
     }
 }
 
@@ -3401,8 +3424,9 @@ p { margin-bottom: var(--spacing-sm); }
     }
 
     .site-search-btn {
-        padding: 0.35rem 0.55rem;
-        font-size: 0.75rem;
+        width: 2rem;
+        height: 2rem;
+        padding: 0;
     }
 
     .logo-icon,
