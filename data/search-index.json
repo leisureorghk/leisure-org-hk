@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-09-07T05:52:13.261Z",
-  "count": 50,
+  "builtAt": "2026-09-07T07:57:19.364Z",
+  "count": 51,
   "items": [
     {
       "type": "page",
@@ -137,6 +137,15 @@
       "title": "ADHD 孩子學游泳的 5 個實用技巧",
       "description": "五個實用技巧協助 ADHD 孩子在游泳課建立專注、遵守流程與水中安全。",
       "keywords": "ADHD游泳, 專注力訓練, SEN游泳"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W37.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W37.html",
+      "title": "自閉症或ADHD孩子學游水有何好處？拆解SEN泳班的優勢與家長準備攻略",
+      "description": "了解有特殊教育需要（SEN）的孩子學習游泳如何改善專注力、社交及情緒管理。本文由專業教練分享ADHD、自閉症學童的泳池訓練實務經驗。",
+      "keywords": "SEN游水, 自閉症游泳, ADHD泳池, SEN學童泳班, 特殊教育需要游泳, SEN游泳, 香港特殊教育游泳, 特殊需要兒童游泳",
+      "publishedAt": "2026-09-07T07:57:19.305Z"
     },
     {
       "type": "weekly",
