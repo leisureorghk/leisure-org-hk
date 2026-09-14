@@ -2164,6 +2164,22 @@ p { margin-bottom: var(--spacing-sm); }
     height: auto;
 }
 
+.monthly-audit-panel {
+    padding-top: var(--spacing-lg);
+    padding-bottom: var(--spacing-lg);
+}
+
+.monthly-audit-panel h2 {
+    color: var(--ocean-blue);
+    margin-bottom: 0.75rem;
+}
+
+.monthly-audit-extras {
+    margin-top: 2rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid rgba(30, 87, 153, 0.12);
+}
+
 /* ========== Benefits Section ========== */
 .benefits-grid {
     display: grid;

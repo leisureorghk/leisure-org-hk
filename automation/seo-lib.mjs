@@ -278,6 +278,49 @@ export function discoverBlogWeeklyFiles(root) {
   }));
 }
 
+export function discoverMonthlyInsightFiles(root) {
+  const names = fs.readdirSync(root).filter((n) => /^monthly-insights-\d{4}-\d{2}\.html$/i.test(n));
+  return names.map((file) => ({
+    file,
+    path: `/${file}`,
+    priority: 0.7,
+    changefreq: 'monthly',
+  }));
+}
+
+export function collectMonthlyInsightUrls(root) {
+  const config = loadSeoConfig(root);
+  const urls = [];
+  const seen = new Set();
+  const add = (entry) => {
+    if (!entry?.slug || seen.has(entry.slug)) return;
+    seen.add(entry.slug);
+    urls.push({
+      loc: absUrl(config.site, `/${entry.slug}`),
+      priority: 0.7,
+      changefreq: 'monthly',
+      lastmod: entry.publishedAt?.slice(0, 10),
+    });
+  };
+  const metaPath = path.join(root, 'data', 'monthly-insights-meta.json');
+  if (fs.existsSync(metaPath)) {
+    const meta = JSON.parse(fs.readFileSync(metaPath, 'utf8'));
+    if (meta.latest) add(meta.latest);
+    for (const h of meta.history || []) add(h);
+  }
+  for (const w of discoverMonthlyInsightFiles(root)) {
+    if (seen.has(w.file)) continue;
+    seen.add(w.file);
+    urls.push({
+      loc: absUrl(config.site, w.path),
+      priority: w.priority,
+      changefreq: w.changefreq,
+      lastmod: config.site.contentLastmod,
+    });
+  }
+  return urls;
+}
+
 export function renderFooterLocalBusiness(site) {
   const obj = localBusinessJsonLd(site);
   return `        <!-- SEO JSON-LD Structured Data -->
@@ -515,6 +558,22 @@ export function writeLlmsTxt(root, config) {
   );
   for (const p of mainPages) {
     lines.push(`- [${p.title}](${absUrl(site, p.path)}): ${p.description || ''}`);
+  }
+
+  lines.push('', '## 家長月報', '');
+  const monthlyMetaPath = path.join(root, 'data', 'monthly-insights-meta.json');
+  if (fs.existsSync(monthlyMetaPath)) {
+    const monthly = JSON.parse(fs.readFileSync(monthlyMetaPath, 'utf8'));
+    const list = [monthly.latest, ...(monthly.history || [])].filter(Boolean);
+    const seenM = new Set();
+    for (const e of list.slice(0, 6)) {
+      if (!e?.slug || seenM.has(e.slug)) continue;
+      seenM.add(e.slug);
+      lines.push(`- [${e.title}](${absUrl(site, `/${e.slug}`)})`);
+    }
+    if (!seenM.size) lines.push('- （尚無月報）');
+  } else {
+    lines.push('- （尚無月報）');
   }
 
   lines.push('', '## 最新教練專欄週報', '');

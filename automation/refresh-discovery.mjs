@@ -9,6 +9,7 @@ import {
   writeSitemap,
   writeRssFeed,
   collectWeeklyArticleUrls,
+  collectMonthlyInsightUrls,
 } from './seo-lib.mjs';
 import { buildSearchIndex } from './build-search-index.mjs';
 
@@ -16,7 +17,10 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
 const config = loadSeoConfig(root);
 writeLlmsTxt(root, config);
-writeSitemap(root, config, collectWeeklyArticleUrls(root));
+writeSitemap(root, config, [
+  ...collectWeeklyArticleUrls(root),
+  ...collectMonthlyInsightUrls(root),
+]);
 writeRssFeed(root, config);
 const search = buildSearchIndex(root);
 console.error(

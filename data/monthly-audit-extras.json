@@ -1,0 +1,5 @@
+{
+  "updatedAt": null,
+  "note": "由 automation/monthly-content-audit.mjs 每月寫入；generate-content-pages.mjs 合併進 SEN 專頁 FAQ／延伸連結。",
+  "landings": {}
+}

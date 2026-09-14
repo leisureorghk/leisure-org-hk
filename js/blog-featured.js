@@ -153,7 +153,31 @@
           return h.slug !== meta.latest.slug;
         }));
       }
-      renderMoreGrid(history);
+      return fetch('data/monthly-insights-meta.json?_=' + Date.now(), { cache: 'no-store' })
+        .then(function (r) {
+          return r.ok ? r.json() : { latest: null };
+        })
+        .then(function (monthly) {
+          var latestEl = document.getElementById('monthly-insights-latest');
+          if (latestEl && monthly && monthly.latest && monthly.latest.slug) {
+            latestEl.innerHTML =
+              '<a href="' +
+              esc(monthly.latest.slug) +
+              '">' +
+              esc(monthly.latest.title || '閱讀本月家長月報') +
+              '</a>';
+          }
+          if (monthly && monthly.latest && monthly.latest.slug) {
+            history = [
+              {
+                slug: monthly.latest.slug,
+                title: monthly.latest.title || '家長月報',
+                publishedAt: monthly.latest.publishedAt,
+              },
+            ].concat(history);
+          }
+          renderMoreGrid(history);
+        });
     })
     .catch(function () {
       renderFeaturedFallback();

@@ -1,0 +1,112 @@
+name: Monthly content audit (MiniMax)
+
+on:
+  schedule:
+    # 每月 28 日約香港時間 11:00（UTC 03:00）
+    - cron: '0 3 28 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monthly-main
+  cancel-in-progress: false
+
+jobs:
+  monthly:
+    runs-on: ubuntu-latest
+    outputs:
+      pushed: ${{ steps.commit.outputs.pushed }}
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+      MINIMAX_MODEL: ${{ secrets.MINIMAX_MODEL || 'MiniMax-M3' }}
+      MINIMAX_API_BASE: ${{ secrets.MINIMAX_API_BASE }}
+      INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          ref: main
+
+      - name: Verify MiniMax secret
+        run: |
+          if [ -z "$MINIMAX_API_KEY" ]; then
+            echo "::warning::MINIMAX_API_KEY 未設定，將略過每月內容審計。"
+          else
+            echo "MINIMAX_API_KEY 已設定。"
+          fi
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: automation/package-lock.json
+
+      - name: Install dependencies
+        run: |
+          cd automation
+          npm ci
+
+      - name: Monthly AI content audit
+        run: |
+          cd automation
+          node monthly-content-audit.mjs
+
+      - name: Apply SEO and sitemap
+        run: node automation/apply-seo.mjs
+
+      - name: Notify IndexNow
+        run: |
+          cd automation
+          node notify-indexnow.mjs
+
+      - name: Commit and push to main
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No monthly audit changes; skip push."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore(content): monthly AI content audit [automated]"
+          git push origin HEAD:main
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: monthly
+    if: >-
+      needs.monthly.result == 'success' &&
+      (needs.monthly.outputs.pushed == 'true' || github.event_name == 'workflow_dispatch')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v6
+        with:
+          ref: main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

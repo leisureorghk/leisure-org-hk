@@ -215,13 +215,14 @@ Resolve-DnsName leisure.org.hk -Type A
 
 ---
 
-## 七、確認三個 Workflows
+## 七、確認四個 Workflows
 
 | 檔案 | 用途 |
 |------|------|
 | `.github/workflows/deploy-pages.yml` | `main` 推送後部署靜態站到 Pages。 |
 | `.github/workflows/daily-digest.yml` | 每日更新 `data/sen-swim-digest.json` 並 push、部署 Pages。 |
 | `.github/workflows/weekly-article.yml` | 每週產週報（需 `MINIMAX_API_KEY`）並 push、部署 Pages。 |
+| `.github/workflows/monthly-content-audit.yml` | 每月 28 日內容審計（需同一 `MINIMAX_API_KEY`）並 push、部署 Pages。 |
 
 在 **Actions** 可對各 workflow 按 **Run workflow** 手動測試。
 

@@ -4,6 +4,9 @@
 
 - `../data/sen-swim-digest.json` — 每日產業資訊摘要（約 20 則）
 - `../data/weekly-article-meta.json` + `../blog-weekly-*.html` — 每週參考外文公開摘要後撰寫的原創文章
+- `../data/monthly-insights-meta.json` + `../monthly-insights-YYYY-MM.html` — 每月 28 日內容審計產出的家長月報
+- `../data/monthly-audit-extras.json` — 合併進 SEN 專頁的補充 FAQ／連結
+- `../data/monthly-audit-log.json` — 審計紀錄（改了哪些檔、略過哪些建議）
 ## 擴充 RSS 來源
 
 編輯 [`feed-sources.yaml`](./feed-sources.yaml)：
@@ -38,6 +41,7 @@ export MINIMAX_MODEL="MiniMax-M3"   # 可選，預設見腳本
 node build-digest.mjs
 # 或
 node weekly-article.mjs
+node monthly-content-audit.mjs
 # 可選：通知搜尋引擎（需 INDEXNOW_KEY）
 export INDEXNOW_KEY="你的-uuid"
 node notify-indexnow.mjs

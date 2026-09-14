@@ -18,6 +18,7 @@ import {
   writeRssFeed,
   writeLlmsTxt,
   collectWeeklyArticleUrls,
+  collectMonthlyInsightUrls,
   optimizeFontLinks,
   injectSiteScripts,
 } from './seo-lib.mjs';
@@ -59,13 +60,15 @@ for (const page of config.pages) {
 }
 
 const weeklyUrls = collectWeeklyArticleUrls(root);
-writeSitemap(root, config, weeklyUrls);
+const monthlyUrls = collectMonthlyInsightUrls(root);
+writeSitemap(root, config, [...weeklyUrls, ...monthlyUrls]);
 writeRssFeed(root, config);
 writeLlmsTxt(root, config);
 const search = buildSearchIndex(root);
 console.log(
-  'Updated sitemap.xml + rss.xml + llms.txt (%d indexed + %d weekly); search-index %d items',
+  'Updated sitemap.xml + rss.xml + llms.txt (%d indexed + %d weekly + %d monthly); search-index %d items',
   config.pages.filter((p) => !(p.robots || '').includes('noindex')).length,
   weeklyUrls.length,
+  monthlyUrls.length,
   search.count
 );

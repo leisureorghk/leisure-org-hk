@@ -5,6 +5,7 @@
   "scripts": {
     "seo": "node apply-seo.mjs",
     "pages": "node generate-content-pages.mjs",
+    "monthly-audit": "node monthly-content-audit.mjs",
     "search-index": "node build-search-index.mjs",
     "discovery": "node refresh-discovery.mjs",
     "indexnow": "node notify-indexnow.mjs"

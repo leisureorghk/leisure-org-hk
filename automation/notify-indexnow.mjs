@@ -11,7 +11,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { loadSeoConfig, collectWeeklyArticleUrls, absUrl } from './seo-lib.mjs';
+import { loadSeoConfig, collectWeeklyArticleUrls, collectMonthlyInsightUrls, absUrl } from './seo-lib.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
@@ -42,6 +42,14 @@ function collectDefaultUrls(rootDir) {
   const metaPath = path.join(rootDir, 'data', 'weekly-article-meta.json');
   if (fs.existsSync(metaPath)) {
     const meta = JSON.parse(fs.readFileSync(metaPath, 'utf8'));
+    if (meta.latest?.slug) urls.push(absUrl(config.site, `/${meta.latest.slug}`));
+  }
+  for (const w of collectMonthlyInsightUrls(rootDir).slice(0, 3)) {
+    urls.push(w.loc);
+  }
+  const monthlyMeta = path.join(rootDir, 'data', 'monthly-insights-meta.json');
+  if (fs.existsSync(monthlyMeta)) {
+    const meta = JSON.parse(fs.readFileSync(monthlyMeta, 'utf8'));
     if (meta.latest?.slug) urls.push(absUrl(config.site, `/${meta.latest.slug}`));
   }
   return [...new Set(urls)];

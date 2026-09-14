@@ -74,6 +74,24 @@ export function buildSearchIndex(rootDir = root) {
     });
   }
 
+  const monthlyMetaPath = path.join(rootDir, 'data', 'monthly-insights-meta.json');
+  if (fs.existsSync(monthlyMetaPath)) {
+    const monthly = JSON.parse(fs.readFileSync(monthlyMetaPath, 'utf8'));
+    const list = [...(monthly.history || []), ...(monthly.latest ? [monthly.latest] : [])];
+    for (const e of list) {
+      if (!e?.slug) continue;
+      pushItem(items, seen, {
+        type: 'article',
+        path: e.slug,
+        url: absUrl(site, `/${e.slug}`),
+        title: e.title || '家長月報',
+        description: e.description || `${e.title} — 新天地家長月報`,
+        keywords: Array.isArray(e.keywords) ? e.keywords.join(', ') : e.keywords || 'SEN游泳, 家長資源',
+        publishedAt: e.publishedAt,
+      });
+    }
+  }
+
   const digestPath = path.join(rootDir, 'data', 'sen-swim-digest.json');
   if (fs.existsSync(digestPath)) {
     const digest = JSON.parse(fs.readFileSync(digestPath, 'utf8'));

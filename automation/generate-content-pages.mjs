@@ -35,6 +35,53 @@ const learnFigure = (file, alt, caption) => `<figure class="learn-figure">
 const cardThumb = (file, alt) =>
   `<img class="learn-card-thumb" src="images/learn/${file}" alt="${alt}" width="480" height="360" loading="lazy" decoding="async">`;
 
+function escHtml(s) {
+  return String(s || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function loadLandingExtras() {
+  try {
+    return JSON.parse(fs.readFileSync(path.join(root, 'data', 'monthly-audit-extras.json'), 'utf8'));
+  } catch {
+    return { landings: {} };
+  }
+}
+
+function renderLandingExtras(file) {
+  const e = loadLandingExtras().landings?.[file];
+  if (!e) return '';
+  const faqs = Array.isArray(e.faqs) ? e.faqs.filter((x) => x.q && x.a).slice(0, 4) : [];
+  const links = Array.isArray(e.links)
+    ? e.links.filter((x) => x.href && x.label && /^[a-z0-9][-a-z0-9]*\.html(?:[?#].*)?$/i.test(x.href)).slice(0, 6)
+    : [];
+  if (!faqs.length && !links.length) return '';
+  let html =
+    '<section class="weekly-faq monthly-audit-extras" data-monthly-audit="1"><h2>家長補充問答</h2>';
+  for (const f of faqs) {
+    html += `<h3>${escHtml(f.q)}</h3><p>${escHtml(f.a)}</p>`;
+  }
+  if (links.length) {
+    html += `<p>延伸閱讀：${links
+      .map((l) => `<a href="${escHtml(l.href)}">${escHtml(l.label)}</a>`)
+      .join(' · ')}</p>`;
+  }
+  html += '</section>';
+  return html;
+}
+
+function attachExtras(file, body) {
+  const block = renderLandingExtras(file);
+  if (!block) return body;
+  const cta = '<div class="text-center" style="margin-top:2rem">';
+  const i = body.lastIndexOf(cta);
+  if (i >= 0) return body.slice(0, i) + block + '\n' + body.slice(i);
+  return body + block;
+}
+
 function shell({ title, description, keywords, bodyHtml }) {
   return `<!DOCTYPE html>
 <html lang="zh-Hant-HK">
@@ -443,7 +490,7 @@ for (const p of [...landings, ...articles]) {
     title: p.title,
     description: p.description,
     keywords: p.keywords,
-    bodyHtml: p.body,
+    bodyHtml: attachExtras(p.file, p.body),
   });
   fs.writeFileSync(path.join(root, p.file), html, 'utf8');
   console.log('Wrote', p.file);
