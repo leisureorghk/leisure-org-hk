@@ -18,7 +18,7 @@
 
 ---
 
-**本機改完如何同步到 GitHub Pages**：見 [`GITHUB_SETUP.md`](./GITHUB_SETUP.md) **第十節**。
+**本機改完如何同步到 GitHub Pages**：見 [`GITHUB_SETUP.md`](./GITHUB_SETUP.md) **第十節**。自動化讓網上比本機新時，在專案根目錄執行 `.\sync-from-github.ps1` 即可把本機更新成 GitHub `main`。
 
 ## Repository secrets（在 GitHub 網頁上設定）
 

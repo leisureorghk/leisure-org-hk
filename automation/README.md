@@ -24,6 +24,14 @@
 
 ## 本機執行
 
+自動化排程會把新內容寫進 GitHub；本機過時請先在專案**根目錄**執行：
+
+```powershell
+.\sync-from-github.ps1
+```
+
+然後才跑下列腳本。
+
 ```bash
 cd automation
 npm install

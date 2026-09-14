@@ -252,9 +252,26 @@ Resolve-DnsName leisure.org.hk -Type A
 
 ## 十、本機日常更新與同步（請記錄此流程）
 
+### 開工前：先把本機更新成網上最新
+
+每日摘要、每週專題、每月 AI 內容審計都會**直接寫入 GitHub `main`**，本機不會自動跟著變。**每次開始改網站前**請先同步：
+
+```powershell
+cd "c:\Users\CompassJeffCho\Hkcompass\Communication site - 文件\AI_Project\Project\leisure_org_hk"
+.\sync-from-github.ps1
+```
+
+成功後終端機會顯示目前最新的 commit。若提示有未提交變更，請先存檔／提交，或確定可放棄本機修改時才用：
+
+```powershell
+.\sync-from-github.ps1 -Force
+```
+
+`-Force` 會讓本機與 `origin/main` 完全一致（未提交與未推送的改動會被丟棄）。
+
 ### 重點：本機改檔**不會**自動上 GitHub
 
-你在電腦（本機）用編輯器改 `index.html`、`css/style.css` 等，**儲存後不會**自動同步到 GitHub，也**不會**自動更新公開網址（例如 `https://leisureorghk.github.io/leisure-org-hk/`）。
+你在電腦（本機）用編輯器改 `index.html`、`css/style.css` 等，**儲存後不會**自動同步到 GitHub，也**不會**自動更新公開網址（例如 `https://www.leisure.org.hk/`）。
 
 必須執行 **Git 提交 + 推送到 `main`**，GitHub 才會收到新版本；推送後 **Deploy GitHub Pages** 會自動再部署，數分鐘內網站才會跟新。
 
@@ -263,7 +280,7 @@ Resolve-DnsName leisure.org.hk -Type A
 在專案資料夾 `leisure_org_hk` 開啟終端機：
 
 ```powershell
-cd "c:\Users\Jeff Cho\Hkcompass\Communication site - 文件\AI_Project\Project\leisure_org_hk"
+cd "c:\Users\CompassJeffCho\Hkcompass\Communication site - 文件\AI_Project\Project\leisure_org_hk"
 
 git status
 git add .
@@ -277,16 +294,6 @@ git push origin main
 - `git push origin main`：上傳到 GitHub 的 **main** 分支。
 
 推送成功後，到倉庫 **Actions** 可看到 **Deploy GitHub Pages** 自動執行；完成後重新整理 Pages 網址即可看到更新。
-
-### 若 GitHub 上曾有「自動化 PR」（digest／週報）
-
-他人或 Actions 在 GitHub 上合併了 PR 後，**遠端 `main` 會比你本機新**。下次在本機開工前建議先：
-
-```powershell
-git pull origin main
-```
-
-再開始編輯，可減少之後 `push` 時的合併衝突。
 
 ### 官網更新方式
 
