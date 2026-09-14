@@ -2095,6 +2095,75 @@ p { margin-bottom: var(--spacing-sm); }
     animation: fadeUp 0.8s ease 0.2s forwards;
 }
 
+/* ========== Learn illustrations (AI-generated) ========== */
+.learn-hero {
+    margin: calc(var(--spacing-lg) * -0.5) auto var(--spacing-xl);
+    max-width: 960px;
+    padding: 0 var(--spacing-md);
+}
+
+.learn-hero figure,
+.learn-figure {
+    margin: 0;
+    background: var(--sand-light, #FFFCF5);
+    border-radius: var(--radius-lg, 16px);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    border: 1px solid rgba(30, 87, 153, 0.08);
+}
+
+.learn-hero img,
+.learn-figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.learn-hero figcaption,
+.learn-figure figcaption {
+    padding: 0.75rem 1.1rem 1rem;
+    font-size: var(--text-sm, 0.9rem);
+    color: var(--text-muted, #5a6a7a);
+    line-height: 1.5;
+    background: rgba(255, 252, 245, 0.95);
+}
+
+.learn-figure {
+    margin: var(--spacing-xl) auto;
+    max-width: 720px;
+}
+
+.learn-card-thumb {
+    width: calc(100% + 2 * var(--spacing-xl));
+    max-width: none;
+    margin: calc(-1 * var(--spacing-xl)) calc(-1 * var(--spacing-xl)) var(--spacing-md);
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: var(--radius-lg, 16px) var(--radius-lg, 16px) 0 0;
+    display: block;
+    background: var(--sand-light, #FFFCF5);
+}
+
+.feature-card .learn-card-thumb,
+.service-card .learn-card-thumb,
+.sen-card .learn-card-thumb {
+    margin: 0;
+}
+
+.learn-inline-hero {
+    margin: var(--spacing-lg) 0 var(--spacing-md);
+    border-radius: var(--radius-lg, 16px);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    border: 1px solid rgba(30, 87, 153, 0.1);
+}
+
+.learn-inline-hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
 /* ========== Benefits Section ========== */
 .benefits-grid {
     display: grid;

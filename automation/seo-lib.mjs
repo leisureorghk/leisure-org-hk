@@ -30,7 +30,8 @@ function escAttr(s) {
 
 export function renderSeoHead(site, page) {
   const url = absUrl(site, page.path);
-  const img = imageUrl(site, site.defaultImage);
+  const img = imageUrl(site, page.image || site.defaultImage);
+  const imgAlt = page.imageAlt || site.nameFull;
   const robots = page.robots || 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1';
   const ogType = page.ogType || 'website';
   const title = page.title;
@@ -57,7 +58,7 @@ export function renderSeoHead(site, page) {
     <meta property="og:description" content="${escAttr(desc)}">
     <meta property="og:url" content="${escAttr(url)}">
     <meta property="og:image" content="${escAttr(img)}">
-    <meta property="og:image:alt" content="${escAttr(site.nameFull)}">
+    <meta property="og:image:alt" content="${escAttr(imgAlt)}">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="${escAttr(title)}">
     <meta name="twitter:description" content="${escAttr(desc)}">
@@ -162,7 +163,7 @@ function articleJsonLd(site, page) {
     author: { '@type': 'Organization', name: site.nameFull },
     publisher: { '@id': `${site.baseUrl.replace(/\/$/, '')}/#organization` },
     isPartOf: { '@id': `${site.baseUrl.replace(/\/$/, '')}/#website` },
-    image: imageUrl(site, site.defaultImage),
+    image: imageUrl(site, page.image || site.defaultImage),
     keywords: page.keywords || undefined,
   };
 }

@@ -9,7 +9,7 @@
     "telephone": "+85297083907",
     "email": "info@leisure.org.hk",
     "areaServed": "香港",
-    "contentLastmod": "2026-09-07",
+    "contentLastmod": "2026-09-14",
     "googleSiteVerification": "6eT8B5wew1o97FH2hJRpmKznvw9qpp_qnII0puP40Ks",
     "streetAddress": "香港（詳細上課泳池地址請 WhatsApp 或致電查詢）",
     "addressLocality": "香港",
@@ -36,7 +36,9 @@
         "website",
         "faq",
         "localBusiness"
-      ]
+      ],
+      "image": "/images/learn/hero-home.webp",
+      "imageAlt": "新天地 SEN 游泳共融插畫"
     },
     {
       "file": "about.html",
@@ -56,7 +58,9 @@
       "schemas": [
         "breadcrumb",
         "localBusiness"
-      ]
+      ],
+      "image": "/images/learn/hero-about.webp",
+      "imageAlt": "關於新天地教練與家長諮詢插畫"
     },
     {
       "file": "services.html",
@@ -76,7 +80,9 @@
       "schemas": [
         "breadcrumb",
         "localBusiness"
-      ]
+      ],
+      "image": "/images/learn/hero-services.webp",
+      "imageAlt": "SEN 游泳服務項目插畫"
     },
     {
       "file": "why-us.html",
@@ -96,7 +102,9 @@
       "schemas": [
         "breadcrumb",
         "localBusiness"
-      ]
+      ],
+      "image": "/images/learn/hero-contact.webp",
+      "imageAlt": "為何選擇新天地關懷諮詢插畫"
     },
     {
       "file": "resources.html",
@@ -116,7 +124,9 @@
       "schemas": [
         "breadcrumb",
         "localBusiness"
-      ]
+      ],
+      "image": "/images/learn/hero-resources.webp",
+      "imageAlt": "家長資源與游泳學習提示插畫"
     },
     {
       "file": "blog.html",
@@ -136,7 +146,9 @@
       "schemas": [
         "breadcrumb",
         "localBusiness"
-      ]
+      ],
+      "image": "/images/learn/hero-blog.webp",
+      "imageAlt": "教練專欄教學筆記插畫"
     },
     {
       "file": "booking.html",
@@ -156,7 +168,9 @@
       "schemas": [
         "breadcrumb",
         "localBusiness"
-      ]
+      ],
+      "image": "/images/learn/hero-booking.webp",
+      "imageAlt": "預約 SEN 游泳課程插畫"
     },
     {
       "file": "contact.html",
@@ -176,7 +190,9 @@
       "schemas": [
         "breadcrumb",
         "localBusiness"
-      ]
+      ],
+      "image": "/images/learn/hero-contact.webp",
+      "imageAlt": "聯絡新天地關懷諮詢插畫"
     },
     {
       "file": "download-parent-guide-first-swim.html",
@@ -265,7 +281,9 @@
       "schemas": [
         "breadcrumb",
         "localBusiness"
-      ]
+      ],
+      "image": "/images/learn/hero-sen-autism.webp",
+      "imageAlt": "自閉症游泳課程插畫"
     },
     {
       "file": "sen-swim-adhd.html",
@@ -285,7 +303,9 @@
       "schemas": [
         "breadcrumb",
         "localBusiness"
-      ]
+      ],
+      "image": "/images/learn/hero-sen-adhd.webp",
+      "imageAlt": "ADHD 游泳專注力訓練插畫"
     },
     {
       "file": "sen-guide.html",
@@ -296,8 +316,18 @@
       "ogType": "website",
       "priority": 0.9,
       "changefreq": "monthly",
-      "breadcrumb": [{ "name": "認識特殊需要", "path": "/sen-guide.html" }],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "breadcrumb": [
+        {
+          "name": "認識特殊需要",
+          "path": "/sen-guide.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ],
+      "image": "/images/learn/hero-sen-guide.webp",
+      "imageAlt": "認識特殊需要與 SEN 游泳總覽插畫"
     },
     {
       "file": "sen-support-hk.html",
@@ -309,10 +339,21 @@
       "priority": 0.85,
       "changefreq": "monthly",
       "breadcrumb": [
-        { "name": "認識特殊需要", "path": "/sen-guide.html" },
-        { "name": "香港支援系統", "path": "/sen-support-hk.html" }
+        {
+          "name": "認識特殊需要",
+          "path": "/sen-guide.html"
+        },
+        {
+          "name": "香港支援系統",
+          "path": "/sen-support-hk.html"
+        }
       ],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ],
+      "image": "/images/learn/hero-sen-support.webp",
+      "imageAlt": "香港 SEN 支援系統插畫"
     },
     {
       "file": "sen-swim-development.html",
@@ -324,10 +365,21 @@
       "priority": 0.85,
       "changefreq": "monthly",
       "breadcrumb": [
-        { "name": "認識特殊需要", "path": "/sen-guide.html" },
-        { "name": "游泳運動發展", "path": "/sen-swim-development.html" }
+        {
+          "name": "認識特殊需要",
+          "path": "/sen-guide.html"
+        },
+        {
+          "name": "游泳運動發展",
+          "path": "/sen-swim-development.html"
+        }
       ],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ],
+      "image": "/images/learn/hero-sen-development.webp",
+      "imageAlt": "特殊需要游泳運動發展插畫"
     },
     {
       "file": "sen-swim-physical.html",
@@ -339,10 +391,21 @@
       "priority": 0.85,
       "changefreq": "monthly",
       "breadcrumb": [
-        { "name": "認識特殊需要", "path": "/sen-guide.html" },
-        { "name": "肢體視覺聽力", "path": "/sen-swim-physical.html" }
+        {
+          "name": "認識特殊需要",
+          "path": "/sen-guide.html"
+        },
+        {
+          "name": "肢體視覺聽力",
+          "path": "/sen-swim-physical.html"
+        }
       ],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ],
+      "image": "/images/learn/hero-sen-physical.webp",
+      "imageAlt": "肢體視覺聽力游泳支援插畫"
     },
     {
       "file": "sen-swim-intellectual.html",
@@ -354,10 +417,21 @@
       "priority": 0.85,
       "changefreq": "monthly",
       "breadcrumb": [
-        { "name": "認識特殊需要", "path": "/sen-guide.html" },
-        { "name": "智力及多重障礙", "path": "/sen-swim-intellectual.html" }
+        {
+          "name": "認識特殊需要",
+          "path": "/sen-guide.html"
+        },
+        {
+          "name": "智力及多重障礙",
+          "path": "/sen-swim-intellectual.html"
+        }
       ],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ],
+      "image": "/images/learn/hero-sen-intellectual.webp",
+      "imageAlt": "智力及多重障礙游泳插畫"
     },
     {
       "file": "sen-swim-down-syndrome.html",
@@ -369,10 +443,21 @@
       "priority": 0.85,
       "changefreq": "monthly",
       "breadcrumb": [
-        { "name": "認識特殊需要", "path": "/sen-guide.html" },
-        { "name": "唐氏綜合症", "path": "/sen-swim-down-syndrome.html" }
+        {
+          "name": "認識特殊需要",
+          "path": "/sen-guide.html"
+        },
+        {
+          "name": "唐氏綜合症",
+          "path": "/sen-swim-down-syndrome.html"
+        }
       ],
-      "schemas": ["breadcrumb", "localBusiness"]
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ],
+      "image": "/images/learn/hero-sen-down.webp",
+      "imageAlt": "唐氏綜合症游泳插畫"
     },
     {
       "file": "areas-hong-kong.html",
