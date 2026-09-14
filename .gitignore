@@ -14,3 +14,7 @@ Thumbs.db
 
 # Optional local tooling
 .cursor/
+
+# Local PDF extract / training notes (not for public site)
+Doc/
+Doc/_extract/

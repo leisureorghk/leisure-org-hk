@@ -576,6 +576,36 @@ export function pickRelatedLandingPages(config, textBlob, limit = 3) {
       keys: ['adhd', '專注', '過動', '衝動'],
     },
     {
+      path: '/sen-swim-down-syndrome.html',
+      title: '唐氏綜合症游泳',
+      keys: ['唐氏', 'down', '肌張力'],
+    },
+    {
+      path: '/sen-swim-intellectual.html',
+      title: '智力及多重障礙游泳',
+      keys: ['智障', '智力', '多重障礙', 'virtus'],
+    },
+    {
+      path: '/sen-swim-physical.html',
+      title: '肢體・視覺・聽力游泳',
+      keys: ['肢體', '視障', '聽障', '視覺', '聽力', '截肢'],
+    },
+    {
+      path: '/sen-swim-development.html',
+      title: '特殊需要游泳運動發展',
+      keys: ['帕運', '殘奧', '競技', '協會', 'hksapd', 'hksapid'],
+    },
+    {
+      path: '/sen-support-hk.html',
+      title: '香港支援系統',
+      keys: ['支援', '融合', '社福', '教育'],
+    },
+    {
+      path: '/sen-guide.html',
+      title: '認識特殊需要',
+      keys: ['特殊需要', 'sen'],
+    },
+    {
       path: '/areas-hong-kong.html',
       title: '香港各區 SEN 游泳服務',
       keys: ['九龍', '新界', '港島', '地區', '泳池'],
