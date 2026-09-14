@@ -1,5 +1,6 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-09-14T08:51:00.186Z",
   "note": "由 automation/monthly-content-audit.mjs 每月寫入；generate-content-pages.mjs 合併進 SEN 專頁 FAQ／延伸連結。",
-  "landings": {}
+  "landings": {},
+  "month": "2026-09"
 }

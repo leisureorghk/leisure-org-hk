@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-09-14T08:34:45.228Z",
-  "count": 55,
+  "builtAt": "2026-09-14T08:51:00.260Z",
+  "count": 56,
   "items": [
     {
       "type": "page",
@@ -338,6 +338,15 @@
       "description": "孩子下水前，先走進他的世界：教練與家長的SEN游泳課同行指南 — 新天地教練專欄每週專題",
       "keywords": "SEN游泳, 教練專欄",
       "publishedAt": "2026-05-25T14:19:13.096Z"
+    },
+    {
+      "type": "article",
+      "path": "monthly-insights-2026-09.html",
+      "url": "https://www.leisure.org.hk/monthly-insights-2026-09.html",
+      "title": "2026-09 家長月報：SEN 游泳重點",
+      "description": "整理 2026-09 教練專欄與 SEN／游泳公開資訊，幫助香港家長掌握水中學習重點。",
+      "keywords": "SEN游泳, 家長資源, 特殊需要游泳",
+      "publishedAt": "2026-09-14T08:51:00.187Z"
     },
     {
       "type": "digest",

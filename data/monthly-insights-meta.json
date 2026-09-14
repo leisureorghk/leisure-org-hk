@@ -1,5 +1,29 @@
 {
-  "latest": null,
-  "history": [],
+  "latest": {
+    "slug": "monthly-insights-2026-09.html",
+    "ym": "2026-09",
+    "title": "2026-09 家長月報：SEN 游泳重點",
+    "description": "整理 2026-09 教練專欄與 SEN／游泳公開資訊，幫助香港家長掌握水中學習重點。",
+    "keywords": [
+      "SEN游泳",
+      "家長資源",
+      "特殊需要游泳"
+    ],
+    "publishedAt": "2026-09-14T08:51:00.187Z"
+  },
+  "history": [
+    {
+      "slug": "monthly-insights-2026-09.html",
+      "ym": "2026-09",
+      "title": "2026-09 家長月報：SEN 游泳重點",
+      "description": "整理 2026-09 教練專欄與 SEN／游泳公開資訊，幫助香港家長掌握水中學習重點。",
+      "keywords": [
+        "SEN游泳",
+        "家長資源",
+        "特殊需要游泳"
+      ],
+      "publishedAt": "2026-09-14T08:51:00.187Z"
+    }
+  ],
   "note": "由 automation/monthly-content-audit.mjs 更新；latest 指向 monthly-insights-YYYY-MM.html。"
 }
