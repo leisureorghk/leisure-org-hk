@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-09-14T05:58:12.572Z",
-  "count": 54,
+  "builtAt": "2026-09-14T08:34:45.228Z",
+  "count": 55,
   "items": [
     {
       "type": "page",
@@ -185,6 +185,15 @@
       "title": "ADHD 孩子學游泳的 5 個實用技巧",
       "description": "五個實用技巧協助 ADHD 孩子在游泳課建立專注、遵守流程與水中安全。",
       "keywords": "ADHD游泳, 專注力訓練, SEN游泳"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W38.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W38.html",
+      "title": "為何SEN學童更需要學會游泳？",
+      "description": "為何SEN學童更需要學會游泳？ — 新天地教練專欄每週原創文章，聚焦香港 SEN 學童游泳教學與家長實務。",
+      "keywords": "SEN游泳, 香港特殊教育游泳, 特殊需要兒童游泳",
+      "publishedAt": "2026-09-14T08:34:45.161Z"
     },
     {
       "type": "weekly",
