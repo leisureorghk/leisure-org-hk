@@ -18,3 +18,5 @@ Thumbs.db
 # Local PDF extract / training notes (not for public site)
 Doc/
 Doc/_extract/
+Learn/
+Learn/_extract/
