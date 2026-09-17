@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-09-17T05:57:42.308Z",
-  "count": 55,
+  "builtAt": "2026-09-17T06:17:32.311Z",
+  "count": 56,
   "items": [
     {
       "type": "page",
@@ -108,10 +108,18 @@
     },
     {
       "type": "page",
+      "path": "sen-swim-learning.html",
+      "url": "https://www.leisure.org.hk/sen-swim-learning.html",
+      "title": "讀寫障礙與動作協調障礙游泳",
+      "description": "讀寫障礙（Dyslexia）與發展性動作協調障礙（DCD）兒童的游泳教學：示範為主、分步練習、多感官提示，香港 SEN 游泳。",
+      "keywords": "讀寫障礙游泳, 動作協調障礙, DCD游泳, 特殊學習困難, SEN游泳香港"
+    },
+    {
+      "type": "page",
       "path": "sen-guide.html",
       "url": "https://www.leisure.org.hk/sen-guide.html",
       "title": "認識特殊需要與 SEN 游泳",
-      "description": "認識香港特殊教育需要（SEN）與游泳教學：支援系統、運動發展，以及肢體、感官、智力障礙與唐氏綜合症的水中學習方向。",
+      "description": "認識香港特殊教育需要（SEN）與游泳教學：支援系統、運動發展，以及自閉症、ADHD、讀寫／動作協調、肢體、感官、智力障礙與唐氏綜合症的水中學習方向。",
       "keywords": "SEN游泳, 特殊需要游泳, 香港SEN, 特殊教育需要, 新天地"
     },
     {

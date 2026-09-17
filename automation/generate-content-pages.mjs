@@ -153,12 +153,12 @@ const landings = [
     file: 'sen-guide.html',
     title: '認識特殊需要與 SEN 游泳 | 新天地',
     description:
-      '認識香港特殊教育需要（SEN）與游泳教學：支援系統、運動發展，以及肢體、感官、智力障礙與唐氏綜合症的水中學習方向。',
+      '認識香港特殊教育需要（SEN）與游泳教學：支援系統、運動發展，以及自閉症、ADHD、讀寫／動作協調、肢體、感官、智力障礙與唐氏綜合症的水中學習方向。',
     keywords: 'SEN游泳, 特殊需要游泳, 香港SEN, 特殊教育需要, 新天地',
     body: `<section class="page-header"><div class="container"><h1>認識特殊需要與 SEN 游泳</h1><p>從認識孩子的需要開始，再到水中安全學習</p></div></section>
 ${learnHero('hero-sen-guide.webp', '共融插畫：香港泳池邊，教練歡迎多樣特殊需要兒童學游泳', 'SEN 游泳總覽：以尊嚴與共融方式認識不同需要')}
 <section class="section"><div class="container">
-<p>每一位孩子的學習節奏都不同。新天地以游泳及多功能發展為核心，陪伴自閉症、ADHD、肢體／感官障礙、智力障礙、唐氏綜合症等家庭，用可預期的流程與個別化安排，讓孩子在水中建立安全感與自信。我們相信特殊需要不是「污名」，而是需要被理解與適切支援的個別差異。</p>
+<p>每一位孩子的學習節奏都不同。新天地以游泳及多功能發展為核心，陪伴自閉症、ADHD、讀寫／動作協調困難、肢體／感官障礙、智力障礙、唐氏綜合症等家庭，用可預期的流程與個別化安排，讓孩子在水中建立安全感與自信。我們相信特殊需要不是「污名」，而是需要被理解與適切支援的個別差異。</p>
 ${DISCLAIMER}
 <div class="features-grid" style="margin-top:2rem">
   <div class="card">${cardThumb('card-support.webp', '香港支援系統示意插畫')}<h3><a href="sen-support-hk.html">香港支援系統</a></h3><p>認識特殊需要的基本概念，以及教育、社福等本地支援如何與游泳課銜接。</p></div>
@@ -168,6 +168,7 @@ ${DISCLAIMER}
   <div class="card">${cardThumb('card-down.webp', '唐氏綜合症游泳示意')}<h3><a href="sen-swim-down-syndrome.html">唐氏綜合症</a></h3><p>肌張力、健康注意與循序漸進的游泳課設計重點。</p></div>
   <div class="card">${cardThumb('card-autism.webp', '自閉症游泳視覺提示示意')}<h3><a href="sen-swim-autism.html">自閉症游泳</a></h3><p>視覺提示、感官調節與固定流程。</p></div>
   <div class="card">${cardThumb('card-adhd.webp', 'ADHD 短單元游泳示意')}<h3><a href="sen-swim-adhd.html">ADHD 游泳</a></h3><p>短單元、即時回饋與專注力訓練。</p></div>
+  <div class="card">${cardThumb('card-overview.webp', '讀寫與動作協調游泳示意')}<h3><a href="sen-swim-learning.html">讀寫／動作協調</a></h3><p>示範為主、分步練習與多感官提示，減少文字負擔。</p></div>
   <div class="card">${cardThumb('card-overview.webp', '家長資源與 SEN 游泳總覽示意')}<h3><a href="resources.html">家長資源</a></h3><p>育兒錦囊、免費下載與常見問題。</p></div>
 </div>
 ${CTA('<p style="margin-top:1rem"><a href="services.html">查看服務項目</a></p>')}
@@ -418,18 +419,28 @@ ${CTA()}
 ${learnHero('hero-sen-autism.webp', '共融插畫：自閉症友善泳池與視覺提示學習環境', '自閉症游泳：視覺提示、感官調節與固定流程')}
 <section class="section"><div class="container">
 <h2>為何選擇水中學習？</h2>
-<p>水能提供可預測的感官輸入，許多自閉症孩子在陸地上感到過載，卻能在結構化的游泳課中建立安全感。我們使用視覺提示卡、固定流程與可預期的節奏，減少焦慮。每位孩子差異很大：有人對水特別熱衷、專注力強；有人需要更長時間適應新環境——我們會按個別節奏調整。</p>
+<p>水能提供可預測的感官輸入，許多自閉症孩子在陸地上感到過載，卻能在結構化的游泳課中建立安全感。自閉症譜系是先天的神經發展差異，能力和語言程度可以相差很大；即或語言與認知不錯，社交溝通、情緒調節與突發轉變仍可能需要系統支援。我們使用視覺提示卡、固定流程與可預期節奏，減少焦慮。</p>
 ${learnFigure('teach-visual-schedule.webp', '視覺流程示意：換衣服、池邊、踢水三步驟', '視覺流程卡：換衣服 → 池邊 → 踢水，幫助預知下一步')}
 <h2>教學重點</h2>
 <ul>
-<li>池邊適應與遊戲化入水，不強迫；先建立正面感受再加難度</li>
-<li>視覺日程表與簡單、形象的提示卡；指令短而具體</li>
-<li>善用孩子的優勢（例如對喜歡活動的熱情與堅持），用「小挑戰＋即時肯定」維持動力</li>
-<li>情緒升溫時即時降刺激；強度由低至高，避免一開始過量導致放棄</li>
-<li>留意關節負荷與疲勞訊號，動作幅度循序漸進</li>
-<li>家長可參與的溝通策略：課前說明當日流程，課後重溫一件成功小事</li>
+<li><strong>視覺提示：</strong>用圖卡顯示課堂流程（熱身→踢水→划手→自由活動→離水）與規則（例如池邊慢行、輪流）。</li>
+<li><strong>短而具體的指令：</strong>「一指令一動作」（例如「手揸板、腳踢水」）；少用比喻或抽象長句。</li>
+<li><strong>結構化與預告改變：</strong>固定水道／入水點；若換教練、換水道，先用圖或短句預告。</li>
+<li><strong>冷靜區：</strong>預先約定較安靜的休息位置；感官超載時先離水安全，再降刺激，不強迫講道理。</li>
+<li>池邊適應與遊戲化入水，不強迫；強度由低至高，留意疲勞與關節負荷。</li>
+<li>家長可參與的溝通策略：課前說明當日流程，課後重溫一件成功小事。</li>
 </ul>
-<p style="margin-top:1.25rem">認識其他需要：<a href="sen-guide.html">特殊需要總覽</a> · <a href="sen-swim-adhd.html">ADHD</a> · <a href="sen-swim-down-syndrome.html">唐氏綜合症</a> · <a href="sen-swim-intellectual.html">智力及多重障礙</a></p>
+${DISCLAIMER}
+<section class="weekly-faq" style="margin-top:2rem">
+<h2>家長常見問題</h2>
+<h3>孩子不看著教練，是不是故意不聽話？</h3>
+<p>通常不是。強迫對眼接觸會帶來很大壓力。我們會讓孩子身體面向教練或跟從圖卡，而不是強迫對眼。</p>
+<h3>情緒崩潰時，要不要即時大聲講道理？</h3>
+<p>不要。當下先確保水中安全，帶到安靜位置，減少說話，給時間自我調節。平復後再短句回顧。</p>
+<h3>「高功能」還需要視覺提示嗎？</h3>
+<p>需要。認知好不代表面對抽象指令或突然轉變時不焦慮；可視化、結構化仍能大幅提升安全感與成功率。</p>
+</section>
+<p style="margin-top:1.25rem">認識其他需要：<a href="sen-guide.html">特殊需要總覽</a> · <a href="sen-swim-adhd.html">ADHD</a> · <a href="sen-swim-learning.html">讀寫／動作協調</a> · <a href="sen-swim-down-syndrome.html">唐氏綜合症</a></p>
 ${CTA()}
 </div></section>`,
   },
@@ -442,12 +453,62 @@ ${CTA()}
     body: `<section class="page-header"><div class="container"><h1>ADHD 孩子學游泳</h1><p>用水中結構化活動建立專注與自我調節</p></div></section>
 ${learnHero('hero-sen-adhd.webp', '共融插畫：ADHD 孩子以短單元方式練習踢水', 'ADHD 游泳：短單元、即時回饋與水中專注力')}
 <section class="section"><div class="container">
-<p>ADHD 孩子並非不聽話，而是需要更清晰的指令與即時回饋。我們把課堂拆成短單元，配合視覺提示與正向強化，讓孩子在水中練習「開始—專注—完成」。</p>
+<p>注意力不足／過度活躍症（ADHD）常見表現包括活動量高、衝動、以及專注維持困難——孩子並非「不聽話」，而是需要更清晰的指令與即時回饋。臨床上可分為複合型、專注不足為主、或過度活躍／衝動為主等不同組合，同一標籤下表現仍可以很不同。我們把課堂拆成短單元，配合視覺提示與正向強化，讓孩子練習「開始—專注—完成」。</p>
 ${learnFigure('teach-adhd-focus.webp', 'ADHD 短單元專注練習示意插畫', '短單元專注：每節幾個小目標，完成即具體讚賞')}
+<h2>泳池安全與課堂節奏</h2>
+<ul>
+<li><strong>清楚界線：</strong>用地墊或浮線標示等待區；未得教練訊號，不可自行下水。</li>
+<li><strong>近距離監管：</strong>衝動較高的孩子需保持在視線與伸手可及範圍，預防突然跳水或走開。</li>
+<li><strong>短講多練：</strong>少長篇講解、少長時間排隊；高密度短活動。</li>
+<li><strong>一指令一動作：</strong>例如「手揸板，踢五下」，完成再加下一步。</li>
+<li><strong>正向代幣：</strong>完成一組練習可得貼紙／代幣，累積換最後幾分鐘自由玩水時間。</li>
+<li><strong>遊戲化：</strong>把體能練習變成簡單水中遊戲（尋寶、短距離競賽），維持動力。</li>
+</ul>
 <h2>五個實用方向</h2>
 <ol><li>每節 3–5 個小目標，完成即給具體讚賞</li><li>減少同時多指令，先口頭後示範</li><li>固定熱身流程，建立預測感</li><li>允許短暫動態休息，再回任務</li><li>與家長分享家中可延續的練習</li></ol>
+${DISCLAIMER}
 <p><a href="blog-article-adhd.html">閱讀：ADHD 孩子學游泳的 5 個實用技巧</a></p>
-<p style="margin-top:1.25rem">認識其他需要：<a href="sen-guide.html">特殊需要總覽</a> · <a href="sen-swim-autism.html">自閉症</a> · <a href="sen-swim-physical.html">肢體・視覺・聽力</a></p>
+<p style="margin-top:1.25rem">認識其他需要：<a href="sen-guide.html">特殊需要總覽</a> · <a href="sen-swim-autism.html">自閉症</a> · <a href="sen-swim-learning.html">讀寫／動作協調</a> · <a href="sen-swim-physical.html">肢體・視覺・聽力</a></p>
+${CTA()}
+</div></section>`,
+  },
+  {
+    file: 'sen-swim-learning.html',
+    title: '讀寫障礙與動作協調障礙游泳 | 新天地',
+    description:
+      '讀寫障礙（Dyslexia）與發展性動作協調障礙（DCD）兒童的游泳教學：示範為主、分步練習、多感官提示，香港 SEN 游泳。',
+    keywords: '讀寫障礙游泳, 動作協調障礙, DCD游泳, 特殊學習困難, SEN游泳香港',
+    body: `<section class="page-header"><div class="container"><h1>讀寫障礙與動作協調障礙游泳</h1><p>減少文字負擔，把動作拆清楚，讓孩子在水中累積成功經驗</p></div></section>
+${learnHero('hero-sen-guide.webp', '共融插畫：教練以示範與圖示協助特殊學習需要孩子', '特殊學習困難：示範、分步與多感官學習')}
+<section class="section"><div class="container">
+<h2>什麼是特殊學習困難（概念）？</h2>
+<p>特殊學習困難泛指整體智力可以在一般範圍，但在讀寫、數學或動作協調等特定能力上有持續明顯困難。常見包括<strong>讀寫障礙</strong>（文字解碼、拼寫與閱讀處理）與<strong>發展性動作協調障礙（DCD）</strong>（動作計劃、協調與學習新動作）。兩者可以並存，也可與專注或發展需要同時出現——教學應看孩子實際表現，而不是只看標籤。</p>
+${DISCLAIMER}
+<h2>讀寫障礙：對游泳課的影響</h2>
+<p>讀寫障礙<strong>不是</strong>智力低、懶惰或欠缺動機。口語理解與創意可能很強，但長文字規則、技術名稱或書面評估會較吃力。水中動作本身未必受影響，但接收文字資訊、一次記住多個技術要求會較困難。</p>
+<ul>
+<li>先示範，再用短文字／短口語提示；多用圖、箭嘴、流程圖。</li>
+<li>「一指令一動作」：完成一步再加下一步；同一動作用固定用語。</li>
+<li>多感官：看示範、聽短提示、親身做；練完可請孩子用自己的話說出重點。</li>
+<li>不要把閱讀慢解讀成「不投入」；理論或書面表現未必等於實際游泳能力。</li>
+</ul>
+<h2>動作協調障礙（DCD）：水中怎樣教？</h2>
+<p>DCD 影響動作協調與學習，孩子可能顯得笨拙、節奏不穩，或難同時控制四肢與呼吸。這<strong>不代表不能學游泳</strong>——浮力環境反而適合用重複與分步建立動作模式。</p>
+<ul>
+<li><strong>動作拆解：</strong>例如先流線 → 踢水 → 單臂划 → 再加呼吸；一次只加一個新元素。</li>
+<li><strong>重複穩定：</strong>練習流程固定，給足次數，不要因「慢」就過早加難。</li>
+<li><strong>外在提示：</strong>浮板、水道線幫助孩子感受身體位置；需觸覺引導時先徵得同意。</li>
+<li><strong>環境調整：</strong>減少干擾，先求動作質素再求速度／距離；注意池邊步行與上下水安全。</li>
+<li>由易成功的動作開始，讓孩子常有成功感，保護自信。</li>
+</ul>
+<section class="weekly-faq" style="margin-top:2rem">
+<h2>家長常見問題</h2>
+<h3>讀寫障礙會否學不會游泳？</h3>
+<p>一般不會。重點是少依賴長文字，多示範與分步。游泳甚至可以成為孩子建立自信的強項。</p>
+<h3>DCD 孩子游自由泳／蛙泳特別難？</h3>
+<p>初學時四肢與呼吸協調確實較吃力。我們會拆細步驟、放慢要求，並留意池邊安全；進步往往靠重複與成功經驗堆疊。</p>
+</section>
+<p style="margin-top:1.5rem">延伸閱讀：<a href="sen-swim-adhd.html">ADHD</a> · <a href="sen-swim-autism.html">自閉症</a> · <a href="sen-guide.html">總覽</a> · <a href="resources.html">家長資源</a></p>
 ${CTA()}
 </div></section>`,
   },
@@ -479,8 +540,15 @@ const articles = [
 <section class="section"><div class="container article-body">
 <p>水同時提供浮力、阻力和溫和壓力，對感覺統合困難的孩子來說，這是一個非常友善的訓練環境。當孩子在水中活動時，身體可得到穩定而連續的本體覺輸入，能幫助調節過高或過低的感官反應。</p>
 <p>另外，水中動作節奏清晰，容易建立「預測感」，能減少焦慮。很多孩子在陸地上難以維持專注，但在水中反而更願意跟從指令。</p>
+<h2>課堂實用三步驟：觀察 → 理解 → 調整</h2>
+<ol>
+<li><strong>觀察：</strong>孩子對水花、聲音、觸感是回避還是尋求？何時開始焦慮或興奮？</li>
+<li><strong>理解：</strong>過高反應可能需要降刺激（少人、少聲、短課）；過低反應可能需要更清晰節奏與本體覺輸入。</li>
+<li><strong>調整：</strong>改水深、用具、指令長度或休息節奏——目標是「先穩定，再進步」，而不是硬撐完整堂課。</li>
+</ol>
 <p>建議家長把目標設定為「先穩定，再進步」：先讓孩子喜歡水、信任教練，再逐步加入技巧訓練。</p>
-<p><a href="sen-swim-autism.html">了解自閉症游泳課程</a> · <a href="sen-guide.html">認識特殊需要</a> · <a href="booking.html">預約試堂</a></p>
+${DISCLAIMER}
+<p><a href="sen-swim-autism.html">了解自閉症游泳課程</a> · <a href="services.html#sensory">水中感統訓練</a> · <a href="sen-guide.html">認識特殊需要</a> · <a href="booking.html">預約試堂</a></p>
 </div></section>`,
   },
   {
@@ -501,8 +569,15 @@ const articles = [
     keywords: 'ADHD游泳, 專注力訓練, SEN游泳',
     body: `<section class="page-header"><div class="container"><h1>ADHD 孩子學游泳的 5 個實用技巧</h1><p>2025年10月 · 曹柏林教練</p></div></section>
 <section class="section"><div class="container article-body">
-<ol><li>短單元教學，每完成一項即具體稱讚</li><li>視覺提示卡列出課堂流程</li><li>一次一個指令，避免訊息堆疊</li><li>預留動態休息，再溫和回到任務</li><li>課後與家長溝通，延伸家中練習</li></ol>
-<p><a href="sen-swim-adhd.html">ADHD 游泳專項課程</a> · <a href="sen-guide.html">認識特殊需要</a></p>
+<p>ADHD 孩子並非不聽話，而是需要更清晰的界線與即時回饋。課堂上我們會保持視線與伸手可及範圍、少長篇講解，並用短而密的練習維持動力。</p>
+<ol>
+<li>短單元教學，每完成一項即具體稱讚</li>
+<li>視覺提示卡列出課堂流程；用地墊／浮線標示等待區</li>
+<li>「一指令一動作」，避免訊息堆疊</li>
+<li>正向代幣或貼紙：完成一組練習可換最後幾分鐘自由玩水</li>
+<li>預留動態休息／簡單水中遊戲，再溫和回到任務；課後與家長溝通延伸練習</li>
+</ol>
+<p><a href="sen-swim-adhd.html">ADHD 游泳專項課程</a> · <a href="sen-swim-learning.html">讀寫／動作協調</a> · <a href="sen-guide.html">認識特殊需要</a></p>
 </div></section>`,
   },
 ];

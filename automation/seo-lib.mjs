@@ -636,6 +636,11 @@ export function pickRelatedLandingPages(config, textBlob, limit = 3) {
       keys: ['adhd', '專注', '過動', '衝動'],
     },
     {
+      path: '/sen-swim-learning.html',
+      title: '讀寫／動作協調游泳',
+      keys: ['讀寫', 'dyslexia', 'dcd', '動作協調', '學習困難', '協調障礙'],
+    },
+    {
       path: '/sen-swim-down-syndrome.html',
       title: '唐氏綜合症游泳',
       keys: ['唐氏', 'down', '肌張力'],

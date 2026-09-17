@@ -26,6 +26,7 @@ const LANDING_FILES = [
   'sen-swim-down-syndrome.html',
   'sen-swim-autism.html',
   'sen-swim-adhd.html',
+  'sen-swim-learning.html',
 ];
 const SEO_FILES = [...HUB_FILES, ...LANDING_FILES, 'blog.html'];
 const INTERNAL_HREF =
