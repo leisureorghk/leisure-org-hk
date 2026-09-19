@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-18T05:44:40.006Z",
+  "updatedAt": "2026-09-19T05:36:33.801Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "領取重要殘疾福利的人數創新高",
+      "title": "領取關鍵殘疾福利的人數創歷史新高",
       "url": "https://www.bbc.co.uk/news/articles/cqr7djnl3000o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-15T13:36:33.000Z",
-      "summary": "針對個人獨立支付款項（Pip）的持續檢討發現，該制度「不切合所需」。",
+      "summary": "一項針對個人獨立付款（Pip）的持續審查發現，該系統「不適合其目的」。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -15,50 +15,50 @@
           "alt": "Close up shot of a person looking at bills and receipts on a table next to a laptop. They are wearing a blue shirt and white t-shirt A yellow mug is in the foreground"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f260/live/c7797560-b31f-11f1-bc1f-3f186ca4140c.jpg",
-          "alt": "Close-up of women in grey NYU sweater"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/fa09/live/d0ecb680-b391-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "Sway in a black jacket and white t-shirt"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4d8a/live/20388f60-b2ad-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "A man in the distance walks up a road covered in snow in a red coat with his hood up."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0299/live/4e5f6e50-b33d-11f1-bc1f-3f186ca4140c.jpg",
+          "alt": "A woman with shoulder-length greying hair talks to someone off-camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1ee3/live/7f661980-b2ad-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "A woman dressed in a white lab coat is wearing a stethoscope and holding a medical model of a cervix. She is in a hospital setting and is mid covernation."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5626/live/b3382e80-b382-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "CCTV of a man in a grey T-shirt and blue shorts running"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0316/live/7fc15c10-b2b1-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "Beverley Knight has long dark brown hair, she is singing into a microphone. She is wearing a strapless black evening dress."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b1b0/live/55f3c8d0-b358-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "Woman sat in car looking directly into the camera"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f9a7/live/c7a02f10-b352-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "A man with white hair wearing a black suit talks to someone off-camera"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/14e9/live/86e98fd0-b2e3-11f1-a430-4d16ee157c41.jpg",
           "alt": "Diana, The Princess of Wales, wearing a long dinner dress in silk crepe"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2213/live/20e6fa60-b306-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "Ed Sheeran and Macklemore on stage with their arms around one another."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6bc7/live/2f138430-b380-11f1-a430-4d16ee157c41.jpg",
+          "alt": "Man looks into distance speaking to presenter off camera. He has short brown hair."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d038/live/39592d00-b2e0-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "Man in a grey t shirt and shorts jogging"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/33dc/live/60952620-b37c-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "Zara Larsson looking at interviewer off camera in sparkly dress"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c3c0/live/d8631180-b2d7-11f1-bc1f-3f186ca4140c.jpg",
-          "alt": "Mark Rutte wearing a suit, sat during an interview"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5f09/live/be4b0570-b2ad-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "Mark Carney and Andy Burnham in Everton scarves at game"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f260/live/c7797560-b31f-11f1-bc1f-3f186ca4140c.jpg",
+          "alt": "Close-up of women in grey NYU sweater"
         }
       ],
-      "bodyZh": "領取重要殘疾福利金的人數創新高\n\n英格蘭及威爾斯的個人獨立付款（Personal Independence Payments，簡稱 PIP）領取人數創下歷史新高，政府最新數據顯示。\n\n截至七月，超過四百萬人符合領取資格，較去年同期的三百八十三萬人增加百分之七，數據來自就業及退休金部（Department for Work and Pensions）。\n\nPIP 旨在資助殘疾人士或長期身心健康狀況患者應對額外開支，領取資格不受申請人的收入或儲蓄影響。\n\n七月時，領導 PIP 檢討工作的斯蒂芬·蒂姆斯爵士（Sir Stephen Timms）在中期報告中表示，該制度「已不合時宜」。\n\n在四百一十萬名領取者中，五十歲及以上人士佔超過一半。\n\n近三成年齡介乎三十至四十九歲，十六至二十九歲的領取者則佔百分之十七。\n\nPIP 旨在抵消特定長期健康狀況所產生的額外開支。\n\n慈善機構 Scope 表示，所謂的「殘疾代價」每月已超過一千一百英鎊。\n\n就業及退休金部表示，PIP 個案增幅實際上已「放緩」，由截至二零二四年七月的十二個月增加四十萬人，降至截至二零二六年七月的二十六萬人。\n\n但該部門同意制度已「不再合時宜」，並指蒂姆斯的檢討建議將「為可持續改革奠定基礎」。\n\n然而，工黨影子就業及退休金大臣海倫·惠特利（Helen Whatly）批評，工黨「太快放棄人民，太慢協助他們重返職場」，並稱此情況「耗費巨資」。\n\n自二零二五年夏季起，PIP 成為輿論焦點。時任首相施紀賢爵士（Sir Keir Starmer）領導的政府在制度運作成本攀升之際，提議改革並收緊領取資格準則。\n\n政府數據顯示，以通脹調整後的現值計算，PIP 開支由二零一九至二零年度的一百六十三億英鎊，增至二零二四至二五年度的二百七十三億英鎊。\n\n目前預測到二零三零至三一年度將升至四百一十五億英鎊。\n\n惟數十名工黨議員對相關計劃表達憂慮，政府擔心黨友會投票否決改革方案，遂改弦易轍。\n\n政府最終委託社會保障及殘疾大臣斯蒂芬·蒂姆斯爵士領導檢討，就制度的「未來適用性及公平性」提出建議。\n\n夏季公布的中期報告指出，該制度已成為許多人重返職場的障礙，而申請過程被形容為「剝奪人性尊嚴」。\n\n現行的評估制度下，醫護專業人員按零至十二分制，就申請人的日常活動如梳洗、穿衣及準備食物等進行評分。\n\n本月初，檢討報告的「初步建議」提出增加更多面談評估，並指現金資助仍將作為核心，同時提供非現金支援選項。\n\n蒂姆斯檢討報告預料於本年底全面公布。",
+      "bodyZh": "領取主要殘疾福利的人數創下新高\n\n英格蘭及威爾斯領取個人獨立付款（PIP）的人數創下新高，根據政府最新數據顯示。\n\n截至七月，逾四百萬人符合領取資格，較前一年三百八十三萬人增加百分之七，數據來自就業及退休金部（DWP）。\n\nPIP旨在資助殘疾人士或長期身心疾病患者應付額外開支，領取資格不受個人收入或存款影響。\n\n七月時，帶領PIP檢討的斯蒂芬·蒂姆斯爵士在中期報告中表示，該制度「不切合所需」。\n\n在四百一十萬領取者中，五十歲及以上人士佔超過一半。\n\n近三成年齡介乎三十至四十九歲，十六至二十九歲的領取者佔百分之十七。\n\nPIP旨在補貼長期病患者面對的額外開支。\n\n根據慈善機構Scope的資料，殘疾所帶來的額外開支——即「殘疾代價」——已達每月逾一千一百鎊。\n\nDWP表示，PIP個案數字的升幅實際已「放緩」，由截至二零二四年七月的一年增加四十萬人，回落至截至二零二六年七月的二十六萬人。\n\n但他們同意制度已「不再切合所需」，並指蒂姆斯檢討的建議將「為可持續改革奠定基礎」。\n\n然而，影子就業及退休金大臣海倫·惠特利表示，工黨「太快放棄幫助人們，太慢協助他們重返職場」——並指這「正令我們付出巨大代價」。\n\n自二零二五年夏季以來，PIP一直備受關注。當時，以時任首相施紀賢爵士為首的政府建議改革及收緊該福利的申請資格，因為制度運作成本不斷上升。\n\n政府數據顯示，PIP開支在二零一九至二零年度按通脹調整後為一百六十三億鎊，至二零二四至二零二五年度已增至二百七十三億鎊。\n\n目前預測到二零三零至三一年度將升至四百一十五億鎊。\n\n然而，數十名工黨議員對計劃表示關注，政府擔心黨內議員會否決改革，最終撤回方案。\n\n政府改為委託社會保障及殘疾大臣斯蒂芬·蒂姆斯爵士領導檢討，就制度如何「切合未來所需並公平合理」提出建議。\n\n夏季發表的中期報告指出，制度已成為許多人就業的障礙，而申請過程被形容為「剝奪人性尊嚴」。\n\n現行評估制度下，醫護專業人員按零至十二分的標準，就洗臉更衣、進食及準備食物等日常任務為申請人評分。\n\n本月初，檢討的「初步建議」建議增加更多親身評估環節，並指現金資助將繼續作為基礎，但亦會提供非現金援助。\n\n蒂姆斯檢討預期於今年稍後發表完整報告。",
       "featured": false
     },
     {
-      "title": "190萬人研究發現ADHD與腸道問題有顯著關聯",
+      "title": "190萬人的研究發現ADHD與腸道問題之間存在顯著關聯",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
       "publishedAt": "2026-09-11T11:26:08.000Z",
-      "summary": "研究人員分析190多萬人的數據，發現ADHD與消化問題顯著相關。ADHD患者患便秘的機會近一倍，患腸易激綜合症的機會高58%，患大便失禁的機會更高出四倍。",
+      "summary": "研究人員分析超過190萬人的數據，發現ADHD與消化系統問題顯著相關。ADHD患者患便秘的機率近一倍，患腸易激綜合症的機率高58%，患大便失禁的機率超過四倍。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -71,14 +71,14 @@
           "alt": "Striking Link Between ADHD and Gut Problems"
         }
       ],
-      "bodyZh": "研究190萬人發現ADHD與腸道問題之間存在顯著關聯\n\n研究人員分析超過190萬人的數據，發現ADHD與消化問題的發生率顯著較高。ADHD患者出現便秘的機率幾乎是常人的兩倍，腸易激綜合徵的機率高出58%，大便失禁的機率更高出四倍以上。\n\n一項針對190萬人的大型研究揭示了ADHD與多種腸道問題之間令人意外的關聯。\n\n華威大學的研究人員在分析23項研究、超過190萬人的數據後，發現了ADHD與消化健康之間一個顯著的關聯。\n\n整體而言，ADHD患者出現胃腸道症狀的機率比非ADHD患者高出近50%。部分個別症狀的關聯更為顯著。ADHD患者出現便秘的機率幾乎是常人的兩倍，腸易激綜合徵的機率高出58%，而糞便失禁的發病風險更是常人的四倍以上。\n\nADHD與腸道問題的日益增長的證據\n\nADHD被認為影響全球約5%的兒童和3-4%的成年人，而過去四十年來確診率急劇上升。\n\n消化問題在自閉症譜系障礙患者中已有充分記錄。同時，科學家已累積更多證據支持「腸腦軸」的存在，該軸道將消化健康與更廣泛的神經發育狀況聯繫起來。然而直到現在，研究人員對ADHD患者出現胃腸道症狀的頻率仍未有完整圖像。\n\n這項發表於《注意力障礙期刊》的新研究，是首個專門針對ADHD患者胃腸道症狀進行的系統性回顧。研究人員整合了來自美國、瑞典、德國和南韓等國家進行的研究數據，年齡範圍從2歲到65歲。\n\n共同主要作者Sarah Blake是華威醫學院的醫學生，她表示：「幾乎所有我們研究的腸道症狀——便秘、腸易激綜合徵，甚至消化不良——似乎都與ADHD有關。這些症狀可能對日常生活造成實質影響，但若只專注於ADHD本身，它們很容易被忽視。」\n\n這種關聯的可能解釋是什麼？\n\n研究人員目前尚未完全理解ADHD與消化問題之間的具體機制。ADHD相關的特質如衝動性和不規律的飲食習慣可能會影響消化健康。用於治療ADHD的藥物也可能產生包括便秘在內的胃腸道副作用。\n\n另一個可能的因素涉及腸道微生物組。先前證據已將ADHD與腸道細菌差異聯繫起來，這些差異可能通過迷走神經——連接腸道和大腦的主要途徑之一——影響消化系統與大腦之間的通訊。\n\n臨床醫生或需關注ADHD症狀以外的表現\n\n研究人員表示，照顧ADHD患者的臨床醫生應注意他們可能同時出現胃腸道症狀，並在門診時考慮詢問患者是否有消化問題。\n\n出現較複雜胃腸道症狀的人士，亦可從營養師或腸胃科醫生的支援中獲益。\n\n重要的是，是次研究發現的是一種關聯，而非證明ADHD本身會導致消化問題。未來需要更多研究來確定當中有多大程度涉及潛在的生物因素，又有多大程度可能與藥物或其他影響因素有關。\n\n華威醫學院副教授Saran Shantikumar博士表示：「我們目前尚無法斷言ADHD導致這些腸道問題，或確定究竟是什麼在推動這種聯繫，但這種模式的關聯性足夠顯著，值得關注。照顧ADHD患者的臨床醫生或需考慮詢問他們的胃腸道症狀，特別是那些可能影響生活質量的症狀。」",
+      "bodyZh": "研究涵蓋190萬人　發現ADHD與腸道問題之間的驚人關聯\n\n研究人員分析超過190萬人的數據後發現，ADHD與消化系統問題的發生率顯著較高。ADHD患者出現便秘的機會接近一般人的兩倍，腸易激綜合症的機會高出58%，而大便失禁的機會更高出四倍以上。\n\n一項涵蓋190萬人的大型研究揭示了ADHD與多種腸道問題之間令人意外的關聯。華威大學的研究人員在分析涵蓋23項研究、超過190萬人的數據後，發現了ADHD與消化系統健康之間的顯著關聯。\n\n整體而言，ADHD患者出現腸胃症狀的機會較非ADHD人士高出近50%。部分個別疾病的關聯更為顯著。ADHD患者出現便秘的機會接近一般人的兩倍，腸易激綜合症的機會更高出58%，而大便失禁的機會更超過四倍。\n\nADHD與腸道關聯的日益增加的證據\n\nADHD估計影響全球約5%的兒童及3-4%的成年人，過去四十年間的確診率急劇上升。\n\n消化系統問題在自閉症譜系障礙患者中早有充分記錄。同時，科學家已收集到越來越多關於「腸腦軸」的證據，將消化系統健康與更廣泛的神經發育狀況聯繫起來。然而，過往研究對ADHD患者出現胃腸症狀的頻率未有完整了解。\n\n這項發表於《Journal of Attention Disorders》的新研究，是首個專門針對ADHD胃腸症狀進行的系統回顧。研究人員整合了來自美國、瑞典、德國及南韓等國家的數據，參與者年齡由2歲至65歲不等。\n\n華威醫學院醫學生、聯合首席作者Sarah Blake表示：「幾乎我們檢視的所有腸道症狀——便秘、腸易激綜合症，甚至消化不良——都與ADHD有關。這些症狀會對日常生活造成實際影響，但若只專注於ADHD本身，它們很容易被忽略。」\n\n這種關聯的可能解釋\n\n研究人員尚未確定ADHD與消化問題之間的準確原因，但有多種可能因素。\n\nADHD相關特質如衝動性和不規律的飲食習慣可能影響消化系統健康。用於治療ADHD的藥物也可能產生包括便秘在內的胃腸副作用。\n\n另一個可能因素涉及腸道微生物群。過往證據顯示ADHD與腸道細菌差異有關，而這些差異可能透過迷走神經——連接腸道與大腦的主要路徑之一——影響消化系統與大腦之間的溝通。\n\n醫生或需關注ADHD以外的症状\n\n研究人員表示，護理ADHD患者的臨床醫生應留意患者可能同時存在胃腸症狀，並在診症時考慮詢問患者的消化系統情況。\n\n出現較複雜胃腸症狀的患者，亦可從營養師或腸胃科醫生的支援中獲益。\n\n重要的是，研究結果顯示的是一種關聯，而非證明ADHD本身會導致消化問題。未來需要更多研究來確定這種關聯中有多少涉及潛在生物學因素，又有多少可能與藥物或其他影響有關。\n\n華威醫學院副臨床教授Saran Shantikumar博士表示：「我們目前還不能說ADHD導致這些腸道問題，也無法確定是什麼在推動這種關聯，但這種模式的顯著程度足以引起關注。護理ADHD患者的臨床醫生，或許可考慮詢問他們的胃腸症狀，特別是這些症狀可能影響生活質量的情況。」",
       "featured": true
     },
     {
-      "title": "特殊學校入學程序如「一場博彩」",
+      "title": "特殊學校入學程序感覺像「一場完全的博彩」",
       "url": "https://www.bbc.co.uk/news/articles/cx2zje8x49mo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T09:39:12.000Z",
-      "summary": "教育部門指出，由於出生率下降，未來對小學和中學的需求將會減少。",
+      "summary": "教育局表示，由於出生率下降，未來需要的中小學數量將會減少。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -111,26 +111,26 @@
           "alt": "A woman is holding the handles of a pram. A four year old girl is sitting in the pram and a man is standing beside her. Both adults wear glasses. A house is behind them."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f260/live/c7797560-b31f-11f1-bc1f-3f186ca4140c.jpg",
-          "alt": "Close-up of women in grey NYU sweater"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/fa09/live/d0ecb680-b391-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "Sway in a black jacket and white t-shirt"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4d8a/live/20388f60-b2ad-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "A man in the distance walks up a road covered in snow in a red coat with his hood up."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0299/live/4e5f6e50-b33d-11f1-bc1f-3f186ca4140c.jpg",
+          "alt": "A woman with shoulder-length greying hair talks to someone off-camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1ee3/live/7f661980-b2ad-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "A woman dressed in a white lab coat is wearing a stethoscope and holding a medical model of a cervix. She is in a hospital setting and is mid covernation."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5626/live/b3382e80-b382-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "CCTV of a man in a grey T-shirt and blue shorts running"
         }
       ],
-      "bodyZh": "特殊學校申請過程令人感覺像「一場完全靠運氣的博彩」\n\n一名女兒有嚴重需求的母親形容，將子女送往特殊教育需要（SEN）學校就讀的過程，感覺像「一場完全靠運氣的博彩」。\n\n此前，教育管理局宣布北愛爾蘭所有SEN學校均已額滿。\n\n教育管理局在2026/27年度營運計劃中表示，部分SEN學校的學生人數在過去十年間翻了一倍。\n\n現年17歲的女兒Emily就讀SEN學校的Karen Ryan表示，多年來她目睹了自疫情以來入學人數的變化，當時幼兒園服務一度停止。\n\nRyan說：「當孩子有學習障礙時，這不應該感覺像在博彩。」\n\n教育管理局亦指出，由於出生率下降，未來所需的小學及中學數量將會減少。\n\n這可能導致規模較小、學生人數相對較少的學校面臨關閉。\n\n但教育管理局的計劃再次強調，需要在北愛爾蘭增設兩所愛爾蘭語中學——一所位於弗爾納或倫敦德里，另一所位於貝爾法斯特。\n\n這一需求是由於就讀愛爾蘭語教育的学生人數持續上升，但教育管理局此前已就此發出呼籲，至今仍未見新建學校。\n\n目前當地僅有兩所愛爾蘭語中學，分別位於貝爾法斯特及鄧基文。\n\n為何需要更多特殊學校？\n\nErin McAllister的女兒有特殊教育需要，她表示兒童獲得專業支援至關重要。\n\nMcAllister說，雖然教育管理局表示今年所有持有教育需要聲明書的兒童都獲得了學位，但這些學位可能並非適切的安排。\n\n「我們一直見到家長反映，他們的孩子在主流學校就讀但應該進入主流學校專家班（SPiM），而有些在專家班的孩子則應該就讀特殊學校。」\n\n她補充說，發出的安排與家庭的實際情況不符。\n\n「在這些社區中，你會感覺到彼此在競爭，把孩子拿來互相競爭學位……然後演變成一場比較誰的孩子更需要這個學位的競賽。這不應該是這種情況，家長們也不希望看到這樣。」\n\nMcAllister同時經營一個專為SEN學童家長而設的網上支援群組。\n\n「學校不只是一個教育場所，它是我們孩子度過大部分童年時光的地方。」她說。\n\n「除了家庭環境外，學校是他們學習社交、管理困難情緒、體驗挑戰，以及成長為真實自我的地方。\n\n「特殊學校除了教育需要外，還照顧中度至重度的醫療需求及行為需求。\n\n「這些孩子有權享有自主權和受到尊重。\n\n「特殊學校讓我們的孩子能夠茁壯成長，而不只是艱難求生。這是我們至少能為孩子、他們深愛他們的父母及照顧者所做的。」\n\nSEN學校需要17億英鎊資本資金\n\n教育大臣Paul Givan表示，其部門在協助青少年入學方面一直處於「被動應對模式」。\n\nGivan表示，他已為全部39所特殊學校制訂了計劃，並提交了一份行政人員報告。\n\n他在接受BBC Radio Ulster《Nolan Show》節目訪問時表示，該行政人員報告估計未來十年需要17億英鎊的資本資金，但他補充，這筆資金不能從現有的正常資本開支中撥出。\n\nGivan表示，他已向財政大臣John O'Dowd爭取為SEN學校每年提供7000萬英鎊的專項資金。\n\n他說他們已加強了附設於主流學校的專家支援，並擴大了學校網絡，但補充這些並非長期的策略性解決方案。\n\n他表示，系統中尚有「數以千計」有額外需求的兒童未被納入。\n\n「這就是為何我們正在開發一種模式，讓學校校長有更大彈性，能夠識別學生的各種需求。」\n\n為何教育管理局要制定學校需求規劃？\n\n教育管理局負責規劃現時及未來對學校學位的需求，這涉及決定哪些地方需要更多學校，以及哪些地方學校過剩。\n\n教育管理局與教育部及其他業界機構合作，每兩年發布一次規劃，顯示他們認為需要作出的變動。\n\n教育管理局會列明北愛爾蘭每個區議會範圍內需要做的事項。\n\n最新計劃涵蓋2026年9月至2027年8月期間，但部分建議的變動將是長期性的。\n\n然而，關閉學校或創建新學校的重大決定，最終由教育大臣作出。\n\n北愛爾蘭有多少SEN學生？\n\n近年來需要學校學位的SEN學生人數大幅上升，並預計將繼續增加。\n\n目前特殊學校有超過7800名學生，近6000名學生就讀主流學校內的專家班（SPiM）。\n\n但五年後，到2031/32年度，預計特殊學校將有超過8500名學生，主流學校專家班將有超過9000名學生。\n\n近年來，部分家庭在為子女尋找適合的學校學位方面遇到困難。\n\n教育管理局的計劃指出：「特殊學校學位的需求持續增加，特殊學校網絡已達到負荷上限。」\n\n部分特殊學校在過去十年間學生人數翻了一倍。\n\n例如，貝爾法斯特的Harberton學校在2015/16年度有209名學生，到2025/26年度增至402名。\n\n當局已計劃興建新的特殊學校，包括在貝爾法斯特東區、前Orangefield High學校遺址——即Van Morrison的舊校——興建一所新校，但這需要巨額投資，且需時甚久。\n\n為何整體上我們需要的學校數量會減少？\n\n根據教育管理局的計劃，預計到2033年學生總人數將減少約30000人。\n\n這意味著學生人數相對較少的學校可能會被列入關閉名單。\n\n關閉學校的決定必須由教育大臣作出，而且可能引發爭議。\n\n然而，愛爾蘭語教育界別一直是持續增長的領域。\n\n過去25年間，愛爾蘭語學校的學生人數增長了近400%。",
+      "bodyZh": "特殊學校申請程序感覺像「一場博彩」\n\n一名女兒有深度需要的母親形容，讓子女入讀特殊教育需要（SEN）學校的過程，感覺像「一場博彩」。\n\n此前，教育事務委員會宣布北愛爾蘭所有特殊學校均已額滿。\n\n在其2026/27年度運作計劃中，教育事務委員會表示，部分特殊學校的學生人數在過去十年間增加了一倍。\n\n現年十七歲的女兒Emily就讀特殊學校的Karen Ryan表示，過去幾年來，她目睹了入學人數的變化，尤其是疫情後幼兒園服務被終止。\n\nRyan說：「當孩子有學習困難時，不應該感覺像在博彩。」\n\n教育事務委員會亦指出，由於出生率下降，未來對小學及中學的需求將會減少。\n\n這可能導致規模較小的學校被進一步關閉。\n\n不過，該委員會的計劃再次強調，需要在北愛爾蘭增設兩所愛爾蘭語中學——一所在弗馬納或倫敦德里，一所在貝爾法斯特。\n\n需求來自愛爾蘭語教育的學生人數持續上升，但教育事務委員會此前已提出這一訴求，至今仍未有新建學校。\n\n目前僅有兩所愛爾蘭語中學——一所在貝爾法斯特，一所在敦格文。\n\n為何需要更多特殊學校？\n\nErin McAllister的女兒有特殊教育需要，她表示兒童的專業支援至關重要。\n\nMcAllister說，雖然教育事務委員會表示今年所有持有教育需要聲明的兒童都獲得了學位，但這些學位可能並不合適。\n\n「我們不時看到這樣的情況：本應入讀主流學校專業支援班（SPiM）的學生却被安置在主流學校，而應入讀特殊學校的學生却被安置在SPiM。」\n\n她補充說，當局發出的訊息與家庭的實際情況不符。\n\n「在這些社群中，你會感到自己在競爭，把孩子拿來互相爭奪一個學位……然後演變成誰的孩子更需要這個學位的競爭。這不應該是這樣的情況，家長們也不希望如此。」\n\nMcAllister同時經營一個為SEN學童家長而設的網上支援群組。\n\n「學校不僅是教育的地方，更是我們的孩子度過大部分童年時光的地方。」她說。\n\n「除了家庭環境外，學校是他們學習社交、管理困難情緒、面對挑戰，以及成長為真實自我的地方。」\n\n「特殊學校除了照顧教育需要外，亦照顧中度至嚴重的醫療及行為需要。」\n\n「這些孩子有權獲得自主和尊重。」\n\n「特殊學校讓我們的孩子得以蓬勃發展，而不只是勉强生存。這是我們對孩子及其深愛他們的家長和照顧者最起碼能做的事。」\n\n十七億英鎊基建資金的需求\n\n教育大臣Paul Givan表示，其部門一直在「被動應對」模式中協助青少年入學。\n\nGivan表示，他已為全部39所特殊學校制定計劃，並提交了一份行政論文。\n\n他在BBC Radio Ulster的Nolan Show節目中表示，該行政論文提出未來十年需要十七億英鎊的基建資金，但他強調這不能從現有的一般基建開支中撥出。\n\nGivan說，他已向財務大臣John O'Dowd爭取為特殊學校每年提供七千萬英鎊的專用資金。\n\n他表示，他們已加強了附屬於主流學校的專業支援，並擴大了學校規模，但補充說這些並非長期的策略方案。\n\n他說，還有「數以千計」有額外需要的兒童尚未被納入體系。\n\n「正因如此，我們正在開發一個模式，讓學校校長有更大靈活性，能夠識別學生的需要。」\n\n為何教育事務委員會要制定學校需求規劃？\n\n教育事務委員會負責規劃現時及未來所需學額，並就哪些地區需要更多學校或學校過剩作出決定。\n\n該委員會與教育部及其他業界機構每兩年發布一次規劃，說明其認為需要作出的調整。\n\n教育事務委員會列明北愛爾蘭每個議會區需要做的事項。\n\n最新規劃涵蓋2026年9月至2027年8月，但部分建議的變動將是長期性的。\n\n然而，關閉或創建學校的重大決定最終由教育大臣作出。\n\n北愛爾蘭有多少SEN學生？\n\n近年來，需要學校學位的SEN學生人數大幅上升，預計將繼續增加。\n\n目前特殊學校有超過7,800名學生，近6,000名學生就讀於主流學校的專業班（SPiM）。\n\n但五年後，即2031/32年度，預計特殊學校將有超過8,500名學生，主流學校專業班將有超過9,000名學生。\n\n近年來，部分家庭在為子女尋找合適學校方面一直遇到困難。\n\n教育事務委員會的規劃指出：「特殊學校學位的需求持續增加，特殊學校設施已達到負荷上限。」\n\n部分特殊學校在過去十年間學生人數增加了一倍。\n\n例如，貝爾法斯特的Harberton學校在2015/16年度有209名學生，到2025/26年度增至402名。\n\n新建特殊學校的計劃包括在貝爾法斯特東區Orangefield High（范莫里遜的母校所在地）設立一所，但這需要巨額投資，並需時興建。\n\n但為何整體學校數量會減少？\n\n根據教育事務委員會的規劃，整體學生人數預計到2033年將減少約30,000人。\n\n這可能意味著規模較小的學校將被列入關閉名單。\n\n關閉學校的決定須由教育大臣作出，並可能引起爭議。\n\n然而，愛爾蘭語教育領域一直是持續增長的板塊。\n\n過去25年來，愛爾蘭語學校的學生人數增長了近400%。",
       "featured": false
     },
     {
-      "title": "兒子被列入兒童保護登記冊，母親「驚慌受威嚇」",
+      "title": "兒子被列入兒童保護名單後，母親感到「顫抖和受威脅」",
       "url": "https://www.bbc.co.uk/news/articles/cn45730j7ngo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T06:43:59.000Z",
-      "summary": "丹妮爾·麥奎蘭表示，她不明白為何患有自閉症及嚴重學習障礙的兒子會被列入登記冊。",
+      "summary": "Danielle McQuillan表示，她不明白為什麼她那患有自閉症和嚴重學習障礙的兒子會被列入名單。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -159,30 +159,30 @@
           "alt": "Masie McMcakin"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f260/live/c7797560-b31f-11f1-bc1f-3f186ca4140c.jpg",
-          "alt": "Close-up of women in grey NYU sweater"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/fa09/live/d0ecb680-b391-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "Sway in a black jacket and white t-shirt"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4d8a/live/20388f60-b2ad-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "A man in the distance walks up a road covered in snow in a red coat with his hood up."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0299/live/4e5f6e50-b33d-11f1-bc1f-3f186ca4140c.jpg",
+          "alt": "A woman with shoulder-length greying hair talks to someone off-camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1ee3/live/7f661980-b2ad-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "A woman dressed in a white lab coat is wearing a stethoscope and holding a medical model of a cervix. She is in a hospital setting and is mid covernation."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5626/live/b3382e80-b382-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "CCTV of a man in a grey T-shirt and blue shorts running"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0316/live/7fc15c10-b2b1-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "Beverley Knight has long dark brown hair, she is singing into a microphone. She is wearing a strapless black evening dress."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b1b0/live/55f3c8d0-b358-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "Woman sat in car looking directly into the camera"
         }
       ],
-      "bodyZh": "自閉症：媽媽無法理解兒子為何被列入兒童保護登記冊 - BBC News\n\nBBC主頁\n\n跳至內容\n\n無障礙幫助\n\n你的帳戶\n\n主頁\n\n新聞\n\n體育\n\n地球\n\n精選視頻\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n更多選單\n\n更多選單\n\n搜尋BBC\n\n主頁\n\n新聞\n\n體育\n\n地球\n\n精選視頻\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n關閉選單\n\nBBC新聞\n\n選單\n\n主頁\n\n氣候\n\n世界\n\n美國與加拿大\n\n英國\n\n商業\n\n科技\n\n科學\n\n娛樂與藝術\n\n健康\n\n更多\n\n圖片\n\nBBC驗證\n\n新聞速遞\n\n北愛爾蘭\n\n北愛爾蘭政治\n\n媽媽在兒子被列入兒童保護登記冊後感到「顫抖」和「受到威嚇」\n\n圖片說明，\n\nZac的母親Danielle McQuillan表示，她一直在尋求更多支援\n\n作者：\n\nTara Mills\n\nBBC News NI\n\n發布時間：\n\n2026年9月10日\n\n一名六歲自閉症及嚴重學習障礙男孩的母親表示，兒子被列入兒童保護登記冊（CPR）後，她感到「顫抖」和「受到威嚇」。\n\nDanielle McQuillan表示，她不明白Zac為何被登記，她只是尋求更多夜間暫托服務，以應付他的複雜需求，並騰出時間陪伴兩名女兒。\n\nZac無法說話，母親指他的行為可以非常具有挑戰性，包括在外出時脫掉衣服和跑掉。\n\n將他列入登記冊的東南部健康及社會關懷信托基金表示，「無法公開討論任何兒童或其家庭的詳細資料」。\n\nCPR是為被識別為有重大傷害風險的兒童而設的登記冊。\n\n當兒童被列入CPR，社工通常會進行突擊探訪，在家庭日常生活中觀察情況。\n\n兒童法律中心的高級律師Eamonn McNally表示，他的組織愈來愈多見到CPR被用於有複雜殘疾和額外需求的兒童身上，即使他們並非處於風險之中。\n\nDanielle的遭遇\n\nDanielle McQuillan與Zac及兩名女兒居於County Down的Bangor，她表示兒子喜歡感官遊戲、有結構的常規和戶外活動——但伴隨著各種挑戰。\n\n他不願穿自己的衣服，在公眾地方容易奔跑走失——而要同時照顧另外兩個孩子，她說很難取得平衡。\n\n「我一直嘗試爭取一些夜間暫托服務，因為我也想成為女兒們的媽媽，不只是Zac的媽媽。」\n\n當McQuillan尋求暫托服務去做「正常的事情」——例如去戲院和與女兒們共度優質時光——Zac獲安排每月在County Down的Newcastle度過一晚。\n\n她說，對於僅僅一晚來說，那裡「太遠了」，加上數小時的車程，令Zac「回家後的行為更具挑戰性，因為這完全打亂了他的常規」。\n\n然而，McQuillan表示，當她與社工談及需要休息時，卻演變成一場爭執。\n\n「他們說：『我們無法比你現在做得更多來照顧你的孩子。』\n\n「這番話真的刺中我的神經，因為我是一個非常努力想做一個好家長的人。\n\n「我感到難過和哭泣，第二天，兩名社工上門告知我，他們正在召開兒童保護會議，擬將他列入登記冊。」\n\n「壓力和焦慮」\n\n根據全國防止虐待兒童協會（NSPCC）的資料，若兒童被認為有重大傷害風險，便會召開兒童保護會議。\n\n會議通常涉及社福機構、醫療專業人員和學校等機構，與兒童的家庭會面，分享資訊、識別風險，並概述保護兒童所需採取的措施。\n\nZac的會議有17名健康及教育專業人員參與。\n\n他的母親只獲准由一人協助代表她——來自兒童法律中心的Eamonn McNally。\n\n每個人都需要投票決定Zac是否應該被列入CPR。他們決定應該。\n\n「我不明白為什麼——我一直嘗試弄清楚。」McQuillan說，並補充她曾質疑自己作為家長是否做錯了什麼。\n\n「這很難應付。」\n\n她還說，這也意味著社工曾不請自來地到訪她的家。\n\n「我只是覺得我在因為一個我不知道的原因而被監視。」\n\n她說，有一次她帶Zac去麥當勞，回家時發現有兩名社工的車停在外面。\n\n「我顫抖了，我感到非常受威嚇。」她繼續說道。\n\n「我認為這是因為沒有適當的理由解釋他為何被列入登記冊，他們幾乎是在試圖現在找出一個理由——所以才會出現。」\n\nMcQuillan表示，被列入登記冊的家庭有時會感到社會服務部門已經越界。\n\n「我的意思是，有人在檢查你的家。\n\n「這實際上並沒有為家庭帶來任何幫助，事實上還佔用了他們與孩子相處的時間。」\n\n她補充：「我會說，這是可恥的、完全令人震驚的——竟然允許人們這樣做。」\n\n「不合時宜」\n\n圖片說明，\n\nEamonn McNally，兒童法律中心的高級律師\n\nEamonn McNally表示，他的組織——兒童法律中心——「有為數不少的有重大需求的家庭正面臨巨大壓力，由於缺乏服務和支援，他們已經處於崩潰邊緣」。\n\n「這不應該等於在兒童保護登記冊上登記，而應該等於提供支援以保持這個家庭完整。」\n\nMcNally補充，雖然沒有可用數據顯示有多少家庭可能受到與Danielle McQuillan類似的問題影響，但他表示，四年前對兒童服務的一次檢討顯示，北愛爾蘭每人口的CPR轉介及登記比率是英國最高的。\n\n他補充，進行該檢討的Ray Jones教授質疑，部分個案中的家庭是否處於「兒童保護系統而非家庭支援模式」之中。\n\n兒童法律中心呼籲檢討將兒童列入CPR的程序，形容現有制度「過時且不合時宜」。\n\nMcNally說：「整個制度都需要檢視。它需要更以兒童為中心、更家庭友善。」\n\nNSPCC表示，CPR讓相關機構如緊急救援人員和學校，能夠查核他們正在接觸的兒童是否屬已知有風險的個案。\n\n信托基金怎麼說？\n\n東南部健康及社會關懷信托基金表示，歡迎對有特殊教育需求的兒童的兒童保護程序進行「監督」。\n\n「兒童殘疾團隊在社區中協助740個家庭，而當中少於10個家庭在兒童保護程序中獲得支援。\n\n「信托基金積極與家庭及其代理人接觸以解決任何問題，但無法公開討論任何兒童或其家庭的詳細資料。\n\n「有適當的上訴和代表論壇可以處理任何家庭的關注，並得到兒童法律中心等組織的支援。」\n\n相關話題\n\n青年及殘疾\n\n北愛爾蘭\n\n學習障礙\n\n殘疾\n\n自閉症\n\n北愛爾蘭衞生\n\n更多相關報道\n\n每16名學童就有一名確診自閉症「不足為奇」——媽媽這樣說\n\n發布時間：\n\n5月17日\n\n「我讓兒子留校以便他被接收進兒童照顧系統」\n\n發布時間：\n\n2024年9月24日\n\n「我覺得自己在忽略其他孩子」\n\n發布時間：\n\n2022年7月5日",
+      "bodyZh": "一名六歲自閉症及嚴重學習障礙男孩的母親表示，在兒子被列入兒童保護名冊（Child Protection Register）後，她感到「顫抖」和「受威嚇」。\n\nDanielle McQuillan 表示，她不明白為何 Zac 被登記，因為她只是尋求更多過夜喘息服務，以應對他的複雜需求，並希望有更多時間陪伴兩個女兒。\n\nZac 沒有語言能力，他的母親說他的行為極具挑戰性，包括在外出時脫掉衣服和奔跑。\n\n東南部衞生信托基金（South Eastern Health Trust）將他列入名冊，該機構表示「無法公開討論任何兒童或其家庭的詳情」。\n\n兒童保護名冊是為已被確認面臨重大傷害風險的兒童而設的登記系統。當兒童被列入名冊，社工通常會進行突擊探訪，在家庭日常生活中觀察情況。\n\n兒童法律中心（Children's Law Centre）的高級律師 Eamonn McNally 表示，該組織愈來愈常見到有複雜殘疾及特殊需要的兒童被列入兒童保護名冊，而事實上他們並無面臨風險。\n\nDanielle McQuillan 與 Zac 及兩個女兒居於安特里姆郡（County Down）的巴爾戈爾（Bangl）。她說兒子喜歡感官遊戲、有結構的作息和到戶外活動——但這伴隨着挑戰。\n\n他不願穿自己的衣服，在公眾地方容易奔跑走失——而要同時照顧另外兩個孩子，她說很難取得平衡。\n\n「我一直嘗試爭取一些過夜喘息服務，因為我也想當女兒們的媽媽，不只是 Zac 的媽媽。」\n\n當 McQuillan 尋求喘息服務去做「平常的事」——例如去電影院及與女兒共度優質時光——Zac 獲安排每月在安特里姆郡的紐卡斯爾（Newcastle）留宿一晚。\n\n她說只留宿一晚而去那麼遠，「路程太折騰」，而且長時間交通令 Zac 回家後的行為「更具挑戰性，因為完全打亂了他的作息規律」。\n\n然而 McQuillan 表示，當她與社工談及需要休息時，雙方產生了分歧。\n\n「他們說：『我們無法比你現有的更進一步地照顧你的孩子。』\n\n「這番話真的刺痛了我，因為我是個非常努力想做一個好家長的人。\n\n「我傷心哭泣，第二天兩名社工上門，告訴我他們正在召開兒童保護會議，考慮將他列入名冊。」\n\n兒童保護會議在兒童被認為面臨重大傷害風險時召開。根據 NSPCC 的資料，會議通常涉及社工服務、醫療專業人員和學校等機構，與兒童家庭會面，分享資訊、識別風險，並概述保護兒童所需措施。\n\nZac 的會議有 17 名健康及教育專業人員參與。\n\n他的母親只獲准一人陪同她出席，即來自兒童法律中心的 Eamonn McNally。\n\n每名與會者都需要投票決定 Zac 是否應被列入兒童保護名冊。結果是他應該被列入。\n\n「我不明白為什麼——我一直試圖弄清楚。」McQuillan 說，並補充她曾質疑自己作為家長是否做錯了什麼。\n\n「這很難應付。」\n\n她還說，這意味着社工曾不請自來地到她家探訪。\n\n「我只是覺得自己因為一個我不知道的原因而被監視。」\n\n她說有一次她帶 Zac 去了麥當勞，回家時發現兩名社工停車在她家外面。\n\n「我在顫抖，我感到非常受威嚇。」她繼續說。\n\n「我認為這是因為沒有正當理由將他列入名冊，所以他們現在幾乎是在找理由，這就是他們不斷出現的原因。」\n\nMcQuillan 表示，被列入名冊的家庭有時會感到社會服務機構過度介入。\n\n「我的意思是，有人進入你家檢查你。\n\n「這實際上對家庭沒有任何幫助，事實上還佔用了他們與孩子相處的時間。」\n\n她補充：「我認為這種做法可恥且令人震驚，竟然允許這樣對待人。」\n\nEamonn McNally 表示，他的機構——兒童法律中心——有「不少有重大需求的家庭正承受巨大壓力，由於缺乏服務和支援，他們已近崩潰」。\n\n「這不應該等同於被列入兒童保護名冊，而應該意味着要提供支援措施來維持這個家庭。」\n\nMcNally 補充，雖然沒有可用統計數據顯示有多少家庭可能受到與 Danielle McQuillan 類似問題的影響，但四年前對兒童服務的一次檢討表明，北愛爾蘭按人口計算在英國的兒童保護名冊轉介和登記率最高。\n\n他補充，進行該檢討的 Ray Jones 教授質疑，當中部分家庭是否本應處於「家庭支援模式」而非「兒童保護系統」。\n\n兒童法律中心呼籲檢討將兒童列入兒童保護名冊的程序，形容現有制度「過時且不適用」。\n\n「整個制度都需要審視。」McNally 說。「制度需要更具兒童焦點和家庭友善。」\n\nNSPCC 表示，兒童保護名冊讓相關機構（如緊急救援人員和學校）能夠查核他們接觸的兒童是否已知存在風險。\n\n東南部衞生及社會照顧信托基金表示，他們「歡迎」對有特殊教育需要兒童的兒童保護程序進行審視。\n\n「兒童殘疾團隊在社區中支援 740 個家庭，其中不足 10 個家庭在兒童保護程序中獲得支援。\n\n「信托基金積極與家庭及其支持者接觸以解決任何問題，但無法公開討論任何兒童或其家庭的詳情。\n\n「有適當的上訴和申述機制可以處理任何家庭的關注，兒童法律中心等組織亦提供支援。」",
       "featured": false
     },
     {
-      "title": "特殊教育需要家長對學校學額分配感到「沮喪焦慮」",
+      "title": "特殊教育需要學童家長對學校學位安排感到「沮喪和焦慮」",
       "url": "https://www.bbc.co.uk/news/articles/c74kn8v83pgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-06T06:00:45.000Z",
-      "summary": "當學校學額需求超越供應時，特殊教育需要學童的家長可以如何應對？",
+      "summary": "當學校學位需求超過供應時，特殊教育需要學童的家長可以怎麼辦？",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -211,30 +211,30 @@
           "alt": "A woman with long blonde hair wears a pink top as her small ginger haired son sits on her lap. She is looking at the camera while he looks of to the left. He wears a black long-sleeve t-shirt. Behind them is a blue wall with wooden beams on the wall."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f260/live/c7797560-b31f-11f1-bc1f-3f186ca4140c.jpg",
-          "alt": "Close-up of women in grey NYU sweater"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/fa09/live/d0ecb680-b391-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "Sway in a black jacket and white t-shirt"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4d8a/live/20388f60-b2ad-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "A man in the distance walks up a road covered in snow in a red coat with his hood up."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0299/live/4e5f6e50-b33d-11f1-bc1f-3f186ca4140c.jpg",
+          "alt": "A woman with shoulder-length greying hair talks to someone off-camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1ee3/live/7f661980-b2ad-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "A woman dressed in a white lab coat is wearing a stethoscope and holding a medical model of a cervix. She is in a hospital setting and is mid covernation."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5626/live/b3382e80-b382-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "CCTV of a man in a grey T-shirt and blue shorts running"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0316/live/7fc15c10-b2b1-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "Beverley Knight has long dark brown hair, she is singing into a microphone. She is wearing a strapless black evening dress."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b1b0/live/55f3c8d0-b358-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "Woman sat in car looking directly into the camera"
         }
       ],
-      "bodyZh": "特殊教育需要（SEN）學童家長對學校學額安排感到「挫敗和焦慮」\n\n許多學童此刻已穿校服拍照，但對不少有特殊教育需要（Special Educational Needs，簡稱SEN）孩子的家長而言，這一周並非令人興奮的時光。\n\n北愛爾蘭約五分之一的學童——逾七萬人——患有某種形式的SEN，而學校學額需求遠超供應。\n\n其中一名四歲女童Lottie有嚴重學習障礙，卻無法獲取特殊學校學額。她的父母表示對這個決定感到「挫敗」和「焦慮」。\n\n教育廳（Education Authority，簡稱EA）表示完全理解該家庭的 concerns，並補充說，對SEN學額的需求不斷上升，大部分特殊學校已接近或達到滿額，包括Lottie家人希望她就讀的學校。\n\n教育部表示「致力」支援有特殊教育需要的學童，但指出投資需求「持續增長，部門僅憑現有資金無法應對這種壓力」。\n\n教育廳廳長呼籲未來十年每年撥款七千萬英鎊，用於執行主導的SEN Capital Investment Programme，以改造教育設施。\n\n何謂專業支援班？\n\n特殊學校的班級規模較小，為有SEN聲明的學童提供個人化教學和支援。\n\n安排SEN聲明中規定的特殊教育 provision 是EA的責任。\n\n北愛爾蘭僅有40所特殊學校，EA警告「現有模式無法妥善或可持續地滿足需求水平」。\n\nLottie有一份SEN聲明，她的父親表示當中列明她需要就讀特殊學校。\n\n「如果聲明不能用作決策依據，那我們為何要有這份聲明？」他說。\n\n「這非常令人恐懼」\n\nLottie的父母居於Londonderry，她表示女兒經常弄傷自己，因為她對危險毫無意識。\n\n「她表達挫敗的方式是頭撞地板或牆壁，又或不斷咬自己、咬我或她爸爸，」她的母親Naomi Campbell說。\n\n她的父親Patrick說，他明白對SEN學額需求甚殷。\n\n「我並非否認這一點，但最大的問題是決策過程。\n\n「我認為學額安排應根據聲明內容來決定。」\n\nLottie本周在主流學校上了第一天課，但Patrick說「並不順利」，即使「學校已竭盡所能」。\n\n「這非常令人恐懼，」Naomi說，並補充她「擔心女兒的未來」。\n\nEA表示，將繼續致力與Lottie的家庭、學校及更廣泛的合作夥伴合作，確保提供適當支援。\n\nEA表示，已多次強調迫切需要大量投資以增加特殊學校容量，並擴展主流學校的專業支援，使更多學童能夠在當地獲得所需支援。\n\n「我心如刀割」\n\n與此同時，在Belfast，一名有SEN兒子的母親表示，兒子被安排到每天需往返逾30英里的學校學額，實在「荒謬」。\n\n四歲的Joel沒有語言能力，並有嚴重學習障礙，他的父母因距離問題作出「極度艱難的決定」，拒絕接受他的Primary One學額安排。\n\n他的母親Caroline Walker說：「這帶來巨大影響，我為他心如刀割，因為他值得接受教育。」\n\nJoel有SEN聲明，但他們居於Belfast東區，Joel卻被安排到Antrim的學校。\n\n家人四月報讀時原本將該校列入選擇之一，但在六月初中收到建議後主動聯絡EA，要求將其剔除，認為該校並不適合他。\n\n七月，EA電郵通知他們，該校正是獲安排的學校。\n\nJoel情緒不穩時有自我傷害行為，會「撞頭、咬自己、打自己、捏自己」，因此母親認為「他無法承受那段車程」。\n\n他獲安排進入主流學校的專業支援班（Specialist Provision in Mainstream，簡稱SPIM）。\n\n「孩子們正被辜負，」Caroline說。\n\nEA表示理解該家庭的 concerns，並「非常重視」，將繼續與他們合作尋求解決方案。\n\n「不幸的是，該家庭所在地區的專業支援（專為SEN學童設立的專門班級）沒有學額，」EA表示。\n\nEA表示「所有有SEN聲明的新學年入讀nursery、Year One或Year Eight的學童均在學年開始前取得學校學額」。\n\nCaroline說，學童或許獲「安排」學額，但她質疑是否有關安排是否「以可得學額為優先，而非以適合學額為優先」。\n\n家長如欲挑戰EA的安排，下一步該怎麼做？\n\nJoel和Lottie的父母現正準備透過審裁處，就子女的學額安排提出上訴。\n\n特殊教育需要及殘疾審裁處（Sendist）負責裁決家長對EA處理其子女特殊教育需要方式不滿的個案。\n\n兒童事務專員有何看法？\n\n北愛爾蘭兒童事務專員Chris Quinn表示，他對有特殊教育需要的學童因學校學額及交通問題而受到影響感到極度挫敗。\n\nChris Quinn在BBC Radio Foyle的North West Today節目中質詢：「為何我們年年都陷入危機」。\n\n「這些孩子和家庭的聲音被忽視，實在令人難以置信；教育部和教育廳沒有更著重早期介入和支援，這也令人難以置信，但他們確實沒有。」\n\nSEN支援將有哪些改革？\n\nSEN學童支援模式將迎來重大變革，部分措施已在落實中。EA表示，SEN學童將獲得「更早、更個人化的支援」。\n\nEA在公布計劃時表示，有關改革將給予學校「更大彈性」和自由度，以決定如何在課堂中最好地支援有SEN的學童和青少年。\n\n有人擔憂這將對擔任學校SEN統籌主任的校長和教師造成更大壓力。",
+      "bodyZh": "特殊教育需求（SEN）學生的家長對學校學額分配感到「挫敗和焦慮」\n\n標題圖片說明：\n洛蒂的父母表示，在女兒獲派主流學校學額後，他們感到「挫敗」\n\n作者：凱瑟琳·多伊爾（BBC News NI）\n發布日期：2026年9月6日\n\n許多學生此刻已穿上校服拍照留念，但對於有特殊教育需求（SEN）孩子的家長而言，這個星期並非令人興奮的一週。\n\n北愛爾蘭約五分之一、逾七萬名學生有一定形式的需求，但學校學額遠遠不足以應對需求。\n\n四歲的洛蒂是其中之一，她有嚴重的學習障礙，卻無法獲得特殊教育學校的學位。她的父母對這個決定感到「挫敗」和「焦慮」。\n\n教育署（EA）表示完全理解該家庭的關注，但補充指對特殊教育學額的需求不斷上升，大部分特殊學校已接近或達到滿額，包括洛蒂家人希望她就讀的學校。\n\n教育部表示「致力」支援有特殊教育需求的兒童，但坦言需求「持續增長」，部門無法在現有資金水平下應對這一壓力。\n\n教育部長呼籲未來十年每年投入7000萬英鎊，用於由行政部門主導的SEN基建投資計劃，以改造教育設施。\n\n什麼是專家支援班？\n\n專家學校的班級規模較小，為持有SEN聲明的學生提供針對性教學及支援。\n\n安排聲明中列明的特殊教育服務屬教育署的責任。\n\n北愛爾蘭僅有40所特殊學校，教育署警告「現有方式無法妥善或可持續地滿足需求水平」。\n\n洛蒂持有SEN聲明，她的父親表示，聲明列明她需要在特殊學校就讀。\n\n他問：「為什麼我們有聲明，卻不用來作決定依據？」\n\n「這很可怕」\n\n洛蒂的父母居於德里，他們說她因為沒有危險意識，經常弄傷自己。\n\n她的母親娜奧美·坎貝爾說：「她表達挫折的方式是頭撞地板或牆壁，又或者不斷咬自己、咬我或她的爸爸，以示不滿。」\n\n她的父親帕特里克表示，他理解對SEN學額的需求很大。\n\n「我不否認這一點，但最大的問題是決策過程。我認為學校分配應由聲明內容來決定。」\n\n洛蒂本週在主流學校上了第一天，但帕特里克說「情況不太好」，即使「學校已盡一切努力」。\n\n娜奧美說：「這很可怕。」她補充說自己「擔心她的未來」。\n\n教育署表示，繼續致力與洛蒂的家庭、學校及更廣泛的合作夥伴合作，確保提供適當支援。\n\n該署表示已多次強調迫切需要大量投資，以增加特殊學校容量並擴展主流學校的專家支援，使更多兒童能夠在當地獲得所需支援。\n\n「我心都碎了」\n\n圖片來源：授權使用\n\n圖片說明：\n卡羅琳·沃克的兒子喬爾獲派小一學額，距離他們住所超過15英里\n\n與此同時，貝爾法斯特一名有SEN子女的女士表示，兒子被安排到每日來回逾30英里的學校就讀，實在「荒謬」。\n\n四歲的喬爾是非言語學童，有嚴重的學習障礙。由於路途遙遠，他的父母作出「極度艱難的決定」，婉拒了他的小一學額。\n\n他的母親卡羅琳·沃克說：「這影響很大，我為他心碎，因為他值得接受教育。」\n\n圖片來源：授權使用\n\n圖片說明：\n喬爾是非言語學童，因此他的母親說要「成為他的聲音」\n\n這家人住在貝爾法斯特東區，但持有SEN聲明的喬爾獲派的學校位於安特里姆。\n\n家長今年四月最初將該校列入選擇，但六月接獲建議後主動聯絡教育署，希望將其從選擇中移除，因為該校並不適合他。\n\n七月，教育署電郵通知他們，該校就是獲派的學校。\n\n喬爾情緒激動時會自我傷害，可能「撞頭、咬自己、打自己、捏自己」，因此他的母親認為「他無法承受那麼遠的交通」。\n\n他獲派的是主流學校專家支援班（SPIM）。\n\n卡羅琳說：「孩子們正被辜負。」\n\n教育署表示理解該家庭的關注並「非常重視」，將繼續與他們合作尋求解方。\n\n「不幸的是，該家庭所在地區的專家支援班（專為SEN學生而設的獨立班級）沒有學額。」\n\n教育署表示，「所有持有SEN聲明的學生，在新學年開始前都已獲派學校學額，涵蓋學前、一年級或八年級。」\n\n卡羅琳說孩子可能「獲派學位」，但質疑現有學額是否「凌駕於真正適合的安排之上」。\n\n希望挑戰教育署安排的的家長下一步該怎麼做？\n\n喬爾和洛蒂的家人現正準備通過特別教育需求及殘疾仲裁庭（Sendist）提出上訴，挑戰子女被分配的學校。\n\n該仲裁庭裁決家長對教育署處理其子女特殊教育需求的方式不滿的個案。\n\n兒童專員怎麼說？\n\n北愛爾蘭兒童專員克里斯·奎因表示，他對有特殊教育需求的兒童正因學校學額及交通問題受到影響感到極度沮喪。\n\n他在BBC Radio Foyle的《North West Today》節目中質問「為何我們年復一年地陷入危機」。\n\n他說：「簡直難以置信，這些兒童和家庭的聲音被忽視；難以置信教育和教育署沒有更加專注於早期介入和支援，但他們就是沒有。」\n\nSEN支援方面有什麼計劃？\n\n圖片來源：Getty Images\n\n針對SEN學生的支援方式正醞釀重大變革，部分措施已在推行中，教育署表示、SEN學生將獲得「更早、更個人化的支援」。\n\n教育署在公布計劃時表示，有關改變將給予學校「更大彈性」及自由度，自行決定如何在課堂上最好地支援有SEN的學童。\n\n外界對此有一定憂慮，認為會對擔任SEN統籌的學校校長及教師造成更大壓力。",
       "featured": false
     },
     {
-      "title": "諾瓦茨基在游泳頂級水準「還會待一段時間」",
+      "title": "諾瓦茨基：「我會在游泳頂尖水準待一段時間」",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cvglyzd5wweo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T06:05:02.000Z",
-      "summary": "菲利普·諾瓦茨基表示，他在歐洲運動會和共和國聯邦運動會上奪得的金牌證明他已達到世界級水準。",
+      "summary": "菲利普·諾瓦茨基表示，他在歐洲運動會和共和聯邦運動會上奪得的金牌，證明他已達到世界頂尖水準。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -247,46 +247,46 @@
           "alt": "Filip Nowacki"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/292e/live/f4412bd0-b2e6-11f1-bc1f-3f186ca4140c.jpg",
-          "alt": "Martin O&#x27;Neill"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6a57/live/05fe7e70-b1a9-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "Alexander Isak smiles next to cutouts of Abba and The Beatles"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/fba6/live/49e8f1e0-b2af-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "JJ Gabriel &amp; Guillem Balague"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/041e/live/0b1de7f0-b39e-11f1-bc1f-3f186ca4140c.jpg",
+          "alt": "De Zerbi looks dissapointed after Tottenham lose again against Liverpool"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/debf/live/bef369b0-b2c9-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "Fin Smith talks into a microphone. An image of Henry Pollock is edited underneath him."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7067/live/929153a0-b396-11f1-bc1f-3f186ca4140c.jpg",
+          "alt": "Trent Alexander-Arnold playing in his last game as part of England"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7fea/live/f3637e30-b2b3-11f1-a430-4d16ee157c41.jpg",
-          "alt": "FPL Heisenberg picks his best free hit team for Gameweek 5"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3e0c/live/29a24d70-b389-11f1-bc1f-3f186ca4140c.jpg",
+          "alt": "Alexis Ohanian"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5f09/live/be4b0570-b2ad-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "Mark Carney and Andy Burnham in Everton scarves at game"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6604/live/7539c010-b384-11f1-a430-4d16ee157c41.jpg",
+          "alt": "Alaysha Johnson"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5fdb/live/de5dd420-b28d-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "Bournemouth fans"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2c03/live/5c3a9910-b391-11f1-a430-4d16ee157c41.jpg",
+          "alt": "Sisilia Tuipulotu"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1b90/live/fcc5ca70-b027-11f1-bc1f-3f186ca4140c.jpg",
-          "alt": "British sprinter Dina Asher-Smith"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c5d7/live/af891b20-b380-11f1-a430-4d16ee157c41.jpg",
+          "alt": "Khiara Keating is dreaming big with the Reds this season"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f742/live/64d26da0-b2ab-11f1-a430-4d16ee157c41.jpg",
-          "alt": "Crocodile"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/edb3/live/f59383e0-b37f-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "Michael Carrick"
         }
       ],
-      "bodyZh": "歐洲冠軍菲臘·諾瓦茨基揚言在泳壇高水平位置「不會曇花一現」\n\n菲臘·諾瓦茨基表示，歐洲錦標賽及英聯邦運動會金牌足以證明他已達到世界級水平。\n\n這位18歲小將本月在兩項賽事中均奪得200米蛙泳冠軍，奠定其在該項目全球頂尖选手的地位。\n\n效力澤西島的諾瓦茨基去年在100米及200米蛙泳項目赢得世界青少年冠軍，其後升格至成年組別。\n\n他在接受BBC Jersey專訪時表示：「過去三週取得的成績，我確實還未有时间好好沉澱。」\n\n「但我認為這為明年世錦賽及奥運會奠定了良好基礎，是正確方向的重要一步。」\n\n「我很高興能夠延续去年的表現，最重要的是向自己證明去年的成績並非僥倖——我會在這個水平待上一段時間。」\n\n諾瓦茨基在歐洲錦標賽200米蛙泳決賽中，落後荷蘭泳手卡斯帕·科爾博0.08秒奪冠\n\n他在英聯邦運動會的勝利是澤西島運動員自1990年以來的首枚金牌。此前數天，他在100米項目不敵亞當·拉姆齊-皮蒂，但仍摘下銀牌。\n\n隨後在歐洲錦標賽中，他再次展現實力。200米決賽後半程從第六位急起直追，最終超越奥運銅牌得主卡斯帕·科爾博，登上冠軍寶座。\n\n諾瓦茨基認為自己明年會游得更快。\n\n他說：「游泳運動員的關鍵在於場館應對能力，以及如何在比賽中控制自己，最終如何部署整場比賽的策略。」\n\n「200米蛙泳涉及很多戰術，其他200米項目亦然。」\n\n「在英聯邦運動會和歐洲錦標賽，我的成績都稍遜於個人最佳時間。我認為主要原因——甚至可說是唯一原因——是在場館內未能完全放鬆，比賽中過於緊張。」\n\n「我認為明年會專注盡量在比賽中保持放鬆，全力衝擊個人最佳時間。」\n\n「今年掌握的技術比去年進步了很多，我相信如果明年此時再問我，我會說出同樣的話。」\n\n諾瓦茨基的目標是2028年洛杉矶奧運會，但首先希望躋身明年在匈牙利舉行的世界錦標賽。\n\n他說：「歐洲錦標賽只是從英聯邦運動會到明年世錦賽的另一次台階。」\n\n他補充：「我很希望能再上一層樓，再次挑戰個人最佳時間。」\n\n「如果能在奧運前一年，與日本、澳洲、美國等各國泳手同場競技，累積經驗，那就太好了。」",
+      "bodyZh": "Filip Nowacki 表示，歐洲冠軍及共和聯邦運動會金牌證明他已達到世界頂尖水平。\n\n這位18歲泳手本月在兩個賽事中均奪得200米蛙泳冠軍，奠定了他在該項目中的世界最佳泳手之一的地位。\n\n來自澤西島的Nowacki 去年在100米及200米蛙泳項目赢得世界青年冠軍後，升級至成人組比賽。\n\n「過去三週取得的成績，我還沒有真正時間細想。」他向BBC Jersey 表示。\n\n「但我認為這是邁向明年世錦賽及奧運會的很好踏腳石。」\n\n「我很高興能延續去年的表現，更重要的是，讓自己知道去年並非僥倖，我會在這個水平待上一段時間。」\n\nNowacki 升上成人組的表現令人矚目——在頭兩個國際賽事中均奪得金牌。\n\n他在共和聯邦運動會的勝利是澤西島運動員自1990年以來的首面金牌，幾天前他擊敗Adam Ramsay-Peaty 在100米項目赢得銀牌。他隨後在歐洲錦標賽再下一城，在200米決賽中上演精彩逆轉，後半程從第六位急起直追奪冠，以0.08秒之差擊敗奧運銅牌得主、荷蘭泳手Caspar Corbeau。\n\nNowacki 認為自己明年會游得更快。\n\n「對泳手來說，很重要的一點是處理賽場上的技能，如何控制自己，以及最終如何作賽。」他說。\n\n「200米蛙泳涉及很多戰術，其他200米項目亦然。\n\n「在共和聯邦運動會和歐洲賽，我的時間都略遜於個人最佳成績，我想這主要——如果不是唯一因素的話——是因為在賽場上未能控制好自己，比赛中過於緊張。\n\n「我認為明年會致力在比賽中盡量保持放鬆，真正衝擊個人最佳時間。\n\n「今年掌握的技術比去年進步了很多，我想如果明年再坐下來談，我大概會說同樣的話。」\n\nNowacki 的目標是2028年洛杉矶奧運會，但首先希望躋身明年在匈牙利舉行的世錦賽。\n\n「歐洲賽只是邁向明年世錦賽的另一個台階。」他說。\n\n「我很想再進一步，希望能再次挑戰個人最佳成績。」\n\n「如果能夠與日本、澳洲、美國等國家的泳手較量，累積經驗，對來年的奧運會會很有幫助。」",
       "featured": false
     },
     {
-      "title": "麥肯尼斯表現出色 英國歐錦賽獎牌榜居首",
+      "title": "麥金尼斯表现出色，英國隊在歐洲賽事獎牌榜上居首",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cly5rgy7n1jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T11:56:39.000Z",
-      "summary": "英國在巴黎舉行的歐洲水上錦標賽獎牌榜上居首，基安娜·麥肯尼斯在週日幫助他們奪得兩枚金牌。",
+      "summary": "英國在巴黎舉行的歐洲水上錦標賽獎牌榜上名列榜首，基安娜·麥金尼斯在週日為英國隊貢獻兩枚金牌。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -311,34 +311,34 @@
           "alt": "Lois Toulson and Maisie Bond celebrate winning gold"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/292e/live/f4412bd0-b2e6-11f1-bc1f-3f186ca4140c.jpg",
-          "alt": "Martin O&#x27;Neill"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6a57/live/05fe7e70-b1a9-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "Alexander Isak smiles next to cutouts of Abba and The Beatles"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/fba6/live/49e8f1e0-b2af-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "JJ Gabriel &amp; Guillem Balague"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/041e/live/0b1de7f0-b39e-11f1-bc1f-3f186ca4140c.jpg",
+          "alt": "De Zerbi looks dissapointed after Tottenham lose again against Liverpool"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/debf/live/bef369b0-b2c9-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "Fin Smith talks into a microphone. An image of Henry Pollock is edited underneath him."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7067/live/929153a0-b396-11f1-bc1f-3f186ca4140c.jpg",
+          "alt": "Trent Alexander-Arnold playing in his last game as part of England"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7fea/live/f3637e30-b2b3-11f1-a430-4d16ee157c41.jpg",
-          "alt": "FPL Heisenberg picks his best free hit team for Gameweek 5"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3e0c/live/29a24d70-b389-11f1-bc1f-3f186ca4140c.jpg",
+          "alt": "Alexis Ohanian"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5f09/live/be4b0570-b2ad-11f1-b1d1-571ed4d7ff2c.jpg",
-          "alt": "Mark Carney and Andy Burnham in Everton scarves at game"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6604/live/7539c010-b384-11f1-a430-4d16ee157c41.jpg",
+          "alt": "Alaysha Johnson"
         }
       ],
-      "bodyZh": "2026歐洲水上運動錦標賽：基安娜·麥肯尼斯表现出色　英國隊在歐錦賽獎牌榜居首\n\nBBC Sport\n\n麥肯尼斯表现出色　英國隊在歐錦賽獎牌榜居首\n\n作者：Mike Peter　BBC Sport記者\n\n發布：2026年8月17日\n\n基安娜·麥肯尼斯在周日最後一個比賽日為英國隊奪得兩金，協助英國在巴黎舉行的歐洲水上運動錦標賽獎牌榜上居首。\n\n這位24歲選手先在200米蝶泳以2分5秒90的新蘇格蘭紀錄奪冠，其後在女子4×100米混合泳接力中游蝶泳分段，英國隊最終取勝。\n\n安加拉德·埃文斯在早前赢得100米蛙泳個人金牌後，在接力賽中游出女子蛙泳分段歷來最快成績，聯同隊友Lauren Cox及Freya Colbert，以3分53秒50的錦標賽紀錄時間奪冠。\n\n這場接力勝利確保英國隊在獎牌榜上以14金壓過意大利（13金）居首，僅以0.1秒優勢險勝。\n\n英國代表團在巴黎共奪得4銀8銅，26面獎牌中有14面來自游泳項目。\n\n游泳隊貢獻8金、2銀、4銅，當中包括18歲的Filip Nowacki在周四赢得男子200米蛙泳金牌。他們在跳水項目收獲2金、2銀、3銅，在藝術游泳則奪得4金及1銅。\n\n英國在游泳及藝術游泳獎牌榜均居首，跳水則名列第四。\n\n麥肯尼斯說：「我等待首面獎牌已整整一週，一晚內奪得兩面實在別具意義。」",
+      "bodyZh": "英國在巴黎舉行的歐洲游泳錦標賽上最終登上獎牌榜首位，基安娜·麥克因尼斯在周日（最後一個比賽日）為英國贏得兩面金牌，成為最大功臣。\n\n這位24歲泳手先在200米蝶泳以2分5秒90刷新蘇格蘭紀錄，鎖定冠軍；其後在女子4×100米混合接力中游蝶泳，助英國隊奪金。\n\n安赫拉德·埃文斯早前已在個人100米蛙泳摘金，此役再接再厲，游出女子接力蛙泳分段歷來最快成績，聯同隊友勞倫·考克斯及弗雷亞·科爾伯特，以3分53秒50刷新錦標賽紀錄，大熱奪冠。\n\n這面接力金牌確保英國在獎牌榜上力壓意大利，後者僅以0.1秒之差落敗。英國最終以14面金牌排首位，亞軍意大利則有13面。\n\n英國代表團在巴黎還奪得4面銀牌及8面銅牌，26面獎牌中有14面來自游泳項目。\n\n游泳隊共獲8金、2銀、4銅，包括18歲的菲利普·諾瓦茨基周四在男子200米蛙泳奪冠。\n\n此外，英國在跳水項目取得2金、2銀、3銅，花樣游泳則獲4金、1銅。\n\n英國在游泳及花樣游泳獎牌榜均居首，跳水則排第四。\n\n麥克因尼斯說：「等了一整個星期才拿到第一面獎牌，能在一晚之內收獲兩面，真的非常、非常特別。」",
       "featured": false
     },
     {
-      "title": "「最後一划！」— 英國戲劇性奪得接力金牌",
+      "title": "「最後一划！」——英國戲劇性奪得接力金牌",
       "url": "https://www.bbc.co.uk/sport/swimming/videos/cgewwvggx11o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T18:46:21.000Z",
-      "summary": "英國在女子4x100米接力賽中奪金，在緊張刺激的決賽中從意大利手中搶走勝利，游泳一直持續到最後一刻。",
+      "summary": "英國在女子4×100米接力賽中戲劇性擊敗意大利，在最後一刻搶走勝利，勇奪金牌。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -363,6 +363,10 @@
           "alt": "Para swimming sisters Astrid and Ursula Carroll"
         },
         {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d6f9/live/bfefb8e0-b36a-11f1-a430-4d16ee157c41.jpg",
+          "alt": "Inter Miami CF Forward Lionel Messi celebrates with the Michelob Champions Trophy"
+        },
+        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/63fc/live/ed11ffa0-b1b6-11f1-bc1f-3f186ca4140c.jpg",
           "alt": "Alexander Isak in a sit-down"
         },
@@ -377,20 +381,16 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/64cf/live/5bdc9850-b1d5-11f1-b1d1-571ed4d7ff2c.jpg",
           "alt": "Marcus Rashford of Manchester United reacts to Bruno Fernandes scoring a goal"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/df94/live/f250f740-b1b7-11f1-a430-4d16ee157c41.jpg",
-          "alt": "Max Dowman"
         }
       ],
-      "bodyZh": "歐洲游泳錦標賽：英國戲劇性奪女子4×100米接力冠軍\n\n「最後一划！」——英國戲劇性奪接力金牌\n\n英國在女子4×100米接力項目摘下金牌，在戲劇性的衝線中從意大利手中搶走勝利，泳賽一直鬥至最後一刻。\n\n更多内容：BBC Sport游泳報道\n\n僅供英國用戶使用。\n\n相關話題：游泳\n\n刊發日期：8月16日",
+      "bodyZh": "歐洲游泳錦標賽：英國戲劇性奪女子4x100米接力冠軍\n\n「最後一划！」——英國戲劇性摘接力金牌\n\n英國在女子4x100米接力賽中奪金，在緊張刺激的終極對決中從意大利手上搶走勝利，泳池之爭直至最後一刻。",
       "featured": false
     },
     {
-      "title": "「太出色了！」 英國的麥肯尼斯以「頑強」泳姿奪得200米蝶泳金牌",
+      "title": "「出色！」英國的馬欽斯以頑強表現贏得200米蝶泳金牌",
       "url": "https://www.bbc.co.uk/sport/swimming/videos/ce8llpk2xrro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T17:36:31.000Z",
-      "summary": "英國的基安娜·麥肯尼斯在歐洲水上錦標賽的女子200米蝶泳中穩住優勢奪金，創下個人最佳成績。",
+      "summary": "英國的基安娜·馬欽斯在歐洲水上錦標賽女子200米蝶泳項目中，緊緊守住優勢，創下生涯最佳成績奪金。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -415,6 +415,10 @@
           "alt": "Sophie Davies"
         },
         {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d6f9/live/bfefb8e0-b36a-11f1-a430-4d16ee157c41.jpg",
+          "alt": "Inter Miami CF Forward Lionel Messi celebrates with the Michelob Champions Trophy"
+        },
+        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/63fc/live/ed11ffa0-b1b6-11f1-bc1f-3f186ca4140c.jpg",
           "alt": "Alexander Isak in a sit-down"
         },
@@ -429,20 +433,16 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/64cf/live/5bdc9850-b1d5-11f1-b1d1-571ed4d7ff2c.jpg",
           "alt": "Marcus Rashford of Manchester United reacts to Bruno Fernandes scoring a goal"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/df94/live/f250f740-b1b7-11f1-a430-4d16ee157c41.jpg",
-          "alt": "Max Dowman"
         }
       ],
-      "bodyZh": "「出色！」英國的馬吉尼斯以「頑強」的表現赢得200米蝶泳金牌\n\n英國的姬娜·馬吉尼斯（Keanna Macinnes）在歐洲游泳錦標賽（European Aquatics Championships）200米女子蝶泳項目中頂住壓力奪得金牌，並游出個人最佳成績。\n\n更多 BBC Sport 游泳報道\n\n（僅供英國用戶瀏覽）",
+      "bodyZh": "歐洲游泳錦標賽：Keanna Macinnes 奪得女子 200 米蝶泳金牌\n\n「出色！」英國的 Macinnes 以「頑強」的表現贏得 200 米蝶泳金牌\n\n英國的 Keanna Macinnes 在歐洲游泳錦標賽中穩住局面，奪得女子 200 米蝶泳金牌，同時創下個人最佳成績。",
       "featured": false
     },
     {
-      "title": "可能令老化關節更痛的一個常見錯誤",
+      "title": "可能讓老化關節更痛 的常見錯誤",
       "url": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
       "publishedAt": "2026-08-16T11:23:47.000Z",
-      "summary": "老化逐漸磨損保護關節的軟骨和液體，但避免活動實際上可能使情況更糟。運動有助於滋養軟骨，加強保護關節的肌肉，並能減輕骨關節炎症狀。低衝擊活動如游泳、騎單車、太極、瑜伽和在不同地形行走也可能改善平衡。",
+      "summary": "隨著年齡增長，軟骨和滑液會逐漸退化，但避免運動反而可能使情況惡化。運動能滋養軟骨、強化保護關節的肌肉，並能減輕骨關節炎症狀。游泳、騎單車、太極、瑜伽及在不同地形行走等低強度運動，亦有助改善平衡能力。",
       "sourceName": "《科學日報》健康與體能",
       "sourceId": "sciencedaily-fitness",
       "images": [
@@ -459,14 +459,14 @@
           "alt": "The Conversation"
         }
       ],
-      "bodyZh": "令關節老化更痛常見的錯誤 | ScienceDaily\n\n跳至主內容\n\n最新研究資訊來源\n\n追蹤：\n\nFacebook\n\nX/Twitter\n\n訂閱：\n\nRSS 資訊\n\n電子報\n\n新功能！\n免費訂閱我們的\n電郵通訊\n\n.\n\n科學新聞\n\n來自研究機構\n\n令關節老化更痛常見的錯誤\n\n日期：\n\n2026年8月16日\n\n來源：\n\nThe Conversation\n\n摘要：\n\n老化逐漸磨損保護關節的軟骨和關節液，但避免活動反而可能令情況更糟。運動有助滋養軟骨、強化保護關節的肌肉，並可減輕骨關節炎痛症。游泳、騎單車、太極、瑜伽及在不同地形步行等低衝擊活動，亦可改善平衡力和活動能力。即使花數分鐘做適當的活動，亦能帶來改變。\n\n分享：\n\nFacebook\nTwitter\nPinterest\nLinkedIN\n電郵\n\n完整報道\n\n年紀大了有很多好處——但關節痠痛不在其中。\n\n隨著年齡增長，曾經應付每一個彎曲和跌倒的關節開始衰弱。這是因為關節中的\n軟骨（一種堅韌而具彈性的結締組織）和關節液會隨時間減少。\n\n這可能令部分人避免運動等活動。但只要方法正確，運動其實可以幫助保護關節。\n\n讓我們深入了解當中的科學原理。\n\n為何關節重要\n\n每個關節都由\n關節軟骨支撐，這種特殊組織覆蓋著骨端。軟骨保護關節，並為活動創造光滑表面。\n\n一種稱為\n滑液的濃稠液體亦有助潤滑膝蓋、髖關節和肩關節。它透過減少軟骨與關節之間的摩擦來做到這一點。滑液亦為軟骨提供重要營養。\n\n然而，軟骨自我修復的能力有限。這部分原因是它\n沒有自己的血液供應。\n\n軟骨逐漸退化稱為骨關節炎，全球有\n超過5億人\n受此疾病影響。骨關節炎患者最常感到疼痛的部位是承受重量的關節，如膝蓋、髖關節和脊椎。\n\n運動如何影響關節\n\n身體透過活動分配滑液。因此運動有助將這種液體及其包含的營養送到軟骨。\n\n同時，關節周圍的肌肉就像避震器。因此強化肌肉（包括透過負重訓練等運動）有助減少關節承受的壓力。研究顯示，以\n股四頭肌\n（大腿前側的肌肉群）為目標的強化運動在\n減輕關節疼痛\n方面特別有效。\n\n一項重要的\nCochrane 系統性文獻回顧評估了所有關於運動對骨關節炎影響的相關證據。發現運動能減輕膝關節骨關節炎患者的疼痛並改善功能。亦顯示運動的效果與消炎藥物相若，但沒有同樣的副作用。\n\n運動亦可能有助維持\n本體感覺——即身體感知自身位置和活動的能力。然而，本體感覺會隨年齡下降。因此年紀越大，大腦就越難接收這些信號，可能導致關節受力不均。這會加速關節磨損。\n\n然而，在多變甚至不穩定的表面上運動可以減慢這個磨損過程。它迫使腳踝、膝蓋和髖關節迅速調整活動，保持關節靈活運作。\n\n低衝擊運動又如何？\n\n低衝擊運動是指運動時至少有一隻腳接觸地面，或以其他方式支撐身體。這類運動可減少關節承受的重量和力量。\n\n低衝擊運動的例子包括游泳和水中有氧運動。兩者都需要浮在水中，而水可支撐高達90%的體重。騎單車亦可能對關節有益，\n特別是膝蓋。\n\n太極\n是另一個選擇，這是一種基於柔和動作和呼吸技巧的溫和運動形式。研究顯示，它對膝關節骨關節炎患者\n可能與物理治療一樣有效。瑜伽亦可幫助強化關節周圍的肌肉並改善整體靈活性。\n\n步行值得特別一提。在\n不平坦的地形\n（如草地、碎石路或山林小徑）上步行有助維持本體感覺。一項\n2026年的研究\n發現，不穩定表面訓練能顯著改善長者的姿勢控制（即保持穩定的能力）。\n\n另一項系統性文獻回顧發現，挑戰平衡感的運動\n將跌倒率\n降低約23%。這一點非常重要，因為跌倒是\n65歲以上成人因傷死亡的\n主要原因。\n\n我從未做過低衝擊運動，應如何開始？\n\n以下是三個讓低衝擊運動既安全又有效的建議。\n\n1. 由小開始\n\n開始時不需要任何特別器材。盡可能選擇在不平坦的表面（如草地、沙地或碎石）上步行，而非行人路。即使在公園草坪上步行十分鐘\n亦能改善\n關節活動。\n\n亦可練習單腳站立，例如刷牙時。一開始最好在堅實的地面上進行，目标是每隻腳站立30秒。之後可進展到站在摺好的毛巾或泡棉墊上。重要的是，在進階之前必須掌握每個動作或難度级别。\n\n2. 使用支撐\n\n安全至關重要。進行低衝擊運動時，應在可握住支撐物（如公園長椅或浴室洗手盆）的地方旁邊。如果為運動而步行，行山杖是很好的選擇。重要的是，疲倦時千萬不要在不穩定的表面上運動。\n\n3. 尋求建議\n\n沒有運動是零風險的。例如，超出活動範圍地維持瑜伽姿勢可能傷及下背、肩膊或膝蓋。姿勢不良地做深蹲或弓步會對膝關節造成不必要的壓力。\n\n因此，開始之前，請諮詢認證運動生理學家或物理治療師。他們可以\n幫助你設計\n個人化的運動計劃。\n\n結論\n\n關節無可避免地會隨年齡磨損，但低衝擊運動可以提供幫助。因此值得一試，無論你年輕或年長。\n\n相關主題\n\n健康與醫學\n\n關節健康\n\n另類醫學\n\n健身\n\n足部健康\n\n飲食與體重\n\n高血壓\n\n個人化醫學\n\n健康老化\n\n相關詞彙\n\n瑜伽（另類醫學）\n\n有氧運動\n\n單車\n\n緩步跑\n\n游泳\n\n無氧運動\n\n骨關節炎\n\n體育運動\n\n故事來源：\n\n素材由\n\nThe Conversation\n提供。原作者為Gordon Waddington，澳洲運動學院（Australian Institute of Sport）運動醫學研究教授，坎培拉大學。\n注：內容可能因風格及篇幅而被編輯。\n\n引用此頁：\n\nMLA\n\nAPA\n\n芝加哥\n\nThe Conversation。〈令關節老化更痛常見的錯誤〉。ScienceDaily，2026年8月16日。\n\nThe Conversation。（2026）。〈令關節老化更痛常見的錯誤〉。\nScienceDaily\n。2026年9月17日擷取。\n\n探索更多\n\n來自 ScienceDaily\n\n相關報道\n\n科學家揭示舒緩膝關節炎疼痛的最佳運動\n\n2026年4月30日—\n 一項涵蓋217項試驗的大型回顧顯示，有氧運動是管理膝關節骨關節炎最有效的方案。步行、騎單車和游泳等活動的表現優於其他運動形式……\n\n研究揭示瑜伽對心血管健康的益處並非你所想\n\n2025年9月30日—\n 一項綜合回顧顯示，瑜伽在改善血管健康方面不及傳統運動。Pilates、太極和間歇訓練在改善血管健康方面更為有效……\n\n太極、瑜伽和緩步跑與藥物同樣有效改善失眠\n\n2025年7月17日—\n 根據一項比較各種治療方法的大型分析，瑜伽、太極、步行和緩步跑可能是改善睡眠和解決失眠的最佳天然療法之一。認知……",
+      "bodyZh": "常見錯誤或令老化的關節更痛\n\n隨著年齡增長，保護關節的軟骨和滑液會逐漸流失，但避免活動反而可能令情況惡化。運動有助滋養軟骨、強化保護關節的肌肉，並能減輕骨關節炎症狀。游泳、騎單車、太極、瑜伽及在多變地形步行等低衝擊活動，亦可改善平衡力和活動能力。即使只做數分鐘正確類型的運動，也能帶來改變。\n\n年紀增長有不少好處——但關節痠痛不在其中。\n\n隨著年齡增長，曾經能應付各種彎曲和跌倒的關節開始弱化。這是因為關節中的軟骨（一種堅韌但具彈性的結締組織）和滑液會隨時間減少。\n\n這或許令部分人避免運動等活動。但只要方法正確，運動其實可以保護關節。讓我們深入了解箇中科學。\n\n為何關節重要\n\n每個關節都由關節軟骨墊著，這種特殊組織覆蓋著骨骼末端。軟骨保護關節，並在活動時形成光滑表面。\n\n一種名為滑液的濃稠液體亦有助潤滑膝蓋、髖關節和肩膀。它透過減少軟骨與關節之間的摩擦來達到潤滑效果。滑液亦為軟骨提供重要營養。\n\n然而，軟骨自我修復的能力有限，部分原因是軟骨沒有自己的血液供應。\n\n軟骨逐漸退化稱為骨關節炎，全球有超過5億人受此疾病困擾。骨關節炎患者通常在承重關節如膝蓋、髖關節和脊椎感到最疼痛。\n\n運動如何影響關節\n\n身體透過活動分配滑液。因此運動有助將這種液體及其所含營養送到軟骨。\n\n與此同時，關節周圍的肌肉擔當避震器角色。因此強化肌肉——包括透過負重訓練——有助減少關節承受的壓力。研究顯示，針對股四頭肌（大腿前側的肌肉群）的力量訓練在減輕關節疼痛方面特別有效。\n\n一項重要的Cochrane系統評價評估了所有關於運動對骨關節炎影響的相關證據，發現運動能減輕膝關節骨關節炎患者的疼痛並改善功能。它亦顯示運動的效果與消炎藥物相若，但沒有同樣的副作用。\n\n運動亦可能有助維持本體感覺，即身體感知自身位置和移動的能力。然而，本體感覺會隨年齡下降。因此隨著年紀增長，大腦較難接收這些信號，可能導致關節受力不均，令關節磨損加劇。\n\n然而，在多變甚至不穩定的地面上運動可以減緩這種磨損過程。它迫使腳踝、膝蓋和髖關節迅速調整動作，保持關節活躍和靈活。\n\n低衝擊運動是什麼？\n\n低衝擊運動指至少有一隻腳保持接觸地面，或以其他方式支撐身體的運動。這類運動能減少關節承受的重量和力量。\n\n低衝擊運動的例子包括游泳和水中有氧運動，兩者都需要在水中浮起，可支撐高達90%的體重。騎單車對關節亦有益處，特別是膝關節。\n\n太極是另一個選擇，這是一種以柔和動作和呼吸技巧為基礎的溫和運動形式。研究顯示，它對膝關節骨關節炎患者的效果或許與物理治療相若。瑜伽亦有助強化關節周圍的肌肉並改善整體柔韌性。\n\n步行值得特別提及。在不平坦的地形如草地、碎石或山林小徑上步行，有助維持本體感覺。2026年的一項研究發現，不穩定表面訓練能顯著改善長者的姿勢控制（即保持穩定的能力）。\n\n另一項系統評價發現，挑戰平衡感的運動能將跌倒率降低約23%。這一點相當重要，因為跌倒是65歲以上成年人因傷死亡的頭號原因。\n\n我從未做過低衝擊運動，該如何開始？\n\n以下三個建議有助安全有效地開始低衝擊運動。\n\n1. 循序漸進\n\n開始時不需要任何複雜器材。如有選擇，盡量在不平坦的地面如草地、沙地或碎石上步行，而非行人路。即使只在公園草坪走上十分鐘，也能改善關節活動。\n\n你亦可以練習單腳站立，例如刷牙時就是好時機。最好先在堅實的地面開始，目標是每條腿站立30秒，然後可進展到站在摺疊的毛巾或泡棉墊上。重要的是，每個動作或難度級別都應熟練掌握後才進階。\n\n2. 利用支撐\n\n安全是首要考量。進行低衝擊運動時，應在可握住支撐物（如公園長椅或浴室洗手盆）附近進行。如需步行運動，行走杖是很好的選擇。重要的是，疲倦時千萬不要在不穩定的表面上運動。\n\n3. 諮詢建議\n\n運動並非全無風險。例如，保持瑜伽姿勢超過自身活動範圍可能傷及下背、肩膀或膝蓋。姿勢不良地做深蹲或弓步亦會對膝關節造成不必要的壓力。\n\n因此，開始之前應諮詢合資格的運動生理學家或物理治療師。他們可以幫助你設計個人化的運動計劃。\n\n總結\n\n關節無可避免地會因年齡增長而磨損，但低衝擊運動可以有所幫助。因此無論年紀幾許，都值得一試。",
       "featured": false
     },
     {
-      "title": "The hidden health impact of growing up with ADHD traits",
+      "title": "在ADHD特質中成長的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "A large, decades-long study suggests that signs of ADHD in childhood may have consequences that extend well beyond school and behavior. Researchers followed nearly 11,000 people from childhood into midlife and found that those with strong ADHD traits at age 10 were more likely to experience multiple physical health problems and health-related disability by t",
+      "summary": "一項大型、為期數十年的研究表明，童年的ADHD徵兆可能產生遠超學業和行為的後果。研究人員追蹤了近11,000人從童年到中年，發現10歲時有強烈ADHD特質的人更容易出現多種身體健康問題及健康相關殘疾。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -479,14 +479,14 @@
           "alt": "ADHD in Childhood Can Affect Adult Health"
         }
       ],
-      "bodyZh": "成長過程中ADHD特質的隱藏健康影響\n\n最新研究新聞\n\n成長過程中ADHD特質的隱藏健康影響\n\n日期：2026年1月24日\n\n來源：倫敦大學學院\n\n摘要：一項歷時數十年的大型研究表明，兒童時期的ADHD徵兆可能產生超越學業和行為的長期後果。研究人員追蹤近11,000人從童年到中年，發現10歲時ADHD特質較強的人，在40多歲時更可能出現多種身體健康問題及健康相關殘疾。\n\n研究背景\n\n根據倫敦大學學院（UCL）和利物浦大學研究人員領導的一項大型長期研究，兒童時期的ADHD特質與中年時更高的身體健康問題和殘疾風險相關。\n\n研究人員表示，結果可能反映了與注意力缺陷多動障礙（ADHD）相關的廣泛健康風險，以及ADHD患者在整個成年期所獲得的支持和對待方式的長期影響。\n\n該研究發表於《JAMA Network Open》，是最大型且運行時間最長的研究之一，探討兒童時期的ADHD特質如何與後續身體健康相關聯。\n\n終生健康挑戰的證據\n\n資深作者、倫敦大學學院心理學與語言科學系Joshua Stott教授表示：「我們在此為令人擔憂的證據庫增添了新內容，證明ADHD患者在整個人生階段的健康狀況往往低於平均水平。\n\n「ADHD患者在獲得適當支持的情況下可以蓬勃發展，但這種支持往往缺失，既因為專門支援服務不足，也因為ADHD仍未得到充分診斷，尤其是中年及較年長人士，他們的需求往往被忽視。」\n\nADHD如何影響日常功能\n\nADHD患者在注意力方面存在差異，同時伴隨較高的過動或衝動水平。許多人精力充沛，能夠高度專注於感興趣的活動，但在應對常規或較乏味的任務時可能難以集中注意力。\n\n這些挑戰會影響計劃、時間管理和衝動控制。長期而言，這可能使學業和工作更加困難，增加出現長期社交和職業困難的風險。\n\nADHD始於兒童時期，儘管現在廣泛認為它常常持續到成年，但英國成年人接受的治療比其他高收入國家少，支援服務同樣有限。\n\n數十年的健康結果追蹤\n\n為檢視長期影響，研究人員分析了倫敦大學學院主導的「1970年英國世代研究」中10,930名參與者的數據，該研究從出生追蹤到中年。\n\nADHD特質使用家長和教師在參與者10歲時填寫的行為問卷進行評估。這些測量結果無論參與者是否曾接受正式ADHD診斷均被採用。\n\n慢性病和殘疾發病率更高\n\n研究發現，兒童時期ADHD特質水平較高的人，在46歲時更可能報告身體健康問題。他們報告兩種或以上疾病（包括偏頭痛、脊椎問題、癌症、癲癇或糖尿病）的機率高出14%。\n\n在10歲時ADHD特質偏高的受訪者中，42%在中年時報告至少兩種身體健康問題。相比之下，ADHD特質評分較低的受訪者中，37%報告同樣情況。\n\n兒童時期ADHD特質較高的受訪者，在46歲時也更可能報告與身體健康相關的殘疾（因身體健康問題而影響工作或其他日常活動）。\n\n健康差異的可能原因\n\n研究人員發現，較差的身體健康結果部分與ADHD患者中較高的心理健康問題發病率、較高的BMI和吸煙率相關。\n\n先前研究亦表明，ADHD患者更可能經歷壓力性生活事件和社會排斥，且較少不及時接受醫療篩查和護理。\n\n兒童時期ADHD特質與身體健康相關殘疾之間的關聯，在女性中似乎比男性更強。\n\nStott教授補充道：「所有這些潛在的解釋因素都與以下事實一致：ADHD使衝動控制更加困難，即時滿足和獎勵的需求更加強烈，同時也與較差的心理健康相關，部分原因是ADHD患者面臨的社會劣勢。」\n\n支援和公共健康的意義\n\n同一研究團隊去年發表的另一項研究報告了ADHD確診成年人可能出現的預期壽命縮短，不過這一發現並非本研究的一部分。\n\n通訊作者Amber John博士（在轉至利物浦大學前於倫敦大學學院開展此項工作）強調了適當支援的重要性：「值得注意的是，ADHD患者是一個多元群體，擁有各種不同的優勢和經歷，大多數人將過著長壽、健康的生活。\n\n「然而，許多人面臨著及時診斷和適切支援的重大障礙。這一點至關重要，因為為ADHD患者提供正確的支援並滿足他們的需求，有助於改善其身體和心理健康結果。\n\n「此外，公共健康策略應考慮ADHD患者的需求，例如使篩查計劃和持續健康監測對ADHD患者更加便利。」",
+      "bodyZh": "成長期間ADHD特質的隱藏健康影響\n\n一項大型、跨越數十年的研究顯示，兒童時期的ADHD徵兆，其影響可能遠超學業和行為範疇。研究人員追蹤近11,000人從童年至中年，發現10歲時有明顯ADHD特質的人士，到40多歲時更有可能出現多種身體健康問題及與健康相關的殘疾。\n\n根據這項由倫敦大學學院（UCL）及利物浦大學研究人員領導的大型長期研究，童年時期呈現ADHD特質的兒童，到46歲時更有可能出現身體健康問題及健康相關殘疾。\n\n研究人員表示，結果可能反映與專注力不足及過度活躍症（ADHD）相關的廣泛健康風險，以及ADHD患者在成年後獲得的治療和支援的長期影響。\n\n這項發表於《JAMA Network Open》的研究，是最大型及持續時間最長的研究之一，探討兒童時期的ADHD特質與成年後身體健康的關係。\n\n終身健康挑戰的證據\n\n資深作者、倫敦大學學院心理學與語言科學系Joshua Stott教授表示：「我們在這裡為ADHD患者一生中健康狀況較平均值差的令人關注的證據庫再添一筆。\n\nADHD患者在獲得適切支援下可以表現出色，但這類支援往往不足，部分原因是專門支援服務匱乏，亦因為ADHD的診斷率仍然偏低，尤其是中年及較年長人士，其需求未獲關注。」\n\nADHD如何影響日常功能\n\nADHD患者在專注力方面存在差異，同時有較高的過動或衝動水平。許多患者精力充沛，能夠高度集中在他們感興趣的活動上，但在執行常規或較乏味的任務時則難以保持專注。\n\n這些挑戰可能影響計劃、時間管理及衝動控制。長遠而言，這可能令學業和工作更加困難，增加出現長期社交及職業困難的風險。\n\nADHD始於兒童時期，雖然現時普遍認為ADHD通常會持續至成年，但英國成年人接受的治療較其他高收入國家少，支援服務亦仍然有限。\n\n數十年健康結果追蹤\n\n為研究長期影響，研究人員分析了倫敦大學學院主導的1970年英國世代研究中10,930名參加者的數據，該研究追蹤個人從出生到中年。\n\nADHD特質是透過參加者10歲時由家長和教師填寫的行為問卷進行評估。這些測量方法無論參加者是否曾被正式確診ADHD都會採用。\n\n慢性病及殘疾比率較高\n\n研究發現，童年時期ADHD特質較高的人士，到46歲時更有可能報告身體健康問題。他們報告兩種或以上病症（包括偏頭痛、背部問題、癌症、癲癇或糖尿病）的機會率高14%。\n\n在10歲時ADHD特質較高的參加者中，42%表示中年時期至少有两種身體健康問題。相比之下，ADHD特質評分較低的參加者中，則有37%報告同樣情況。\n\n童年ADHD特質較高的參加者，亦較有可能在46歲時報告與身體健康相關的殘疾（即因身體健康問題而難以工作或進行其他日常活動）。\n\n健康差異的可能原因\n\n研究人員發現，身體健康狀況較差部分與ADHD患者較高的心理健康問題發生率、較高的BMI及較高的吸煙率有關。\n\n先前研究亦顯示，ADHD患者較大機會經歷重大的生活壓力事件及遭受社會排斥，亦較少獲得適時的醫療篩查和護理。\n\n童年ADHD特質與身體健康相關殘疾之間的關聯，在女性中似乎比男性更為顯著。\n\nStott教授補充：「所有這些潛在解釋因素都與ADHD令衝動控制更加困難、即時滿足和獎勵的需求更加強烈這一事實相符，並且部分由於ADHD患者面對的社會弱勢，其心理健康狀況亦較差。」\n\n對支援及公共衛生的啟示\n\n同一研究團隊去年發表的另一項研究，報告了確診ADHD的成年人壽命可能縮短，但此發現並非現時研究的一部分。\n\n第一作者Amber John博士（曾在倫敦大學學院工作，現任職於利物浦大學）強調適當支援的重要性：「需要注意的一點是，ADHD患者是一個多元群體，擁有各種不同的長處和經歷，大多數人將會過上長壽、健康的生活。\n\n然而，許多人面對及時診斷和適當支援的重大障礙。這一點很重要，因為為ADHD患者提供正確的支援及滿足其需求，有助改善他們的身體和心理健康結果。\n\n此外，公共衛生策略應考慮ADHD患者的需求，例如讓篩查計劃和持續健康監測對ADHD患者更加容易獲取。」",
       "featured": false
     },
     {
-      "title": "研究人員發現ADHD的優勢與更好的心理健康有關",
+      "title": "研究人員發現ADHD的優勢與更好的心理健康相關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示了ADHD更光明的一面，顯示認識並利用自身優勢的成年人更快樂、更健康、壓力也更小。ADHD患者更可能將創造力、幽默感和過度專注等特質視為個人優勢。總體而言，運用這些優勢與更高的生活品質和更少的精神健康問題有關。",
+      "summary": "新研究揭示了ADHD更光明的一面，顯示能夠識別並運用自身優勢的成年人更快樂、更健康且壓力更小。ADHD患者更傾向於將創造力、幽默和過度專注等特質視為個人優勢。總體而言，運用這些優勢與更好的生活質量和更少的心理健康問題相關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -499,14 +499,14 @@
           "alt": "ADHD Strengths Linked to Better Mental Health"
         }
       ],
-      "bodyZh": "研究人員發現ADHD的優勢與更佳心理健康相關\n\n日期：2025年12月31日\n來源：University of Bath\n\n摘要：\n\n新研究揭示了ADHD較為正面的一面，顯示善用自身優勢的成年ADHD患者更快樂、更健康，且壓力更低。ADHD患者更傾向將創造力、幽默感及過度專注等特質識別為個人優勢。整體而言，運用這些優勢與更佳生活質素及較少心理健康症狀相關。這項研究顯示，接納自身優勢或許能成為ADHD支援工作的突破口。\n\n研究背景\n\n一項新的國際研究顯示，ADHD成年患者若能覺察自身個人優勢並積極運用，往往報告更佳的整體幸福感、更高生活質素，以及更少的心理健康問題。\n\n研究於10月ADHD關注月期間發布，今年的主題為「ADHD的多元面貌」。來自University of Bath、King's College London及荷蘭Radboud University Medical Center的科學家攜手合作，進行了首次大規模測量ADHD相關心理優勢的研究。\n\n大型研究比較ADHD與非ADHD成年人的優勢\n\n研究發表於《Psychological Medicine》期刊，檢視了200名確診ADHD的成年人及200名非ADHD成年人。參與者被問及他們對25項正向特質的認同程度，包括創造力、幽默感、自發性及過度專注等。研究人員將這些特質定義為「他們擅長或最擅長的事情」。\n\nADHD常被討論的層面多聚焦於困難層面，如衝動性、健忘及專注力維持問題。這項研究從不同角度切入，強調識別及運用優勢的重要性。\n\nUniversity of Bath心理學系首席研究人員Luca Hargitai表示：「這些令人振奮的發現讓我們了解哪些正面特質可能與ADHD相關，從而可被視為ADHD相關的優勢。認識到ADHD雖與各種困難相關，但確實存在若干正面面向，實在是赋權的體驗。」\n\nADHD成年人更常認可的關鍵優勢\n\n與非ADHD參與者相比，ADHD患者更強烈認可10項特定優勢，包括：\n\n過度專注（對感興趣任務的深度專注）\n幽默感\n創造力\n自發性\n直覺力\n\n尽管ADHD成年人在工作、人際關係及心理健康方面面對眾多已知挑戰，研究發現他們在日常生活中識別及運用自身優勢的程度，與神經典型參與者相若。\n\n運用優勢與兩組人士的更佳心理健康相關\n\n在兩組人中，對自身優勢覺察度較高且更頻繁運用這些優勢的人士，均報告了明顯益處，包括：\n\n主觀幸福感更高\n生活質素更佳（涵蓋生理、心理、社會及環境範疇）\n焦慮、抑鬱及壓力症狀較少\n\n資深作者、University of Bath心理學副教授Punit Shah博士表示：「我們的發現凸顯，知道我們具備某些技能及正面特質，並在適當時候運用這些優勢，對我們的幸福感有所裨益。這或許聽起來不言而喻，但既然研究已確認這個假設，我們現在可以着手以這些嶄新證據為基礎，設計心理支援方案。」\n\n支援ADHD護理中的優勢導向方法\n\n研究結果為心理健康護理中的優勢導向方法增添支持。雖然此框架在自閉症服務中應用日益廣泛，但在ADHD範疇卻較少受到關注。潛在應用包括心理教育計劃、教練輔導及定制療法，協助人們更有效地識別及運用自身優勢。\n\nShah博士補充：「下一步是研究促進識別及運用個人優勢的介入措施，能否為ADHD成年人帶來心理健康方面的實際改善。ADHD及其他神經多樣性人士已爭取這些支援很久，我們很高興能夠提供首批支持此方向的研究。」\n\n比較ADHD與神經典型優勢的重要性\n\n資深作者、荷蘭Radboud University Medical Center助理教授Martine Hoogman強調，ADHD相關優勢的研究仍處於發展階段。她指出，許多先前研究僅聚焦於ADHD患者。\n\n「ADHD相關優勢的研究仍在早期階段。多數研究只詢問ADHD患者自身的優勢，但我們也訪問了神經典型人士。我們發現，沒有ADHD的人也能認可許多相同的優勢，儘管只有ADHD患者會認可當中若干項。這有助我們更好地理解ADHD的優勢。」\n\n「向ADHD患者灌輸教育時，重要的是不僅要談及挑戰，還要談及他們的潛在優勢，以改善生活質素並降低工作或教育領域的風險。」\n\n研究資助\n\n本研究由英國經濟與社會研究委員會及荷蘭研究委員會資助。\n\n期刊參考：\n\nLuca D. Hargitai, Emma L. M. Laan, Lessa M. Schippers, Lucy A. Livingston, Graeme Fairchild, Punit Shah, Martine Hoogman.\nThe role of psychological strengths in positive life outcomes in adults with ADHD.\nPsychological Medicine, 2025; 55 DOI: 10.1017/S0033291725101232",
+      "bodyZh": "研究人員發現 ADHD 優勢與更佳心理健康相關\n\n日期：2025年12月31日\n\n來源：University of Bath\n\n摘要：\n\n新研究揭示了 ADHD 較為正面的一面，顯示善用自身優勢的成年人更快樂、更健康、壓力更小。ADHD 患者更傾向於將創造力、幽默感及專注過度（hyperfocus）等特質視為個人優勢。整體而言，運用這些優勢與更高的生活品質及更少的心理健康症狀相關。該研究建議，擁抱自身優勢或許能成為 ADHD 支援服務的變革關鍵。\n\n成年人若能覺察並善用個人優勢，整體幸福感、生活品質及心理健康問題均會減少——這項大型國際研究帶來全新視角，暗示 ADHD 有待重新思考。\n\n該研究於10月「ADHD 覺醒月」期間發布，今年的主題為「ADHD 的多元面貌」。來自 University of Bath、King's College London 及荷蘭 Radboud University Medical Center 的科學家攜手合作，進行了首個大規模測量 ADHD 相關心理優勢的研究。\n\n大型研究比較 ADHD 與非 ADHD 成人的優勢\n\n發表於 Psychological Medicine 的研究共檢視200名確診 ADHD 的成年人及200名非 ADHD 成年人。參與者需就25項正面特質表述認同程度，包括創造力、幽默感、自發性及專注過度等。研究人員將這些特質定義為「擅長或最擅長做的事」。\n\nADHD 常被討論的話題多聚焦於困難層面，如衝動性、健忘及注意力持續困難等。本研究透過強調覺察與運用優勢的重要性，提出不同觀點。\n\nUniversity of Bath 心理學系首席研究人員 Luca Hargitai 表示：「這些令人振奮的發現讓我們了解哪些正面特質可能與 ADHD 相關，因而可被視為 ADHD 相關優勢。認識到 ADHD 雖伴隨各種困難，卻也具備若干正面特質，這一點確實能賦予人力量。」\n\nADHD 成年人更常認同的關鍵優勢\n\n與非 ADHD 參與者相比，ADHD 人士更傾向於高度認同10項特定優勢，包括：\n\n專注過度（對感興趣的任務深度專注）\n\n幽默感\n\n創造力\n\n自發性\n\n直覺力\n\n儘管 ADHD 成年人在工作、關係及心理健康方面確實面對不少有據可查的挑戰，但研究發現他們辨識及在日常生活中運用優勢的可能性與非 ADHD 參與者相若。\n\n運用優勢與兩個群組更佳心理健康相關\n\n在兩個群組中，對自身優勢覺察度較高且更頻繁運用的人均有明顯獲益，包括：\n\n更高主觀幸福感\n\n更佳生活品質（涵蓋身體、心理、社會及環境各範疇）\n\n焦慮、抑鬱及壓力症狀更少\n\nUniversity of Bath 心理學副教授、資深作者 Punit Shah 博士指出：「研究結果突顯，了解我們擁有某些技能及正面特質，並在適當情況下加以運用，對我們的幸福感有所裨益。這或許聽來顯而易見，但現時研究印證了這一假設，我們便能以此嶄新證據為基礎，設計心理支援方案。」\n\n支持 ADHD 護理中的優勢導向方法\n\n研究結果為心理健康護理中的優勢導向方法增添分量。儘管此框架在自閉症服務中應用日廣，ADHD 領域的關注卻相對較少。潛在應用包括心理健康教育計劃、 coaching（教練輔導）及定制療法，協助人們更有效識別及運用自身優勢。\n\nShah 博士補充：「下一步是研究促進個人優勢覺察及運用的介入措施，能否為 ADHD 成年人帶來心理健康方面的切實改善。ADHD 患者及其他神經多樣性人士長期以來一直有此訴求，我們很高興能提供首批支持相關研究之一。」\n\n比較 ADHD 與非 ADHD 優勢的重要性\n\n荷蘭 Radboud University Medical Center 助理教授、資深作者 Martine Hoogman 強調，ADHD 相關優勢的研究仍在發展階段。她指出，過往眾多研究僅訪問 ADHD 患者。\n\n「ADHD 相關優勢研究仍處於早期階段。多數研究只詢問 ADHD 患者對自身優勢的看法，但我們亦訪問了非 ADHD（即神經典型）人士。我們發現，沒有 ADHD 的人亦能認同許多相同的優勢，儘管當中部分僅由 ADHD 患者認同。這有助我們更深入了解 ADHD 優勢。\n\n「向 ADHD 患者傳授知識時，不應只談困難，也應談及其潛在優勢，以提升生活質素並降低工作或教育領域的風險。」\n\n研究資助\n\n研究由英國經濟與社會研究委員會（UK Economic and Social Research Council）及荷蘭研究委員會（Dutch Research Council）資助。\n\n期刊參考：\n\nLuca D. Hargitai, Emma L. M. Laan, Lessa M. Schippers, Lucy A. Livingston, Graeme Fairchild, Punit Shah, Martine Hoogman.\nThe role of psychological strengths in positive life outcomes in adults with ADHD.\nPsychological Medicine, 2025; 55 DOI: 10.1017/S0033291725101232",
       "featured": false
     },
     {
-      "title": "ADHD藥物的作用機制與我們所想不同",
+      "title": "ADHD藥物並非以我們所想的方式運作",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD興奮劑似乎並非主要透過提升專注力來運作，而是更多地喚醒大腦。腦部掃描顯示，這些藥物會激活獎勵與警覺系統，幫助孩子在原本會逃避的任務上保持專注。這些藥物甚至能逆轉與睡眠不足相關的腦部模式。研究人員表示，這可能會使ADHD的診斷變得更加複雜。",
+      "summary": "ADHD興奮劑似乎並非通過增強專注力，而是通過喚醒大腦來發揮作用。腦部掃描顯示這些藥物激活獎勵和警覺系統，幫助兒童對原本會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠剝奪相關的大腦模式。研究人員表示這可能使ADHD的診斷變得複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -522,10 +522,10 @@
       "featured": false
     },
     {
-      "title": "愛爾蘭與世衛組織攜手改善全球輔助科技可及性",
+      "title": "愛爾蘭與世衛組織合作改善全球輔助科技的獲取",
       "url": "https://www.who.int/news/item/17-05-2024-ireland-and-who-work-together-to-improve-access-to-assistive-technology-globally",
       "publishedAt": "2024-05-17T13:17:27.000Z",
-      "summary": "愛爾蘭正成為利用數碼科技克服就醫障礙的創新領域全球領導者。愛爾蘭與世衛組織一致認為，動員輔助科技以幫助全球25億有需要者（包括老年人、殘疾人士及...）極為重要。",
+      "summary": "愛爾蘭正在成為利用數碼科技作為工具應對各種就醫障礙的創新領域全球領導者。愛爾蘭與世衛組織一致認為，動員輔助科技來幫助全球25億有需要的人（包括長者、殘疾人士及長期病患者）極為重要。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
