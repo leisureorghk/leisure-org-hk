@@ -162,6 +162,9 @@ ${learnHero('hero-sen-guide.webp', '共融插畫：香港泳池邊，教練歡�
 ${DISCLAIMER}
 <div class="features-grid" style="margin-top:2rem">
   <div class="card">${cardThumb('card-support.webp', '香港支援系統示意插畫')}<h3><a href="sen-support-hk.html">香港支援系統</a></h3><p>認識特殊需要的基本概念，以及教育、社福等本地支援如何與游泳課銜接。</p></div>
+  <div class="card">${cardThumb('card-overview.webp', 'SEN 習泳價值示意')}<h3><a href="sen-swim-benefits.html">習泳的價值</a></h3><p>從感覺統合、動作、專注到情緒與社交：水中活動如何幫助孩子。</p></div>
+  <div class="card">${cardThumb('card-adhd.webp', '正向行為與課堂結構示意')}<h3><a href="sen-swim-behavior.html">正向行為與課堂</a></h3><p>行為是訊息：可預測結構、具體讚賞、先調節再教學。</p></div>
+  <div class="card">${cardThumb('card-physical.webp', '水中安全示意')}<h3><a href="sen-swim-safety.html">游泳安全家長指引</a></h3><p>課前準備、更衣室、泳池與課後交接的安全重點。</p></div>
   <div class="card">${cardThumb('card-development.webp', '特殊需要游泳運動發展示意')}<h3><a href="sen-swim-development.html">游泳運動發展</a></h3><p>帕運與香港殘疾／智障體育協會、普及游泳與精英培訓的脈絡。</p></div>
   <div class="card">${cardThumb('card-physical.webp', '肢體與感官游泳支援示意')}<h3><a href="sen-swim-physical.html">肢體・視覺・聽力</a></h3><p>泳池安全、溝通方式與教學調整，讓感官與肢體需要的孩子也能下水。</p></div>
   <div class="card">${cardThumb('card-intellectual.webp', '智力及多重障礙游泳示意')}<h3><a href="sen-swim-intellectual.html">智力及多重障礙</a></h3><p>分步、重複與安全意識：適合智力障礙及多重需要的水中學習節奏。</p></div>
@@ -261,9 +264,9 @@ ${DISCLAIMER}
 <section class="weekly-faq" style="margin-top:2rem">
 <h2>家長常見問題</h2>
 <h3>孩子一定要走競技路線嗎？</h3>
-<p>不必。大多數家庭的目標是水中安全、自信與健康。競技是其中一條路徑，不是唯一標準。</p>
+<p>不必。大多數家庭的目標是水中安全、自信與健康。競技是其中一條路徑，不是唯一標準。若日後參加特殊奧運或體驗賽，我們亦認同「重在參與、建立自信」——完成比賽本身已是成功，不必只看獎牌。</p>
 <h3>在新天地上課，將來可否參加協會活動？</h3>
-<p>視乎孩子能力、年齡與相關會籍／資格要求。我們可先把基礎打穩，再按家長意願介紹公開資訊與查詢渠道。</p>
+<p>視乎孩子能力、年齡與相關會籍／資格要求。我們可先把基礎打穩，再按家長意願介紹公開資訊與查詢渠道。交通與人手往往是家長最實際的挑戰，宜提早與其他家庭或機構協調。</p>
 </section>
 <p style="margin-top:1.5rem">延伸閱讀：<a href="sen-swim-physical.html">肢體・視覺・聽力與游泳</a> · <a href="sen-swim-intellectual.html">智力及多重障礙</a> · <a href="sen-guide.html">總覽</a></p>
 ${CTA()}
@@ -305,6 +308,7 @@ ${learnFigure('teach-safe-guidance.webp', '水中安全引導示意：教練輕�
 </ul>
 <h2>安全溝通：請家長主動告知的事項</h2>
 <p>若孩子有已知的發作病史、用藥或活動限制，請課前告訴教練。課堂會以<strong>預防與預案</strong>為先：熟悉孩子訊號、保護頭部與池邊、並確保有熟悉孩子的成人可即時聯絡。具體醫療安排以醫生意見為準，游泳課不能取代急救訓練或醫療判斷。</p>
+<p>家長可簡單準備：發作大概樣子與常見時長、用藥時間、緊急聯絡人，以及「哪些觸發要避免」。這不是要嚇怕任何人，而是讓教練團隊有準備地守護安全。</p>
 <h2>家長可如何配合？</h2>
 <ol>
 <li>提供醫療／復康師的活動限制（若有），例如承重或頸椎注意。</li>
@@ -320,8 +324,10 @@ ${DISCLAIMER}
 <p>可以，關鍵是環境預告與穩定的教練關係。許多視障運動員亦以游泳作為主要項目；普及課則以安全與樂趣為先。</p>
 <h3>第一次課要游多久？</h3>
 <p>寧短勿長。先看孩子對水溫、更衣室與池邊的反應；能帶著正面感受離開，比「完成一整節標準課」更重要。</p>
+<h3>助聽器下水怎麼辦？</h3>
+<p>多數設備不宜直接浸水。請課前確認是否有防水配件；否則下水前由家長妥善保管，課堂改以手勢、圖卡與示範溝通。</p>
 </section>
-<p style="margin-top:1.5rem">延伸閱讀：<a href="sen-swim-development.html">游泳運動發展與分級概念</a> · <a href="sen-swim-intellectual.html">智力及多重障礙</a> · <a href="sen-guide.html">總覽</a></p>
+<p style="margin-top:1.5rem">延伸閱讀：<a href="sen-swim-safety.html">安全家長指引</a> · <a href="sen-swim-development.html">游泳運動發展與分級概念</a> · <a href="sen-swim-intellectual.html">智力及多重障礙</a> · <a href="sen-guide.html">總覽</a></p>
 ${CTA()}
 </div></section>`,
   },
@@ -420,19 +426,27 @@ ${learnHero('hero-sen-autism.webp', '共融插畫：自閉症友善泳池與視�
 <section class="section"><div class="container">
 <h2>為何選擇水中學習？</h2>
 <p>水能提供可預測的感官輸入，許多自閉症孩子在陸地上感到過載，卻能在結構化的游泳課中建立安全感。自閉症譜系是先天的神經發展差異，能力和語言程度可以相差很大；即或語言與認知不錯，社交溝通、情緒調節與突發轉變仍可能需要系統支援。我們使用視覺提示卡、固定流程與可預期節奏，減少焦慮。</p>
+<p><strong>重要澄清：</strong>游泳<strong>不能「根治」自閉症</strong>。合理目標是減少日常困難、提升水中安全感與生活適應力，而不是承諾治癒。詳見<a href="sen-swim-benefits.html">習泳的價值</a>。</p>
 ${learnFigure('teach-visual-schedule.webp', '視覺流程示意：換衣服、池邊、踢水三步驟', '視覺流程卡：換衣服 → 池邊 → 踢水，幫助預知下一步')}
+<h2>看見優勢，不只看見困難</h2>
+<p>不少自閉症孩子在感興趣的事物上專注力與堅持度很高。課堂上我們會用清晰、形象的步驟，以及「看得見的小挑戰」建立成功感；強度由低開始，避免一開始就過勞或受傷。關節柔軟度、耐力與疲勞訊號因人而異，請家長分享孩子平日活動的觀察。</p>
 <h2>教學重點</h2>
 <ul>
 <li><strong>視覺提示：</strong>用圖卡顯示課堂流程（熱身→踢水→划手→自由活動→離水）與規則（例如池邊慢行、輪流）。</li>
-<li><strong>短而具體的指令：</strong>「一指令一動作」（例如「手揸板、腳踢水」）；少用比喻或抽象長句。</li>
+<li><strong>短而具體的指令：</strong>「一指令一動作」（例如「手揸板、腳踢水」）；少用比喻或抽象長句；非語言示範往往比長篇講解更有效。</li>
 <li><strong>結構化與預告改變：</strong>固定水道／入水點；若換教練、換水道，先用圖或短句預告。</li>
-<li><strong>冷靜區：</strong>預先約定較安靜的休息位置；感官超載時先離水安全，再降刺激，不強迫講道理。</li>
-<li>池邊適應與遊戲化入水，不強迫；強度由低至高，留意疲勞與關節負荷。</li>
+<li><strong>冷靜區：</strong>預先約定較安靜的休息位置；感官超載時先離水安全，再降刺激，不強迫講道理（<strong>先調節，再教學</strong>）。</li>
+<li><strong>漸進入水：</strong>池邊拍水、局部浸水、再全身入水；嚴禁強行推落水中。極度抗拒時應退回上一階段，避免造成長期恐水。</li>
+<li><strong>模仿建立信任：</strong>可先短暫跟隨孩子的節奏或動作，再引導他跟從教練示範。</li>
 <li>家長可參與的溝通策略：課前說明當日流程，課後重溫一件成功小事。</li>
 </ul>
 ${DISCLAIMER}
 <section class="weekly-faq" style="margin-top:2rem">
 <h2>家長常見問題</h2>
+<h3>游泳可以治好自閉症嗎？</h3>
+<p>不可以。自閉症是終身的神經發展差異。游泳的價值在於感官調節、安全技能、自信與社交練習——減少症狀對生活的影響，而不是「根治」。</p>
+<h3>孩子極度怕水，要強迫下水嗎？</h3>
+<p>不要。我們會用分週、分步的水適應計劃；出現極度恐慌即停，退回較安全步驟。強行入水可能造成創傷與長期恐水。</p>
 <h3>孩子不看著教練，是不是故意不聽話？</h3>
 <p>通常不是。強迫對眼接觸會帶來很大壓力。我們會讓孩子身體面向教練或跟從圖卡，而不是強迫對眼。</p>
 <h3>情緒崩潰時，要不要即時大聲講道理？</h3>
@@ -440,7 +454,7 @@ ${DISCLAIMER}
 <h3>「高功能」還需要視覺提示嗎？</h3>
 <p>需要。認知好不代表面對抽象指令或突然轉變時不焦慮；可視化、結構化仍能大幅提升安全感與成功率。</p>
 </section>
-<p style="margin-top:1.25rem">認識其他需要：<a href="sen-guide.html">特殊需要總覽</a> · <a href="sen-swim-adhd.html">ADHD</a> · <a href="sen-swim-learning.html">讀寫／動作協調</a> · <a href="sen-swim-down-syndrome.html">唐氏綜合症</a></p>
+<p style="margin-top:1.25rem">認識其他需要：<a href="sen-guide.html">特殊需要總覽</a> · <a href="sen-swim-behavior.html">正向行為</a> · <a href="sen-swim-adhd.html">ADHD</a> · <a href="sen-swim-learning.html">讀寫／動作協調</a> · <a href="sen-swim-down-syndrome.html">唐氏綜合症</a></p>
 ${CTA()}
 </div></section>`,
   },
@@ -513,6 +527,154 @@ ${CTA()}
 </div></section>`,
   },
   {
+    file: 'sen-swim-benefits.html',
+    title: '特殊需要兒童習泳的價值 | 新天地',
+    description:
+      'SEN 兒童習泳的生理、心理、家庭與社交價值：浮力、靜水壓、感覺統合、專注力、情緒與自信。家長教育參考，非醫療診斷。',
+    keywords: 'SEN游泳好處, 特殊需要習泳價值, 水中感覺統合, 自閉症游泳好處, ADHD游泳',
+    body: `<section class="page-header"><div class="container"><h1>特殊需要兒童習泳的價值</h1><p>從感覺統合、動作發展到情緒與社交：水中活動如何成為全方位支援</p></div></section>
+${learnHero('hero-sen-guide.webp', '共融插畫：SEN 孩子在水中建立自信與安全感', '習泳價值：身體被承托、感覺被整理、努力被看見')}
+<section class="section"><div class="container">
+<p>游泳不是要把 SEN 孩子變成競技泳手，而是給他們一個身體被承托、感覺被整理、努力被看見的空間。水的浮力、阻力與均勻壓力，往往正好對準許多特殊需要孩子的共同挑戰。</p>
+${DISCLAIMER}
+<h2>為甚麼是水？</h2>
+<ul>
+<li><strong>浮力：</strong>水可大幅減輕體重負擔；陸上難站立或步行的孩子，在水中較易體驗直立與移動。</li>
+<li><strong>靜水壓：</strong>水均勻包裹全身，提供穩定的深壓觸覺，對感覺敏感或焦慮的孩子常帶來安穩感。</li>
+<li><strong>阻力：</strong>每個動作都對抗阻力，等於可自我調節強度的全身肌力訓練。</li>
+<li><strong>溫度與節奏：</strong>合適水溫有助放鬆；划水與呼吸節奏同時訓練心肺與自我調節。</li>
+</ul>
+${learnFigure('teach-safe-guidance.webp', '水中安全引導與承托示意', '安全承托：先適應水，再談泳式')}
+<h2>六大發展方向</h2>
+<ol>
+<li><strong>感覺統合：</strong>前庭、本體、觸覺同時啟動，幫助大腦整理感官訊息。</li>
+<li><strong>動作與肌力：</strong>低衝擊、高參與，改善平衡、協調、核心與耐力。</li>
+<li><strong>專注與執行功能：</strong>記住動作序列、等待輪到自己、變換任務——練習工作記憶、抑制控制與認知彈性。</li>
+<li><strong>情緒調節：</strong>深壓與節奏呼吸有助降低喚醒水平，提升安全感。</li>
+<li><strong>社交溝通：</strong>輪流、模仿、共同注意，在水中往往比陸上更容易練習。</li>
+<li><strong>自信與自主：</strong>學會終身可用的水中安全技能，建立「我做得到」的自我形象。</li>
+</ol>
+<h2>不同需要，水中各有重點（概念）</h2>
+<ul>
+<li><strong>自閉症：</strong>可預測的水溫與壓力；視覺示範多於複雜口語。</li>
+<li><strong>ADHD：</strong>全身活動調節喚醒；阻力令動作變慢、變清晰。</li>
+<li><strong>唐氏綜合症：</strong>低衝擊有氧，強化肌力與心肺（健康注意見專頁）。</li>
+<li><strong>肢體／協調困難：</strong>浮力減壓，反覆練習動作序列並即時獲得身體回饋。</li>
+</ul>
+<p>延伸：<a href="sen-swim-autism.html">自閉症</a> · <a href="sen-swim-adhd.html">ADHD</a> · <a href="sen-swim-down-syndrome.html">唐氏綜合症</a> · <a href="sen-swim-physical.html">肢體・視覺・聽力</a> · <a href="sen-swim-learning.html">讀寫／動作協調</a></p>
+<h2>如何開始：安全、節奏、適配</h2>
+<ol>
+<li><strong>安全先行：</strong>合適師生安排、合格教練；部分孩子若有癲癇、心臟或脊柱情況，請先諮詢醫生。</li>
+<li><strong>由水適應開始：</strong>不必急於學泳式。吹泡泡、洗臉、坐池邊拍水都是有效第一步。</li>
+<li><strong>感覺先行：</strong>觸覺過敏可先短時接觸；尋求強烈刺激者可逐步加入翻滾等活動。</li>
+<li><strong>結構要清晰：</strong>固定流程、視覺時間表、短指令、即時具體讚賞。</li>
+<li><strong>與其他專業連結：</strong>可與職治、物治、言語治療目標對齊，把課堂進步帶回日常。</li>
+</ol>
+<section class="weekly-faq" style="margin-top:2rem">
+<h2>家長常見問題</h2>
+<h3>習泳能「根治」特殊需要嗎？</h3>
+<p>不能。目標是減少困難、提升適應與安全，而不是治癒診斷。把期望放在「可見的小進步」最健康。</p>
+<h3>怕水的孩子適合開始嗎？</h3>
+<p>適合，但要由水適應起步，寧短勿長。詳見<a href="sen-swim-safety.html">安全家長指引</a>與<a href="sen-swim-behavior.html">正向行為與課堂</a>。</p>
+</section>
+<p style="margin-top:1.5rem"><a href="sen-guide.html">返回特殊需要總覽</a> · <a href="resources.html">家長資源</a></p>
+${CTA()}
+</div></section>`,
+  },
+  {
+    file: 'sen-swim-behavior.html',
+    title: '正向行為管理與 SEN 游泳課堂 | 新天地',
+    description:
+      '特殊需要游泳課的正向行為策略：可預測結構、具體讚賞、ABC 行為分析、先調節再教學。家長與教練共通語言。',
+    keywords: '正向行為管理, SEN游泳行為, ABC行為分析, 視覺流程, 特殊需要課堂管理',
+    body: `<section class="page-header"><div class="container"><h1>正向行為與 SEN 游泳課堂</h1><p>行為是訊息：先理解原因，再調整環境與教學</p></div></section>
+${learnHero('hero-sen-adhd.webp', '共融插畫：教練以清晰結構與正向回饋引導孩子', '正向行為：清晰、簡潔、一致、可預測')}
+<section class="section"><div class="container">
+<p>正向行為管理<strong>不是</strong>單純「控制孩子」或「懲罰不當行為」，而是用清晰課堂結構、正面溝通、環境安排與一致回饋，提高孩子成功參與的機會。核心問題不是「怎樣令他聽話」，而是「他為甚麼這樣做？我可以怎樣調整，令合適行為更容易出現？」</p>
+${DISCLAIMER}
+<h2>常見課堂行為，往往是訊息</h2>
+<p>例如：不肯下水、不跟指令、離開水道、等候時走來走去、哭喊、對流程改變不安、對水花／觸感強烈反應。請先考慮：他是否不明白要求、焦慮、感官過載、面對突變、難度太高、疲倦，或無法用語言表達需要？</p>
+${learnFigure('teach-visual-schedule.webp', '視覺流程卡示意', '可預測流程：集合 → 熱身 → 練習 → 遊戲 → 離水')}
+<h2>核心策略（家長也能配合）</h2>
+<ol>
+<li><strong>可預測的課堂結構：</strong>固定集合點與入水程序；用視覺流程卡；活動轉換前先預告；清楚開始與結束。</li>
+<li><strong>正面、具體的規則：</strong>說「輪到你才入水」「完成後在紅線等位」，比抽象「乖啲」或只說「唔好」更有效。</li>
+<li><strong>具體正向強化：</strong>即時說出他做到甚麼（「聽到停就停，好專心」），可用讚賞、貼紙或喜愛活動時間；強化物要因人而異。</li>
+<li><strong>安全行為即時處理：</strong>推人、池邊奔跑、未經指示跳水等，用短句即時停下來並重申規則，再盡快回到活動，避免長篇責罵。</li>
+<li><strong>描述行為，不標籤人：</strong>用「而家返去紅線」代替「你又唔聽話」；避免公開羞辱或與其他孩子比較。</li>
+<li><strong>提供有限選擇：</strong>「想先練踢水定划手？」「而家用唔用浮板？」在安全範圍內增加自主感。</li>
+<li><strong>先調節，再教學：</strong>情緒升溫時先保安全、少說話、降刺激、給空間；平復後才繼續練。</li>
+</ol>
+<h2>ABC：前因—行為—結果</h2>
+<p>簡單記錄有助找出模式：行為前發生了甚麼（前因）？孩子實際做了甚麼（行為）？之後發生了甚麼（結果）？例如：教練要求由淺水到較深水域（前因）→ 孩子哭著拒絕（行為）→ 若每次都因此取消練習（結果），「哭鬧＝逃避」的連結可能被強化。較佳做法是預告、拆細步驟、先在熟悉環境練習、給選擇，並對小成功即時讚賞。</p>
+<section class="weekly-faq" style="margin-top:2rem">
+<h2>家長常見問題</h2>
+<h3>正向行為是否等於沒有規矩？</h3>
+<p>不是。規矩仍然重要，尤其涉及泳池安全。差別在於：以預防與教導為主，懲罰不是唯一工具。</p>
+<h3>孩子一哭就停課，會否養成習慣？</h3>
+<p>要分辨「恐懼／感官過載」與「學會用哭逃避任務」。前者需要降難度與調節；後者需要輔助完成一小步或提供替代溝通，而不是每次都完全取消目標。詳情可與教練討論。</p>
+</section>
+<p style="margin-top:1.5rem">延伸：<a href="sen-swim-safety.html">安全指引</a> · <a href="sen-swim-autism.html">自閉症</a> · <a href="sen-swim-adhd.html">ADHD</a> · <a href="resources.html">家長資源</a> · <a href="sen-guide.html">總覽</a></p>
+${CTA()}
+</div></section>`,
+  },
+  {
+    file: 'sen-swim-safety.html',
+    title: '特殊需要游泳安全家長指引 | 新天地',
+    description:
+      'SEN 游泳安全：課前健康溝通、更衣室注意、泳池環境、教學過程觀察與課後交接。家長教育參考。',
+    keywords: 'SEN游泳安全, 特殊需要泳池安全, 兒童游泳安全, 更衣室安全, 香港SEN游泳',
+    body: `<section class="page-header"><div class="container"><h1>特殊需要游泳安全家長指引</h1><p>由更衣室到交回家長：把安全做成可預期的流程</p></div></section>
+${learnHero('hero-sen-physical.webp', '共融插畫：泳池安全引導與家長交接', '安全先行：互信、清楚溝通、全程交接')}
+<section class="section"><div class="container">
+<p>水中學習的第一步永遠是安全。以下整理課前、更衣室、泳池與課後重點，方便家長與教練對齊——個別安排仍以孩子實際情況與場地設施為準。</p>
+${DISCLAIMER}
+${learnFigure('teach-safe-guidance.webp', '水中安全引導示意', '安全引導：清楚溝通比硬背動作更重要')}
+<h2>1. 課堂前的準備</h2>
+<ul>
+<li>建立互信：用恰當、溫和的語言與身體語言，讓孩子感到被尊重。</li>
+<li>向教練說明身體狀況、近況、自理能力，以及有效安撫方法。</li>
+<li>如有醫生叮囑的活動限制、近期病況或藥物影響，請提前告知。</li>
+<li><strong>暫不宜游泳的常見情況（請先諮詢醫生／教練）：</strong>高燒未退的傳染病、中耳炎／耳管治療、嚴重對氯過敏、開放性傷口、醫生指示不宜劇烈活動的心臟病等。</li>
+<li>唐氏綜合症等孩子上呼吸道較易受感染，不適時宜休息。</li>
+<li>考慮進膳與訓練時間間隔；核對帶備物品（泳衣、泳帽、毛巾等）。</li>
+<li>師生安排視乎需要個別調整；嚴重需要時傾向更緊密監管。</li>
+</ul>
+<h2>2. 更衣室</h2>
+<ul>
+<li>注意地面濕滑與障礙物；視障孩子需要清晰定向與通道預告。</li>
+<li>介紹設施位置；留意孩子對吹風機、花灑、洗手間的恐懼或抗拒。</li>
+<li>輪椅家庭請提前查詢無障礙通道、斜坡或升降設施是否可用。</li>
+<li>留意花灑水溫；進出更衣室要有清晰交接。</li>
+</ul>
+<h2>3. 泳池與教學過程</h2>
+<ul>
+<li>了解水深、水溫與防滑地面；初學／適應期通常需要較舒適的水溫。</li>
+<li>訓練強度視身體狀況而定；留意嘴唇發紺、打顫、起雞皮等寒冷或不適訊號。</li>
+<li>安排充分休息；教導孩子如何求助；留意情緒與行為變化。</li>
+<li>輔助工具妥善使用與存放；避開尖銳或粗糙池面。</li>
+<li>危險行為（奔跑、推人、未經指示跳水）必須即時用短句制止。</li>
+<li><strong>已知發作病史：</strong>請課前說明發作模式與緊急聯絡。課堂以預防為先；若水中出現疑似發作，優先保護頭部、避免撞擊池邊，並依教練預案與現場救生安排處理——具體步驟以醫生建議及場地急救流程為準，本頁不作醫療指引。</li>
+</ul>
+<h2>4. 課堂後</h2>
+<ul>
+<li>確認由指定家人／照顧者接回；不要讓孩子無人看管離開。</li>
+<li>觀察訓練後身體狀況；與教練短短交接今日成功點與明日注意。</li>
+</ul>
+<section class="weekly-faq" style="margin-top:2rem">
+<h2>家長常見問題</h2>
+<h3>第一次來要帶甚麼資料？</h3>
+<p>簡單列出診斷重點（如有）、觸發不安因素、有效安撫方法、醫生活動限制即可。不一定要完整病歷本，但關鍵安全資訊愈清楚愈好。</p>
+<h3>孩子當天輕微不適可以上課嗎？</h3>
+<p>若發燒、耳痛、開放傷口或醫生囑咐休息，請改期。寧可多休息一天，也不要冒險下水。</p>
+<h3>有發作病史還可以學游泳嗎？</h3>
+<p>許多家庭在醫生評估許可下仍可參與水中活動，但必須課前充分溝通、場地有應變預案，並由熟悉孩子的成人配合。請先 WhatsApp 說明情況，我們再建議合適起步方式。</p>
+</section>
+<p style="margin-top:1.5rem">延伸：<a href="booking.html">預約試堂</a> · <a href="sen-swim-behavior.html">正向行為</a> · <a href="sen-swim-benefits.html">習泳價值</a> · <a href="sen-swim-physical.html">肢體・視覺・聽力</a> · <a href="sen-guide.html">總覽</a></p>
+${CTA()}
+</div></section>`,
+  },
+  {
     file: 'areas-hong-kong.html',
     title: '香港各區 SEN 游泳服務 | 新天地',
     description:
@@ -524,7 +686,7 @@ ${CTA()}
 <h2>常見查詢</h2>
 <ul><li>首次評估與試堂安排</li><li>交通與更衣室無障礙需要</li><li>兄弟姊妹／家長陪同政策</li></ul>
 <p>詳細地址與泳池資料請<a href="contact.html">聯絡我們</a>，以便提供最新資訊。</p>
-<p><a href="sen-guide.html">認識特殊需要與課程方向</a></p>
+<p><a href="sen-guide.html">認識特殊需要與課程方向</a> · <a href="sen-swim-safety.html">游泳安全家長指引</a></p>
 ${CTA()}
 </div></section>`,
   },
@@ -578,6 +740,27 @@ ${DISCLAIMER}
 <li>預留動態休息／簡單水中遊戲，再溫和回到任務；課後與家長溝通延伸練習</li>
 </ol>
 <p><a href="sen-swim-adhd.html">ADHD 游泳專項課程</a> · <a href="sen-swim-learning.html">讀寫／動作協調</a> · <a href="sen-guide.html">認識特殊需要</a></p>
+</div></section>`,
+  },
+  {
+    file: 'blog-article-coach-notes.html',
+    title: '教練培訓錄音整理：家長最該知道的五件事 | 新天地',
+    description:
+      '從特殊需要游泳教練培訓與家長分享錄音整理：行為是訊息、游泳非根治、漸進入水、安全交接、具體讚賞。',
+    keywords: 'SEN游泳家長須知, 正向行為, 游泳安全, 自閉症游泳, 教練培訓',
+    body: `<section class="page-header"><div class="container"><h1>教練培訓錄音整理：家長最該知道的五件事</h1><p>2026年9月 · 新天地教練團隊</p></div></section>
+<section class="section"><div class="container article-body">
+<p>我們把近期教練培訓與經驗分享錄音，消化成家長聽得懂的五個重點——不公開錄音原文，只留下對家校合作真正有用的共識。</p>
+${DISCLAIMER}
+<ol>
+<li><strong>行為是訊息，不是「壞」：</strong>哭鬧、摀耳、拒絕下水，可能是不明白、焦慮、感官過載或難度太高。先問「為甚麼」，再調環境與步驟。詳見<a href="sen-swim-behavior.html">正向行為專頁</a>。</li>
+<li><strong>游泳不能根治診斷：</strong>水中活動有助感覺調節、安全技能與自信，但目標是減少生活困難，不是「治好」自閉症或 ADHD。把期望放在可見的小進步最健康。詳見<a href="sen-swim-benefits.html">習泳的價值</a>。</li>
+<li><strong>怕水就漸進，絕不強推：</strong>池邊拍水 → 局部浸水 → 再全身入水。極度恐慌時退回上一階段；強行入水可能造成長期恐水。詳見<a href="sen-swim-autism.html">自閉症專頁</a>。</li>
+<li><strong>安全從更衣室做到交接手：</strong>課前說清楚健康限制與安撫方法；下課必須由指定照顧者接回。助聽器等貴重輔具下水前妥善保管。詳見<a href="sen-swim-safety.html">安全家長指引</a>。</li>
+<li><strong>讚賞要說出他做到甚麼：</strong>「你今日聽到停就停，好專心」比只說「叻」更能幫助孩子重複合適行為；規則用正面、具體的句子寫清楚。</li>
+</ol>
+<p>若家庭日後有興趣認識特殊奧運或協會體驗活動，我們認同「重在參與」——完成比賽、建立自信，比獎牌更重要。詳見<a href="sen-swim-development.html">游泳運動發展</a>。</p>
+<p><a href="resources.html">家長資源</a> · <a href="sen-guide.html">認識特殊需要</a> · <a href="booking.html">預約試堂</a></p>
 </div></section>`,
   },
 ];

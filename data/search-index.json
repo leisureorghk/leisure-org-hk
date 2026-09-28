@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-09-28T06:30:36.288Z",
-  "count": 58,
+  "builtAt": "2026-09-28T08:13:48.246Z",
+  "count": 62,
   "items": [
     {
       "type": "page",
@@ -116,6 +116,30 @@
     },
     {
       "type": "page",
+      "path": "sen-swim-benefits.html",
+      "url": "https://www.leisure.org.hk/sen-swim-benefits.html",
+      "title": "特殊需要兒童習泳的價值",
+      "description": "SEN 兒童習泳的生理、心理、家庭與社交價值：浮力、靜水壓、感覺統合、專注力、情緒與自信。家長教育參考，非醫療診斷。",
+      "keywords": "SEN游泳好處, 特殊需要習泳價值, 水中感覺統合, 自閉症游泳好處, ADHD游泳"
+    },
+    {
+      "type": "page",
+      "path": "sen-swim-behavior.html",
+      "url": "https://www.leisure.org.hk/sen-swim-behavior.html",
+      "title": "正向行為管理與 SEN 游泳課堂",
+      "description": "特殊需要游泳課的正向行為策略：可預測結構、具體讚賞、ABC 行為分析、先調節再教學。家長與教練共通語言。",
+      "keywords": "正向行為管理, SEN游泳行為, ABC行為分析, 視覺流程, 特殊需要課堂管理"
+    },
+    {
+      "type": "page",
+      "path": "sen-swim-safety.html",
+      "url": "https://www.leisure.org.hk/sen-swim-safety.html",
+      "title": "特殊需要游泳安全家長指引",
+      "description": "SEN 游泳安全：課前健康溝通、更衣室注意、泳池環境、教學過程觀察與課後交接。家長教育參考。",
+      "keywords": "SEN游泳安全, 特殊需要泳池安全, 兒童游泳安全, 更衣室安全, 香港SEN游泳"
+    },
+    {
+      "type": "page",
       "path": "sen-guide.html",
       "url": "https://www.leisure.org.hk/sen-guide.html",
       "title": "認識特殊需要與 SEN 游泳",
@@ -193,6 +217,14 @@
       "title": "ADHD 孩子學游泳的 5 個實用技巧",
       "description": "五個實用技巧協助 ADHD 孩子在游泳課建立專注、遵守流程與水中安全。",
       "keywords": "ADHD游泳, 專注力訓練, SEN游泳"
+    },
+    {
+      "type": "article",
+      "path": "blog-article-coach-notes.html",
+      "url": "https://www.leisure.org.hk/blog-article-coach-notes.html",
+      "title": "教練培訓錄音整理：家長最該知道的五件事",
+      "description": "從特殊需要游泳教練培訓與家長分享錄音整理：行為是訊息、游泳非根治、漸進入水、安全交接、具體讚賞。",
+      "keywords": "SEN游泳家長須知, 正向行為, 游泳安全, 自閉症游泳, 教練培訓"
     },
     {
       "type": "weekly",

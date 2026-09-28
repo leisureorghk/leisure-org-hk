@@ -334,6 +334,84 @@
       "imageAlt": "讀寫與動作協調困難游泳教學插畫"
     },
     {
+      "file": "sen-swim-benefits.html",
+      "path": "/sen-swim-benefits.html",
+      "title": "特殊需要兒童習泳的價值 | 新天地",
+      "description": "SEN 兒童習泳的生理、心理、家庭與社交價值：浮力、靜水壓、感覺統合、專注力、情緒與自信。家長教育參考，非醫療診斷。",
+      "keywords": "SEN游泳好處, 特殊需要習泳價值, 水中感覺統合, 自閉症游泳好處, ADHD游泳",
+      "ogType": "website",
+      "priority": 0.85,
+      "changefreq": "monthly",
+      "breadcrumb": [
+        {
+          "name": "認識特殊需要",
+          "path": "/sen-guide.html"
+        },
+        {
+          "name": "習泳的價值",
+          "path": "/sen-swim-benefits.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ],
+      "image": "/images/learn/hero-sen-guide.webp",
+      "imageAlt": "特殊需要兒童習泳價值插畫"
+    },
+    {
+      "file": "sen-swim-behavior.html",
+      "path": "/sen-swim-behavior.html",
+      "title": "正向行為管理與 SEN 游泳課堂 | 新天地",
+      "description": "特殊需要游泳課的正向行為策略：可預測結構、具體讚賞、ABC 行為分析、先調節再教學。家長與教練共通語言。",
+      "keywords": "正向行為管理, SEN游泳行為, ABC行為分析, 視覺流程, 特殊需要課堂管理",
+      "ogType": "website",
+      "priority": 0.85,
+      "changefreq": "monthly",
+      "breadcrumb": [
+        {
+          "name": "認識特殊需要",
+          "path": "/sen-guide.html"
+        },
+        {
+          "name": "正向行為與課堂",
+          "path": "/sen-swim-behavior.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ],
+      "image": "/images/learn/hero-sen-adhd.webp",
+      "imageAlt": "正向行為與 SEN 游泳課堂插畫"
+    },
+    {
+      "file": "sen-swim-safety.html",
+      "path": "/sen-swim-safety.html",
+      "title": "特殊需要游泳安全家長指引 | 新天地",
+      "description": "SEN 游泳安全：課前健康溝通、更衣室注意、泳池環境、教學過程觀察與課後交接。家長教育參考。",
+      "keywords": "SEN游泳安全, 特殊需要泳池安全, 兒童游泳安全, 更衣室安全, 香港SEN游泳",
+      "ogType": "website",
+      "priority": 0.85,
+      "changefreq": "monthly",
+      "breadcrumb": [
+        {
+          "name": "認識特殊需要",
+          "path": "/sen-guide.html"
+        },
+        {
+          "name": "游泳安全指引",
+          "path": "/sen-swim-safety.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ],
+      "image": "/images/learn/hero-sen-physical.webp",
+      "imageAlt": "特殊需要游泳安全家長指引插畫"
+    },
+    {
       "file": "sen-guide.html",
       "path": "/sen-guide.html",
       "title": "認識特殊需要與 SEN 游泳 | 新天地",
@@ -570,6 +648,30 @@
         {
           "name": "ADHD 游泳技巧",
           "path": "/blog-article-adhd.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "article"
+      ]
+    },
+    {
+      "file": "blog-article-coach-notes.html",
+      "path": "/blog-article-coach-notes.html",
+      "title": "教練培訓錄音整理：家長最該知道的五件事 | 新天地",
+      "description": "從特殊需要游泳教練培訓與家長分享錄音整理：行為是訊息、游泳非根治、漸進入水、安全交接、具體讚賞。",
+      "keywords": "SEN游泳家長須知, 正向行為, 游泳安全, 自閉症游泳, 教練培訓",
+      "ogType": "article",
+      "priority": 0.75,
+      "changefreq": "yearly",
+      "breadcrumb": [
+        {
+          "name": "教練專欄",
+          "path": "/blog.html"
+        },
+        {
+          "name": "培訓錄音整理",
+          "path": "/blog-article-coach-notes.html"
         }
       ],
       "schemas": [

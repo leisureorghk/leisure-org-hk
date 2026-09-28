@@ -641,6 +641,21 @@ export function pickRelatedLandingPages(config, textBlob, limit = 3) {
       keys: ['讀寫', 'dyslexia', 'dcd', '動作協調', '學習困難', '協調障礙'],
     },
     {
+      path: '/sen-swim-benefits.html',
+      title: '習泳的價值',
+      keys: ['好處', '價值', '效益', '浮力', '靜水壓', '為何游泳', '為甚麼游泳'],
+    },
+    {
+      path: '/sen-swim-behavior.html',
+      title: '正向行為與課堂',
+      keys: ['正向行為', '行為管理', 'abc', '讚賞', '強化', '情緒', '崩潰'],
+    },
+    {
+      path: '/sen-swim-safety.html',
+      title: '游泳安全家長指引',
+      keys: ['安全', '更衣室', '遇溺', '急救', '課前', '健康'],
+    },
+    {
       path: '/sen-swim-down-syndrome.html',
       title: '唐氏綜合症游泳',
       keys: ['唐氏', 'down', '肌張力'],
