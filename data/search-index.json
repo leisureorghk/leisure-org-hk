@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-09-28T09:06:34.733Z",
-  "count": 62,
+  "builtAt": "2026-09-28T09:23:23.415Z",
+  "count": 63,
   "items": [
     {
       "type": "page",
@@ -225,6 +225,15 @@
       "title": "教練培訓錄音整理：家長最該知道的五件事",
       "description": "從特殊需要游泳教練培訓與家長分享錄音整理：行為是訊息、游泳非根治、漸進入水、安全交接、具體讚賞。",
       "keywords": "SEN游泳家長須知, 正向行為, 游泳安全, 自閉症游泳, 教練培訓"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W40.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W40.html",
+      "title": "ADHD學童學游水有幫助嗎？SEN泳班教練的4個實務建議",
+      "description": "ADHD或專注力不足的SEN學童學習游泳，不僅提升體能，更能改善專注力與情緒控制。本文由SEN泳班教練分享實務建議。",
+      "keywords": "SEN游水, ADHD游水, 專注力不足泳班, 自閉症學游泳, 香港SEN泳班, ADHD兒童運動, SEN游泳, 香港特殊教育游泳",
+      "publishedAt": "2026-09-28T09:23:23.331Z"
     },
     {
       "type": "weekly",
