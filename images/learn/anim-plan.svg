@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" role="img">
+  <title>Checklist ticks appearing</title>
+  <style>
+    .t{stroke:#2A9D8F;stroke-width:6;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:40;stroke-dashoffset:40;animation:tick 4.5s ease-in-out infinite}
+    .t2{animation-delay:1.4s}
+    .t3{animation-delay:2.8s}
+    @keyframes tick{0%,12%{stroke-dashoffset:40}25%,80%{stroke-dashoffset:0}92%,100%{stroke-dashoffset:40}}
+    @media (prefers-reduced-motion:reduce){.t{animation:none;stroke-dashoffset:0}}
+  </style>
+  <rect width="640" height="280" fill="#FFFCF5"/>
+  <rect x="170" y="36" width="300" height="208" rx="18" fill="#FAF5E8" stroke="#1E5799" stroke-width="3"/>
+  <rect x="198" y="70" width="180" height="14" rx="7" fill="#A8D4F0"/>
+  <rect x="198" y="118" width="180" height="14" rx="7" fill="#A8D4F0"/>
+  <rect x="198" y="166" width="180" height="14" rx="7" fill="#A8D4F0"/>
+  <path class="t" d="M400 68 l10 12 22-22"/>
+  <path class="t t2" d="M400 116 l10 12 22-22"/>
+  <path class="t t3" d="M400 164 l10 12 22-22"/>
+</svg>

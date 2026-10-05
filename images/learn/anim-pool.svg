@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" role="img">
+  <title>Calm pool environment, no people</title>
+  <style>
+    .w{animation:d 8s ease-in-out infinite}
+    @keyframes d{0%,100%{transform:translateX(0)}50%{transform:translateX(-30px)}}
+    @media (prefers-reduced-motion:reduce){.w{animation:none}}
+  </style>
+  <rect width="640" height="280" fill="#FAF5E8"/>
+  <rect x="40" y="70" width="560" height="170" rx="16" fill="#A8D4F0"/>
+  <path class="w" d="M40 140 Q120 120 200 140 T360 140 T520 140 T600 140 V240 H40Z" fill="#5BA3D9"/>
+  <path class="w" d="M40 168 Q120 154 200 168 T360 168 T520 168 T600 168 V240 H40Z" fill="#1E5799" opacity=".45" style="animation-duration:11s"/>
+  <rect x="48" y="78" width="70" height="10" rx="4" fill="#E9C46A"/>
+  <circle cx="560" cy="92" r="8" fill="#2A9D8F"/>
+</svg>

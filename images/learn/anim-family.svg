@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" role="img">
+  <title>Parent and child geometric figures</title>
+  <style>
+    .bob{animation:b 3.5s ease-in-out infinite}
+    @keyframes b{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    @media (prefers-reduced-motion:reduce){.bob{animation:none}}
+  </style>
+  <rect width="640" height="280" fill="#E8F4FB"/>
+  <path d="M0 176 Q160 150 320 176 T640 176 V280 H0Z" fill="#5BA3D9"/>
+  <g class="bob">
+    <circle cx="280" cy="108" r="26" fill="#F5ECD7"/>
+    <rect x="258" y="134" width="44" height="52" rx="14" fill="#163A5F"/>
+    <circle cx="352" cy="128" r="18" fill="#F5ECD7"/>
+    <rect x="336" y="146" width="32" height="40" rx="12" fill="#2A9D8F"/>
+    <rect x="298" y="168" width="44" height="10" rx="5" fill="#E9C46A"/>
+  </g>
+</svg>

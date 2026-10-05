@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" role="img">
+  <title>Turn-taking motion</title>
+  <style>
+    .ball{animation:t 2.8s ease-in-out infinite}
+    @keyframes t{0%,100%{transform:translate(0,0)}50%{transform:translate(168px,-10px)}}
+    @media (prefers-reduced-motion:reduce){.ball{animation:none;transform:translate(84px,0)}}
+  </style>
+  <rect width="640" height="280" fill="#E8F4FB"/>
+  <rect y="190" width="640" height="90" fill="#5BA3D9"/>
+  <circle cx="210" cy="132" r="24" fill="#F5ECD7"/>
+  <rect x="190" y="156" width="40" height="42" rx="12" fill="#163A5F"/>
+  <circle cx="430" cy="132" r="24" fill="#F5ECD7"/>
+  <rect x="410" y="156" width="40" height="42" rx="12" fill="#2A9D8F"/>
+  <circle class="ball" cx="236" cy="168" r="14" fill="#E9C46A"/>
+</svg>

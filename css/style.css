@@ -2182,6 +2182,9 @@ p { margin-bottom: var(--spacing-sm); }
     background: linear-gradient(180deg, #e8f4fb 0%, #faf5e8 100%);
 }
 
+.service-card-image.photo {
+    background: #E8F4FB;
+}
 .service-card-image.photo img {
     width: 100%;
     height: 100%;
@@ -2199,6 +2202,8 @@ p { margin-bottom: var(--spacing-sm); }
     margin: calc(-1 * var(--spacing-xl)) calc(-1 * var(--spacing-xl)) var(--spacing-md);
     aspect-ratio: 16 / 9;
     object-fit: cover;
+    object-position: center;
+    background: #E8F4FB;
     border-radius: var(--radius-lg) var(--radius-lg) 0 0;
 }
 

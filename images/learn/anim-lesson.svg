@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" role="img">
+  <title>Swim lesson motion, geometric figures</title>
+  <style>
+    .wave{animation:w 6s ease-in-out infinite}
+    .kick{transform-origin:430px 150px;animation:k 1.2s ease-in-out infinite}
+    @keyframes w{0%,100%{transform:translateX(0)}50%{transform:translateX(-24px)}}
+    @keyframes k{0%,100%{transform:rotate(6deg)}50%{transform:rotate(-16deg)}}
+    @media (prefers-reduced-motion:reduce){.wave,.kick{animation:none}}
+  </style>
+  <rect width="640" height="280" fill="#E8F4FB"/>
+  <path class="wave" d="M0 170 Q80 150 160 170 T320 170 T480 170 T640 170 V280 H0Z" fill="#5BA3D9"/>
+  <path class="wave" d="M0 198 Q80 182 160 198 T320 198 T480 198 T640 198 V280 H0Z" fill="#2A9D8F" opacity=".55" style="animation-duration:8s"/>
+  <circle cx="210" cy="118" r="22" fill="#F5ECD7"/>
+  <rect x="192" y="140" width="36" height="44" rx="12" fill="#163A5F"/>
+  <rect x="248" y="158" width="70" height="14" rx="7" fill="#E9C46A"/>
+  <g class="kick">
+    <rect x="400" y="148" width="90" height="12" rx="6" fill="#163A5F"/>
+  </g>
+  <circle cx="390" cy="128" r="18" fill="#F5ECD7"/>
+  <rect x="372" y="146" width="36" height="36" rx="10" fill="#2A9D8F"/>
+</svg>
