@@ -653,7 +653,12 @@ export function pickRelatedLandingPages(config, textBlob, limit = 3) {
     {
       path: '/sen-swim-safety.html',
       title: '游泳安全家長指引',
-      keys: ['安全', '更衣室', '遇溺', '急救', '課前', '健康'],
+      keys: ['安全', '更衣室', '遇溺', '急救', '課前', '健康', '扶抱', '轉移'],
+    },
+    {
+      path: '/sen-swim-communication.html',
+      title: '泳池溝通與 AAC',
+      keys: ['溝通', 'pecs', 'aac', '圖卡', '口語', '語言', '輔具'],
     },
     {
       path: '/sen-swim-down-syndrome.html',

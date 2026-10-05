@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-10-04T06:44:05.988Z",
-  "count": 63,
+  "builtAt": "2026-10-05T02:59:35.265Z",
+  "count": 64,
   "items": [
     {
       "type": "page",
@@ -137,6 +137,14 @@
       "title": "特殊需要游泳安全家長指引",
       "description": "SEN 游泳安全：課前健康溝通、更衣室注意、泳池環境、教學過程觀察與課後交接。家長教育參考。",
       "keywords": "SEN游泳安全, 特殊需要泳池安全, 兒童游泳安全, 更衣室安全, 香港SEN游泳"
+    },
+    {
+      "type": "page",
+      "path": "sen-swim-communication.html",
+      "url": "https://www.leisure.org.hk/sen-swim-communication.html",
+      "title": "SEN 游泳溝通與 AAC",
+      "description": "低口語、語言障礙與自閉症孩子的泳池溝通：短指令、視覺圖卡、PECS／AAC，沿用孩子慣用的溝通方式。香港 SEN 游泳。",
+      "keywords": "PECS游泳, AAC溝通, 圖卡溝通, SEN游泳溝通, 低口語游泳, 匡智溝通易"
     },
     {
       "type": "page",

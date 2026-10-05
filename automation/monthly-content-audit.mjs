@@ -30,6 +30,7 @@ const LANDING_FILES = [
   'sen-swim-benefits.html',
   'sen-swim-behavior.html',
   'sen-swim-safety.html',
+  'sen-swim-communication.html',
 ];
 const SEO_FILES = [...HUB_FILES, ...LANDING_FILES, 'blog.html'];
 const INTERNAL_HREF =

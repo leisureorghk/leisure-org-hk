@@ -412,6 +412,32 @@
       "imageAlt": "特殊需要游泳安全家長指引插畫"
     },
     {
+      "file": "sen-swim-communication.html",
+      "path": "/sen-swim-communication.html",
+      "title": "SEN 游泳溝通與 AAC | 新天地",
+      "description": "低口語、語言障礙與自閉症孩子的泳池溝通：短指令、視覺圖卡、PECS／AAC，沿用孩子慣用的溝通方式。香港 SEN 游泳。",
+      "keywords": "PECS游泳, AAC溝通, 圖卡溝通, SEN游泳溝通, 低口語游泳, 匡智溝通易",
+      "ogType": "website",
+      "priority": 0.85,
+      "changefreq": "monthly",
+      "breadcrumb": [
+        {
+          "name": "認識特殊需要",
+          "path": "/sen-guide.html"
+        },
+        {
+          "name": "泳池溝通與 AAC",
+          "path": "/sen-swim-communication.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ],
+      "image": "/images/learn/hero-sen-autism.webp",
+      "imageAlt": "泳池視覺溝通與圖卡插畫"
+    },
+    {
       "file": "sen-guide.html",
       "path": "/sen-guide.html",
       "title": "認識特殊需要與 SEN 游泳 | 新天地",
