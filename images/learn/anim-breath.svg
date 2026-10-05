@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img">
+  <title>Calm breathing circle</title>
+  <style>
+    .ring{transform-origin:360px 110px;animation:breathe 6s ease-in-out infinite;fill:rgba(42,157,143,.22);stroke:#2A9D8F;stroke-width:3}
+    .inner{transform-origin:360px 110px;animation:breathe 6s ease-in-out infinite reverse;fill:#5BA3D9}
+    @keyframes breathe{0%,100%{transform:scale(.72)}50%{transform:scale(1.12)}}
+    @media (prefers-reduced-motion:reduce){.ring,.inner{animation:none}}
+  </style>
+  <rect width="720" height="240" rx="20" fill="#FFFCF5"/>
+  <circle class="ring" cx="360" cy="110" r="78"/>
+  <circle class="inner" cx="360" cy="110" r="28"/>
+</svg>

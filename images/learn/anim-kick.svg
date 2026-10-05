@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img">
+  <title>Kick drill motion</title>
+  <style>
+    .leg{transform-origin:118px 108px;animation:kick 1.1s ease-in-out infinite}
+    .leg2{transform-origin:118px 118px;animation:kick 1.1s ease-in-out infinite reverse}
+    .splash{animation:rise 2.4s ease-in infinite}
+    @keyframes kick{0%,100%{transform:rotate(8deg)}50%{transform:rotate(-22deg)}}
+    @keyframes rise{0%{transform:translateY(12px);opacity:.2}70%{opacity:.7}100%{transform:translateY(-40px);opacity:0}}
+    @media (prefers-reduced-motion:reduce){.leg,.leg2,.splash{animation:none}}
+  </style>
+  <rect width="720" height="240" rx="20" fill="#E8F4FB"/>
+  <rect y="150" width="720" height="90" fill="#5BA3D9"/>
+  <ellipse cx="360" cy="156" rx="280" ry="16" fill="#A8D4F0"/>
+  <g transform="translate(210,40)">
+    <ellipse cx="90" cy="70" rx="48" ry="28" fill="#2A9D8F"/>
+    <circle cx="52" cy="58" r="22" fill="#F5D0A9"/>
+    <rect x="70" y="58" width="90" height="22" rx="10" fill="#163A5F"/>
+    <g class="leg"><rect x="150" y="98" width="70" height="12" rx="6" fill="#163A5F"/></g>
+    <g class="leg2"><rect x="150" y="114" width="62" height="12" rx="6" fill="#1E5799"/></g>
+    <rect x="122" y="78" width="36" height="14" rx="6" fill="#E9C46A"/>
+  </g>
+  <circle class="splash" cx="430" cy="168" r="6" fill="#fff"/>
+  <circle class="splash" cx="452" cy="172" r="4" fill="#fff" style="animation-delay:.4s"/>
+  <circle class="splash" cx="468" cy="166" r="5" fill="#fff" style="animation-delay:.8s"/>
+</svg>

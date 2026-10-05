@@ -35,6 +35,11 @@ const learnFigure = (file, alt, caption) => `<figure class="learn-figure">
 const cardThumb = (file, alt) =>
   `<img class="learn-card-thumb" src="images/learn/${file}" alt="${alt}" width="480" height="360" loading="lazy" decoding="async">`;
 
+const motionFig = (file, alt, caption) => `<figure class="learn-figure motion-figure">
+<img src="images/learn/${file}?v=20261005a" alt="${alt}" width="720" height="240" loading="lazy" decoding="async">
+<figcaption>${caption}</figcaption>
+</figure>`;
+
 function escHtml(s) {
   return String(s || '')
     .replace(/&/g, '&amp;')
@@ -92,7 +97,7 @@ function shell({ title, description, keywords, bodyHtml }) {
     <meta name="keywords" content="${keywords}">
     <title>${title}</title>
     <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
-    <link rel="stylesheet" href="css/style.css?v=20260914a">
+    <link rel="stylesheet" href="css/style.css?v=20261005a">
 </head>
 <body>
     <div class="loading" id="loading"><div class="loading-spinner"></div></div>
@@ -157,22 +162,22 @@ const landings = [
     keywords: 'SEN游泳, 特殊需要游泳, 香港SEN, 特殊教育需要, 新天地',
     body: `<section class="page-header"><div class="container"><h1>認識特殊需要與 SEN 游泳</h1><p>從認識孩子的需要開始，再到水中安全學習</p></div></section>
 ${learnHero('hero-sen-guide.webp', '共融插畫：香港泳池邊，教練歡迎多樣特殊需要兒童學游泳', 'SEN 游泳總覽：以尊嚴與共融方式認識不同需要')}
-<section class="section"><div class="container">
+<section class="section"><div class="container reading-flow">
 <p>每一位孩子的學習節奏都不同。新天地以游泳及多功能發展為核心，陪伴自閉症、ADHD、讀寫／動作協調困難、肢體／感官障礙、智力障礙、唐氏綜合症等家庭，用可預期的流程與個別化安排，讓孩子在水中建立安全感與自信。我們相信特殊需要不是「污名」，而是需要被理解與適切支援的個別差異。</p>
 ${DISCLAIMER}
 <div class="features-grid" style="margin-top:2rem">
   <div class="card">${cardThumb('card-support.webp', '香港支援系統示意插畫')}<h3><a href="sen-support-hk.html">香港支援系統</a></h3><p>認識特殊需要的基本概念，以及教育、社福等本地支援如何與游泳課銜接。</p></div>
   <div class="card">${cardThumb('card-overview.webp', 'SEN 習泳價值示意')}<h3><a href="sen-swim-benefits.html">習泳的價值</a></h3><p>從感覺統合、動作、專注到情緒與社交：水中活動如何幫助孩子。</p></div>
   <div class="card">${cardThumb('card-adhd.webp', '正向行為與課堂結構示意')}<h3><a href="sen-swim-behavior.html">正向行為與課堂</a></h3><p>行為是訊息：可預測結構、具體讚賞、先調節再教學。</p></div>
-  <div class="card">${cardThumb('card-autism.webp', '視覺與輔助溝通示意')}<h3><a href="sen-swim-communication.html">泳池溝通與 AAC</a></h3><p>圖卡、手勢、短指令與孩子慣用的溝通方式，讓低口語孩子也能參與。</p></div>
-  <div class="card">${cardThumb('card-physical.webp', '水中安全示意')}<h3><a href="sen-swim-safety.html">游泳安全家長指引</a></h3><p>課前準備、更衣室、泳池與課後交接的安全重點。</p></div>
+  <div class="card">${cardThumb('card-communication.jpg', '視覺與輔助溝通示意')}<h3><a href="sen-swim-communication.html">泳池溝通與 AAC</a></h3><p>圖卡、手勢、短指令與孩子慣用的溝通方式，讓低口語孩子也能參與。</p></div>
+  <div class="card">${cardThumb('hero-sen-safety.jpg', '水中安全示意')}<h3><a href="sen-swim-safety.html">游泳安全家長指引</a></h3><p>課前準備、更衣室、泳池與課後交接的安全重點。</p></div>
   <div class="card">${cardThumb('card-development.webp', '特殊需要游泳運動發展示意')}<h3><a href="sen-swim-development.html">游泳運動發展</a></h3><p>帕運與香港殘疾／智障體育協會、普及游泳與精英培訓的脈絡。</p></div>
   <div class="card">${cardThumb('card-physical.webp', '肢體與感官游泳支援示意')}<h3><a href="sen-swim-physical.html">肢體・視覺・聽力</a></h3><p>泳池安全、溝通方式與教學調整，讓感官與肢體需要的孩子也能下水。</p></div>
   <div class="card">${cardThumb('card-intellectual.webp', '智力及多重障礙游泳示意')}<h3><a href="sen-swim-intellectual.html">智力及多重障礙</a></h3><p>分步、重複與安全意識：適合智力障礙及多重需要的水中學習節奏。</p></div>
   <div class="card">${cardThumb('card-down.webp', '唐氏綜合症游泳示意')}<h3><a href="sen-swim-down-syndrome.html">唐氏綜合症</a></h3><p>肌張力、健康注意與循序漸進的游泳課設計重點。</p></div>
   <div class="card">${cardThumb('card-autism.webp', '自閉症游泳視覺提示示意')}<h3><a href="sen-swim-autism.html">自閉症游泳</a></h3><p>視覺提示、感官調節與固定流程。</p></div>
   <div class="card">${cardThumb('card-adhd.webp', 'ADHD 短單元游泳示意')}<h3><a href="sen-swim-adhd.html">ADHD 游泳</a></h3><p>短單元、即時回饋與專注力訓練。</p></div>
-  <div class="card">${cardThumb('card-overview.webp', '讀寫與動作協調游泳示意')}<h3><a href="sen-swim-learning.html">讀寫／動作協調</a></h3><p>示範為主、分步練習與多感官提示，減少文字負擔。</p></div>
+  <div class="card">${cardThumb('card-learning.jpg', '讀寫與動作協調游泳示意')}<h3><a href="sen-swim-learning.html">讀寫／動作協調</a></h3><p>示範為主、分步練習與多感官提示，減少文字負擔。</p></div>
   <div class="card">${cardThumb('card-overview.webp', '家長資源與 SEN 游泳總覽示意')}<h3><a href="resources.html">家長資源</a></h3><p>育兒錦囊、免費下載與常見問題。</p></div>
 </div>
 ${CTA('<p style="margin-top:1rem"><a href="services.html">查看服務項目</a></p>')}
@@ -186,7 +191,7 @@ ${CTA('<p style="margin-top:1rem"><a href="services.html">查看服務項目</a>
     keywords: '特殊教育需要, SEN支援, 香港SEN, 特殊需要兒童, 融合教育',
     body: `<section class="page-header"><div class="container"><h1>認識特殊需要及香港支援系統</h1><p>家長入門：概念層面的認識，方便與學校、服務及游泳課溝通</p></div></section>
 ${learnHero('hero-sen-support.webp', '共融插畫：家庭、學校與游泳教練組成的支援網絡', '香港支援系統：教育、社福與水中學習如何銜接')}
-<section class="section"><div class="container">
+<section class="section"><div class="container reading-flow">
 <h2>什麼是特殊教育需要（SEN）？</h2>
 <p>特殊教育需要泛指孩子在學習、溝通、感官、肢體或行為情緒上，需要額外或個別化支援，才能更公平地參與日常學習與活動。常見類別包括：自閉症譜系、專注力不足／過度活躍症（ADHD）、讀寫障礙、肢體／視覺／聽力障礙、智力障礙、唐氏綜合症等。同一標籤下，每位孩子的能力與需要仍可以差別很大。</p>
 <p>社會對特殊需要的理解亦在轉變：早期標籤式稱呼容易帶來偏見，現今更強調<strong>去污名化</strong>與尊重個體差異，並受《聯合國殘疾人權利公約》等理念影響——每位孩子都有平等參與學習與社區生活的權利。</p>
@@ -231,7 +236,7 @@ ${CTA()}
     keywords: '帕運游泳, 殘疾人游泳, 智障人士游泳, HKSAPD, HKSAPID, 特殊需要游泳香港',
     body: `<section class="page-header"><div class="container"><h1>國際及香港特殊需要人士游泳運動發展</h1><p>從帕運精神到本地普及游泳：家長可認識的發展脈絡</p></div></section>
 ${learnHero('hero-sen-development.webp', '共融插畫：孩子從池邊到踢水的游泳發展進程', '特殊需要游泳：從普及習泳到競技路徑的認識')}
-<section class="section"><div class="container">
+<section class="section"><div class="container reading-flow">
 <h2>為什麼特別談「游泳」？</h2>
 <p>游泳同時鍛鍊全身協調、呼吸節奏與水中安全意識，對許多有特殊需要的孩子來說，是既可復康又可社交、甚至可走向競技的運動。國際帕運（Paralympic）精神強調「精神在運動中」（Spirit in Motion）：運動員以表現激勵世界，持續向前。</p>
 ${learnFigure('card-development.webp', '游泳技能循序發展示意插畫', '多數家庭的目標是安全與自信；競技只是其中一條路')}
@@ -281,7 +286,7 @@ ${CTA()}
     keywords: '肢體障礙游泳, 視障游泳, 聽障游泳, 感官障礙游泳, SEN游泳香港',
     body: `<section class="page-header"><div class="container"><h1>肢體、視覺、聽力障礙與游泳</h1><p>安全第一，溝通清楚，讓身體條件不同的孩子也能享受水中學習</p></div></section>
 ${learnHero('hero-sen-physical.webp', '共融插畫：輪椅輔具與泳池安全轉移、視覺引導', '肢體・視覺・聽力：尊嚴與安全並重的水中學習')}
-<section class="section"><div class="container">
+<section class="section"><div class="container reading-flow">
 <h2>共同原則</h2>
 <p>無論肢體、視覺或聽力需要，課堂都以<strong>安全、尊嚴與可預期流程</strong>為先。教練會先了解孩子的移動方式、輔具、疲勞訊號與溝通偏好，再決定入水步驟與輔助用具（浮板、助浮衣等按需要使用）。教學重點是<strong>觀察與引導</strong>：從孩子已有的能力與優勢側開始，而不是硬套一般兒童的標準流程。</p>
 ${learnFigure('teach-safe-guidance.webp', '水中安全引導示意：教練輕觸提示再引導手部動作', '安全引導示意（非官方賽事標誌）：清楚溝通比硬背動作更重要')}
@@ -340,7 +345,7 @@ ${CTA()}
     keywords: '智力障礙游泳, 智障游泳, 多重障礙游泳, SEN游泳, 特殊需要游泳教學',
     body: `<section class="page-header"><div class="container"><h1>智力障礙及多重障礙與游泳</h1><p>把大目標拆成小步驟，用重複與安全感建立水中能力</p></div></section>
 ${learnHero('hero-sen-intellectual.webp', '共融插畫：教練以圖像提示協助智力障礙孩子學游泳', '智力及多重障礙：分步、重複與具體安全規則')}
-<section class="section"><div class="container">
+<section class="section"><div class="container reading-flow">
 <h2>教學核心：清楚、重複、可預期</h2>
 <p>智力障礙（亦常稱智障）的理解，專業上通常同時看重<strong>智力功能</strong>與<strong>適應行為</strong>（溝通、社交、生活自理等），而不是單一分數。孩子可能在理解抽象指令、記憶步驟或判斷危險上需要更多時間；多重障礙則可能同時面對肢體、感官或溝通限制。游泳課宜採<strong>單一焦點</strong>：每節只強調一至兩個動作，完成即<strong>具體讚賞</strong>（說出他做到了什麼），而不是空泛的「你好叻」。</p>
 ${learnFigure('card-intellectual.webp', '分步圖像提示的游泳教學示意', '把「學會游泳」拆成看得見的小目標，孩子更易跟上')}
@@ -381,7 +386,7 @@ ${CTA()}
     keywords: '唐氏綜合症游泳, 唐氏游泳, Down syndrome 游泳, SEN游泳香港',
     body: `<section class="page-header"><div class="container"><h1>唐氏綜合症與游泳</h1><p>尊重身體節奏，在水中建立力量、協調與快樂</p></div></section>
 ${learnHero('hero-sen-down.webp', '共融插畫：唐氏綜合症孩子在泳池快樂學游泳', '唐氏綜合症游泳：尊重身體節奏，循序建立水中自信')}
-<section class="section"><div class="container">
+<section class="section"><div class="container reading-flow">
 <h2>為什麼許多家庭選擇游泳？</h2>
 <p>水的浮力可減少關節負重，有助在較安全的環境練習平衡與全身協調。對肌張力較低（hypotonia）的孩子，游泳能以遊戲化方式強化核心與四肢控制，同時提供明確的社交與規律活動。</p>
 ${learnFigure('card-down.webp', '唐氏綜合症水中學習快樂示意', '浮力與遊戲化練習，幫助建立力量與協調')}
@@ -427,11 +432,12 @@ ${CTA()}
     keywords: '自閉症游泳, 自閉症游泳課程, 香港SEN游泳, 視覺提示, 感官友善游泳',
     body: `<section class="page-header"><div class="container"><h1>自閉症游泳課程（香港）</h1><p>專為自閉症譜系孩子設計的水中學習環境</p></div></section>
 ${learnHero('hero-sen-autism.webp', '共融插畫：自閉症友善泳池與視覺提示學習環境', '自閉症游泳：視覺提示、感官調節與固定流程')}
-<section class="section"><div class="container">
+<section class="section"><div class="container reading-flow">
 <h2>為何選擇水中學習？</h2>
 <p>水能提供可預測的感官輸入，許多自閉症孩子在陸地上感到過載，卻能在結構化的游泳課中建立安全感。自閉症譜系是先天的神經發展差異，能力和語言程度可以相差很大；即或語言與認知不錯，社交溝通、情緒調節與突發轉變仍可能需要系統支援。我們使用視覺提示卡、固定流程與可預期節奏，減少焦慮。</p>
 <p><strong>重要澄清：</strong>游泳<strong>不能「根治」自閉症</strong>。合理目標是減少日常困難、提升水中安全感與生活適應力，而不是承諾治癒。詳見<a href="sen-swim-benefits.html">習泳的價值</a>。</p>
 ${learnFigure('teach-visual-schedule.webp', '視覺流程示意：換衣服、池邊、踢水三步驟', '視覺流程卡：換衣服 → 池邊 → 踢水，幫助預知下一步')}
+${motionFig('anim-visual-schedule.svg', '視覺流程卡依序發亮的動態示意', '動態流程：換衣服 → 池邊 → 踢水 → 休息')}
 <h2>看見優勢，不只看見困難</h2>
 <p>不少自閉症孩子在感興趣的事物上專注力與堅持度很高。課堂上我們會用清晰、形象的步驟，以及「看得見的小挑戰」建立成功感；強度由低開始，避免一開始就過勞或受傷。關節柔軟度、耐力與疲勞訊號因人而異，請家長分享孩子平日活動的觀察。</p>
 <h2>教學重點</h2>
@@ -471,9 +477,10 @@ ${CTA()}
     keywords: 'ADHD游泳, ADHD專注力訓練, SEN游泳香港, 特殊需要游泳',
     body: `<section class="page-header"><div class="container"><h1>ADHD 孩子學游泳</h1><p>用水中結構化活動建立專注與自我調節</p></div></section>
 ${learnHero('hero-sen-adhd.webp', '共融插畫：ADHD 孩子以短單元方式練習踢水', 'ADHD 游泳：短單元、即時回饋與水中專注力')}
-<section class="section"><div class="container">
+<section class="section"><div class="container reading-flow">
 <p>注意力不足／過度活躍症（ADHD）常見表現包括活動量高、衝動、以及專注維持困難——孩子並非「不聽話」，而是需要更清晰的指令與即時回饋。臨床上可分為複合型、專注不足為主、或過度活躍／衝動為主等不同組合，同一標籤下表現仍可以很不同。我們把課堂拆成短單元，配合視覺提示與正向強化，讓孩子練習「開始—專注—完成」。</p>
 ${learnFigure('teach-adhd-focus.webp', 'ADHD 短單元專注練習示意插畫', '短單元專注：每節幾個小目標，完成即具體讚賞')}
+${motionFig('anim-kick.svg', '短單元踢水動態示意', '高密度短活動：完成一小組，再休息一下')}
 <h2>泳池安全與課堂節奏</h2>
 <ul>
 <li><strong>清楚界線：</strong>用地墊或浮線標示等待區；未得教練訊號，不可自行下水。</li>
@@ -498,11 +505,13 @@ ${CTA()}
       '讀寫障礙（Dyslexia）與發展性動作協調障礙（DCD）兒童的游泳教學：示範為主、分步練習、多感官提示，香港 SEN 游泳。',
     keywords: '讀寫障礙游泳, 動作協調障礙, DCD游泳, 特殊學習困難, SEN游泳香港',
     body: `<section class="page-header"><div class="container"><h1>讀寫障礙與動作協調障礙游泳</h1><p>減少文字負擔，把動作拆清楚，讓孩子在水中累積成功經驗</p></div></section>
-${learnHero('hero-sen-guide.webp', '共融插畫：教練以示範與圖示協助特殊學習需要孩子', '特殊學習困難：示範、分步與多感官學習')}
-<section class="section"><div class="container">
+${learnHero('hero-sen-learning.jpg', '共融插畫：教練以示範與圖示協助特殊學習需要孩子', '特殊學習困難：示範、分步與多感官學習')}
+<section class="section"><div class="container reading-flow">
 <h2>什麼是特殊學習困難（概念）？</h2>
 <p>特殊學習困難泛指整體智力可以在一般範圍，但在讀寫、數學或動作協調等特定能力上有持續明顯困難。常見包括<strong>讀寫障礙</strong>（文字解碼、拼寫與閱讀處理）與<strong>發展性動作協調障礙（DCD）</strong>（動作計劃、協調與學習新動作）。兩者可以並存，也可與專注或發展需要同時出現——教學應看孩子實際表現，而不是只看標籤。</p>
 ${DISCLAIMER}
+${learnFigure('card-learning.jpg', '示範為主、分步練習的游泳教學示意', '少文字、多示範：一次只加一個新動作')}
+${motionFig('anim-kick.svg', '踢水動作動態示意', '動態示意：把大動作拆成看得見的小步驟')}
 <h2>讀寫障礙：對游泳課的影響</h2>
 <p>讀寫障礙<strong>不是</strong>智力低、懶惰或欠缺動機。口語理解與創意可能很強，但長文字規則、技術名稱或書面評估會較吃力。水中動作本身未必受影響，但接收文字資訊、一次記住多個技術要求會較困難。</p>
 <ul>
@@ -538,8 +547,8 @@ ${CTA()}
       'SEN 兒童習泳的生理、心理、家庭與社交價值：浮力、靜水壓、感覺統合、專注力、情緒與自信。家長教育參考，非醫療診斷。',
     keywords: 'SEN游泳好處, 特殊需要習泳價值, 水中感覺統合, 自閉症游泳好處, ADHD游泳',
     body: `<section class="page-header"><div class="container"><h1>特殊需要兒童習泳的價值</h1><p>從感覺統合、動作發展到情緒與社交：水中活動如何成為全方位支援</p></div></section>
-${learnHero('hero-sen-guide.webp', '共融插畫：SEN 孩子在水中建立自信與安全感', '習泳價值：身體被承托、感覺被整理、努力被看見')}
-<section class="section"><div class="container">
+${learnHero('hero-sen-benefits.jpg', '共融插畫：SEN 孩子在水中建立自信與安全感', '習泳價值：身體被承托、感覺被整理、努力被看見')}
+<section class="section"><div class="container reading-flow">
 <p>游泳不是要把 SEN 孩子變成競技泳手，而是給他們一個身體被承托、感覺被整理、努力被看見的空間。水的浮力、阻力與均勻壓力，往往正好對準許多特殊需要孩子的共同挑戰。</p>
 ${DISCLAIMER}
 <h2>為甚麼是水？</h2>
@@ -550,6 +559,7 @@ ${DISCLAIMER}
 <li><strong>溫度與節奏：</strong>合適水溫有助放鬆；划水與呼吸節奏同時訓練心肺與自我調節。</li>
 </ul>
 ${learnFigure('teach-safe-guidance.webp', '水中安全引導與承托示意', '安全承托：先適應水，再談泳式')}
+${motionFig('anim-bubbles.svg', '水中氣泡上升動態示意', '吹泡泡、洗臉、坐池邊拍水，都是有效的第一步')}
 <h2>六大發展方向</h2>
 <ol>
 <li><strong>感覺統合：</strong>前庭、本體、觸覺同時啟動，幫助大腦整理感官訊息。</li>
@@ -594,12 +604,13 @@ ${CTA()}
     keywords: '正向行為管理, SEN游泳行為, ABC行為分析, 視覺流程, 特殊需要課堂管理',
     body: `<section class="page-header"><div class="container"><h1>正向行為與 SEN 游泳課堂</h1><p>行為是訊息：先理解原因，再調整環境與教學</p></div></section>
 ${learnHero('hero-sen-adhd.webp', '共融插畫：教練以清晰結構與正向回饋引導孩子', '正向行為：清晰、簡潔、一致、可預測')}
-<section class="section"><div class="container">
+<section class="section"><div class="container reading-flow">
 <p>正向行為管理<strong>不是</strong>單純「控制孩子」或「懲罰不當行為」，而是用清晰課堂結構、正面溝通、環境安排與一致回饋，提高孩子成功參與的機會。核心問題不是「怎樣令他聽話」，而是「他為甚麼這樣做？我可以怎樣調整，令合適行為更容易出現？」</p>
 ${DISCLAIMER}
 <h2>常見課堂行為，往往是訊息</h2>
 <p>例如：不肯下水、不跟指令、離開水道、等候時走來走去、哭喊、對流程改變不安、對水花／觸感強烈反應。請先考慮：他是否不明白要求、焦慮、感官過載、面對突變、難度太高、疲倦，或無法用語言表達需要？</p>
 ${learnFigure('teach-visual-schedule.webp', '視覺流程卡示意', '可預測流程：集合 → 熱身 → 練習 → 遊戲 → 離水')}
+${motionFig('anim-visual-schedule.svg', '課堂步驟卡依序發亮', '看得見下一步，比空喊「乖啲」更有用')}
 <h2>核心策略（家長也能配合）</h2>
 <ol>
 <li><strong>可預測的課堂結構：</strong>固定集合點與入水程序；用視覺流程卡；活動轉換前先預告；清楚開始與結束。</li>
@@ -630,11 +641,12 @@ ${CTA()}
       'SEN 游泳安全：課前健康溝通、更衣室注意、泳池環境、教學過程觀察與課後交接。家長教育參考。',
     keywords: 'SEN游泳安全, 特殊需要泳池安全, 兒童游泳安全, 更衣室安全, 香港SEN游泳',
     body: `<section class="page-header"><div class="container"><h1>特殊需要游泳安全家長指引</h1><p>由更衣室到交回家長：把安全做成可預期的流程</p></div></section>
-${learnHero('hero-sen-physical.webp', '共融插畫：泳池安全引導與家長交接', '安全先行：互信、清楚溝通、全程交接')}
-<section class="section"><div class="container">
+${learnHero('hero-sen-safety.jpg', '共融插畫：泳池安全引導與家長交接', '安全先行：互信、清楚溝通、全程交接')}
+<section class="section"><div class="container reading-flow">
 <p>水中學習的第一步永遠是安全。以下整理課前、更衣室、泳池與課後重點，方便家長與教練對齊——個別安排仍以孩子實際情況與場地設施為準。</p>
 ${DISCLAIMER}
 ${learnFigure('teach-safe-guidance.webp', '水中安全引導示意', '安全引導：清楚溝通比硬背動作更重要')}
+${motionFig('anim-breath.svg', '呼吸節奏動態示意', '先看呼吸，再看動作：圓圈慢放慢收，提醒節奏要穩')}
 <h2>1. 課堂前的準備</h2>
 <ul>
 <li>建立互信：用恰當、溫和的語言與身體語言，讓孩子感到被尊重。</li>
@@ -690,11 +702,12 @@ ${CTA()}
       '低口語、語言障礙與自閉症孩子的泳池溝通：短指令、視覺圖卡、PECS／AAC，沿用孩子慣用的溝通方式。香港 SEN 游泳。',
     keywords: 'PECS游泳, AAC溝通, 圖卡溝通, SEN游泳溝通, 低口語游泳, 匡智溝通易',
     body: `<section class="page-header"><div class="container"><h1>泳池裡怎樣溝通？</h1><p>語言不只是說話：手勢、圖卡、表情與孩子慣用的 AAC，都可以成為課堂語言</p></div></section>
-${learnHero('hero-sen-autism.webp', '共融插畫：教練以圖卡與手勢協助孩子理解課堂', '溝通先行：找到孩子聽得懂、表達得出的平台')}
-<section class="section"><div class="container">
+${learnHero('hero-sen-communication.jpg', '共融插畫：教練以圖卡與手勢協助孩子理解課堂', '溝通先行：找到孩子聽得懂、表達得出的平台')}
+<section class="section"><div class="container reading-flow">
 <p>有些孩子怕說話、句子短；有些滔滔不絕但組織弱；有些口語不錯，卻難輪流、難對題。這都可能是<strong>語言或社交溝通需要</strong>，不是「不聽話」。游泳課會先找出合適的語言平台：孩子現有能力、家中慣用語言（單語／雙語），以及他已經在用的圖卡或 App。</p>
 ${DISCLAIMER}
-${learnFigure('teach-visual-schedule.webp', '視覺流程卡示意', '視覺安排：孩子看得見下一步，焦慮往往會下降')}
+${learnFigure('card-communication.jpg', '圖卡交換溝通示意', '視覺安排：孩子看得見下一步，焦慮往往會下降')}
+${motionFig('anim-pecs.svg', '圖卡交換動態示意', '動態示意：主動遞出圖片，讓溝通變得有用')}
 <h2>課堂溝通原則</h2>
 <ol>
 <li><strong>簡化、示範、重複：</strong>少長句、少比喻；一次一個重點；示範比講解更有效。</li>
@@ -738,7 +751,8 @@ ${CTA()}
       '服務香港九龍、新界及港島家庭。SEN 游泳、感統與專注力課程，上課地點與班別請 WhatsApp 9708 3907 查詢。',
     keywords: '香港SEN游泳, 九龍游泳, 新界游泳, 港島游泳, 特殊需要兒童游泳',
     body: `<section class="page-header"><div class="container"><h1>服務香港各區家庭</h1><p>九龍 · 新界 · 港島 — 歡迎查詢合適上課地點</p></div></section>
-<section class="section"><div class="container">
+${learnHero('hero-booking.webp', '共融插畫：家庭查詢各區 SEN 游泳課程', '各區家庭歡迎查詢合適上課地點與班別')}
+<section class="section"><div class="container reading-flow">
 <p>新天地專注 SEN 學童游泳及多功能發展，家長可透過 WhatsApp 查詢就近班別與時間。我們會按孩子需要建議個別或小組課程。</p>
 <h2>常見查詢</h2>
 <ul><li>首次評估與試堂安排</li><li>交通與更衣室無障礙需要</li><li>兄弟姊妹／家長陪同政策</li></ul>

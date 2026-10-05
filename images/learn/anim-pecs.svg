@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img">
+  <title>Picture card exchange</title>
+  <style>
+    .pass{animation:pass 3.2s ease-in-out infinite}
+    @keyframes pass{0%,100%{transform:translate(0,0)}50%{transform:translate(118px,-8px)}}
+    @media (prefers-reduced-motion:reduce){.pass{animation:none;transform:translate(60px,0)}}
+  </style>
+  <rect width="720" height="240" rx="20" fill="#FAF5E8"/>
+  <circle cx="180" cy="128" r="42" fill="#F5D0A9"/>
+  <rect x="148" y="162" width="64" height="50" rx="12" fill="#5BA3D9"/>
+  <circle cx="520" cy="118" r="46" fill="#E8C4A8"/>
+  <rect x="478" y="154" width="84" height="56" rx="12" fill="#163A5F"/>
+  <g class="pass">
+    <rect x="248" y="96" width="72" height="88" rx="10" fill="#FFFCF5" stroke="#1E5799" stroke-width="3"/>
+    <ellipse cx="284" cy="132" rx="20" ry="10" fill="#5BA3D9"/>
+    <rect x="268" y="148" width="32" height="8" rx="3" fill="#E9C46A"/>
+  </g>
+</svg>

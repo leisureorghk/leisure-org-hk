@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img">
+  <title>Visual schedule cards highlighting in sequence</title>
+  <style>
+    .card{fill:#FFFCF5;stroke:#1E5799;stroke-width:2}
+    .hi{fill:none;stroke:#E9C46A;stroke-width:5;opacity:0}
+    .hi1{animation:pulse 8s ease-in-out infinite}
+    .hi2{animation:pulse 8s ease-in-out 2s infinite}
+    .hi3{animation:pulse 8s ease-in-out 4s infinite}
+    .hi4{animation:pulse 8s ease-in-out 6s infinite}
+    .dot{fill:#CBD5E0}
+    .d1{animation:on 8s ease-in-out infinite}
+    .d2{animation:on 8s ease-in-out 2s infinite}
+    .d3{animation:on 8s ease-in-out 4s infinite}
+    .d4{animation:on 8s ease-in-out 6s infinite}
+    @keyframes pulse{0%,18%,100%{opacity:0}8%,14%{opacity:1}}
+    @keyframes on{0%,18%,100%{fill:#CBD5E0}8%,14%{fill:#2A9D8F}}
+    text{font-family:Noto Sans TC,sans-serif;font-size:18px;fill:#163A5F;text-anchor:middle}
+    @media (prefers-reduced-motion:reduce){.hi,.dot{animation:none}.hi1,.hi2,.hi3,.hi4{opacity:.6}.d1,.d2,.d3,.d4{fill:#2A9D8F}}
+  </style>
+  <rect width="720" height="220" rx="20" fill="#F5ECD7"/>
+  <g transform="translate(28,36)">
+    <rect class="card" width="140" height="140" rx="16"/>
+    <rect class="hi hi1" x="-6" y="-6" width="152" height="152" rx="18"/>
+    <circle cx="70" cy="48" r="22" fill="#5BA3D9"/>
+    <rect x="48" y="78" width="44" height="36" rx="6" fill="#1E5799"/>
+    <text x="70" y="132">1</text>
+    <circle class="dot d1" cx="70" cy="12" r="6"/>
+  </g>
+  <g transform="translate(202,36)">
+    <rect class="card" width="140" height="140" rx="16"/>
+    <rect class="hi hi2" x="-6" y="-6" width="152" height="152" rx="18"/>
+    <ellipse cx="70" cy="78" rx="48" ry="18" fill="#A8D4F0"/>
+    <rect x="28" y="58" width="84" height="12" rx="4" fill="#2A9D8F"/>
+    <text x="70" y="132">2</text>
+    <circle class="dot d2" cx="70" cy="12" r="6"/>
+  </g>
+  <g transform="translate(376,36)">
+    <rect class="card" width="140" height="140" rx="16"/>
+    <rect class="hi hi3" x="-6" y="-6" width="152" height="152" rx="18"/>
+    <ellipse cx="70" cy="82" rx="50" ry="16" fill="#5BA3D9"/>
+    <path d="M30 70 Q50 40 70 70 T110 70" fill="none" stroke="#0D2847" stroke-width="6" stroke-linecap="round"/>
+    <text x="70" y="132">3</text>
+    <circle class="dot d3" cx="70" cy="12" r="6"/>
+  </g>
+  <g transform="translate(550,36)">
+    <rect class="card" width="140" height="140" rx="16"/>
+    <rect class="hi hi4" x="-6" y="-6" width="152" height="152" rx="18"/>
+    <circle cx="70" cy="62" r="26" fill="#E9C46A"/>
+    <path d="M54 62 Q70 78 86 62" fill="none" stroke="#163A5F" stroke-width="4"/>
+    <text x="70" y="132">4</text>
+    <circle class="dot d4" cx="70" cy="12" r="6"/>
+  </g>
+</svg>

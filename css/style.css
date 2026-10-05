@@ -2164,6 +2164,92 @@ p { margin-bottom: var(--spacing-sm); }
     height: auto;
 }
 
+.reading-flow > p,
+.reading-flow > ul,
+.reading-flow > ol,
+.reading-flow > h2,
+.reading-flow > h3,
+.reading-flow > .digest-intro,
+.reading-flow > .weekly-faq {
+    max-width: 42rem;
+}
+
+.reading-flow > h2 {
+    margin-top: 2.25rem;
+}
+
+.motion-figure img {
+    background: linear-gradient(180deg, #e8f4fb 0%, #faf5e8 100%);
+}
+
+.service-card-image.photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: none;
+}
+
+.service-card:hover .service-card-image.photo img {
+    transform: scale(1.05) rotate(0);
+}
+
+.card-visual {
+    width: calc(100% + 2 * var(--spacing-xl));
+    max-width: none;
+    margin: calc(-1 * var(--spacing-xl)) calc(-1 * var(--spacing-xl)) var(--spacing-md);
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+}
+
+.home-photo-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.home-photo-grid figure {
+    margin: 0;
+    background: var(--sand-light);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+}
+
+.home-photo-grid img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.home-photo-grid figcaption {
+    padding: 0.65rem 0.85rem 0.9rem;
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+}
+
+@media (max-width: 768px) {
+    .home-photo-grid {
+        grid-template-columns: 1fr;
+    }
+    .home-photo-grid img {
+        height: 200px;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    .particles { display: none; }
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
 .monthly-audit-panel {
     padding-top: var(--spacing-lg);
     padding-bottom: var(--spacing-lg);
