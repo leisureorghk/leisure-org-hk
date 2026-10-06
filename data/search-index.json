@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-10-05T10:02:22.745Z",
-  "count": 66,
+  "builtAt": "2026-10-06T07:12:44.056Z",
+  "count": 69,
   "items": [
     {
       "type": "page",
@@ -148,10 +148,34 @@
     },
     {
       "type": "page",
+      "path": "sen-swim-sensory.html",
+      "url": "https://www.leisure.org.hk/sen-swim-sensory.html",
+      "title": "感覺統合與 SEN 游泳",
+      "description": "感覺統合與游泳：前庭、本體、觸覺，過敏與尋求刺激在水中的家長向調整方向。非醫療診斷，香港 SEN 游泳。",
+      "keywords": "感覺統合游泳, 水中感統, 感官過敏, 本體覺, 前庭覺, SEN游泳香港"
+    },
+    {
+      "type": "page",
+      "path": "sen-swim-wellbeing.html",
+      "url": "https://www.leisure.org.hk/sen-swim-wellbeing.html",
+      "title": "情緒、心理健康與 SEN 游泳",
+      "description": "焦慮、情緒波動、用藥影響與怕水記憶：游泳課如何配合醫療與家長溝通。非診斷、非心理治療。",
+      "keywords": "SEN游泳情緒, 焦慮怕水, 心理健康游泳, 用藥副作用, 香港SEN"
+    },
+    {
+      "type": "page",
+      "path": "sen-swim-classroom.html",
+      "url": "https://www.leisure.org.hk/sen-swim-classroom.html",
+      "title": "SEN 游泳課堂怎樣上",
+      "description": "SEN 游泳課的五階段流程、視覺結構、心理安全，以及評估是為調課不是排名。香港家長教育。",
+      "keywords": "SEN游泳課堂, 視覺時間表, 結構化教學, 游泳評估, 香港SEN"
+    },
+    {
+      "type": "page",
       "path": "sen-guide.html",
       "url": "https://www.leisure.org.hk/sen-guide.html",
       "title": "認識特殊需要與 SEN 游泳",
-      "description": "認識香港特殊教育需要（SEN）與游泳教學：支援系統、運動發展，以及自閉症、ADHD、讀寫／動作協調、肢體、感官、智力障礙與唐氏綜合症的水中學習方向。",
+      "description": "認識香港特殊教育需要（SEN）與游泳教學：支援系統、感覺統合、課堂結構、情緒健康，以及自閉症、ADHD、讀寫／動作協調、肢體、感官、智力障礙與唐氏綜合症的水中學習方向。",
       "keywords": "SEN游泳, 特殊需要游泳, 香港SEN, 特殊教育需要, 新天地"
     },
     {

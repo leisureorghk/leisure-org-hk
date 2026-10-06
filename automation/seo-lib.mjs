@@ -661,6 +661,21 @@ export function pickRelatedLandingPages(config, textBlob, limit = 3) {
       keys: ['溝通', 'pecs', 'aac', '圖卡', '口語', '語言', '輔具'],
     },
     {
+      path: '/sen-swim-sensory.html',
+      title: '感覺統合與游泳',
+      keys: ['感覺統合', '感統', '感官', '前庭', '本體', '觸覺', '過敏'],
+    },
+    {
+      path: '/sen-swim-wellbeing.html',
+      title: '情緒與心理健康',
+      keys: ['情緒', '焦慮', '抑鬱', '心理健康', '用藥', '創傷'],
+    },
+    {
+      path: '/sen-swim-classroom.html',
+      title: '課堂怎樣上',
+      keys: ['課堂', '教案', '評估', '時間表', '結構化', 'teacch', 'step'],
+    },
+    {
       path: '/sen-swim-down-syndrome.html',
       title: '唐氏綜合症游泳',
       keys: ['唐氏', 'down', '肌張力'],
