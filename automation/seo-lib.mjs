@@ -193,7 +193,7 @@ export function localBusinessJsonLd(site) {
     name: site.nameFull,
     alternateName: ['新天地', 'Leisure Organization HK', '新天地 SEN游泳'],
     description:
-      '香港首間專為 SEN（特殊教育需要）學生設立的游泳及多功能發展中心，提供游泳教學、感統訓練、社交技巧及專注力訓練。',
+      '香港專為 SEN（特殊教育需要）學生設立的游泳及多功能發展機構，提供游泳教學、感統訓練、社交技巧及專注力訓練。',
     url: site.baseUrl,
     image: imageUrl(site, site.defaultImage),
     logo: imageUrl(site, '/images/icons/app-icon.svg'),
