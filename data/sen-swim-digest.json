@@ -1,14 +1,66 @@
 {
-  "updatedAt": "2026-10-15T05:44:19.999Z",
+  "updatedAt": "2026-10-16T05:38:20.326Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "游泳選手阿奇·古德伯恩感謝首相腦癌審查宣布",
-      "url": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T19:04:46.000Z",
-      "summary": "這位蘇格蘭運動員患有無法手術切除的腦腫瘤，此前曾在BBC早餐節目中含淚呼籲增加腦癌研究的投資。",
+      "title": "游泳運動員含淚呼籲癌症研究　獲安排與首相會面",
+      "url": "https://www.bbc.co.uk/news/videos/cqkgj4pxv5ydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T18:10:41.000Z",
+      "summary": "游泳運動員阿奇·古德伯恩在改善腦癌患者護理方面取得成功，英國政府隨即宣布新措施。",
       "sourceName": "BBC 新聞（健康）",
       "sourceId": "bbc-health",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7e96/live/90d29d70-c8af-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "Andy Burnham (left) sat next to Archie Goodburn (right). Both are wearing suits."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3de6/live/4303b8f0-c8d6-11f1-9a39-31b474234113.jpg",
+          "alt": "Composite image showing Carrie Davies and a pile of rubble from the collapsed roof"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/14fd/live/123f85f0-c85e-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "Fathom bandmates celebrate breaking world record"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/717d/live/c5e33180-c8b6-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Split screen image. On the left, Ukraine President Zelensky. In the middle, Elon Musk. On the right, Donald Trump."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a1c8/live/c7113d20-c8a9-11f1-9a39-31b474234113.jpg",
+          "alt": "Hole in roof"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3b30/live/f5fea800-c897-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "The Duke and Duchess of Sussex during a visit to The Community Recording Studio in Nottingham."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2835/live/1c61d100-c7fa-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Woman with brown hair wearing a blue and white striped shirt holding a phone"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/069c/live/567fb8d0-c817-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "Joe Inwood on the left and Zelensky and Burnham shaking hands outside Downing Street on the right"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dc6b/live/96412140-c847-11f1-9a39-31b474234113.jpg",
+          "alt": "Woman wears an eye and face gas mask"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f0c9/live/daf720f0-c86f-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "A composite image of a mechanical bird from the Brooklyn store Art of Play and Kelly Clarkson."
+        }
+      ],
+      "bodyZh": "BBC News\n\n情緒激動的電視呼籲癌症研究　最終促成與首相會面\n\n要在瀏覽器中啟用 JavaScript 才能播放此影片。\n\n此影片無法播放。\n\n情緒激動的電視呼籲癌症研究　最終促成與首相會面\n\n（影片，時長 1 分 54 秒）\n\n健康\n\n發布於 11 小時前\n\n分享\n\n相關主題：\nAndy Burnham\nYvette Cooper\n腦癌\n健康\n\n延伸閱讀：\n為何澤連斯基與 Burnham 的會面意義重大（影片，時長 1 分 30 秒）\n\n其他精選影片：\n巴基斯坦學校屋頂倒塌現場（影片，時長 1 分 13 秒）\n澳洲樂隊「非一般」的締造演唱會世界紀錄之旅（影片，時長 2 分 1 秒）\nStarlink 與烏克蘭戰爭有何關聯？（影片，時長 1 分 33 秒）",
+      "featured": true
+    },
+    {
+      "title": "游泳運動員阿奇·古德伯恩感謝首相　宣佈腦癌檢討",
+      "url": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T19:04:46.000Z",
+      "summary": "這位蘇格蘭泳手患有無法切除的腦腫瘤，此前曾在BBC早餐節目中含淚呼籲增加對腦癌研究的投資。",
+      "sourceName": "BBC 運動（游泳）",
+      "sourceId": "bbc-swimming",
       "images": [
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7add/live/d23d0210-c70a-11f1-a86b-b5b222c3559c.jpg",
@@ -23,42 +75,42 @@
           "alt": "Archie Goodburn"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/74a2/live/9aa793d0-c7f3-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Russell Brand leaving Southwark Crown Court."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1928/live/9b95b760-c882-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Civil servant Kashim Chowdhury, 54, arrives at Southwark Crown Court, London, where he is to stand trial accused of fraud by allegedly holding multiple full-time Government jobs at the same time."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bc9b/live/9f7a91f0-c7ee-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "A DJ with a bushy black beard is talking to a reporter. He is wearing a black baseball cap and red headphones."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/724d/live/33dd6d30-c859-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Man in vest drinking from an orange cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8322/live/18b65730-c7e4-11f1-9a39-31b474234113.jpg",
-          "alt": "William Chapman has brown hair, a beard and moustache. He is wearing a blue T-shirt."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f899/live/6ba54780-c8ac-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Meghan Markle is wearing a long burgundy coat. Her hair is gelled back into a ponytail. She has a surprised expression."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/785e/live/9601dc80-c7d2-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "Singer Raye, has long red hair, she is wearing a black dress. She is singing on stage with a microphone in her left hand."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/979b/live/bc373310-c8c6-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Sally Rooney"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0a7a/live/150a23a0-c7da-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "A man with a scruffy beard and hair holds a model of a human head"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c4db/live/e4fcb2a0-c8c3-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "Archie Goodburn looks emotionally at the camera wearing a white shirt."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/32a4/live/db23df10-c7e7-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Customers walking in and out of the entrance to Poundland store."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5949/live/e63e4c70-c899-11f1-9a39-31b474234113.jpg",
+          "alt": "William Chapman in front of a waterfall with a blue top on, smiling at the camera."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/cd9d/live/de4ff3b0-c7d1-11f1-9a39-31b474234113.jpg",
-          "alt": "School children sat at their desk, each looking at a computer tablet."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e78c/live/66bcf0d0-c8aa-11f1-9a39-31b474234113.jpg",
+          "alt": "A close-up of Russell Brand with tied-back grey hair and a grey beard. He&#x27;s wearing sunglasses."
         }
       ],
-      "bodyZh": "游泳運動員阿奇·古德伯恩（Archie Goodburn）就腦癌檢討計劃獲宣布向首相致謝\n\n蘇格蘭運動員古德伯恩確診三顆無法切除的腦腫瘤兩年後，在電視上含淚呼籲增加腦癌研究投入，並與首相安迪·伯納姆（Andy Burnham）會面，其爭取改善腦癌患者護理的努力如今傳來捷報，英國政府宣布新措施。\n\n會面後，伯納姆宣布設立新的全國腦癌臨床主管，並承諾檢討腦癌領域的進展，同時採取行動讓患者更快獲得治療。\n\n現年25歲的古德伯恩感謝首相，並表示他的三項訴求已「在某种程度上得到承诺」，但細節仍需「進一步落實」。\n\n首相形容這位游泳運動員是「我們所有人的榜樣」，並表示「很高興」能夠在唐寧街接待他。\n\n伯納姆說：「他滿懷熱忱地談論腦癌變革的必要性，他說得對：無論在英國還是其他地方，相關進展都不夠理想。面對這種疾病的家庭等不起。」\n\n古德伯恩曾在2026年格拉斯哥共和聯邦運動會的50米蛙泳項目晉級決賽。\n\n他表示，在備戰2024年奧運資格賽期間出現麻木和癲癇發作後，他接受了醫療檢查。\n\n他確診患有三顆大型少突膠質細胞瘤（oligodendrogliomas），這是一種罕見的癌症，可影響腦部和脊髓。\n\n這位出生於愛丁堡的運動員接受了化療和電療來治療腫瘤，但發現無法通過手術將其切除。\n\n此次檢討將由格拉斯哥大學臨床腫瘤學教授安東尼·查爾曼斯（Anthony Chalmers）領導，回顧自2018年以來該領域取得的進展，並旨在找出「仍阻礙進展的問題」。\n\n唐寧街表示，後續將制定國家癌症計劃，目標是讓新療法「更快從實驗室走向患者」。\n\n首相已要求藥品及保健品管理局（MHRA）加快完成罕見病治療藥物的法規檢討，敦促監管機構在兩年而非三年內完成，為可能幫助患者更快獲得新治療的法規變動鋪路。\n\n古德伯恩曾在BBC Breakfast節目上形容，全球各地的臨床試驗結果在英國看不到，「既不公平也不正義」。\n\n政府補充，患者、家屬和慈善機構將參與設計一項推動更多人參與臨床試驗的計劃。\n\n衛生大臣伊薇特·庫珀（Yvette Cooper）也參加了唐寧街的會面，她將領導這項工作。\n\n會面後，古德伯恩說：「他們聽到了全國數以千計的聲音，聽到了多年來一直懇求變革的數以千計的家庭。\n\n三項訴求都在某種程度上得到了承諾，但細節還需進一步落實。\n\n我認為此刻已不能要求更多了，所以我向安迪·伯納姆表達了深深的謝意。」\n\n英國政府發言人表示，這一公告適用於整個英國，因為涉及的科研機構——國家健康與社會護理研究所（NIHR）——在其多個資助項目中與分權政府合作。\n\n衛生和社會服務在蘇格蘭屬於分權事務。\n\n最近也曾與古德伯恩會面的首席大臣約翰·斯文尼（John Swinney）強調，蘇格蘭政府致力支持更多臨床試驗。\n\n他說：「我們很自豪能夠通過蘇格蘭成人神經腫瘤學網絡支持腦癌的全國領導工作。這匯集了臨床醫生、患者和志願部門代表，以改善整個蘇格蘭腦癌患者的護理。我們將認真考慮蘇格蘭還能發揮什麼進一步作用，讓腦癌患者更快從研究走向治療。」\n\n慈善機構腦腫瘤研究組織（Brain Tumour Research）表示，腦腫瘤是英國最有可能奪走40歲以下患者生命的癌症。\n\n他們指出，慈善機構佔腦腫瘤研究全國總投資的75%以上，政府資助僅佔25%。\n\n該機構行政總裁丹·諾爾斯（Dan Knowles）在公告發布後感謝古德伯恩為提高這種疾病關注度所做的「不懈努力」。\n\n他說：「我們樂觀地認為，這一重新聚焦將有助確保實驗室的發現真正應用於迫切需要更多治療選項的患者身上。」\n\n由愛丁堡西南區國會議員斯科特·阿瑟（Scott Arthur）推動的《罕見癌症法》（Rare Cancers Bill）於今年早些時候生效。\n\n該法例旨在激勵對罕見癌症（定義為每2000人中少於1人受影響的癌症）治療的研究和投資。\n\n但古德伯恩此前表示，這還遠遠不夠，設立專門的腦癌主管可以讓特定研究和試驗得到更大關注。\n\n阿瑟表示，這項法案對推動所需的研究至關重要，但古德伯恩與伯納姆的會面可能為該領域帶來更多工作。\n\n他在會面前說：「這個行業確實有機會打破慈善機構、臨床醫生和研究人員數十年來一直知曉的研究障礙。我多次見過阿奇，知道他是腦腫瘤社群的一位傑出倡導者。我希望他與首相的會面能成為取得實質進展的時刻。」",
-      "featured": true
+      "bodyZh": "泳將 Archie Goodburn 感謝首相　英國宣佈腦癌檢討\n\nBBC 苏格兰 报道\n\n2026年10月14日\n\n游泳运动员 Archie Goodburn 在推动脑癌患者护理方面取得成效，英国政府宣佈了新的措施。\n\n这位苏格兰运动员两年前被诊断出三个无法手术的脑肿瘤，此前他在电视上含泪呼吁增加脑癌研究投入，首相 Andy Burnham 与他会面后，宣佈设立新的全国脑癌临床负责人，并承诺检讨脑癌进展及加快患者获得治疗的工作。\n\n现年25岁的 Goodburn 感谢首相，并表示他的三项要求均已「在某种程度上得到承诺」，但细节仍需「进一步完善」。\n\n首相形容这位泳将「是我们所有人的榜样」，并表示「很高兴」在唐宁街欢迎他。\n\nBurnham 说：「他对脑癌变革的必要性表达了强烈的呼声，他说得对：进展一直不够好，这里如此，其他地方亦然。」「面对这种疾病的家庭等不起。」\n\nGoodburn 在2026年格拉斯哥共和联邦运动会的50米蛙泳项目中晋级决赛。\n\n他说，在备战2024年奥运选拔赛期间出现麻木和癫痫发作，于是前往就医检查。\n\n他被诊断出三个大型少突胶质细胞瘤（oligodendrogliomas），这是一种可影响脑和脊髓的罕见癌症。\n\n这位出生于爱丁堡的运动员接受了化疗和放疗来治疗肿瘤，但手术切除被认为不可能。\n\n此次检讨将由格拉斯哥大学临床肿瘤学教授 Anthony Chalmers 主持，评估自2018年以来该领域取得的进展，旨在找出「仍阻碍进展的原因」。\n\n随后将推出国家癌症计划，目标是让新疗法「更快从实验室走向患者」。唐宁街表示，首相已要求药品及保健品管理局（MHRA）加快对罕见病治疗药物相关规则的审查。\n\n他促请监管机构在两年而非三年内完成检讨，提前推行可能帮助患者更快获得新疗法的规则变更。\n\n今年早些时候，Goodburn 在 BBC Breakfast 上表示，全球各地的临床试验成果在英国看不到，「这是不公平的，也是不公正的」。\n\n政府还表示，患者、家属和慈善机构将协助设计一项计划，以让更多人参与临床试验。卫生大臣 Yvette Cooper 也参加了唐宁街的会议，她将主导这项工作。\n\n会面后，Goodburn 说：「他们听到了全国成千上万的声音，听到了多年来恳求变革的成千上万个家庭。」「三项要求在某种程度上都得到了承诺，细节上还有一些需要完善的地方。」「我觉得现在已不能要求更多了，所以我向 Andy Burnham 表达了深深的感谢。」\n\n英国政府发言人表示，宣佈内容适用于全英国，因为涉及的研究机构——国家健康与护理研究所（NIHR）——在多项资助计划中与各分权政府合作。\n\n在苏格兰，卫生和社会服务属分权事务。\n\n最近也与 Goodburn 会面的首席部长 John Swinney 指出，苏格兰政府承诺支持更多临床试验。\n\n他说：「我们很荣幸通过苏格兰成人神经肿瘤网络支持脑癌的全国领导地位。这将临床医生、患者和志愿部门代表汇聚一堂，以改善整个苏格兰脑癌患者的护理。我们将认真考虑苏格兰还能发挥什么作用，为脑癌患者提供从研究到治疗更快的途径。」\n\n慈善机构 Brain Tumour Research 表示，这种疾病是英国40岁以下患者最常见的致死癌症。\n\n他们说，慈善机构的资金佔脑肿瘤研究全国总投资的近75%，政府拨款佔25%。\n\n宣佈后，行政总裁 Dan Knowles 感谢 Goodburn 为提高这种疾病意识所付出的「不懈努力」。\n\n他说：「我们乐观地认为，这一重新聚焦将有助于确保实验室的发现真正到达急需更多选择的患者手中。」\n\n由爱丁堡西南区议员 Scott Arthur 提出的《罕见癌症法》已于今年早些时候生效。\n\n该立法旨在激励对罕见癌症（定义为每2000人中影响少于1人的癌症类型）治疗的研究和投资。\n\n但 Goodburn 此前表示，该法走得还不够远，设立专门的脑癌负责人将能更集中推动特定研究和试验。\n\nArthur 说，该法对推动研究所需的条件「至关重要」，但 Goodburn 与 Burnham 的会面可能在该领域带来进一步工作。\n\n「在这个行业，真正有机会拆除慈善机构、临床医生和研究人员数十年来已知的研究障碍，」他在会面前说。「我多次见过 Archie，知道他是脑肿瘤社群的出色倡导者。我希望他与首相的会面能成为取得切实进展的时刻。」",
+      "featured": false
     },
     {
-      "title": "《絕命毒師》RJ·米特如何改變我們對腦麻痺的看法",
+      "title": "《絕命毒師》RJ Mitte如何改變我們對腦癱的看法",
       "url": "https://www.bbc.co.uk/news/articles/cvp8gj20j2ljo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-13T14:07:33.000Z",
-      "summary": "這位34歲逝世的明星，致力於推動影視作品中殘疾族群更完善的呈現。",
+      "summary": "這位於34歲離世的演員生前致力爭取殘疾人士在影視作品中獲得更好的呈現。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -87,30 +139,30 @@
           "alt": "Project manager Jake Brown and former soldier Leanne Quigley in formal attire smiling at a photocall at the BBC. Jake is wearing a black bow tie."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/74a2/live/9aa793d0-c7f3-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Russell Brand leaving Southwark Crown Court."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1928/live/9b95b760-c882-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Civil servant Kashim Chowdhury, 54, arrives at Southwark Crown Court, London, where he is to stand trial accused of fraud by allegedly holding multiple full-time Government jobs at the same time."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bc9b/live/9f7a91f0-c7ee-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "A DJ with a bushy black beard is talking to a reporter. He is wearing a black baseball cap and red headphones."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/724d/live/33dd6d30-c859-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Man in vest drinking from an orange cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8322/live/18b65730-c7e4-11f1-9a39-31b474234113.jpg",
-          "alt": "William Chapman has brown hair, a beard and moustache. He is wearing a blue T-shirt."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f899/live/6ba54780-c8ac-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Meghan Markle is wearing a long burgundy coat. Her hair is gelled back into a ponytail. She has a surprised expression."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/785e/live/9601dc80-c7d2-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "Singer Raye, has long red hair, she is wearing a black dress. She is singing on stage with a microphone in her left hand."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/979b/live/bc373310-c8c6-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Sally Rooney"
         }
       ],
-      "bodyZh": "《Breaking Bad》演員 RJ Mitte 如何改變了我們對腦麻痺的看法\n\n「我有腦麻痺，但我從未讓它阻礙我前進。」\n\n這是 22 歲的《Breaking Bad》主演 RJ Mitte 於 2014 年在 HuffPost 發表的文章中的話。\n\n在談及成長過程中學會對抗霸凌的經歷時，他補充道：「這不應該定義你是誰。我只是恰好有腦麻痺。」\n\n同樣的話也適用於 Mitte 在劇中飾演的角色沃爾特·「弗萊恩」·懷特 Jr——即布萊恩·克蘭斯頓飾演角色的兒子。這部劇最近被《紐約時報》評為 21 世紀最佳電視節目。\n\n「我真正喜歡的是，他在電視上扮演一個患有腦麻痺的角色，但重點並不是他有腦麻痺，」成人腦麻痺運動 Up 的創辦人兼行政總裁艾瑪·利文斯通說。\n\n「當我們看到 RJ Mitte 在電視上只是扮演一個角色，而這個角色恰好也有腦麻痺時，我認為這非常有力量。」\n\nMitte 於週一自殺身亡，享年 34 歲。他不僅是一名演員——他也是一位倡議者和支持者，擔任包括 United Cerebral Palsy 和 Can Do Canines 在內的慈善機構大使，並創辦了 Mitte Foundation，為其家鄉德克薩斯州的社區提供資助。\n\nUnited Cerebral Palsy 總裁兼行政總裁蘇珊·塞勒斯說：「他的倡議工作根植於一個承諾——確保腦麻痺和其他殘疾人士被看見、被聽見，並有機會充分發揮潛能。」\n\nMitte 的遺產，對於殘疾演員而言，意義重大。\n\n在新電影《Being Heumann》中飾演殘疾權利倡議者朱迪·霍伊曼的女演員露絲·馬德利告訴 BBC：「如果你看不到，你就會認為這是不可能的。當我年輕時，演戲甚至不在我的考慮範圍內。我甚至不認為這是一個選項。」\n\n這位患有脊柱裂的女演員補充道：「讓像他（Mitte）這樣的人在熒幕上出現，對於許多將藝術視為他們想進入的行業的年輕人來說……他是這方面一個美好的榜樣。\n\n「但他不僅僅是一個在業內打破障礙的殘疾人士。他是一位出色的才華橫溢的演員，我認為這才是最令人懷念的。」\n\n另一位演員、在 Netflix 人氣劇集《Sex Education》中亮相的凱倫·戴告訴 BBC：「我能向 RJ 和他的工作致敬的最大方式，就是今天從一個電視劇組給你們發郵件。\n\n「這就是他的遺產：殘疾人士在創意產業中擁有自己的事業。如果我能擁有 RJ 一半的影響力，我會非常自豪。這對我們的行業和我們的社區來說都是悲傷的一天。」\n\n喜劇演員兼編劇勞倫斯·克拉克對此表示贊同。「我們在電視上看到的描繪越多，就會激勵更多殘疾人士認為這是他們可以從事的職業，」他說。\n\n「自 2008 年《Breaking Bad》播出以來，情況已經有了很大進步。但永遠還有更多可以改進的空間。」\n\n談到 Mitte 在《Breaking Bad》中的角色，克拉克告訴 BBC：「這部劇美好之處在於，殘疾是明顯存在的，一直都在。」\n\n他也注意到了包容性戲劇和節目對觀眾的影響。\n\n「當公眾接觸到這些描繪越多，它就會成為生活的一部分，成為你看待世界的方式。」\n\nMitte 三歲時被診斷出腦麻痺。英國國民保健服務（NHS）將腦麻痺描述為一組影響運動和協調能力的終身疾病，由於出生前後腦部發育問題引起。\n\n他在 14 歲時被選中出演《Breaking Bad》，並在 2016 年接受 Channel 4 News 採訪時表示，該劇「為電視和編劇開創了更多勇氣」。\n\n但他也提出了謹慎的觀點，說：「我們仍有很長的路要走……這終究是一門生意，我們必須慢慢來。」\n\n本月早些時候，他暗示可能有意延續《Breaking Bad》的故事，但表示任何重啟都將面臨很高的期望。\n\n「我只是想超越《Breaking Bad》，這是最難的，」他說。「我在年輕時為自己設定了一個有點難以達到的標準。我告訴人們，『看，從山頂往下走還很長呢』。」\n\n《Breaking Bad》之後，Mitte 的其他銀幕作品包括《Hannah Montana》、《Switched at Birth》、《Westhampton》，以及他最新的項目《Talking to Strangers》，該片於今年早些時候上映。\n\n但他最大的成就——也是他最引以為傲的——是他的慈善工作。\n\n「我最感站在世界之巔的時刻，是能夠透過《Breaking Bad》幫助他人，與殘疾人士合作……試圖提醒他們有自己的聲音，並借用我的聲音。\n\n「《Breaking Bad》給予我的最棒禮物，就是能夠為那些產生深遠影響、改變人們生活的事業發聲。」",
+      "bodyZh": "RJ Mitte：《絕命毒師》明星如何改變了我們對腦麻痺的看法\n\nBBC Culture 記者 Emma Saunders 報道\n\n2016年10月13日發布\n\n「我患有腦麻痺，但我從未讓它阻礙我前進。」\n\n這是22歲的《絕命毒師》主演 RJ Mitte 在2014年為《赫芬頓郵報》撰寫的文章中的一句話。\n\n談及自己成長過程中學會面對欺凌的經歷，他補充道：「這不應該定義你。我只是恰好患有腦麻痺。」\n\n同樣的話也適用於 Mitte 在劇中飾演的角色沃爾特·「弗林」·小懷特——即布萊恩·克蘭斯頓飾演角色的兒子。這部劇最近被《紐約時報》評為21世紀最佳電視節目。\n\n「我最喜歡的一點是，他在電視上扮演一個患有腦麻痺的角色，但這並不是關於他患有腦麻痺這件事，」成人腦麻痺運動（Up - the Adult Cerebral Palsy Movement）的創辦人兼行政總裁艾瑪·利文斯頓說道。\n\n「當我們看到 RJ Mitte 在電視上扮演一個角色，而這個角色只是恰好患有腦麻痺時，我認為這真的很有力量。」\n\nMitte 於週一自杀離世，享年34歲。他不僅是一名演員，更是倡導者和支持者，擔任聯合腦麻痺組織（United Cerebral Palsy）和 Can Do Canines 等慈善機構的大使，並創辦了 Mitte Foundation，為其家鄉德克薩斯州的社區提供資助。\n\n聯合腦麻痺組織的總裁兼行政總裁蘇珊·塞勒斯表示：「他的倡導工作根植於一個承諾——確保腦麻痺患者和其他殘疾人士被看見、被聽見，並有機會充分發揮潛能。」\n\nMitte 的遺產，對於殘疾演員而言意義重大。\n\n在新電影《我是休曼》中飾演殘疾權利倡導者朱迪·休曼的露絲·馬德利對BBC說：「如果你看不到，你就不會認為這是可能的。當我年輕的時候，演戲甚至不在我的考慮範圍內。我甚至不認為這是一個選項。」\n\n這位患有脊柱裂的女演員補充道：「讓像他（Mitte）這樣的人出現在屏幕上，對於許多將藝術行業視為自己想進入的領域的年輕人來說……他就是一個美好的榜樣。\n\n「但他不僅僅是一個在業內打破障礙的殘疾人士。他是一個出色的天才，而我認為這才是最令人懷念的。」\n\n另一位演員、在 Netflix 人氣劇集《性教育》中亮相的凱倫·戴告訴BBC：「我能給予 RJ 及其工作的最大致敬，就是今天我從一個電視劇的拍攝現場給你發這封電郵。\n\n「這就是他的遺產：殘疾人士在創意產業中擁有職業生涯。如果我能擁有 RJ 一半的影響力，我會非常自豪。這是我們行業和我們社區的悲傷日子。」\n\n喜劇演員兼編劇勞倫斯·克拉克對此表示贊同。「我們在電視上看到的刻畫越多，就越能激勵更多殘疾人士認為這是他們的職業選擇，」他說。\n\n「自2008年《絕命毒師》播出以來，情況已經進步了很多。但總是有更遠的路要走。」\n\n談及 Mitte 在《絕命毒師》中的角色，克拉克告訴BBC：「美麗之處在於，殘疾是明顯存在的，一直都在。」\n\n他也注意到了包容性戲劇和節目對觀眾的影響。\n\n「當公眾接觸到越多這類刻畫，它就會成為生活的一部分，成為你看待世界的方式。」\n\nMitte 在三歲時被診斷出腦麻痺。英國國民保健服務（NHS）將腦麻痺描述為一組影響活動和協調能力的終身疾病，由於出生前後的大腦發育問題引起。\n\n他在14歲時被選中出演《絕命毒師》，並在2016年接受 Channel 4 新聞採訪時表示，該劇「為許多電視節目和編劇開闢了更勇敢的道路」。\n\n但他也提出了謹慎的看法：「我們還有很長的路要走……這畢竟是商業運作，我們必須慢慢來。」\n\n本月早些時候，他暗示自己可能有興趣延續《絕命毒師》的故事，但他表示任何重啟都必須超越原作。\n\n他說：「我只是想超越《絕命毒師》，這是最困難的。我年輕時為自己設定了一個幾乎無法達到的標準。我告訴人們，『要知道，從山頂往下看是很長的一段路』。」\n\n在《絕命毒師》之後，Mitte 的其他影視作品包括《漢娜·蒙大拿》、《換命姐妹》、《韋斯特漢普頓》，以及他最新的項目《與陌生人說話》，該片於今年早些時候上映。\n\n但他最大的成就——也是他最引以為傲的——是他的慈善工作。\n\n「我感到最棒的時候，是能夠通過《絕命毒師》幫助他人，與殘疾人士合作……嘗試提醒人們他們有自己的聲音，並借用我的聲音。\n\n「《絕命毒師》給予我的最偉大的東西，是能夠為能夠產生有意義影響、改變人們生活的事業發聲。」",
       "featured": false
     },
     {
-      "title": "《絕命毒師》演員RJ·米特辭世享年34歲",
+      "title": "《絕命毒師》演員RJ Mitte離世　終年34歲",
       "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-13T08:03:34.000Z",
-      "summary": "米特患有腦麻痺，在這部獲獎無數的影集《絕命毒師》中飾演沃爾特·懷特 Jr.。",
+      "summary": "Mitte患有腦癱，曾在艾美獎得主劇集《絕命毒師》中飾演沃爾特·懷特 Jr.。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -131,38 +183,38 @@
           "alt": "RJ Mitte smiling and wearing a blue top"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7473/live/df392ee0-c858-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "Graphicised image of military  tanks"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1928/live/9b95b760-c882-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Civil servant Kashim Chowdhury, 54, arrives at Southwark Crown Court, London, where he is to stand trial accused of fraud by allegedly holding multiple full-time Government jobs at the same time."
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/724d/live/33dd6d30-c859-11f1-bc2e-018d645d8d21.jpg",
           "alt": "Man in vest drinking from an orange cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/74a2/live/9aa793d0-c7f3-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Russell Brand leaving Southwark Crown Court."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f899/live/6ba54780-c8ac-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Meghan Markle is wearing a long burgundy coat. Her hair is gelled back into a ponytail. She has a surprised expression."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bc9b/live/9f7a91f0-c7ee-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "A DJ with a bushy black beard is talking to a reporter. He is wearing a black baseball cap and red headphones."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/979b/live/bc373310-c8c6-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Sally Rooney"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8322/live/18b65730-c7e4-11f1-9a39-31b474234113.jpg",
-          "alt": "William Chapman has brown hair, a beard and moustache. He is wearing a blue T-shirt."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c4db/live/e4fcb2a0-c8c3-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "Archie Goodburn looks emotionally at the camera wearing a white shirt."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/785e/live/9601dc80-c7d2-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "Singer Raye, has long red hair, she is wearing a black dress. She is singing on stage with a microphone in her left hand."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5949/live/e63e4c70-c899-11f1-9a39-31b474234113.jpg",
+          "alt": "William Chapman in front of a waterfall with a blue top on, smiling at the camera."
         }
       ],
-      "bodyZh": "《Breaking Bad》演員 RJ Mitte 去世，享年 34 歲\n\n美國演員 RJ Mitte 以在劇集《絕命毒師》中飾演毒梟 Walter White 叛逆兒子而最為人熟知，他已離世，享年 34 歲。\n\n「我們懷著無比悲痛的心情宣布摯愛的演員、慈善家及殘疾權利倡議者 RJ Mitte 不幸離世。」他的代表向 BBC 透露。\n\nMitte 於周一在德克薩斯州 Brownsville 離世。其公關人員證實，他選擇了輕生。\n\n這位患有腦癱的演員，在劇中飾演 Walter \"Flynn\" White Jr.，角色取材自他自身的經歷。飾演其父親的 Bryan Cranston 帶頭致哀，寫道得知消息後他「陷入深深的絕望」。\n\nCranston 飾演一位得知患癌後，為養家而走上犯罪道路的高中化學老師。\n\nCranston 說：「我第一次見到他時，他只有 14 歲，當時他獲選飾演 Walter White Jr.，他以極大的喜悅和熱忱來演繹這個角色。」\n\n「那孩子在我們 2007 年 2 月拍攝試播集時還相當生澀，但慢慢地，我們看著他成長為一位非常出色的演員。」\n\nCranston 讚揚 Mitte 對殘疾表演者的倡議工作，並指出他從未讓自己的腦癱「成為任何事的藉口」。\n\n「所有那些才華和潛力如今都化為如此沉痛的損失。」這位演員寫道，並補充說他「在這些年來，非常享受與他在劇組相處的時光，即使《絕命毒師》的關注度消退後亦然」。\n\n他說：「聽說他選擇結束自己的生命，尤其令人心碎。」\n\nCranston 補充道：「我會想念你，孩子。」\n\nMitte 的代表 Sean Reilly 向 BBC 發表聲明稱：「Mitte 為角色帶來真實感，並在殘疾意識和包容方面建立了一個平台。」\n\n這位明星曾擔任 United Cerebral Palsy 和 Shriners Children's 的大使。\n\n他創辦了 The Mitte Foundation 支持慈善工作和社區項目，並利用自己的平台「挑戰刻板印象，並為殘疾人士爭取更大程度的代表性」。\n\nAaron Paul（飾演《絕命毒師》中 Jesse Pinkman）在與《荷里活報道》分享的聲明中表示，他感到茫然和心碎。\n\n「RJ，我愛你，我的朋友。你會被懷念的。」他寫道。「無論是誰正在閱讀這篇報道，請知道你被愛著，你並不孤單。請永遠記住這一點。」\n\nDean Norris（飾演 Mitte 的舅舅 Hank Schrader）發文表示，雖然「RJ 並不是我電視劇中的兒子，但我一直像對待片場裡的年輕孩子那樣照顧他」。\n\n「他是個非常sweet的年輕人，會被深深懷念。」Norris 寫道。\n\nMitte 在路易斯安那州長大，2005 年搬到洛杉矶支持妹妹的演藝事業，當時仍是少年，他參加了這個突破性角色的試鏡。\n\n他曾說，自己在洛杉矶的第一次試鏡，是為加州一個反冰毒公共服務公告。\n\n「快轉到《絕命毒師》的試鏡，在我看来這依然是反冰毒的內容，因為結局對任何人都沒有好下場。」他本月較早前在 Joe Vulpis Podcast 上說道。\n\n他的角色原型是劇集主創 Vince Gilligan 已故朋友，該友人患有更嚴重的腦癱，需要使用前臂拐杖，而 Mitte 並不需要。\n\nMitte 以真誠和親和的方式演繹這個角色，像個青少年般開玩笑，而他在劇中幾乎從未被提及健康狀况。\n\n《絕命毒師》於 2008 至 2013 年在美國有線電視台 AMC 播出，共五季。\n\n成名之後，Mitte 爭取更多元化的角色，以及對殘疾人士（無論是明顯或隱藏的）更複雜的描繪。\n\n「每當頒獎季來臨，我們總是希望能見到多元化的作品，反映我們每一個人，不分身心。」他在 2021 年接受 BBC 訪問時說。\n\n「看到殘疾代表意識的增長是令人欣慰的，但突破有時是點點滴滴逐步到來，而非一下子帶來重大改變。」他說。\n\nMitte 其他影視作品包括《Hannah Montana》、《Switched at Birth》、《Westhampton》，以及他最新的項目《Talking to Strangers》，於今年早些時候上映。",
+      "bodyZh": "《絕命毒師》演員RJ Mitte離世　享年34歲\n\n美國演員RJ Mitte最為人熟知的是在劇集《絕命毒師》中飾演毒梟華特·懷特的叛逆兒子，他已離世，享年34歲。\n\n「我們懷著極度悲痛的心情，分享摯愛的演員、慈善家及熱情的殘疾人權益倡導者RJ Mitte悲傷離世的消息。」他的代表向BBC表示。\n\nMitte於周一在德克薩斯州布朗斯維爾去世。其公關人員證實，他選擇了結束自己的生命。\n\n這位患有腦癱的演員，根據自己的親身經歷演繹《絕命毒師》中沃爾特「弗林」·懷特·小的角色。飾演其父親的布萊恩·克蘭斯頓帶頭悼念，坦言得知消息後陷入「深深的絕望」。\n\n「我認識他時他才14歲，當時被選中飾演沃爾特·懷特·小，他帶着如此多的喜悅和熱情來演繹這個角色。」克蘭斯頓說：「那孩子在2007年2月拍攝試播集時還相當生澀，但隨着一點一滴的相處，我們看着他成長為一位真正出色的演員。」\n\n克蘭斯頓讚揚Mitte對殘疾表演者的倡導工作，並指出他從未讓自己的腦癱「成為任何事的藉口」。「所有那些才華與潛力如今都化為如此沉重的損失。」他寫道，並補充說他「非常享受多年來在劇組、以及《絕命毒師》熱度消退後與他相處的時光」。他說：「聽到他選擇結束自己的生命，尤其令人心碎。」\n\n克蘭斯頓还说：「我會想念你，孩子。」\n\nMitte的代表肖恩·萊利向BBC發表聲明時說：「Mitte為這個角色帶來了真實感，並在殘疾人意識與包容方面建立了一個平台。」這位明星曾擔任United Cerebral Palsy及Shriners Children's的大使。\n\n他創辦了Mitte Foundation以支持慈善工作及社區項目，運用自己的影響力「挑戰刻板印象，促進殘疾人更廣泛的代表性」。\n\nAaron Paul（飾演《絕命毒師》中的Jesse Pinkman）在給《荷里活報道》的聲明中表示自己感到茫然和心碎。「RJ，我愛你，我的朋友。你會被懷念。」他寫道：「無論誰正在閱讀這段話，請知道你被愛着，你並不孤單。永遠記住這一點。」\n\nDean Norris（飾演Mitte的舅舅Hank Schrader）則發文表示：「雖然RJ在劇中不是我的兒子，但我一直像對待片場的年輕人一樣照顧他。」「他是個可愛的年輕人，會被深深懷念。」\n\nMitte在路易斯安那州長大，2005年搬到洛杉磯支持妹妹的演藝事業，當時還是少年便參與了這個突破性角色的試鏡。\n\n他曾說自己在洛杉矶的首次試鏡是為加州一個反冰毒公共服務公告拍攝。「接着參加《絕命毒師》的試鏡，在我看來這仍然是反冰毒的內容，因為劇中每個人的結局都不美滿。」他在本月早些時候的Joe Vulpis Podcast節目中說。\n\n他的角色靈感來自劇集主創Vince Gilligan已故友人，該友人患有更嚴重的腦癱並使用前臂拐杖，而Mitte並不需要拐杖。\n\nMitte以誠實和親和的方式演繹這個角色，以輕鬆的玩笑呈現一個健康狀況在劇中很少被直接提及的青少年。\n\n《絕命毒師》2008至2013年在美國有線電視台AMC播出五季。走紅後，Mitte一直爭取更多元化的角色，以及對可見及不可見殘疾人士更複雜的刻畫。\n\n「每當頒獎季來臨，我們總是期待看到多樣化的作品，能反映我們每一個人，不論身體或心靈。」他在2021年接受BBC訪問時說。「看着殘疾人代表意識的增長令人欣慰，但突破有時是以點滴和瞬間而非大規模變革的方式到來。」\n\nMitte其他影視作品包括《Hannah Montana》、《Switched at Birth》、《Westhampton》，以及今年早些時候發布的最新項目《Talking to Strangers》。",
       "featured": false
     },
     {
-      "title": "英格蘭地方政府警告特殊教育需求與障礙債務將達100億英鎊的「災難性」預測",
+      "title": "英格蘭地方議會警告特殊教育債務將「災難性」飆升至100億英鎊",
       "url": "https://www.theguardian.com/education/2026/oct/13/english-councils-catastrophic-send-debts-forecast-2028",
       "publishedAt": "2026-10-12T23:01:07.000Z",
-      "summary": "隨著英語學校對特殊教育需求及障礙支持的需求急速增長，地方政府警告債務預計在未來18個月內創紀錄地達到100億英鎊，可能對公共財政構成風險並導致支持水平下降。",
+      "summary": "由於英格蘭學校對特殊教育需求及殘疾支援的需求迅速增長，地方議會警告債務預計在未來18個月內增至創紀錄的100億英鎊，對公共財政構成風險，並可能導致支援水平下降。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -175,13 +227,14 @@
           "alt": "A special needs child learning to write"
         }
       ],
+      "bodyZh": "教育局警告「災難性」Send債務　預計二○二八年前增至一百億鎊\n\n特殊教育需求\n\n英格蘭地方議會警告，特殊教育需求及殘疾（Send）支援需求急速增長，預計未來十八個月內債務將創紀錄地達到一百億鎊。\n\n雖然政府最近已清除超過五十億鎊的歷史性地方議會Send債務，但申請潮湧令當局預計到四月將重新累積至相同債務水平，並在二○二八年前翻倍。\n\n教育、健康及護理計劃（EHCP）申請近月急增，該計劃強制要求支援言語及學習障礙、自閉症或ADHD等情況。外界認為這反映家長及學校趁政府改變Send支援制度前，搶先確保獲得支援。\n\n地方議會財政被學校Send開支壓垮的前景，反映國民醫療服務（NHS）及福利制度面對精神健康及神經發育狀況患者增加所帶來的類似壓力。\n\n政府委託的Fonagy報告上周發表，指這類狀況的增加屬實且令眾多患者感到困擾，但若不引入新方法管理公共服務壓力，相關支援需求將難以持續。\n\n發布預測數據的縣議會網絡（CCN）表示，超支並非地方議會的錯，並要求大臣保證地方議會日後累積的Send債務，因為部分議會履行法定職責後可能面臨實質破產。\n\nCCN發言人Linden Kemkaran表示：「這些赤字並非因地方議會選擇魯莽開支而累積，而是必須應對快速增長的法定需求所致，而今年這趨勢更見加劇，但資助卻未能跟上。\n\n「若地方議會需承擔數十億鎊的Send債務，這不僅是地方政府的問題。納稅人和社區最終將承擔後果，因為地方議會在管理非自身過失而累積的債務時，將面臨保護前線服務的艱難抉擇。」\n\n她又說：「除了地方議會吸收飆升的成本，兒童及青年將面對日益漫長的支援等待時間，教育成果將持續停滯。新任大臣現在需要提供明確保證，確保他們將交付完整改革方案，讓系統能更好地服務青年、學校及地方議會。」\n\n政府改革旨在逐步以更具包容性的主流學校Send支援方式取代英格蘭現有制度，原則上可免除對EHCP的需求。然而，家長似乎正趕在現時確保正式支援，以避開日後任何不明朗因素。\n\n若無大臣保證免除未來超支，地方議會表示在這些累積債務——目前根據與財政部的特別「_override」安排，不列入地方政府資產負債表——將於二○二八年四月_override_期滿後重新入帳時，破產風險極高。\n\n大臣已同意支付一百億鎊截至二○二六年三月的英格蘭高層級地方議會Send債務的百分之九十，但日後Send債務涵蓋範圍尚不明確。大臣此前表示未來債務支援將是「適當及合乎比例的」，但「不會是無限制的」。\n\nCCN表示，若大臣不承諾支付未來Send債務的百分之九十，對地方議會而言將是「金融災難」——部分機構即使只保留百分之十的Send債務亦將難以維持償付能力。\n\n公開的地方政府內部報告顯示，多個部門預計二○二六至二七年度超支超過一億鎊。漢普郡議會預計今年赤字達二億鎊。其他包括薩里郡、東薩塞克斯郡、肯特郡、伍斯特郡及諾福克郡議會。\n\nEHCP是地方議會與家庭之間的法律文件，詳列對二十五歲以下兒童及青年的支援需求，让他们获得额外资助或特殊學校學位。\n\n一月，持有EHCP的青年人數達七十一萬八千人，過去十二個月增加百分之十二點五。這是自二○一四年計劃推出以來最大的按年增幅。根據官方數據，另有130萬青年被確認有特殊學習需求。\n\n許多地方議會預計未來三年每年將有雙位數字增長，部分機構現時預測按現有增速，到二○二九年前近十分之一學童將持有EHCP。\n\nFonagy報告指EHCP增長已「大幅超越」教育系統的應對能力。二○二四年的十萬五千三百份法定評估中，百分之九十四獲頒發EHCP。\n\n英國特許公共財務會計協會行政總裁Owen Mapley表示：「Send赤字持續升級，暴露了法定責任與資助水平脫節的嚴重問題。地方政府的首席財務總監多年來一直關注這一脫節問題，因其破壞了正常的財務管理實踐。」\n\n政府發言人表示：「我們接手時Send系統已承受巨大壓力，一直明白在改革全面落實前，赤字和EHCP申請將繼續增加。\n\n「除了支付百分之九十地方議會赤字的資助外，我們正投放數十億確保每個社區能輕易及早接觸言語及語言治療師等專家，讓地方議會能落實其針對性的本地改革計劃。\n\n「修復Send系統需時，地方議會將需進一步支援赤字，我們將在二○二八年三月前公布詳情。」",
       "featured": false
     },
     {
-      "title": "將范·莫里森就讀小學改建為特殊學校的計劃延遲",
+      "title": "將范莫里森母校改建為特殊學校的計劃延遲",
       "url": "https://www.bbc.co.uk/news/articles/crx2dp681lj4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-10T05:44:16.000Z",
-      "summary": "原定目標是讓前埃爾姆格羅夫小學於2026年9月重新開放為特殊學校。",
+      "summary": "原先希望埃爾姆格羅夫小學能於2026年9月重新開放為特殊學校。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -210,30 +263,30 @@
           "alt": "Woman with grey hair and glasses standing beside her daughter who is wearing a colourful striped top."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7473/live/df392ee0-c858-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "Graphicised image of military  tanks"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1928/live/9b95b760-c882-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Civil servant Kashim Chowdhury, 54, arrives at Southwark Crown Court, London, where he is to stand trial accused of fraud by allegedly holding multiple full-time Government jobs at the same time."
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/724d/live/33dd6d30-c859-11f1-bc2e-018d645d8d21.jpg",
           "alt": "Man in vest drinking from an orange cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/74a2/live/9aa793d0-c7f3-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Russell Brand leaving Southwark Crown Court."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f899/live/6ba54780-c8ac-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Meghan Markle is wearing a long burgundy coat. Her hair is gelled back into a ponytail. She has a surprised expression."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bc9b/live/9f7a91f0-c7ee-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "A DJ with a bushy black beard is talking to a reporter. He is wearing a black baseball cap and red headphones."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/979b/live/bc373310-c8c6-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Sally Rooney"
         }
       ],
-      "bodyZh": "范・莫里森爵士舊小學改建特殊學校計劃延誤\n\n將范・莫里森爵士（Sir Van Morrison）就讀過的舊小學改建為特殊學校校園的計劃，面臨「無法避免的工程延誤」。\n\n原本希望這所位於貝爾法斯特東部的埃爾姆格羅夫小學（Elmgrove Primary School）能於2026年9月重新開放，成為一所特殊學校。\n\n這所學校位於「山谷」（The Hollow）旁，該地因范・莫里森爵士的歌曲《棕眼女孩》（Brown Eyed Girl）而聞名。教育廳（Education Authority）表示，由於該建築是受保護的歷史建築，項目屬於「大型且複雜的工程」。\n\n埃爾姆格羅夫大樓原定容納貝爾法斯特東部格林伍德之家（Greenwood House）特殊學校的學生，並將更名為「山谷學校」（The Hollow）。格林伍德之家目前招收3至6歲學生，若擴建完成，學校可接收至小學七年級的學生。\n\n近年對特殊學校學位的需求大幅增加，教育廳表示所有學校均已滿額運作。然而，格林伍德之家校董會表示，他們「高度關注」山谷學校能否於2027年9月準備就緒。\n\n校董會指出，主要校舍建設幾乎毫無進展，且教育廳在讓學校準備就緒方面「缺乏緊迫感」。他們亦批評教育廳與家長溝通不足，並表示校園曾遭受破壞。\n\n喬尼・柯林斯（Jonny Collins）六歲的女兒南希是格林伍德之家的學生。他表示已就山谷校園的狀況向教育廳提出投訴。目前，包括南希在內的32名有特殊教育需要的學生，正在四間流動課室上課。\n\n喬尼・柯林斯說：「教育廳坐視這件事將近一年，完全沒有動工。他們連那棟大樓都沒有碰過。」\n\n「尤其是有特殊教育需要的兒童，他們需要感官室、休息室、餐廳和室內遊戲區。」\n\n柯林斯表示，家長們希望看到教育廳拿出成果和工作時間表。\n\n「他們知道特殊教育學位不足，需要讓孩子入讀那所學校。」\n\n「教育廳沒有給予家長所需的答案。我們需要這個校園在9月開放。」\n\n格林伍德之家校董會主席加里・福布斯（Gary Forbes）表示，他「非常關注格林伍德新特殊學校、山谷校園建設缺乏進展的問題」。\n\n他說：「搬遷宣布一年多後，幾乎看不到任何重建迹象，而患有嚴重學習障礙的兒童仍棲身在無法完全滿足他們需求的臨時設施中。」\n\n「家長、教職員和學生值得獲得明確的時間表、更好的設施，以及教育廳為交付這所急需的學校而採取的緊急行動。」\n\n「無法避免的工程延誤」\n\n教育廳發言人在聲明中表示，該部門「致力在格林伍德之家雙校園提供優質、專門建造的校舍」。\n\n聲明稱：「這個分階段、造價數百萬鎊的項目涉及與學校進行廣泛溝通，確保設計能符合學生的需要。」\n\n「當中包括專科教室、感官空間、軟體遊戲室和安全的戶外遊戲區。」\n\n「由於該建築是歷史建築，這是一個大型且複雜的項目，需要仔細規劃、與相關持份者磋商，並取得歷史環境部門的意見，才能敲定最終方案。」\n\n「工程無可避免地出現延誤，學校已與教育廳達成共識，提供臨時組合屋，讓學生能夠接受全日制教育。」\n\n聲明又指，埃爾姆格羅夫舊校舍的詳細設計工作正在進行，先導工程預計於2026年12月展開，主承辦商的委任預計在2027年初落實。",
+      "bodyZh": "范・莫里森爵士（Sir Van Morrison）舊小學改建特殊學校計劃延誤\n\n將范・莫里森爵士的舊小學改建為特殊學校校園的計劃，碰上「無法避免的施工延誤」。\n\n原本期望位於貝爾法斯特東部的埃爾姆格羅夫小學（Elmgrove Primary School）能於2026年9月重新開放為特殊學校。\n\n這所學校位於「The Hollow」附近，該地因范・莫里森爵士的歌曲《Brown Eyed Girl》而聞名。\n\n教育廳（Education Authority）表示，由於該建築已被列為文物建築，項目屬於「重大且複雜的工程」。\n\n埃爾姆格羅夫校舍原本計劃容納貝爾法斯特東部格林伍德之家（Greenwood House）特殊學校的學生，並將更名為「The Hollow」。\n\n格林伍德之家目前招收3至6歲學生，擴建後可接收至小學七年級的學生。\n\n近年特殊學額需求大幅增加，教育廳表示所有學校均已滿額運作。\n\n然而格林伍德之家校董會表示，「嚴重擔憂」The Hollow能否於2027年9月準備就緒。他們指主校舍工程進度緩慢，且教育廳在準備學校方面「缺乏迫切感」。他們亦批評教育廳與家長溝通不足，並透露校園曾遭受破壞。\n\n喬尼・柯林斯（Jonny Collins）6歲的女兒南希是格林伍德之家的學生。他表示已就The Hollow地盤的狀況向教育廳投訴。\n\n目前32名有特殊教育需求的學生，包括南希在內，正在四間流動課室上課。\n\n喬尼・柯林斯說：「教育廳袖手旁觀了大半年，完全沒有動工。」\n\n「他們壓根兒沒碰過那棟建築。尤其是有特殊教育需求的孩子，他們需要感官的房間、休息室、餐廳和室內遊戲區。」\n\n柯林斯表示，家長們希望看到教育廳展示成果和工作時間表。\n\n「他們知道學額不足，必須盡快安排學生入學。但教育廳沒有給予家長所需的答案。我們需要在9月開放這個校園。」\n\n格林伍德之家校董會主席加里・福布斯（Gary Forbes）表示，他「深度關注格林伍德新特殊學校The Hollow缺乏進展的問題」。\n\n「搬遷宣布已逾一年，重建工程幾乎沒有跡象，而患有嚴重學習障礙的兒童仍留在未能完全滿足其需求的臨時設施中。」福布斯說：「家長、教職員和學生值得獲得清晰的時間表、更佳的設施，以及教育廳的迫切行動。」\n\n「無法避免的施工延誤」\n\n教育廳發言人在聲明中表示，致力於「在格林伍德之家雙校區提供優質的專用校舍」。\n\n「這項分階段、涉及數百萬鎊的工程，需要與學校進行大量溝通，確保設計符合學生的需求。」發言人說：「包括專科教室、感官的空間、軟體遊戲室及安全的戶外遊戲區。」\n\n「作為列文物建築，這是重大且複雜的工程，需謹慎規劃、諮詢相關持份者，並取得歷史環境部門的意見，方能敲定最終方案。」\n\n「由於無法避免的施工延誤，學校與教育廳同意提供臨時組合屋，讓學生能夠獲得全日制教育。」\n\n教育廳表示，埃爾姆格羅夫校舍的詳細設計工作正在進行，輔助工程定於2026年12月展開，主承建商預計於2027年初獲委聘。",
       "featured": false
     },
     {
-      "title": "自閉症、ADHD及心理健康檢討：你需要知道的事",
+      "title": "自閉症、ADHD與心理健康檢討：你需要知道的事",
       "url": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-09T12:16:11.000Z",
-      "summary": "這份檢討對國民保健署、福利、教育及就業政策都有重大啟示。有哪些關鍵要點？",
+      "summary": "這份檢討為NHS、福利、教育及就業政策帶來重要啟示。有哪些關鍵要點？",
       "sourceName": "BBC 新聞（健康）",
       "sourceId": "bbc-health",
       "images": [
@@ -246,46 +299,46 @@
           "alt": "Your Voice banner image. Your Voice is written in white against a purple background."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7473/live/df392ee0-c858-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "Graphicised image of military  tanks"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1928/live/9b95b760-c882-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Civil servant Kashim Chowdhury, 54, arrives at Southwark Crown Court, London, where he is to stand trial accused of fraud by allegedly holding multiple full-time Government jobs at the same time."
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/724d/live/33dd6d30-c859-11f1-bc2e-018d645d8d21.jpg",
           "alt": "Man in vest drinking from an orange cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/74a2/live/9aa793d0-c7f3-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Russell Brand leaving Southwark Crown Court."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f899/live/6ba54780-c8ac-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Meghan Markle is wearing a long burgundy coat. Her hair is gelled back into a ponytail. She has a surprised expression."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bc9b/live/9f7a91f0-c7ee-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "A DJ with a bushy black beard is talking to a reporter. He is wearing a black baseball cap and red headphones."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/979b/live/bc373310-c8c6-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Sally Rooney"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8322/live/18b65730-c7e4-11f1-9a39-31b474234113.jpg",
-          "alt": "William Chapman has brown hair, a beard and moustache. He is wearing a blue T-shirt."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c4db/live/e4fcb2a0-c8c3-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "Archie Goodburn looks emotionally at the camera wearing a white shirt."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/785e/live/9601dc80-c7d2-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "Singer Raye, has long red hair, she is wearing a black dress. She is singing on stage with a microphone in her left hand."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5949/live/e63e4c70-c899-11f1-9a39-31b474234113.jpg",
+          "alt": "William Chapman in front of a waterfall with a blue top on, smiling at the camera."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0a7a/live/150a23a0-c7da-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "A man with a scruffy beard and hair holds a model of a human head"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e78c/live/66bcf0d0-c8aa-11f1-9a39-31b474234113.jpg",
+          "alt": "A close-up of Russell Brand with tied-back grey hair and a grey beard. He&#x27;s wearing sunglasses."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/32a4/live/db23df10-c7e7-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Customers walking in and out of the entrance to Poundland store."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1fc8/live/25a27ee0-c8b8-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "A blue Reform UK rosette on the lapel of a grey jacket."
         }
       ],
-      "bodyZh": "自閉症、ADHD 及心理健康檢討：你需要知道的事\n\n這份檢討被形容為重新思考精神健康狀況及 ADHD 與自閉症支援工作的「世代機遇」。\n\n這份由時任衞生大臣韋斯·斯特里廷（Wes Streeting）在十個月前委託進行的檢討，起因是他曾聲稱年輕人正被「過度診斷」及「被放棄」。檢討涵蓋六百多頁，或對 NHS 服務、福利制度、學校及就業支援產生重大影響。以下是主要結論。\n\n過度診斷令人關注\n\n報告明確指出，過度診斷的風險正在增加，但僅限於 ADHD 及自閉症。\n\n專家表示，過去二十五年間確診個案上升，意味著部分較年青年齡組別的實際個案數量已超過人口中的預期水平。以六至十七歲兒童為例，超過百分之四已被診斷為自閉症，遠高於研究顯示的百分之一至二的真實水平。\n\n但這伴隨着一個重要警告：數據存在不足。真實自閉症發病率的證據有賴於九年前進行的調查，因此檢討團隊需自行估算此後的變化。此外，部分年齡組別的漏診情況仍然存在，不應被忽視。\n\n正因如此，檢討團隊表示現階段仍未能斷定過度診斷已「大規模」出現。但專家指出，證據顯示我們正從一個漏診時代過渡至過度診斷時代。他們警告，並非凡有困難都需要醫療介入，且存在將可診斷的 ADHD 及自閉症與「人類腦功能、認知及行為的正常差異」混淆的風險。\n\n心理健康情況不同\n\n檢討團隊明確反對心理健康領域存在過度診斷的說法。事實上，主席彼得·弗洛阿季教授（Prof Peter Fonagy）認為斯特里廷在這方面「完全錯誤」。\n\n他表示，精神困擾的增加是真實的：現時十六至二十四歲年輕人中，約四分之一被認為正在經歷精神困擾，而三十年前約為六分之一。他將此與多方面因素聯繫起來，包括經濟不明朗、社交媒體的影響，以及青少年服務的減少。\n\n這與自閉症及 ADHD 形成對比。雖然確診個案增加，但根據最佳估算，整體人口中的真實發病率（無論他們是否有就醫）大致保持穩定。\n\n然而，心理健康領域並未出現嚴重精神疾病的增加。精神分裂症及躁鬱症等疾病的人口發病率保持穩定。推動上升的主要是焦慮、抑鬱、自我傷害及飲食失調等狀況。\n\n年輕人被放棄\n\n檢討專家在診斷的影響方面，在一定程度上與斯特里廷的憂慮相同。\n\n他們表示，診斷有可能反而關上機會之門。\n\n專家指出，診斷可能成為一個標籤，將患者定義為其「困難」而非「優點及潛能」。這繼而妨礙他們在教育、工作及人際關係方面的發展。\n\n約三分之一沒有接受教育、就業或培訓（NEET）的十六至二十四歲年輕人表示，心理健康或自閉症是因素之一。十七歲前確診 ADHD 的人士，成為 NEET 的可能性是無 ADHD 人士的四倍。\n\n他們表示，要解決這個問題，需要在確診後提供更好的支援。部分有賴 NHS，但學校、工作場所及整個社會的態度同樣重要。\n\n制度失靈\n\n檢討團隊在另一個觀點上態度一致：支援制度「未能達標」，無法滿足精神健康及 ADHD、自閉症等神經系統疾病患者的需求。\n\n評估輪候時間過長。三分之一被轉介至精神健康服務的年輕人需輪候超過一年；在九十万等待 ADHD 或自閉症檢查的人當中，九成已輪候超過三個月。\n\n在報告發表前，代表衞生主管的 NHS Alliance 表示制度已陷入混亂。\n\n但問題不限於 NHS。報告指出，護理、教育、就業及福利支援仍然分散，人們需「層層闖關」，面對重複評估及相互矛盾的要求，才能獲得支援。\n\n立即行動，刻不容緩\n\n檢討報告指出，解決這些挑戰不容拖延。\n\n關於長時間輪候，報告建議應對所有輪候名單上的人士重新評估，以便優先為最需要幫助的人提供支援，不再採用先到先得的機制。\n\n部分輪候人士或可從非醫療支援中獲益，例如改善睡眠或增加運動的建議。這甚至可能令部分人士從輪候名單中移除。\n\n在將人士列入輪候名單前，亦應進行更完善的評估。專家明確表示，並非凡事都需要醫療方案。\n\n自閉症及 ADHD 評估的質素及一致性必須提升。檢討報告關注由私營機構代表 NHS 進行的評估，目前約半數 ADHD 評估及三分之一自閉症評估由非 NHS 機構（如慈善團體及私營公司）進行，但這些機構並未如 NHS 機構般受到相同規管，這必須改變。\n\n專家亦建議禁止對公眾直接推廣評估服務。\n\n檢討報告期望在未來十二至二十四個月內見到行動。政府已承諾作出回應，並預計於年底前公布的心理健康策略中交代更多細節。",
+      "bodyZh": "自閉症、ADHD 與心理健康檢討：你需要知道什麼\n\n有人稱這是一次「劃世代的機會」，可重新思考對心理健康狀況以及 ADHD 和自閉症的支持方式。\n\n這份由時任衞生大臣韋斯·斯特里廷（Wes Streeting）在十個月前委託進行的檢討報告，在此前他曾表示年輕人被「過度診斷」並被「否定」。這份長達六百多頁的報告包含大量結論和建議，以下是主要內容。\n\n過度診斷令人關注\n\n報告明確指出，過度診斷的風險正在增加，但僅限於 ADHD 和自閉症。\n\n專家表示，過去二十五年間診斷數字上升，意味著現時某些較年輕年齡組別的個案數字已超出預期人口比例。他們以六至十七歲兒童為例，超過百分之四已被診斷患有自閉症，遠高於研究顯示的百分之一至二的實際水平。\n\n但這伴隨着一個重要限制：數據存在不足。關於自閉症實際水平的證據依賴於九年前進行的調查，因此檢討團隊只能估計此後的變化。部分年齡組別中，這些狀況仍被低估，這不應被忽視。\n\n這就是為何檢討團隊表示，目前尚無法斷定過度診斷已「大規模」發生。但專家指出，有跡象顯示正從低估診斷的時代轉向過度診斷的時代。\n\n他們警告，並非所有困難都需要醫療回應，存在將可診斷的 ADHD 和自閉症與應被視為「正常人類大腦功能、認知和行為的差異」兩者界線模糊的風險。\n\n心理健康情況不同\n\n檢討團隊明確拒絕過度診斷說法的領域是心理健康。事實上，主席彼得·弗納吉（Peter Fonagy）教授表示，斯特里廷在這方面「完全錯誤」。\n\n他表示，心理健康困擾的增加是真實的——現時六分之一的十六至二十四歲年輕人被認為正經歷心理困擾，三十年前為六分之一。他將此與多種因素聯繫起來，包括經濟不確定性、社交媒體的影響，以及青少年服務的減少。\n\n這與自閉症和 ADHD 形成對比。雖然診斷有所增加，但根據最佳估算，整體人口中的實際水平（無論他們是否已前來就診）大致保持穩定。\n\n然而，心理健康方面並未出現的是嚴重精神病的增加。精神分裂症和躁鬱症等疾病的人口發病率保持穩定。\n\n推動上升的是焦慮症、抑鬱症、自我傷害和飲食失調等狀況。\n\n年輕人被否定\n\n檢討專家在一定程度上認同斯特里廷對診斷影響的關注。\n\n他們表示，診斷最終可能關閉機會之門的風險。診斷可能成為一個標籤，將他們定義為「困難」而非「長處和潛能」。\n\n這接着會妨礙他們在教育、工作和人際關係方面的發展。\n\n約三分之一的十六至二十四歲既不在教育、就業或培訓中（NEET）的年輕人表示，心理健康或自閉症是其中一個因素。\n\n十七歲前被診斷患有 ADHD 的人，成為 NEET 的可能性是沒有 ADHD 者的四倍。\n\n他們表示，要解決這個問題，需要在確診後提供更好的支持。部分取決於 NHS，但同樣重要的是學校、工作場所和整個社會的態度。\n\n系統失效\n\n檢討團隊在另一個問題上意見一致：支持系統「未能達到」人們對心理健康和 ADHD 及自閉症等神經系統疾病的所需。\n\n評估的輪候時間太長。三分之一被轉介至心理健康服務的年輕人等待超過一年，而在等待 ADHD 或自閉症檢查的九十萬人中，九成已等待超過三個月。\n\n在報告發表前，代表衞生主管的 NHS Alliance 表示系統處於混亂狀態。\n\n但這不僅涉及 NHS。報告指出，照顧、教育、就業和福利方面的支持仍然分散，人們必須「層層關卡」並面對重複評估和相互矛盾的要求才能獲得支持。\n\n現在行動，不要等到太遲\n\n報告指出，應立即著手應對這些挑戰，刻不容緩。\n\n關於長期輪候，報告建議應對所有輪候名單上的人進行重新評估，以便最需要幫助的人獲得優先處理。不應再採用先到先得的安排。\n\n部分輪候中的人可能受益於非醫療支持，例如關於改善睡眠或增加體能運動的建議。這甚至可能使部分人從輪候名單中移除。\n\n在將人列入輪候名單之前，也應有更好的評估。專家明確指出，並非所有問題都需要醫療方案。\n\n必須改善自閉症和 ADHD 評估的質量和一致性，檢討報告特別關注由私營機構代表 NHS 進行的評估。ADHD 評估的一半和自閉症評估的三分之一由 NHS 以外的機構完成，如慈善團體和私營公司。\n\n但這些機構並未受到與 NHS 機構相同的監管——這必須改變。\n\n專家還表示，希望見到禁止直接向公眾宣傳評估服務。\n\n檢討報告表示，希望在未來十二至二十四個月內見到行動。政府已承諾採取行動——預計將在年底前公布的心理健康策略中公布更多細節。",
       "featured": false
     },
     {
-      "title": "政府檢討報告：ADHD及自閉症面臨過度診斷風險",
+      "title": "政府檢討指ADHD及自閉症面臨過度診斷風險",
       "url": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-08T23:01:30.000Z",
-      "summary": "這份以年輕人為重點的檢討報告警告，社會可能正從診斷不足的時代走向過度診斷的時代。",
+      "summary": "這份以年輕人為對象的檢討報告警告，社會可能正從診斷不足的時代轉向過度診斷。",
       "sourceName": "BBC 新聞（健康）",
       "sourceId": "bbc-health",
       "images": [
@@ -306,38 +359,38 @@
           "alt": "A thin, grey banner promoting the News Daily newsletter. On the right, there is a graphic of an orange sphere with two concentric crescent shapes around it in a red-orange gradient, like a sound wave. The banner reads: &quot;The latest news in your inbox first thing.”"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7473/live/df392ee0-c858-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "Graphicised image of military  tanks"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1928/live/9b95b760-c882-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Civil servant Kashim Chowdhury, 54, arrives at Southwark Crown Court, London, where he is to stand trial accused of fraud by allegedly holding multiple full-time Government jobs at the same time."
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/724d/live/33dd6d30-c859-11f1-bc2e-018d645d8d21.jpg",
           "alt": "Man in vest drinking from an orange cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/74a2/live/9aa793d0-c7f3-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Russell Brand leaving Southwark Crown Court."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f899/live/6ba54780-c8ac-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Meghan Markle is wearing a long burgundy coat. Her hair is gelled back into a ponytail. She has a surprised expression."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bc9b/live/9f7a91f0-c7ee-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "A DJ with a bushy black beard is talking to a reporter. He is wearing a black baseball cap and red headphones."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/979b/live/bc373310-c8c6-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Sally Rooney"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8322/live/18b65730-c7e4-11f1-9a39-31b474234113.jpg",
-          "alt": "William Chapman has brown hair, a beard and moustache. He is wearing a blue T-shirt."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c4db/live/e4fcb2a0-c8c3-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "Archie Goodburn looks emotionally at the camera wearing a white shirt."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/785e/live/9601dc80-c7d2-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "Singer Raye, has long red hair, she is wearing a black dress. She is singing on stage with a microphone in her left hand."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5949/live/e63e4c70-c899-11f1-9a39-31b474234113.jpg",
+          "alt": "William Chapman in front of a waterfall with a blue top on, smiling at the camera."
         }
       ],
-      "bodyZh": "英格蘭政府檢討發現，ADHD（專注力失調及過度活躍症）與自閉症存在過度診斷的風險。\n\n專家指出，過去25年確診個案持續上升，部分較年輕年齡組別的實際數字已超出預期人口比例。\n\n這份檢討呼籲對向NHS提供評估服務的私營機構實施更嚴格規管，指出當中存在質素及一致性問題，並建議禁止相關廣告。\n\n報告結論指出，經濟不穩定加上社交媒體，正導致年輕人精神健康問題加劇，並認為各類病情的支援均需改善。\n\n這項由業內頂尖醫生主導的檢討，於10個月前由韋斯·斯特萊汀下令展開，此前時任衞生大臣在訪問中聲稱年輕人遭過度診斷，並被「標籤化」。\n\n檢討涵蓋所有年齡層，但尤其聚焦確診率最高的青少年及兒童。\n\n預料檢討結果將影響政府在NHS服務、福利及「脫離教育、就業或培訓」青年支援等各方面的政策。\n\n專家表示，心理健康問題、ADHD及自閉症的診斷，往往淪為定義個人身分的標籤，著眼於「困難而非長處與潛能」，損害他們在學業、工作及人際關係上的發展前景。\n\n17歲前確診自閉症及ADHD的兒童，在16至24歲期間「脫離教育、就業或培訓」的機會，較其他人高出約四倍。\n\n檢討指出，better support after diagnosis可助他們過更充实的生活。\n\n除了提供心理治療，亦應包括精神健康支援——相當多人同時受抑鬱等情緒病困擾。\n\n惟檢討發現漫長的輪候時間同樣對患者造成傷害。\n\nWatson一家正是其中一個例子。Ryan與妻子在兒子Atlas約12至18個月大時察覺發育里程碑未達，察覺有異。\n\n然而足足等了三年才獲安排自閉症評估。隨著時間流逝，他的需求日益明顯。如今即將七歲，Atlas仍然無法說話，需要尿片，日常起居完全依賴他人照顧。\n\nRyan指出，儘管情況如此，病情最複雜的兒童卻沒有快速通道：「你基本上只能排隊，等到輪到你為止。」\n\n漫長的等待令一家人趕在Atlas入學前爭分奪秒確保支援。Ryan與妻子擔心他會被安排入讀主流學校。\n\nRyan說：「我們非常害怕。任何有像Atlas這樣孩子的家長，都會有同樣的恐懼——他們會進入一所不安全的主流學校。」\n\n壓力巨大。「我彷彿兼了兩份工，」Ryan說，「白天上班，晚上回家還要應付這些事情。」\n\nAtlas最終在入學前數月才獲確診。\n\n為確保Watson一家等家庭能更快獲得評估，檢討建議重新審視輪候名單，優先處理需求最高的人士，並探討能否將部分人從名單移除，改為提供非醫療性質的支援。\n\n這包括在學校或工作場所作出調整，以及生活方式的支援，例如改善睡眠或處理焦慮問題。\n\n專家強調，現時獲取協助往往需要確診，並指出2014年的政策變動，要求家長必須取得自閉症及ADHD診斷，方能為子女申請額外學校支援。\n\n檢討主席Peter Fonagy教授表示，系統「承受巨大壓力」顯而易見，必須擺脫將確診作為「通往支援的非常狹窄途徑」的觀念。\n\n「確診仍然不可或缺，必須予以保障——需要改變的是，它不再是獲得幫助的唯一門徑。」\n\n檢討指出，並非所有困難都需要醫療介入，存在將可確診的ADHD及自閉症，與腦部功能、認知及行為的正常人類差異混為一談的風險。\n\n報告指，社會可能正從過往的診斷不足，過渡至過度診斷或誤診的階段。數據顯示，現時6至17歲兒童中逾4%確診自閉症，遠高於研究顯示的1至2%真實比率。\n\n但報告亦指出，由於部分數據已近十年，未能絕對肯定或斷定現時已大規模出現過度診斷。\n\n部分年齡組別的神經系統疾病仍存在診斷不足，這點不應被忽視。\n\nNational Autistic Society的Mel Merritt表示，報告顯示歷屆政府「對自閉症人士失責」。\n\n「自閉症人士所承受的傷害與痛苦是真实且普遍的，迫切需要建立一個能支援自閉症人士需求的系統。」\n\n慈善機構YoungMinds的Abigail Ampofo說：「多年來，年輕人一直告訴我們，他們因精神健康問題感到被怪責，或被指『無病呻吟』。我們希望這份檢討能表明他們的痛苦並非他們的錯，而是周邊的制度正在失敗。」\n\n但她指出，這需要重大改革。\n\n政府歡迎報告發表，表示將在即將推出的精神健康策略中闡述新的支援模式，並承諾引入更嚴格的ADHD及自閉症評估規管。\n\n衞生大臣Yvette Cooper補充：「Fonagy教授的檢討表明及早介入處理精神健康及神經發育障礙的重要性，以及這些問題可能造成的巨大痛苦。」",
+      "bodyZh": "英格蘭一項官方檢討發現，ADHD 與自閉症存在過度診斷的風險。\n\n專家表示，過去 25 年確診個案持續增加，現時部分較年青年齡組別的個案數字已超出預期人口比例。\n\n檢討報告要求對向 NHS 提供評估服務的私營機構實施更嚴格規管，指當局對其質素及一致性存有疑慮，並建議禁止相關宣傳廣告。\n\n報告結論指出，經濟不明朗加上社交媒體，正導致青少年心理健康問題加劇，並建議各類病況均需提供更完善支援。\n\n這項由業內頂尖醫生主導的檢討，於 10 個月前由韋斯·斯特里廷（Wes Streeting）下令展開此前衛生大臣在訪問中聲稱年輕人被過度診斷並「被定型」，引發今次檢討。檢討涵蓋所有年齡層，但尤其着重確診率最高的青少年及兒童。\n\n這項檢討料將影響政府在 NHS 服務、福利以至對教育、就業或培訓（NEET）青少年支援等各方面的政策。\n\n專家指出，心理健康問題、ADHD 及自閉症的診斷往往淪為標籤，令患者「因其困難而非優勢與潛能而被定義」，損害他們在學業、工作及人際關係方面的前途。\n\n17 歲前確診自閉症及 ADHD 的兒童，在 16 至 24 歲期間成為 NEET 的可能性高出約四倍。檢討報告指出，若能提供更佳術後支援，他們可獲助過上更充實的生活。\n\n除提供治療外，有關支援亦應涵蓋心理健康——相當數量的患者同時受抑鬱等情緒病困擾。\n\n然而檢討亦發現，心理健康及 ADHD 與自閉症的漫長輪候時間，同樣令患者受到傷害。\n\n華特森一家正是其中一個例子。Ryan 與妻子在兒子 Atlas 約 12 至 18 個月大時察覺他未能達到成長里程碑，但最終花了三年才獲得自閉症評估。隨着時間流逝，他的需求日益明顯。現年近七歲的 Atlas 仍無法說話，需要尿片，日常起居全賴他人照顧。\n\nRyan 指，即使孩子有最複雜的需要，亦沒有快速通道：「你基本上只能排隊輪候，等多久就等多久。」\n\n漫長的等待令一家人趕在 Atlas 入學前爭取支援，擔心他會被安排入讀主流學校。Ryan 說：「我們非常恐懼。任何有像 Atlas 這樣孩子的家長，都會有同樣的擔憂——害怕孩子進入不安全的主流學校。」\n\n壓力之巨大難以言喻。「簡直像打了兩份工，」Ryan 說：「白天上班，回家還要應付這些事情。」Atlas 最終在入學前數月才獲確診。\n\n為確保類似家庭能更快獲得評估，檢討報告建議重新審視輪候名單，確保最有需要人士獲優先處理，並探討能否將部分人士從名單移除，改為提供非醫療支援。\n\n這類支援可包括學校或工作場所的調整，以及生活方式指導，例如改善睡眠或處理焦慮問題。\n\n報告指出，現時獲取幫助往往需要先有診斷，專家特別提到 2014 年的政策轉變——家長須取得自閉症及 ADHD 診斷，方能為子女申請學校額外支援。\n\n檢討主席彼得·福納吉（Peter Fonagy）教授表示，制度正承受巨大壓力，實在需要擺脫以診斷作為「獲取支援的唯一狹窄途徑」的局面。「診斷依然不可或缺，必須受到保障——需要改變的是，診斷不再是用戶獲得協助的唯一門檻。」\n\n報告又指，並非所有困難都需要醫療回應，存在將可確診的 ADHD 與自閉症，與正常人類腦部功能、認知及行為差異之間的界線模糊化之風險。\n\n報告警告，社會可能正從過往的診斷不足時代，過渡至過度診斷或誤診的階段。數據顯示，目前 6 至 17 歲兒童中超過 4% 已被確診自閉症，遠高於研究顯示的 1% 至 2% 真實比例。但報告同時指出，由於部分數據已接近十年，現時尚無法完全確定或斷言過度診斷已成規模。\n\n此外，部分年齡組別的神經系統疾病仍存在診斷不足問題，同樣不容忽視。\n\n全國自閉症協會（National Autistic Society）的梅爾·梅里特（Mel Merritt）表示，報告顯示歷屆政府「辜負了自閉症患者」。「自閉症患者所面臨的傷害與困擾是真实且普遍存在的，迫切需要建立一個能支援自閉症患者需求的制度。」\n\n青年心理健康慈善機構 YoungMinds 的阿比蓋爾·阿波福（Abigail Ampofo）說：「多年來，年輕人一直告訴我們，他們感到自己的心理健康問題受到指責，甚至被質疑是捏造的。我們希望這份檢討能有助證明他們的痛苦並非他們的過錯，而是周邊的制度在失敗他們。」\n\n但她指出，這需要進行重大改革。\n\n政府對報告發表表示歡迎，承諾將在年底前公布的心理健康策略中提出新的支援模式，並允諾引入更嚴格的 ADHD 與自閉症評估規管。\n\n衛生大臣伊薇特·庫珀（Yvette Cooper）補充：「福納吉教授的檢討顯示，早期介入應對心理健康及神經發育障礙的重要性，以及這些問題所帶來的巨大痛苦。」",
       "featured": false
     },
     {
-      "title": "演員西蒙·柏加透露確診ADHD：「這就是我的一部分」",
+      "title": "演員西蒙佩吉披露ADHD診斷：「這就是我」",
       "url": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-08T09:35:30.000Z",
-      "summary": "這位《活人葬場》及《不可能的任務》系列電影明星過去一直將症狀歸咎於「性格缺陷」。",
+      "summary": "這位《活人堆肥》及《不可能的任務》系列電影明星此前將症狀歸咎於「性格缺陷」。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -346,50 +399,50 @@
           "alt": "Simon pegg in a blue shirt and blue tinted glasses in front of a pink background"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7473/live/df392ee0-c858-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "Graphicised image of military  tanks"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1928/live/9b95b760-c882-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Civil servant Kashim Chowdhury, 54, arrives at Southwark Crown Court, London, where he is to stand trial accused of fraud by allegedly holding multiple full-time Government jobs at the same time."
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/724d/live/33dd6d30-c859-11f1-bc2e-018d645d8d21.jpg",
           "alt": "Man in vest drinking from an orange cup"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/74a2/live/9aa793d0-c7f3-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Russell Brand leaving Southwark Crown Court."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f899/live/6ba54780-c8ac-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Meghan Markle is wearing a long burgundy coat. Her hair is gelled back into a ponytail. She has a surprised expression."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bc9b/live/9f7a91f0-c7ee-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "A DJ with a bushy black beard is talking to a reporter. He is wearing a black baseball cap and red headphones."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/979b/live/bc373310-c8c6-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Sally Rooney"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8322/live/18b65730-c7e4-11f1-9a39-31b474234113.jpg",
-          "alt": "William Chapman has brown hair, a beard and moustache. He is wearing a blue T-shirt."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c4db/live/e4fcb2a0-c8c3-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "Archie Goodburn looks emotionally at the camera wearing a white shirt."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/785e/live/9601dc80-c7d2-11f1-a64c-550be9e3c66b.jpg",
-          "alt": "Singer Raye, has long red hair, she is wearing a black dress. She is singing on stage with a microphone in her left hand."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5949/live/e63e4c70-c899-11f1-9a39-31b474234113.jpg",
+          "alt": "William Chapman in front of a waterfall with a blue top on, smiling at the camera."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0a7a/live/150a23a0-c7da-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "A man with a scruffy beard and hair holds a model of a human head"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e78c/live/66bcf0d0-c8aa-11f1-9a39-31b474234113.jpg",
+          "alt": "A close-up of Russell Brand with tied-back grey hair and a grey beard. He&#x27;s wearing sunglasses."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/32a4/live/db23df10-c7e7-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Customers walking in and out of the entrance to Poundland store."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1fc8/live/25a27ee0-c8b8-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "A blue Reform UK rosette on the lapel of a grey jacket."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/cd9d/live/de4ff3b0-c7d1-11f1-9a39-31b474234113.jpg",
-          "alt": "School children sat at their desk, each looking at a computer tablet."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a4f3/live/4a5a13f0-c88c-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "Jeffrey Donaldson has short greying hair. He is wearing glasses, a pink shirt and navy jacket, with a red-patterned tie."
         }
       ],
-      "bodyZh": "演員 Simon Pegg 透露確診 ADHD：「這就是我的一部分」\n\n《活埋死人》（Shaun of the Dead）及《職業特工隊》（Mission: Impossible）系列電影主演 Simon Pegg 透露，他已被診斷出患有 ADHD（專注力失調及過度活躍症）。他表示，這次確診「印證了很多我一直以來糾結的事情」。\n\n現年 56 歲的 Pegg 同時是《夠薑死人》（Hot Fuzz）、《世上最後一支傻瓜》（The World\\'s End）及電視劇《Spaced》的聯合編劇兼主演。他說：「之前已有大量的跡象和懷疑，只是花了點時間才能確認。」\n\n他在周四播出的 podcast「I'm ADHD! No You're Not」中表示，決定接受診斷是因為「我只是想知道」。\n\nADHD 的症狀主要集中於三個範疇——專注力失調、過度活躍及衝動，還有專注力不足。\n\n雖然很多人可能覺得自己有一些類似症狀，但遺傳因素在 ADHD 中扮演着重要角色，而完整診斷則是針對那些在日常生活中受到負面影響的人士。\n\nPegg 表示，他之前一直把這些症狀歸咎於「性格缺陷」。\n\n這位演員兼編劇亦談及他的心理健康狀況，包括患有臨床抑鬱症及難以控制酒量。他說，自己起初以為這些問題「引發」了他的確診。\n\n他說：「我覺得這好像是後天才出現的，因為我小時候並不是個頑皮的孩子。我自 18 歲起在成年階段曾多次抑鬱發作，我以為它可能是跟着這些情況一起出現的。也許多年來透過治療和藥物——無論如何——我一直在處理症狀，而非我會有這種感覺的根本原因。」\n\nPegg 說：「我確實感到自己與眾不同，雖然我說不出具體是什麼。也許每個人都會有這種感覺。我一直以為 ADHD 小朋友都是比較混亂、難纏、在學校不專心的，」他補充道。「但我小時候確實有做過其他事情——比如坐立不安之類的——讓我想到，『噢不會吧，也許這問題困擾我的時間比我以為的更長。』」\n\nPegg 說他的妻子一直很支持他，「就像我早已確診了一樣」來應對這件事。他補充說：「這就是我的一部分，也是我會做的事情。她會包容我的健忘和專注力不足。」\n\n此前，Pegg 曾表示他認為自己的駕駛技術差是因為未確診的 ADHD。\n\n這位演員曾多次被定超速，他去年接受 LBC 訪問時說，他覺得 ADHD 確診有助解釋他在駕駛時專注力不足的問題。他在希臘度假時倒車撞到柱杆，這促使他去查找 ADHD 的症狀。\n\n他說：「我在手機上搜索『ADHD 患者是否比非患者更容易發生車禍』，答案是肯定的。這是因為專注力不足和難以完全專注。這就是壓倒駱駝的最後一根稻草。我需要去看精神科醫生，確認自己是否真的有這個問題。」\n\n確診人數飆升\n\n其他在成年後確診 ADHD 的名人包括喜劇演員兼演員 Johnny Vegas、喜劇演員兼主持人 Sue Perkins、主持人 Ant McPartlin 及 Richard Bacon、喜劇演員 Rory Bremner 和模特兒 Erin O\\'Connor。\n\n英國國家健康與卓越護理研究院（NICE）將 ADHD 描述為「一種以過度活躍、衝動及專注力失調為特徵的行為綜合症」。\n\n英國國民保健署（NHS）估計，英格蘭約有 250 萬人患有 ADHD，包括那些未獲正式診斷的人。\n\nADHD 及自閉症的確診率持續飙升，英格蘭 NHS 的評估輪候名單已達創紀錄水平，部分地區甚至因需求過大而關閉名單。倫敦大學學院的研究顯示，2000 年至 2018 年間，英國確診 ADHD 的成年人數量增加了近 20 倍。\n\n儘管確診及轉介個案上升，部分研究仍顯示 ADHD 實際上被低估。今年 6 月，《Lancet Regional Health Europe》期刊發表研究，指出英格蘭約有 1.2% 的成年人確診 ADHD，但國際患病率數據估計受影響者達 3 至 5%。研究作者表示，這顯示 ADHD 可能仍未獲充分診斷，特別是在較年長的群組中。",
+      "bodyZh": "演員Simon Pegg透露ADHD確診：「這就是我」\n\n《活人殭屍》及《職業特工隊》系列主演Simon Pegg透露自己已被診斷出患有ADHD，他表示這「證實了很多我一直糾結的事情」。\n\n現年56歲的Pegg亦是《辣手警探》及《世界終結》電影的聯合編劇及主演，同時主演過電視劇《Spaced》。他說：「之前有很多累積的懷疑，真的花了段時間才確診。」\n\n他在周四播出的podcast節目《I'm ADHD! No You're Not》上表示，他尋求確診只是因為「就想知道」。\n\nADHD症狀主要集中於三個範疇——專注力失調、過動及衝動，外加專注度不足。\n\n雖然很多人都可能感覺自己有部分類似症狀，但遺傳因素在ADHD中扮演重要角色，只有日常受到負面影響的人才會獲完整確診。\n\nPegg表示，他之前一直把這些症狀歸咎於「純粹是性格缺陷」。\n\n這位演員兼編劇亦談及他的心理健康狀況，包括患有臨床抑鬱症及難以控制飲酒問題。他說，自己起初以為這些問題「引發」了ADHD確診。\n\n「我覺得這好像是後來才出現的，因為我小時候並不是個調皮的孩子。\n\n「我自18歲成年後就曾多次抑鬱發作，當時想或許是跟著抑鬱一起出現的。\n\n「也許多年來透過治療和藥物——或其他方式——我一直在處理症狀，而非我會有這種感受的根本原因。」\n\nPegg說：「我確實感覺自己與眾不同，雖然說不清具體是什麼。也許每個人都有這種感覺。\n\n「我以前以為ADHD小孩都是那種調皮搗蛋、在學校不專心的，」他補充道。\n\n「但我小時候確實有些其他行為——例如坐立不安之類的——讓我想到，『喔不會吧，也許我患這個病的時間比我想的要長得多』。」\n\nPegg表示他的妻子一直很支持他，現在「就像我早就確診了一樣」應對這件事。他補充道：「這就是我，這只是我會做的事。\n\n「她會包容我的健忘和專注力不足。」\n\nADHD has rewired the workplace. This is what it means for bosses and workers\n\nPegg之前曾說過，他認為自己駕駛技術差是因為未確診的ADHD。\n\n這位曾多次超速被定罪的明星去年接受LBC電台訪問時表示，他覺得ADHD確診能有助解釋他在駕駛時專注力不足的問題。\n\n他在希臘度假時倒車撞上柱子，促使他去查閱ADHD的症狀。\n\n「我在手機上搜尋『ADHD患者是否比非患者更容易發生車禍』，答案是是的。\n\n「這是因為專注力失調，以及難以完全集中。\n\n「那時真的是壓垮駱駝的最後一根稻草。我需要去看精神科醫生，確認自己是否真的有這個問題。」\n\n需求龐大\n\n其他在成年後確診ADHD的名人包括喜劇演員Johnny Vegas、喜劇人兼主持人Sue Perkins、主持人Ant McPartlin及Richard Bacon、喜劇演員Rory Bremner和模特兒Erin O'Connor。\n\n英國國家健康與照護卓越研究院（NICE）將ADHD描述為「以過動、衝動和專注力失調為特徵的行為症候群」。\n\n英國國民保健服務（NHS）估算，英格蘭約有250萬人患有ADHD，當中包括未獲正式確診的人士。\n\nADHD和自閉症的確診率大幅飆升，英格蘭NHS的評估輪候名單已達創紀錄水平，部分地區甚至因需求過大而關閉輪候名單。\n\n倫敦大學學院的研究顯示，2000年至2018年間，英國確診ADHD的成年人數量增加了近20倍。\n\n儘管確診和轉介個案有所增加，部分研究仍指出ADHD實際上存在診斷不足的情況。\n\n今年6月，《刺針區域健康歐洲》期刊發表研究指出，雖然英格蘭約有1.2%成年人確診ADHD，但國際患病率數據估計受影響人數達3至5%。研究作者表示，這顯示ADHD可能仍被低估診斷，尤其在較年長的群組中。",
       "featured": false
     },
     {
-      "title": "「就像我的大哥一樣」：患腦癱的男孩借助眼球追蹤技術通過GCSE考試",
+      "title": "「就像我的大哥一樣」：腦癱少年以眼球追蹤技術通過GCSE",
       "url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
       "publishedAt": "2026-10-02T17:18:06.000Z",
-      "summary": "帕特里克·麥凱布的壯舉顯示了特殊教育需求及殘疾制度的局限與可能性。在初秋的陽光下，患有腦癱的帕特里克在柴郡馬克斯菲爾德的法利布魯姆學院備受矚目。他坐著輪椅穿梭課室，與同學聊天、歡笑、打趣。",
+      "summary": "柏加的壯舉揭示了特殊教育需求及殘疾制度的局限與可能。這名來自柴郡麥克斯菲爾德福爾布魯克學院的少年在晴朗的初秋陽光下坐著輪椅，周圍是同學們。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -434,14 +487,14 @@
           "alt": ""
         }
       ],
-      "bodyZh": "在初秋的陽光下，柏特里克·麥克凱比坐著輪椅，周圍都是Fallibroome Academy的同學，一群人邊走邊聊，笑鬧著從一節課到下一節課，格外搶眼。\n\n他今年夏天在GCSE考試中取得超卓成績，已成為校園傳奇。這位十六歲少年患有腦癱，使用眼球追蹤技術完成考試，前後花了四個月。如今柏特里克已展開A-level的學習——選修法語、商科及媒體研究——新的挑戰就在前方。\n\n親身相處，柏特里克機靈、深思、伶牙俐齒、幽默、聰明而且坦誠。他透過輔助替代溝通（AAC）裝置告訴《衛報》，整體而言學校是良好的體驗。他生於瑞士，六歲時隨家人回英國，此後就讀當地的主流學校，只想跟所有人一樣學習。\n\n「最好的事情是，我能像我的大哥、二哥一樣，學習、發展技能、認識周遭的世界，」他說。「即使有時候我並非每天都想去上學，但我認為學習的機會幫助我成長，培養出獨立思考的能力。」\n\n過程並不容易。「最困難的事情是建立有意義的關係，而且溝通障礙確實存在，」柏特里克說。「人們並不總是熟悉Eyegaze技術，在友誼方面也不一定願意或能夠給它一個機會。」\n\n在許多方面，柏特里克體現了工黨政府對有特殊教育需求及殘疾（SEND）學生的抱負。即将推出的改革以包容方針為基礎，讓兒童及青少年留在當地學校——而非特殊學校——並配備一切必要的專業知識和支援。\n\n然而柏特里克的故事也說明，若要令英格蘭的教育及考核制度真正做到包容，需要多大的變革。他的家人和學校表示，他的經歷表明考試遠非對所有人都是無障礙的；至關重要的是，專業知識並非總是有保障，而資金永遠不夠。\n\n「我們只希望柏特里克能有機會展示他的知識，與其他學生相比獲得一個相對公平的條件，」校長羅斯·馬特蘭說。學校和柏特里克的母親喬努力與考試委員會交涉，爭取讓他得到公平的機會。\n\n最終，這聽起來並不公平。當同學們在年初的時候溫習備考時，柏特里克的考試在二月二日展開，一直持續到六月五日，每個上午都在應考。這需要他付出巨大的努力，令他筋疲力竭、沮喪，有時甚至生病。\n\n一道可能只是考試其中一部分的三十分題，可能需要長達六小時。柏特里克全程獲得CandLE的支持——這是一個幫助使用AAC技術的學生在英國獲得教育的機構。他通過了全部七科GCSE，並取得升讀六年級所需成績，堪稱他決心的最佳證明。\n\n「備考GCSE非常耗費精力，因為溫習本身就已經需要額外的時間和努力，」柏特里克說。「即使我理解科目內容，我仍覺得必須更努力才能表達我所知道的。這令人身心俱疲。我需要額外的休息時間，但仍然想盡全力展示我所學到的。」\n\n馬特蘭全力支持政府的SEND願景。「我認為這些計劃是正確的。從道德和價值觀角度來說，完全正確。」問題在於資金，他說，並補充：「如果資源配置不當，我擔心會給學校帶來巨大壓力。」\n\n在Fallibroome就讀期間，柏特里克一直有一個敬業的教學助理團隊支持他，不僅在課堂上協助學習，還照顧他的個人護理。「我們對柏特里克和我們所有的SEND學生感到非常自豪，」與他共事的教學助理雷切爾·克魯說。\n\n柏特里克說轉到六年級進展順利。他脫下了瓶綠色校服，換上了帥氣的藍色西裝，他說學校正盡一切所能支援他。\n\n他說母親一直「很了不起」，他認為使用眼球追蹤技術的肢體障礙學生應該以更合適的方式進行評估，這樣他們就不會面對額外的障礙。但令他擔憂的不僅是考試。「說實話，我的擔憂仍然是關於友誼，」他說。\n\n那麼柏特里克下一步有什麼計劃？完成A-level後，他想在大學攻讀媒體。「我對此感興趣，而且我想進入這個行業。」他的母親試探性地建議附近的索爾福德。柏特里克則看中了兩百英里外的伯恩茅斯。他害怕嗎？絕對不會。「我對這段經歷感到興奮。」",
+      "bodyZh": "Patrick McCabe在初秋的陽光下一眼就能認出來，他在Macclesfield的Fallibroome Academy坐著輪椅，周圍是同學們，大家一邊從課室走到課室，一邊聊天、說笑。他的GCSE考試取得非凡成功，今年夏天已成為校內傳奇。這位16歲的少年患有腦癱，用眼球追蹤技術完成考試花了整整四個月。如今Patrick已開始修讀A-Level——法語、商科和媒體研究——前方有新的挑戰等著他。\n\n見到真人，Patrick機靈、深思熟慮、言辭得體、幽默風趣、聰明而且坦誠。他透過擴展性及另類溝通（AAC）裝置告訴《衛報》，整體而言學校是良好的體驗。他生於瑞士，六歲時全家回流英格蘭，此後一直就讀當地的主流學校，他希望像其他人一樣學習。\n\n「最美好的事情是，我能像我的大哥、二哥一樣，學習、培養技能、認識周遭的世界，」他說。「即使有些日子我不想上學，我認為學習的機會幫助我成長，培養獨立思考的能力。」\n\n過程並不容易。「最困難的是建立有意義的關係，而溝通障礙確實存在，」Patrick說。「人們並不總是熟悉Eyegaze技術，也並不總是願意或能夠在友誼方面給它一個機會。」\n\n在許多方面，Patrick體現了工黨政府對特殊教育需求及殘疾學生（Send）的願景。即將推出的改革建基於包容方針，讓兒童和年輕人留在本地學校——而非特殊學校——並配備一切所需的專業知識和支援。\n\n但Patrick的故事也說明了，若要讓英格蘭的教育和評估真正具包容性，需要多大的改變。他的家人和學校表示，考試對許多人而言遠非無障礙，重要的專業知識並非隨時可得，而最關鍵的是——資金永遠不足。\n\n「我們只是想讓Patrick有機會展示他的知識，獲得與其他學生相若的公平機會，」校長Ross Martland說。學校和Patrick的母親Jo一直與考試局力爭，務求令他得到公平對待。\n\n然而最終，這聽起來並不怎麼公平。當同學們在年初忙於溫習時，Patrick的考試從2月2日開始，每天上午進行，直至6月5日。這需要他付出巨大的努力，令他筋疲力竭、屢生挫折，有時甚至病倒。\n\n一道30分的試題——可能只是整份試卷的一部分——最多需要六小時。Patrick全程得到CandLE的支援，該組織協助英國各地使用AAC技術的學生獲得教育機會。他通過全部七科GCSE並取得升讀預科所需的成績，足以證明他的決心。\n\n「為GCSE考試溫習非常耗神，因為一開始就需要額外的時間和精力來備試，」Patrick說。「即使我完全理解科目內容，我仍覺得需要更努力才能表達我所知的東西。這令人身心俱疲。我需要更多休息時間，但仍然想盡力展示我所學到的。」\n\nMartland完全支持政府的Send願景。「我認為這些計劃是正確的。在道德和價值觀上，這完全正確。」問題在於資金，他說，並補充道：「如果沒有妥善撥款，我擔心這會對學校造成巨大壓力。」\n\n在Fallibroome就讀期間，Patrick一直得到一群敬業的教學助理團隊合作，他們不僅在課堂上支援他的學習，還照顧他的個人護理。「我們對Patrick和我們所有的Send學生感到非常自豪，」與他共事的教學助理Rachel Crew說。\n\nPatrick說轉到預科的過渡進展順利。他脫下了 bottle green 校服，改穿得體的藍色西裝，他說學校正竭盡所能支援他。\n\n他說母親「很了不起」，他認為使用眼球追蹤技術的肢體殘疾學生應該以更合適的方式考核，以免面對額外障礙。但令他擔憂的不僅是考試。「說實話，我的擔憂仍然圍繞友誼，」他說。\n\n那麼Patrick下一步有什麼計劃？完成A-Level後，他想在大學攻讀媒體。「我覺得這很有趣，而且我想進入這個行業。」母親小心翼翼地建議附近的Salford。Patrick則看中了200英里外的Bournemouth。他害怕嗎？不可能。「我對這段經歷感到興奮。」",
       "featured": false
     },
     {
-      "title": "日本少年大橋戰勝新冠創世界紀錄",
+      "title": "少年大橋戰勝新冠創世界紀錄",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/ckzdzm06n2pyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T15:12:12.000Z",
-      "summary": "17歲的大橋慎在200米蛙泳項目以世界紀錄奪金，收穫本屆亞運會第二面金牌。",
+      "summary": "17歲的大橋晉克服新冠疫情，在亞運會200米蛙泳項目中奪金並創下世界紀錄，個人第二枚亞運金牌。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -458,42 +511,42 @@
           "alt": "A headshot show Tatjana Smith smiling broadly as she holds up her 100m breaststroke gold medal during the medal ceremony at the Paris 2024 Olympic Games"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b15a/live/da44c080-c825-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Lisandro Martinez"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2fca/live/308e3630-c8dd-11f1-9a39-31b474234113.jpg",
+          "alt": "Anthony Gordon"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/15a0/live/6f011390-c826-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Bradley Barcola with his player-of-the-match trophy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3e0d/live/7487b290-c8d7-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Mikey Moore"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3cd3/live/8e5f2020-c825-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Rory Smith, Luis Enrique"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/be0e/live/86b2f7d0-c8ce-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Emma Middleton"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5cf9/live/33528660-c819-11f1-9a39-31b474234113.jpg",
-          "alt": "John Murray commentates on PSG as they celebrate their win against City at the Etihad"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1277/live/e63b0330-c8bc-11f1-9a39-31b474234113.jpg",
+          "alt": "Infantino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bb5a/live/4ecb1500-c810-11f1-9a39-31b474234113.jpg",
-          "alt": "Lisandro Martinez speaks into a microphone for press after Man United&#x27;s defeat"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/508e/live/d1783a40-c8b1-11f1-9a39-31b474234113.jpg",
+          "alt": "FA chair Debbie Hewitt and FIFA president Gianni Infantino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/66a2/live/711bf0d0-c7c4-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Lisandro Martinez"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dbc6/live/d3852370-c8c0-11f1-9a39-31b474234113.jpg",
+          "alt": "Thierno Barry looks at the camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1499/live/c4e54230-c7f5-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Sunderland fan"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3848/live/2395b890-c8b0-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Tom Ince"
         }
       ],
-      "bodyZh": "亞運會：17歲大橋晉打破200米蛙泳世界紀錄\n\nBBC Sport\n\n teenage Ohashi戰勝新冠　刷新世界紀錄\n\n圖片來源：Getty Images\n\n圖片說明：\n大橋晉本周較早前與中國運動員董志昊分享了100米蛙泳金牌\n\n作者：Ffion Wynne　BBC Sport記者\n\n發布日期：2026年9月24日\n\n日本少年大橋晉在亞運會上打破200米蛙泳世界紀錄，儘管他在備戰期間感染了新冠肺炎。\n\n17歲的大橋晉以2分04秒83的成績奪冠，輕鬆打破此前由中國運動員覃海洋在2023年世界錦標賽上創下的2分05秒48的紀錄。\n\n大橋晉是本屆亞運會上第二位登上頭條的少年天才，此前13歲的中國運動員余梓迪在周三贏得了她的第三面金牌。\n\n這是他本屆亞運會的第二面金牌，此前他與中國運動員董志昊分享了100米蛙泳冠軍。\n\n「關於新冠肺炎，畢竟它在心理上給我帶來了一些焦慮，」大橋晉在獲勝後說。\n\n「但反過來說，身體方面我認為能夠適當地讓身體休息作為康復期，這反而是好事。」\n\n大橋晉去年在世界青少年錦標賽上贏得五面金牌，法國運動員利昂·馬尚——2024年巴黎奧運會泳壇的焦點人物——曾稱這位年輕人為「可怕」的對手。\n\n與此同時，19歲的張展碩贏得了他本屆亞運會的第六面金牌，為中國隊贏得4×100米自由泳接力賽冠軍。\n\n相關主題\n\n游泳\n\n更多相關報道\n\n13歲余梓迪在亞運會完成金牌帽子戲法\n\n發布日期：9月23日\n\n「我失去了對游泳的熱愛」——史密夫復出\n\n發布日期：9月22日",
+      "bodyZh": "亞運會：十七歲新星大橋晉打破二百米蛙泳世界紀錄\n\n日本十七歲泳手大橋晉在亞運會上打破二百米蛙泳世界紀錄，儘管他在備戰期間感染了新冠肺炎。\n\n大橋晉以二分四秒八三的成績奪冠，輕鬆打破由中國泳手覃海洋於二零二三年世界游泳錦標賽創下的二分五秒四八舊紀錄。\n\n大橋晉是今屆亞運會上第二位嶄露頭角的少年天才，此前中國十三歲小將余梓蒂已在周三摘下個人第三面金牌。\n\n這是他本屆的第二面金牌，此前他與中國泳手董志昊分享了百米蛙泳冠軍。\n\n「關於新冠肺炎，說到底，確實在心理上給我帶來了一些焦慮。」大橋晉賽後說道。\n\n「但反過來說，在身體層面上，我認為能夠好好休息、讓身體恢復，這段康復期反而是件好事。」\n\n大橋晉去年在世界青少年錦標賽上勇奪五金，法國泳手利昂·馬沙爾——這位在二零二四年巴黎奧運會上橫空出世的天才——曾形容這位年輕後輩是個「可怕」的威脅。\n\n另外，十九歲的中國泳手張展碩贏得個人本屆第六面金牌，並助中國隊奪得四乘一百米自由泳接力冠軍。",
       "featured": false
     },
     {
-      "title": "13歲游泳新星余子迪　亞運400米個人混合泳摘金完成三金壯舉",
+      "title": "13歲余完成亞運金牌帽子戲法",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cq0lry2yjg2go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-23T10:16:28.000Z",
-      "summary": "年僅13歲的游泳天才余子迪在亞運400米個人混合泳中以壓倒性姿態奪冠，完成三面金牌的壯舉。",
+      "summary": "年僅13歲的游泳新星余梓迪在400米個人混合泳中以壓倒性優勢奪冠，完成亞運會金牌帽子戲法。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -506,46 +559,46 @@
           "alt": "A headshot show Tatjana Smith smiling broadly as she holds up her 100m breaststroke gold medal during the medal ceremony at the Paris 2024 Olympic Games"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b15a/live/da44c080-c825-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Lisandro Martinez"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2fca/live/308e3630-c8dd-11f1-9a39-31b474234113.jpg",
+          "alt": "Anthony Gordon"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/15a0/live/6f011390-c826-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Bradley Barcola with his player-of-the-match trophy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3e0d/live/7487b290-c8d7-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Mikey Moore"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3cd3/live/8e5f2020-c825-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Rory Smith, Luis Enrique"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/be0e/live/86b2f7d0-c8ce-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Emma Middleton"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5cf9/live/33528660-c819-11f1-9a39-31b474234113.jpg",
-          "alt": "John Murray commentates on PSG as they celebrate their win against City at the Etihad"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1277/live/e63b0330-c8bc-11f1-9a39-31b474234113.jpg",
+          "alt": "Infantino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bb5a/live/4ecb1500-c810-11f1-9a39-31b474234113.jpg",
-          "alt": "Lisandro Martinez speaks into a microphone for press after Man United&#x27;s defeat"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/508e/live/d1783a40-c8b1-11f1-9a39-31b474234113.jpg",
+          "alt": "FA chair Debbie Hewitt and FIFA president Gianni Infantino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/66a2/live/711bf0d0-c7c4-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Lisandro Martinez"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dbc6/live/d3852370-c8c0-11f1-9a39-31b474234113.jpg",
+          "alt": "Thierno Barry looks at the camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1499/live/c4e54230-c7f5-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Sunderland fan"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3848/live/2395b890-c8b0-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Tom Ince"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9acb/live/3c0322c0-c7e6-11f1-9a39-31b474234113.jpg",
-          "alt": "Estadio Nacional"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5b69/live/31813ed0-c887-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "Could Arsene Wenger challenge for FIFA presidency?"
         }
       ],
-      "bodyZh": "13歲游泳新星余梓迪勇奪第三金\n\n余梓迪在亞運會400米個人混合泳項目以壓倒性優勢奪冠，完成三金壯舉。\n\n中國的余梓迪由頭帶到尾，游出4分28秒56的新亞運紀錄，比2014年創下的舊紀錄快近4.5秒。\n\n她的時間是本年全球第四快，只有加拿大世界紀錄保持者Summer McIntosh比她更快。余梓迪以3.95秒的優勢拋離隊友柯文熙，後者獲得銀牌，銅牌由日本選手成田美緒奪得。\n\n余梓迪早前已在名古屋赢得200米蝶泳及200米個人混合泳金牌，兩項均刷新亞運紀錄。她被普遍看好在2028年洛杉矶奧運會爭奪獎牌。\n\n另外，朝鮮舉重選手李松金在女子49公斤級賽事中三破世界紀錄，贏得個人第三面亞運金牌。\n\n28歲的衛冕冠軍李松金在抓舉環節舉起94公斤，隨後挺舉121公斤，兩項成績均比先前世界最佳多1公斤，總成績215公斤較舊世界紀錄多4公斤。\n\n她說：「世界紀錄和這面金牌對我意義重大，因為我把所有一切都投入了這次比賽。今天我帶着信念和期望走上賽場。」",
+      "bodyZh": "13歲游泳新星余梓迪在亞洲運動會再下一城，於400米個人混合泳以壓倒性優勢奪冠，達成三金成就。\n\n中國泳手余梓迪由頭帶到尾，以4分28秒56刷新亞運紀錄，比保持了12年之久的舊紀錄快近4.5秒。她的時間是本年世界第四快，僅次於加拿大世界紀錄保持者Summer McIntosh。\n\n余梓迪以3.95秒之差拋離隊友柯文汐，後者取得銀牌；日本選手成田未生奪得銅牌。\n\n此前余梓迪已在名古屋赢得200米蝶泳及200米個人混合泳金牌，兩項均刷新亞運紀錄。她現被廣泛看好，有望在2028年洛杉矶奧運會爭奪獎牌。\n\n另一方面，朝鮮舉重選手李松金在女子49公斤級賽事中三度打破世界紀錄，贏得個人第三面亞運金牌。\n\n這位28歲的衛冕冠軍在抓舉環節举起94公斤，隨後挺舉121公斤，兩個項目均比此前世界最佳成績多1公斤，總成績215公斤則比舊世界紀錄多出4公斤。\n\n李松金表示：「世界紀錄和這面金牌對我意義重大，因為我為今次比賽傾注了一切。我今天懷着那份信念和期望踏上賽場。」",
       "featured": false
     },
     {
-      "title": "「我失去了對游泳的熱愛」——史密夫談復出泳池",
+      "title": "「我對游泳失去了熱愛」——史密夫談復出",
       "url": "https://www.bbc.co.uk/sport/olympics/articles/ck8d388rmdvqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-22T10:10:48.000Z",
-      "summary": "南非史上最成功的奧運金牌得主塔蒂亞娜·史密夫解釋她為何改變主意，撤回退役決定，重返競技泳壇。",
+      "summary": "南非史上最成功的奧運金牌得主塔蒂安娜·史密夫透露，她為何改變了退役決定，重返泳壇。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -558,88 +611,36 @@
           "alt": "Tatjana Smith and her husband Joel Smith, visible from waist up, stand side-by-side as they hold up a large and ornate circular gold trophy. The centre of the embossed plate appears to show a man riding a chariot driven by more than one horse, with the outer circumference also covered in classical-looking designs. Behind the smiling couple hang two South African flags."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b15a/live/da44c080-c825-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Lisandro Martinez"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2fca/live/308e3630-c8dd-11f1-9a39-31b474234113.jpg",
+          "alt": "Anthony Gordon"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/15a0/live/6f011390-c826-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Bradley Barcola with his player-of-the-match trophy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3e0d/live/7487b290-c8d7-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Mikey Moore"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3cd3/live/8e5f2020-c825-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Rory Smith, Luis Enrique"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/be0e/live/86b2f7d0-c8ce-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Emma Middleton"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5cf9/live/33528660-c819-11f1-9a39-31b474234113.jpg",
-          "alt": "John Murray commentates on PSG as they celebrate their win against City at the Etihad"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1277/live/e63b0330-c8bc-11f1-9a39-31b474234113.jpg",
+          "alt": "Infantino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bb5a/live/4ecb1500-c810-11f1-9a39-31b474234113.jpg",
-          "alt": "Lisandro Martinez speaks into a microphone for press after Man United&#x27;s defeat"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/508e/live/d1783a40-c8b1-11f1-9a39-31b474234113.jpg",
+          "alt": "FA chair Debbie Hewitt and FIFA president Gianni Infantino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/66a2/live/711bf0d0-c7c4-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Lisandro Martinez"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dbc6/live/d3852370-c8c0-11f1-9a39-31b474234113.jpg",
+          "alt": "Thierno Barry looks at the camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1499/live/c4e54230-c7f5-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Sunderland fan"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3848/live/2395b890-c8b0-11f1-bc2e-018d645d8d21.jpg",
+          "alt": "Tom Ince"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9acb/live/3c0322c0-c7e6-11f1-9a39-31b474234113.jpg",
-          "alt": "Estadio Nacional"
-        }
-      ],
-      "bodyZh": "南非最成功的奧運選手塔蒂亞娜·史密夫結束了兩年的退役生活，透露自己在2024年離開泳池之前已經「失去了對這項運動的熱愛」。\n\n這位29歲泳手在巴黎奧運會後隨即宣佈退役的決定令外界意外，因為她當時剛在法國首都贏得200米蛙泳金牌，此前在2020年東京奧運會上亦摘得100米蛙泳冠軍。\n\n但經過兩年的休整，其中數月完全沒有游泳，她表示自己如今「已擺脫了令我厭惡游泳的那些東西」。\n\n她在BBC全球服務的節目Newsday中說：「我的一生，對游泳而言有點像一台機械人。」\n\n「你全副心神專注於某件事，達到痴迷的程度，所以根本沒有時間去思考泳池以外你可能感興趣的事物。\n\n「我想幾乎每個人都會認為退役的時機是最差的。但我百分百相信，當時這是最好的決定，到現在我仍然內心平靜。」\n\n史密夫在東京和巴黎各贏得一枚銀牌，加上兩枚金牌，她為南非累積的四枚奧運獎牌，與同為泳手的查德·勒克洛斯持平。勒克洛斯在2012年倫敦和2016年里約奧運會上獲得一枚金牌和三枚銀牌。\n\n然而，儘管為祖國創造歷史，史密夫透露經濟壓力——包括與南非游泳協會關於獎金的爭議——也是她退役的原因之一。\n\n她解釋道：「任何運動員的經濟負擔都非常艱鉅。\n\n「我一直依靠父母的資助，直到我在奧運會上打破世界紀錄。然後，突然間，現在人才開始有興趣贊助你。\n\n「但大多數運動員的贊助都基於表現。所以你就有了那種壓力和期望，必須不斷表現，否則就拿不到報酬。\n\n「我認為經濟因素，再加上體制內並非真正以運動員為先，令這一切變得非常困難。」\n\n史密夫以婚前姓氏Schoenmaker贏得首枚奧運金牌，2023年與體育經紀人喬爾·史密夫結婚後改姓。\n\n這段婚姻使她成為南非更廣泛的運動家族一員，因為她的嫂子是蕾切爾·史密斯，曾與跳羚隊隊長西亞·科利西結婚，儘管兩人後來分開。\n\n塔蒂亞娜·史密夫坦言，這段婚姻改變了她對未來的想法。\n\n「作為女性，考慮組建家庭時，你必須把時間算得恰到好處，因為如果你懷孕了，並不像還能繼續參賽。」\n\n雖然孩子尚未列入她的計劃，但史密夫表示弄清楚下一步該做什麼絕非易事。\n\n這位2023年200米蛙泳世界冠軍說：「我完全理解運動員所說的賽後抑鬱症。」她亦曾在共和運動會和非洲錦標賽上獲冠。\n\n「我的生活變得如此空虛，因為我整個人生都圍繞著游泳。\n\n「我不需要按特定時間進食，不需要按特定時間睡覺，不需要考慮出行或不能再陪伴家人。\n\n「世界令人如此無所適從。就是說，該往哪個方向走？\n\n「這絕對是我經歷過最艱難的時期。我想這可能就是讓我成為更堅強的人的原因。」\n\n最初，史密夫靠出席演講活動來維持生計。\n\n她笑著承認：「我討厭公開演講，討厭在人前亮相。」\n\n但她對比賽的熱愛則截然不同。\n\n為了保持體能而回到泳池後，她決定嘗試三項鐵人，形容這是個「瘋狂的想法」。\n\n她說：「訓練強度太大，我就想，『好吧，如果我要這樣刻苦訓練，不如乾脆回去游泳算了』。」\n\n「每次我回到泳池跳下水，我都會說，『是的，這種感覺我真的非常非常懷念』。」\n\n「我想在這一年半裡慢慢發現，『哇，我真的非常熱愛游泳』。」\n\n決定復出後，史密夫希望煥然一新，「嘗試新事物」。\n\n這意味著轉戰50米蛙泳——這是2028年洛杉磯奧運會首次列入奧運項目的項目。\n\n史密夫說：「我想，『為什麼不試試？為什麼不給自己這個挑戰？重新塑造自己』。」\n\n「我總是嘗試向不太了解游泳的人解釋：這就像400米跑手和100米跑手。這是兩種不同的體型、兩種不同的訓練方式，而我現在要走的就是這條路。」\n\n這意味著她的訓練量減少了一半以上，從每週八節訓練課降至三節——她相信這將有助於保持對運動的熱愛，過上更平衡的生活。\n\n「我覺得自己好像太懶了，因為以前每天游12公里，現在的重點是花時間盡量提升爆發力。\n\n「現在我一週游12公里。\n\n「我有20年的耐力打底，但我絕對看得出自己缺少那些快縮肌纖維。這是一種全新的方式來教我的身體游泳。」\n\n泳池中最初的那20年令史密夫感到身心俱疲。\n\n如今她表示，自己有權按自己的方式做事。\n\n「游泳是父母給予我的機會，我相信我全心全意投入了這項運動。\n\n「但這次是否回來，第一次由我自己決定。我在選擇游泳。\n\n「我所取得的成就，已遠遠超出我一生所能夢想的，所以我無需證明什麼。」",
-      "featured": false
-    },
-    {
-      "title": "奧運冠軍史密夫宣佈復出",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/c83v4ylk372po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T09:21:13.000Z",
-      "summary": "「瘋狂、害怕、興奮」——南非雙料奧運游泳冠軍塔蒂亞娜·史密夫推翻退役決定，爭取2028年洛杉磯奧運參賽席位。",
-      "sourceName": "BBC 運動（游泳）",
-      "sourceId": "bbc-swimming",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1cc3/live/21ca1970-b65e-11f1-b785-7d19738c6de2.jpg",
-          "alt": "Tatjana Smith holding her gold Olympic medal at the Paris 2024 Olympic Games"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/570d/live/93710940-b5db-11f1-bc1f-3f186ca4140c.jpg",
-          "alt": "A headshot show Tatjana Smith smiling broadly as she holds up her 100m breaststroke gold medal during the medal ceremony at the Paris 2024 Olympic Games"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/39B6/production/_122047741_schoenmaker.png",
-          "alt": "Tatjana Schoenmaker after winning the 200m breaststroke in Tokyo in world-record time"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b15a/live/da44c080-c825-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Lisandro Martinez"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/15a0/live/6f011390-c826-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Bradley Barcola with his player-of-the-match trophy"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3cd3/live/8e5f2020-c825-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Rory Smith, Luis Enrique"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5cf9/live/33528660-c819-11f1-9a39-31b474234113.jpg",
-          "alt": "John Murray commentates on PSG as they celebrate their win against City at the Etihad"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bb5a/live/4ecb1500-c810-11f1-9a39-31b474234113.jpg",
-          "alt": "Lisandro Martinez speaks into a microphone for press after Man United&#x27;s defeat"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/66a2/live/711bf0d0-c7c4-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Lisandro Martinez"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1499/live/c4e54230-c7f5-11f1-bc2e-018d645d8d21.jpg",
-          "alt": "Sunderland fan"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5b69/live/31813ed0-c887-11f1-a64c-550be9e3c66b.jpg",
+          "alt": "Could Arsene Wenger challenge for FIFA presidency?"
         }
       ],
       "featured": false
@@ -648,7 +649,7 @@
       "title": "190萬人研究發現ADHD與腸道問題驚人關聯",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
       "publishedAt": "2026-09-11T11:26:08.000Z",
-      "summary": "研究人員分析190多萬人的數據後發現，ADHD與消化系統問題有顯著關聯。ADHD患者患便秘的機率近一倍、腸易激綜合症的機率高出58%、大便失禁的機率更高出四倍。",
+      "summary": "研究人員分析逾190萬人數據，發現ADHD與消化問題顯著相關。患者便秘風險近倍，腸易激綜合症風險高58%，大便失禁風險更高逾四倍。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -664,10 +665,10 @@
       "featured": false
     },
     {
-      "title": "加速關節老化的常見錯誤",
+      "title": "這個常見錯誤可能加劇關節老化疼痛",
       "url": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
       "publishedAt": "2026-08-16T11:23:47.000Z",
-      "summary": "老化會逐漸磨損保護關節的軟骨和滑液，但避免運動反而可能令情況更糟。運動有助滋養軟骨、強化保護關節的肌肉，並能減輕骨關節炎症狀。游泳、騎單車、太極、瑜伽及在多元地形步行等低衝擊運動，亦可改善平衡能力。",
+      "summary": "關節的軟骨和滑液會隨年齡退化，但避免活動反而使情況惡化。運動有助滋養軟骨、加強關節保護肌肉、緩解骨關節炎疼痛。游泳、騎單車、太極、瑜伽及多元地形行走等低衝擊運動，亦可改善平衡、降低跌倒風險。",
       "sourceName": "《科學日報》健康與體能",
       "sourceId": "sciencedaily-fitness",
       "images": [
@@ -690,7 +691,7 @@
       "title": "成長過程中ADHD特質的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項歷時數十年的大型研究表明，兒童時期的ADHD徵兆可能帶來超越學業和行為的長期後果。研究人員追蹤近11,000人從童年到中年，發現10歲時有明顯ADHD特質的人，更可能在中年出現多種身體健康問題及健康相關障礙。",
+      "summary": "一項長達數十年的大型研究表明，兒童時期的ADHD跡象可能會帶來超越學校和行為的後果。研究人員追蹤了近11,000人從童年到中年，發現那些在10歲時有強烈ADHD特質的人，更容易出現多種身體健康問題和與健康相關的殘疾。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -706,10 +707,10 @@
       "featured": false
     },
     {
-      "title": "研究發現ADHD特質與更佳心理健康相關",
+      "title": "研究人員發現ADHD的優勢與更好的心理健康有關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示了ADHD更光明的一面：能認識並運用自身長處的成年人會感到更快樂、更健康且壓力更小。ADHD患者更傾向於將創造力、幽默感和專注等特質視為個人優勢。總體而言，運用這些優勢與更好的生活品質及較少的心理健康問題相關。",
+      "summary": "新研究揭示了ADHD更光明的一面，顯示承認並利用自己優勢的成年人更快樂、更健康、壓力更小。ADHD患者更傾向於將創造力、幽默和過度專注等特質視為個人優勢。總體而言，運用這些優勢與更好的生活質量和較少的心理健康問題相關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -725,10 +726,10 @@
       "featured": false
     },
     {
-      "title": "ADHD藥物的作用機制與我們的認知不同",
+      "title": "ADHD藥物的運作方式與我們想像的不同",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "研究顯示ADHD興奮劑並非主要透過提升專注力來運作，而是激活大腦的獎勵和警覺系統。腦部掃描揭示，這些藥物能幫助兒童對原本會逃避的任務保持興趣，甚至能逆轉與睡眠剝奪相關的大腦模式。這一發現可能使ADHD的診斷變得更加複雜。",
+      "summary": "ADHD興奮劑似乎並非通過提高專注力起作用，而是通過喚醒大腦。腦部掃描顯示，這些藥物激活獎勵和警覺系統，幫助兒童對通常會逃避的任務保持興趣。這些藥物甚至逆轉了與睡眠剝奪相關的大腦模式。研究人員表示，這可能使ADHD診斷變得複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -744,16 +745,39 @@
       "featured": false
     },
     {
-      "title": "愛爾蘭與世衛組織合作改善全球輔助科技的普及",
+      "title": "愛爾蘭與世衛組織合作改善全球輔助科技的獲取",
       "url": "https://www.who.int/news/item/17-05-2024-ireland-and-who-work-together-to-improve-access-to-assistive-technology-globally",
       "publishedAt": "2024-05-17T13:17:27.000Z",
-      "summary": "愛爾蘭在利用數位技術作為工具克服各種就醫障礙的創新領域，成為全球領導者。與世衛組織保持一致，愛爾蘭深知動員輔助科技的重要性，以協助全球25億有需要的人，包括老年人、殘疾人士及生活困難者。",
+      "summary": "愛爾蘭正在成為利用數碼技術作為工具來應對各種護理障礙的創新領域全球領導者。愛爾蘭與世衛組織保持一致，認識到動員輔助技術的重要性，以幫助全球25億有需要的人，包括老年人、殘疾人士及生活在困境中的人。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
         {
           "src": "https://cdn.who.int/media/images/default-source/funding/tanzania_health-personnel-training_exr.jpeg?sfvrsn=dda672a_3",
           "alt": ""
+        }
+      ],
+      "featured": false
+    },
+    {
+      "title": "機構警告各國未能保護兒童免受暴力侵害",
+      "url": "https://www.who.int/news/item/18-06-2020-countries-failing-to-prevent-violence-against-children-agencies-warn",
+      "publishedAt": "2020-06-18T13:00:57.000Z",
+      "summary": "全球約十億名兒童每年受到身體、性和心理暴力影響，遭受傷害、殘疾甚至死亡，因為各國未能遵循已建立的保護策略。這是世衛組織、聯合國兒童基金會和聯合國今天發布的新報告的發現。",
+      "sourceName": "世衛新聞",
+      "sourceId": "who-news",
+      "images": [
+        {
+          "src": "https://www.who.int/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20",
+          "alt": "World Health Organization"
+        },
+        {
+          "src": "https://www.who.int/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-blue.svg",
+          "alt": "Home"
+        },
+        {
+          "src": "https://www.who.int/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg",
+          "alt": "Home"
         }
       ],
       "featured": false
