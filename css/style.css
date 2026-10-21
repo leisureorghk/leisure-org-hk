@@ -3398,7 +3398,7 @@ p { margin-bottom: var(--spacing-sm); }
         font-size: 1rem;
     }
 
-    /* 平板與手機共用 <1024px 的抽屜選單，此處不再強制隱藏漢堡 */
+    /* 平板與手機共用 <1200px 的抽屜選單，此處不再強制隱藏漢堡 */
 
     /* Two-column grids for tablet */
     .features-grid,
