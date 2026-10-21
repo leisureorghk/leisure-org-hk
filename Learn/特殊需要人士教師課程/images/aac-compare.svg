@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420">
+  <rect width="960" height="420" fill="#f8fafc"/>
+  <text x="28" y="40" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#155e75">AAC 三層：紙本 PECS → 匡智溝通易 → GoTalk NOW</text>
+  <rect x="24" y="70" width="290" height="300" rx="16" fill="#fff" stroke="#7c3aed" stroke-width="3"/>
+  <text x="169" y="110" text-anchor="middle" font-size="20" font-weight="800" font-family="Microsoft JhengHei">PECS 紙本</text>
+  <text x="40" y="150" font-size="15" font-family="Microsoft JhengHei">主動遞卡換取物品／行動</text>
+  <text x="40" y="180" font-size="15" font-family="Microsoft JhengHei">六階段由易物到評論</text>
+  <text x="40" y="210" font-size="15" font-family="Microsoft JhengHei">泳池：防水卡最穩陣</text>
+  <text x="40" y="250" font-size="15" font-family="Microsoft JhengHei">適合無口語／低口語</text>
+  <rect x="334" y="70" width="290" height="300" rx="16" fill="#ecfeff" stroke="#0e7490" stroke-width="3"/>
+  <text x="479" y="110" text-anchor="middle" font-size="20" font-weight="800" font-family="Microsoft JhengHei">匡智溝通易</text>
+  <text x="350" y="150" font-size="15" font-family="Microsoft JhengHei">免費、粵語、香港圖庫</text>
+  <text x="350" y="180" font-size="15" font-family="Microsoft JhengHei">粵拼、自訂格數、錄音</text>
+  <text x="350" y="210" font-size="15" font-family="Microsoft JhengHei">版面可分享給家長</text>
+  <text x="350" y="250" font-size="15" font-family="Microsoft JhengHei">組句遊戲對應 PECS 後期</text>
+  <rect x="644" y="70" width="292" height="300" rx="16" fill="#f5f3ff" stroke="#6d28d9" stroke-width="3"/>
+  <text x="790" y="110" text-anchor="middle" font-size="20" font-weight="800" font-family="Microsoft JhengHei">GoTalk NOW</text>
+  <text x="660" y="150" font-size="15" font-family="Microsoft JhengHei">iPad：標準／組合／場景</text>
+  <text x="660" y="180" font-size="15" font-family="Microsoft JhengHei">語音欄組句、熱點照片</text>
+  <text x="660" y="210" font-size="15" font-family="Microsoft JhengHei">真實錄音或 TTS</text>
+  <text x="660" y="250" font-size="15" font-family="Microsoft JhengHei">開關掃描支援肢體障礙</text>
+  <text x="40" y="400" font-size="15" font-family="Microsoft JhengHei" fill="#334155">池邊先用紙本防水卡；岸上／更衣可用平板。家校必須同一套圖，不可沒收溝通工具作懲罰。</text>
+</svg>

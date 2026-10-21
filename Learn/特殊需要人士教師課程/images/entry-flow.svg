@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320">
+  <rect width="960" height="320" fill="#f8fafc"/>
+  <text x="40" y="40" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#155e75">由更衣室到入水：固定流程</text>
+  <g font-family="Microsoft JhengHei, sans-serif">
+    <rect x="30" y="70" width="160" height="150" rx="14" fill="#fff" stroke="#0891b2" stroke-width="3"/>
+    <text x="110" y="130" text-anchor="middle" font-size="18" font-weight="700">1 點名核對</text>
+    <text x="110" y="162" text-anchor="middle" font-size="14" fill="#334155">同意書／近況</text>
+    <rect x="256" y="70" width="160" height="150" rx="14" fill="#fff" stroke="#0891b2" stroke-width="3"/>
+    <text x="336" y="130" text-anchor="middle" font-size="18" font-weight="700">2 更衣室</text>
+    <text x="336" y="162" text-anchor="middle" font-size="14" fill="#334155">防滑、介紹設施</text>
+    <rect x="482" y="70" width="160" height="150" rx="14" fill="#fff" stroke="#0891b2" stroke-width="3"/>
+    <text x="562" y="130" text-anchor="middle" font-size="18" font-weight="700">3 池邊預告</text>
+    <text x="562" y="162" text-anchor="middle" font-size="14" fill="#334155">視覺日程／水深</text>
+    <rect x="708" y="70" width="220" height="150" rx="14" fill="#ecfeff" stroke="#0891b2" stroke-width="3"/>
+    <text x="818" y="120" text-anchor="middle" font-size="18" font-weight="700">4 漸進入水</text>
+    <text x="818" y="150" text-anchor="middle" font-size="14" fill="#334155">坐池邊→腳→身→臉</text>
+    <text x="818" y="178" text-anchor="middle" font-size="14" fill="#334155">5 結束後交還家長</text>
+  </g>
+  <text x="40" y="270" font-family="Microsoft JhengHei, sans-serif" font-size="16" fill="#334155">安全程序由進入更衣室開始，直至游泳後交回家人手上。禁止強行推落水。</text>
+</svg>

@@ -1,0 +1,708 @@
+{
+  "terms": [
+    {
+      "term": "interspersal of maintenance tasks",
+      "slug": "2-5-adhd",
+      "anchor": "kp-adhd-features",
+      "file": "2-5-adhd.html",
+      "source": "2.5 ADHD · 特徵",
+      "def": "分散的維護任務：新技能之間插入已會動作。"
+    },
+    {
+      "term": "atlantoaxial instability",
+      "slug": "2-3-down",
+      "anchor": "kp-ds-body",
+      "file": "2-3-down.html",
+      "source": "2.3 唐氏綜合症 · 身體特點",
+      "def": "寰樞椎不穩，教案備註必須填寫（4.4）。"
+    },
+    {
+      "term": "operational definition",
+      "slug": "1-1-sen-support",
+      "anchor": "kp-destigma",
+      "file": "1-1-sen-support.html",
+      "source": "1.1 認識特殊需要及本地支援 · 去污名",
+      "def": "用可觀察、可量度行為描述，而非主觀標籤。"
+    },
+    {
+      "term": "structured teaching",
+      "slug": "2-6-autism",
+      "anchor": "kp-asd-focus",
+      "file": "2-6-autism.html",
+      "source": "2.6 自閉症譜系障礙 · 臨床焦點",
+      "def": "結構化教學，TEACCH 核心。"
+    },
+    {
+      "term": "task analysis 工序分析",
+      "slug": "2-2-intellectual",
+      "anchor": "kp-id-def",
+      "file": "2-2-intellectual.html",
+      "source": "2.2 智障及多重障礙 · 定義",
+      "def": "把目標技能拆成可獨立增強的小步驟。"
+    },
+    {
+      "term": "inhibitory control",
+      "slug": "2-5-adhd",
+      "anchor": "kp-adhd-features",
+      "file": "2-5-adhd.html",
+      "source": "2.5 ADHD · 特徵",
+      "def": "抑制控制：等口令才出發。"
+    },
+    {
+      "term": "video modelling",
+      "slug": "2-6-autism",
+      "anchor": "kp-asd-focus",
+      "file": "2-6-autism.html",
+      "source": "2.6 自閉症譜系障礙 · 臨床焦點",
+      "def": "視頻示範 VM，4.4 S 策略。"
+    },
+    {
+      "term": "cognitive load",
+      "slug": "1-3-value",
+      "anchor": "kp-water-properties",
+      "file": "1-3-value.html",
+      "source": "1.3 特殊需要人士習泳之價值 · 水的特性",
+      "def": "工作記憶負荷；一次一指令可降低。"
+    },
+    {
+      "term": "deep pressure",
+      "slug": "1-3-value",
+      "anchor": "kp-water-properties",
+      "file": "1-3-value.html",
+      "source": "1.3 特殊需要人士習泳之價值 · 水的特性",
+      "def": "均勻深壓觸覺，靜水壓是典型來源。"
+    },
+    {
+      "term": "hypotonia 低張",
+      "slug": "2-3-down",
+      "anchor": "kp-ds-body",
+      "file": "2-3-down.html",
+      "source": "2.3 唐氏綜合症 · 身體特點",
+      "def": "肌張力低，姿勢維持費力，浮水需軀幹提示。"
+    },
+    {
+      "term": "發紺 cyanosis",
+      "slug": "4-3-safety",
+      "anchor": "kp-safety-chain",
+      "file": "4-3-safety.html",
+      "source": "4.3 特殊需要人士游泳安全指引 · 安全鏈",
+      "def": "嘴唇發藍，提示缺氧或過冷。"
+    },
+    {
+      "term": "visual aids",
+      "slug": "4-5-fitness",
+      "anchor": "kp-assess-types",
+      "file": "4-5-fitness.html",
+      "source": "4.5 體適能測試及相關運動研究 · 評估種類",
+      "def": "視覺輔助教學，伸展研究顯示較直接教學有效。"
+    },
+    {
+      "term": "TOP SECURe",
+      "slug": "4-4-methods",
+      "anchor": "kp-top-secure",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · TOP SECURe",
+      "def": "4.4 框架：理解與關係、目標、策略、科技、延伸、家長、社區。"
+    },
+    {
+      "term": "GoTalk NOW",
+      "slug": "2-8-communication",
+      "anchor": "kp-gotalk",
+      "file": "2-8-communication.html",
+      "source": "2.8 提昇與特殊需要學員的溝通 · GoTalk NOW",
+      "def": ""
+    },
+    {
+      "term": "整體－部分－整體",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "peak VO2",
+      "slug": "4-5-fitness",
+      "anchor": "kp-assess-types",
+      "file": "4-5-fitness.html",
+      "source": "4.5 體適能測試及相關運動研究 · 評估種類",
+      "def": "峰值攝氧量，心肺適能指標。"
+    },
+    {
+      "term": "分散的維護任務",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "Masking",
+      "slug": "2-6-autism",
+      "anchor": "kp-asd-focus",
+      "file": "2-6-autism.html",
+      "source": "2.6 自閉症譜系障礙 · 臨床焦點",
+      "def": "掩飾社交困難，外表看似應付，內在可能高焦慮。"
+    },
+    {
+      "term": "視覺提示 VC",
+      "slug": "cue-cards",
+      "anchor": "kp-cue-how",
+      "file": "cue-cards.html",
+      "source": "2.8b 泳池提示咭與先－後卡 · 點樣用",
+      "def": "4.4 策略：用顏色、圖片、日程減少口語負荷。"
+    },
+    {
+      "term": "參加者健康總表",
+      "slug": "4-3-safety",
+      "anchor": "kp-safety-chain",
+      "file": "4-3-safety.html",
+      "source": "4.3 特殊需要人士游泳安全指引 · 安全鏈",
+      "def": "彙整病歷、藥物、過敏與緊急聯絡的課前文件。"
+    },
+    {
+      "term": "個人工作系統",
+      "slug": "2-6-autism",
+      "anchor": "kp-teacch",
+      "file": "2-6-autism.html",
+      "source": "2.6 自閉症譜系障礙 · TEACCH 五要素",
+      "def": ""
+    },
+    {
+      "term": "視覺緊急信號",
+      "slug": "4-3-safety",
+      "anchor": "kp-emerg-plan",
+      "file": "4-3-safety.html",
+      "source": "4.3 特殊需要人士游泳安全指引 · 緊急計劃",
+      "def": "給聽力障礙學員的燈光或手勢撤離提示。"
+    },
+    {
+      "term": "TEACCH",
+      "slug": "2-6-autism",
+      "anchor": "kp-teacch",
+      "file": "2-6-autism.html",
+      "source": "2.6 自閉症譜系障礙 · TEACCH 五要素",
+      "def": "視覺安排、常規、環境與個人工作系統。"
+    },
+    {
+      "term": "特殊學習困難",
+      "slug": "2-7-sld-mental",
+      "anchor": "kp-sld",
+      "file": "2-7-sld-mental.html",
+      "source": "2.7 特殊學習困難和常見精神病 · 特殊學習困難",
+      "def": "在閱讀、書寫或運算等學習範疇有持續困難，智力可能在正常範圍。"
+    },
+    {
+      "term": "U 理解需求",
+      "slug": "disorders-list",
+      "anchor": "kp-disorder-padlet",
+      "file": "disorders-list.html",
+      "source": "U-list 常見障礙與教學備註 · 課堂材料",
+      "def": "TOP SECURe：概述成因症狀之餘，更要家庭、個性、優勢與溝通。"
+    },
+    {
+      "term": "強制報告途徑",
+      "slug": "child-protection",
+      "anchor": "kp-hold-principles",
+      "file": "child-protection.html",
+      "source": "保護兒童網上課程／課堂原則 · 原則",
+      "def": "按學校或機構指定的保護兒童專責人員呈報。"
+    },
+    {
+      "term": "匡智溝通易",
+      "slug": "2-8-communication",
+      "anchor": "kp-hkec",
+      "file": "2-8-communication.html",
+      "source": "2.8 提昇與特殊需要學員的溝通 · 匡智溝通易（香港）",
+      "def": ""
+    },
+    {
+      "term": "合理的強化",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "寰樞椎不穩",
+      "slug": "2-3-down",
+      "anchor": "kp-aai",
+      "file": "2-3-down.html",
+      "source": "2.3 唐氏綜合症 · 寰樞椎與關節鬆弛",
+      "def": "頸椎第一、二節可能較不穩定，須避免過度伸展與衝擊。"
+    },
+    {
+      "term": "適應性游泳",
+      "slug": "1-2-sport-development",
+      "anchor": "kp-person-centred",
+      "file": "1-2-sport-development.html",
+      "source": "1.2 國際及香港特殊需要人士游泳運動發展 · 以人為本培訓",
+      "def": "按學員能力調整目標、環境、器材與溝通的游泳教學。"
+    },
+    {
+      "term": "SENCO",
+      "slug": "1-1-sen-support",
+      "anchor": "kp-three-tier",
+      "file": "1-1-sen-support.html",
+      "source": "1.1 認識特殊需要及本地支援 · 學校三層支援",
+      "def": "特殊教育需要，涵蓋學習、溝通、感覺、行為與身體功能上需要額外支援的人士。"
+    },
+    {
+      "term": "UDfPE",
+      "slug": "4-4-methods",
+      "anchor": "kp-named-s",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略必須具名",
+      "def": "體育普遍設計，預先讓更多人參與。"
+    },
+    {
+      "term": "特殊奧運會",
+      "slug": "1-2-sport-development",
+      "anchor": "kp-person-centred",
+      "file": "1-2-sport-development.html",
+      "source": "1.2 國際及香港特殊需要人士游泳運動發展 · 以人為本培訓",
+      "def": "為智障人士等而設的國際運動會，強調參與、勇氣與快樂。"
+    },
+    {
+      "term": "無障礙通道",
+      "slug": "3-2-land-hold",
+      "anchor": "kp-hold-principles",
+      "file": "3-2-land-hold.html",
+      "source": "3.2 陸上扶抱技巧 · 原則",
+      "def": "輪椅可進出的足夠寬度與斜坡設計。"
+    },
+    {
+      "term": "家庭更衣室",
+      "slug": "3-2-land-hold",
+      "anchor": "kp-hold-principles",
+      "file": "3-2-land-hold.html",
+      "source": "3.2 陸上扶抱技巧 · 原則",
+      "def": "供需要家長協助更衣的獨立空間。"
+    },
+    {
+      "term": "視頻示範",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "視覺提示",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "提供選擇",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "同伴輔導",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "多種感官",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "工序分析",
+      "slug": "2-2-intellectual",
+      "anchor": "kp-id-teach",
+      "file": "2-2-intellectual.html",
+      "source": "2.2 智障及多重障礙 · 教學",
+      "def": "把技能拆成可觀察、可獨立練習的小步驟。"
+    },
+    {
+      "term": "適應行為",
+      "slug": "2-2-intellectual",
+      "anchor": "kp-id-def",
+      "file": "2-2-intellectual.html",
+      "source": "2.2 智障及多重障礙 · 定義",
+      "def": "日常生活溝通、社交、自理與社區生活能力。"
+    },
+    {
+      "term": "感覺統合",
+      "slug": "2-4-sensory",
+      "anchor": "kp-sensory-gym",
+      "file": "2-4-sensory.html",
+      "source": "2.4 感覺統合障礙 · 水中是感覺健身房",
+      "def": "大腦整理來自身體與環境的感覺以便適當反應。"
+    },
+    {
+      "term": "感官過載",
+      "slug": "2-4-sensory",
+      "anchor": "kp-cover-ears",
+      "file": "2-4-sensory.html",
+      "source": "2.4 感覺統合障礙 · 摀耳",
+      "def": "輸入過多導致逃避、崩潰或攻擊，需先減刺激。"
+    },
+    {
+      "term": "抑制控制",
+      "slug": "2-5-adhd",
+      "anchor": "kp-adhd-features",
+      "file": "2-5-adhd.html",
+      "source": "2.5 ADHD · 特徵",
+      "def": "忍住即時衝動，例如不拍水、不搶先跳。"
+    },
+    {
+      "term": "定向行走",
+      "slug": "2-1-physical",
+      "anchor": "kp-vi",
+      "file": "2-1-physical.html",
+      "source": "2.1 肢體、視覺、聽力障礙 · 視覺障礙",
+      "def": "協助視障學員認識更衣室至池邊的固定路線。"
+    },
+    {
+      "term": "知情同意",
+      "slug": "4-6-legal",
+      "anchor": "kp-legal-docs",
+      "file": "4-6-legal.html",
+      "source": "4.6 法律指引 · 文件",
+      "def": "家長理解活動性質、風險與支援安排後的書面同意。"
+    },
+    {
+      "term": "合理謹慎",
+      "slug": "4-6-legal",
+      "anchor": "kp-duty",
+      "file": "4-6-legal.html",
+      "source": "4.6 法律指引 · 注意義務",
+      "def": "一名合理受訓教師在同樣情況下會採取的預防措施。"
+    },
+    {
+      "term": "最小觸碰",
+      "slug": "child-protection",
+      "anchor": "kp-hold-principles",
+      "file": "child-protection.html",
+      "source": "保護兒童網上課程／課堂原則 · 原則",
+      "def": "只做完成教學與安全所必需的接觸。"
+    },
+    {
+      "term": "執行功能",
+      "slug": "1-3-value",
+      "anchor": "kp-exec-fn",
+      "file": "1-3-value.html",
+      "source": "1.3 特殊需要人士習泳之價值 · 執行功能",
+      "def": "工作記憶、計劃、抑制控制與認知彈性。游泳的序列動作正好練習這些能力。"
+    },
+    {
+      "term": "特殊奧運",
+      "slug": "1-2-sport-development",
+      "anchor": "kp-special-olympics",
+      "file": "1-2-sport-development.html",
+      "source": "1.2 國際及香港特殊需要人士游泳運動發展 · 特殊奧運精神",
+      "def": "為智障人士等而設的國際運動會，強調參與、勇氣與快樂。"
+    },
+    {
+      "term": "STEP",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": "調整 Space 空間、Task 任務、Equipment 設備、People 人員。"
+    },
+    {
+      "term": "PECS",
+      "slug": "2-8-communication",
+      "anchor": "kp-pecs",
+      "file": "2-8-communication.html",
+      "source": "2.8 提昇與特殊需要學員的溝通 · PECS 六階段",
+      "def": ""
+    },
+    {
+      "term": "肌張力低",
+      "slug": "2-3-down",
+      "anchor": "kp-ds-body",
+      "file": "2-3-down.html",
+      "source": "2.3 唐氏綜合症 · 身體特點",
+      "def": "肌肉較軟、姿勢維持費力，浮水時需要較多軀幹提示。"
+    },
+    {
+      "term": "認知彈性",
+      "slug": "2-5-adhd",
+      "anchor": "kp-adhd-features",
+      "file": "2-5-adhd.html",
+      "source": "2.5 ADHD · 特徵",
+      "def": "由踢水轉為吹氣等任務切換的能力。"
+    },
+    {
+      "term": "視覺場景",
+      "slug": "2-8-communication",
+      "anchor": "kp-pecs",
+      "file": "2-8-communication.html",
+      "source": "2.8 提昇與特殊需要學員的溝通 · PECS 六階段",
+      "def": "在真實照片上設熱點，點擊物件即播放訊息。"
+    },
+    {
+      "term": "事先張揚",
+      "slug": "2-8-communication",
+      "anchor": "kp-pecs",
+      "file": "2-8-communication.html",
+      "source": "2.8 提昇與特殊需要學員的溝通 · PECS 六階段",
+      "def": "預告流程，降未知焦慮。"
+    },
+    {
+      "term": "正向增強",
+      "slug": "2-9-behavior",
+      "anchor": "kp-behaviour-learned",
+      "file": "2-9-behavior.html",
+      "source": "2.9 正向行為管理及小組教學 · 行為是學來的",
+      "def": "行為後給予喜歡的後果，使該行為較常出現。"
+    },
+    {
+      "term": "多重殘疾",
+      "slug": "disorders-list",
+      "anchor": "kp-disorder-padlet",
+      "file": "disorders-list.html",
+      "source": "U-list 常見障礙與教學備註 · 課堂材料",
+      "def": "同時有超過一種功能限制，比例與溝通要一併評估。"
+    },
+    {
+      "term": "漸少協助",
+      "slug": "3-3-water-hold",
+      "anchor": "kp-water-pos",
+      "file": "3-3-water-hold.html",
+      "source": "3.3 水中扶抱與協助 · 位置",
+      "def": "由完全承托逐步改為提示，促進獨立。"
+    },
+    {
+      "term": "入門評估",
+      "slug": "4-5-fitness",
+      "anchor": "kp-assess-types",
+      "file": "4-5-fitness.html",
+      "source": "4.5 體適能測試及相關運動研究 · 評估種類",
+      "def": "熟悉水性、呼吸、浮、滑等基礎是否建立。"
+    },
+    {
+      "term": "安全鏈",
+      "slug": "4-3-safety",
+      "anchor": "kp-safety-chain",
+      "file": "4-3-safety.html",
+      "source": "4.3 特殊需要人士游泳安全指引 · 安全鏈",
+      "def": "交接完成才算下課。"
+    },
+    {
+      "term": "靜水壓",
+      "slug": "1-3-value",
+      "anchor": "kp-water-properties",
+      "file": "1-3-value.html",
+      "source": "1.3 特殊需要人士習泳之價值 · 水的特性",
+      "def": "水均勻包裹身體的壓力，常帶來安穩的被包覆感。"
+    },
+    {
+      "term": "先－後",
+      "slug": "cue-cards",
+      "anchor": "kp-first-then",
+      "file": "cue-cards.html",
+      "source": "2.8b 泳池提示咭與先－後卡 · 先－後卡",
+      "def": "First–Then，先完成指定任務再獲得強化。"
+    },
+    {
+      "term": "WPW",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": "整體－部分－整體：先看完整動作，再拆部件，最後整合。"
+    },
+    {
+      "term": "AAC",
+      "slug": "2-8-communication",
+      "anchor": "kp-pool-aac",
+      "file": "2-8-communication.html",
+      "source": "2.8 提昇與特殊需要學員的溝通 · 池邊應用",
+      "def": "擴大及替代溝通，包括圖卡、語音輸出裝置與溝通 App。"
+    },
+    {
+      "term": "SEN",
+      "slug": "1-1-sen-support",
+      "anchor": "kp-destigma",
+      "file": "1-1-sen-support.html",
+      "source": "1.1 認識特殊需要及本地支援 · 去污名",
+      "def": "特殊教育需要，涵蓋學習、溝通、感覺、行為與身體功能上需要額外支援的人士。"
+    },
+    {
+      "term": "SOS",
+      "slug": "2-6-autism",
+      "anchor": "kp-sos",
+      "file": "2-6-autism.html",
+      "source": "2.6 自閉症譜系障礙 · 入水",
+      "def": ""
+    },
+    {
+      "term": "ABC",
+      "slug": "2-9-behavior",
+      "anchor": "kp-abc",
+      "file": "2-9-behavior.html",
+      "source": "2.9 正向行為管理及小組教學 · ABC",
+      "def": ""
+    },
+    {
+      "term": "MRu",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "MEq",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "MEn",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "UDL",
+      "slug": "4-4-methods",
+      "anchor": "kp-named-s",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略必須具名",
+      "def": "體育普遍設計，預先讓更多人參與。"
+    },
+    {
+      "term": "IEP",
+      "slug": "1-1-sen-support",
+      "anchor": "kp-support-structure",
+      "file": "1-1-sen-support.html",
+      "source": "1.1 認識特殊需要及本地支援 · 支援架構",
+      "def": "按學習路徑訂短期（SO）與長期（LO）成果，對齊 4.4 O。"
+    },
+    {
+      "term": "優勢側",
+      "slug": "2-1-physical",
+      "anchor": "kp-physical",
+      "file": "2-1-physical.html",
+      "source": "2.1 肢體、視覺、聽力障礙 · 肢體障礙",
+      "def": "學員較能主動發力或控制的一側，教學由此開始。"
+    },
+    {
+      "term": "SLI",
+      "slug": "2-8-communication",
+      "anchor": "kp-pecs",
+      "file": "2-8-communication.html",
+      "source": "2.8 提昇與特殊需要學員的溝通 · PECS 六階段",
+      "def": "單純語言發展障礙。"
+    },
+    {
+      "term": "負增強",
+      "slug": "2-9-behavior",
+      "anchor": "kp-behaviour-learned",
+      "file": "2-9-behavior.html",
+      "source": "2.9 正向行為管理及小組教學 · 行為是學來的",
+      "def": "行為後移除厭惡刺激（如停止練習），亦會維持該行為。"
+    },
+    {
+      "term": "BaL",
+      "slug": "4-4-methods",
+      "anchor": "kp-how-to-plan",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · 五階段教案的寫法",
+      "def": "基線、短期成果、長期成果、學習路徑（4.4 O）。"
+    },
+    {
+      "term": "體適能",
+      "slug": "4-5-fitness",
+      "anchor": "kp-assess-types",
+      "file": "4-5-fitness.html",
+      "source": "4.5 體適能測試及相關運動研究 · 評估種類",
+      "def": "心肺、肌力肌耐、柔軟、組成與運動技能的綜合狀態。"
+    },
+    {
+      "term": "VM",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "VC",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "PC",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "DI",
+      "slug": "4-4-methods",
+      "anchor": "kp-strategies",
+      "file": "4-4-methods.html",
+      "source": "4.4 特殊需要人士游泳教學法 · S 策略清單（必須出現在策略欄）",
+      "def": ""
+    },
+    {
+      "term": "讀唇",
+      "slug": "2-1-physical",
+      "anchor": "kp-physical",
+      "file": "2-1-physical.html",
+      "source": "2.1 肢體、視覺、聽力障礙 · 肢體障礙",
+      "def": "面對面、光線在臉上，避免背光。"
+    },
+    {
+      "term": "保密",
+      "slug": "2-7-sld-mental",
+      "anchor": "kp-sld",
+      "file": "2-7-sld-mental.html",
+      "source": "2.7 特殊學習困難和常見精神病 · 特殊學習困難",
+      "def": "健康資料只讓有需要的教學及急救人員知道。"
+    },
+    {
+      "term": "粵拼",
+      "slug": "2-8-communication",
+      "anchor": "kp-pecs",
+      "file": "2-8-communication.html",
+      "source": "2.8 提昇與特殊需要學員的溝通 · PECS 六階段",
+      "def": "香港粵語拼音，匡智溝通易用以支援低口語或非華語使用者。"
+    },
+    {
+      "term": "氣道",
+      "slug": "3-3-water-hold",
+      "anchor": "kp-water-pos",
+      "file": "3-3-water-hold.html",
+      "source": "3.3 水中扶抱與協助 · 位置",
+      "def": "口鼻保持離開水面、頸部中立。"
+    },
+    {
+      "term": "水試",
+      "slug": "4-2-experience",
+      "anchor": "kp-lesson-class",
+      "file": "4-2-experience.html",
+      "source": "4.2 特殊需要人士游泳教學經驗分享 · 泳班",
+      "def": "課前或開班測試水性、態度與安全感。"
+    }
+  ]
+}

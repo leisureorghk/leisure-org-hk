@@ -33,9 +33,9 @@ jobs:
       - name: Verify MiniMax secret
         run: |
           if [ -z "$MINIMAX_API_KEY" ]; then
-            echo "::warning::MINIMAX_API_KEY 未設定，將略過每月內容審計。"
+            echo "::warning::MINIMAX_API_KEY 未設定，將略過每月內容審計與 SEN 課程升級。"
           else
-            echo "MINIMAX_API_KEY 已設定。"
+            echo "MINIMAX_API_KEY 已設定（審計＋SEN 課程升級共用）。"
           fi
 
       - name: Setup Node.js
@@ -54,6 +54,11 @@ jobs:
         run: |
           cd automation
           node monthly-content-audit.mjs
+
+      - name: Monthly SEN teacher course upgrade
+        run: |
+          cd automation
+          node monthly-sen-course-upgrade.mjs
 
       - name: Apply SEO and sitemap
         run: node automation/apply-seo.mjs
@@ -74,7 +79,7 @@ jobs:
             echo "pushed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          git commit -m "chore(content): monthly AI content audit [automated]"
+          git commit -m "chore(content): monthly AI audit and SEN course upgrade [automated]"
           git push origin HEAD:main
           echo "pushed=true" >> "$GITHUB_OUTPUT"
 

@@ -7,6 +7,33 @@
 - `../data/monthly-insights-meta.json` + `../monthly-insights-YYYY-MM.html` — 每月 28 日內容審計產出的家長月報
 - `../data/monthly-audit-extras.json` — 合併進 SEN 專頁的補充 FAQ／連結
 - `../data/monthly-audit-log.json` — 審計紀錄（改了哪些檔、略過哪些建議）
+- `../data/sen-course-upgrade-state.json` — 教師課程升級佇列與上次執行
+- `../data/sen-course-upgrade-log.json` — 每月課程升級紀錄
+- `../Learn/特殊需要人士教師課程/` — 教師證書自學教材（每月逐步升級單元／可增章／教學 SVG）
+
+## SEN 教師課程每月升級
+
+排程與「每月內容審計」相同（每月 28 日）。腳本：
+
+| 腳本 | 說明 |
+|------|------|
+| [`monthly-sen-course-upgrade.mjs`](./monthly-sen-course-upgrade.mjs) | 讀 digest → MiniMax 升級佇列中下一單元 → 備份 → 寫入 course-knowledge → 渲染 HTML → 可選 SVG → 公開 extras |
+| [`render-course-unit.mjs`](./render-course-unit.mjs) | 由 `course-knowledge.json` 重渲單元 HTML／index 卡片／tts 講稿文字 |
+| [`generate-course-svg.mjs`](./generate-course-svg.mjs) | 產出教學 SVG（無寫實人臉） |
+| [`sen-unit-public-map.json`](./sen-unit-public-map.json) | 單元 id → 公開 `sen-*.html` 對照 |
+| [`inject-coach-gate.mjs`](./inject-coach-gate.mjs) | 為 Learn HTML 注入教練分享區登入護欄（維護用） |
+
+網上入口：根目錄 [`coach-share.html`](../coach-share.html)（教練分享區，需登入碼；`noindex`）。通過後開啟 `Learn/特殊需要人士教師課程/`。全站導覽由 `js/site-ui.js` 自動加入「教練分享區」連結。
+
+本機（需 `MINIMAX_API_KEY`）：
+
+```bash
+cd automation
+node monthly-sen-course-upgrade.mjs
+# 或只重渲單元（不呼叫 AI）
+node render-course-unit.mjs 4-3-safety
+```
+
 ## 擴充 RSS 來源
 
 編輯 [`feed-sources.yaml`](./feed-sources.yaml)：
@@ -50,6 +77,7 @@ node build-digest.mjs
 # 或
 node weekly-article.mjs
 node monthly-content-audit.mjs
+node monthly-sen-course-upgrade.mjs
 # 可選：通知搜尋引擎（需 INDEXNOW_KEY）
 export INDEXNOW_KEY="你的-uuid"
 node notify-indexnow.mjs

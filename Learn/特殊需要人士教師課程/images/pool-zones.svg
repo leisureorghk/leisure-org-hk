@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420">
+  <rect width="960" height="420" fill="#f8fafc"/>
+  <text x="40" y="42" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="700" fill="#155e75">泳池分區（教學用示意）</text>
+  <rect x="40" y="70" width="280" height="260" rx="16" fill="#a5f3fc" stroke="#0e7490" stroke-width="3"/>
+  <text x="180" y="140" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#164e63">淺水教學區</text>
+  <text x="180" y="180" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="18" fill="#155e75">水深約及胸或以下</text>
+  <text x="180" y="214" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="16">初學、熟悉水性、扶抱</text>
+  <text x="180" y="250" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="16">教練靠近池邊及學員</text>
+  <rect x="340" y="70" width="280" height="260" rx="16" fill="#67e8f9" stroke="#0e7490" stroke-width="3"/>
+  <text x="480" y="140" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#164e63">過渡區</text>
+  <text x="480" y="180" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="18" fill="#155e75">腳可點地至剛不可點地</text>
+  <text x="480" y="214" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="16">漂浮、踢水、短滑行</text>
+  <text x="480" y="250" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="16">先確認學員能站穩再移出</text>
+  <rect x="640" y="70" width="280" height="260" rx="16" fill="#22d3ee" stroke="#0e7490" stroke-width="3"/>
+  <text x="780" y="140" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#164e63">深水區</text>
+  <text x="780" y="180" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="18" fill="#155e75">不可點地</text>
+  <text x="780" y="214" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="16">須有獨立浮水／泳術</text>
+  <text x="780" y="250" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="16">未準備好勿帶入</text>
+  <text x="40" y="370" font-family="Microsoft JhengHei, sans-serif" font-size="16" fill="#334155">課前介紹場地圖、水深及入水位置。初學者水溫建議約 28–32°C。</text>
+</svg>

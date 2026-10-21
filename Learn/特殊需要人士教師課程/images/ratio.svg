@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300">
+  <rect width="960" height="300" fill="#f8fafc"/>
+  <text x="40" y="40" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#155e75">課堂師生比例（安全指引講義）</text>
+  <g font-family="Microsoft JhengHei, sans-serif">
+    <rect x="40" y="70" width="210" height="160" rx="14" fill="#fff" stroke="#be123c" stroke-width="3"/>
+    <text x="145" y="120" text-anchor="middle" font-size="20" font-weight="700" fill="#9f1239">嚴重智障</text>
+    <text x="145" y="160" text-anchor="middle" font-size="32" font-weight="800" fill="#e11d48">1 : 1</text>
+    <text x="145" y="198" text-anchor="middle" font-size="14">全程近身支援</text>
+    <rect x="270" y="70" width="210" height="160" rx="14" fill="#fff" stroke="#c2410c" stroke-width="3"/>
+    <text x="375" y="120" text-anchor="middle" font-size="20" font-weight="700" fill="#9a3412">中度智障</text>
+    <text x="375" y="160" text-anchor="middle" font-size="32" font-weight="800" fill="#ea580c">1 : 5</text>
+    <text x="375" y="198" text-anchor="middle" font-size="14">小組仍要視線覆蓋</text>
+    <rect x="500" y="70" width="210" height="160" rx="14" fill="#fff" stroke="#7c3aed" stroke-width="3"/>
+    <text x="605" y="120" text-anchor="middle" font-size="20" font-weight="700" fill="#5b21b6">自閉症</text>
+    <text x="605" y="160" text-anchor="middle" font-size="32" font-weight="800" fill="#7c3aed">1 : 3</text>
+    <text x="605" y="198" text-anchor="middle" font-size="14">溝通及感官支援</text>
+    <rect x="730" y="70" width="190" height="160" rx="14" fill="#fff" stroke="#0f766e" stroke-width="3"/>
+    <text x="825" y="120" text-anchor="middle" font-size="20" font-weight="700" fill="#115e59">輕度智障</text>
+    <text x="825" y="160" text-anchor="middle" font-size="32" font-weight="800" fill="#0d9488">1 : 10</text>
+    <text x="825" y="198" text-anchor="middle" font-size="14">仍須按能力調低</text>
+  </g>
+  <text x="40" y="270" font-family="Microsoft JhengHei, sans-serif" font-size="16" fill="#334155">比例是上限參考。多重障礙、新手、深水或行為風險高時，應再減少學員人數。</text>
+</svg>

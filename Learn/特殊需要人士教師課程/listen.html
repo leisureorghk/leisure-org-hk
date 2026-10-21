@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>聲音學習播放清單</title>
+  <link rel="stylesheet" href="../assets/style.css">
+  <meta name="robots" content="noindex, nofollow">
+</head>
+<body>
+  <div class="wrap">
+<div class="coach-bar" role="navigation" aria-label="教練分享區">
+      <span>教練分享區 · 教師課程</span>
+      <span><a href="../../coach-share.html">返回分享區</a> · <a href="#" data-coach-logout>登出</a></span>
+    </div>
+
+    <header class="site">
+      <a class="brand" href="index.html">特殊需要人士游泳教師證書課程</a>
+      <nav>
+        <a href="../index.html">教材首頁</a>
+        <a href="index.html">單元目錄</a>
+        <a href="glossary.html">詞彙</a>
+        <a href="../modexam/index.html">選擇題<//a>
+        <a href="../教案/index.html">五類教案</a>
+      </nav>
+    </header>
+    <h1>聲音學習</h1>
+    <p class="lead">把本頁當作補課：勾選須重溫的章節，聽完會自動轉下一章。本機記住上次位置。安卓可下載 M3U，以 VLC 自選播放。</p>
+    <p class="caption" data-study-count data-study-total="22"></p>
+    <p class="disclaimer">粵語錄音與單元講稿相同，方便研讀，但不能代替面授實習、醫療或法律意見。安卓瀏覽器請保持本頁開啟，鎖定螢幕可用通知列暫停／下一首。</p>
+
+    <div class="player-card">
+      <p class="now" id="nowPlaying">未播放</p>
+      <audio id="player" playsinline preload="metadata"></audio>
+      <div class="seek-row">
+        <input id="seek" type="range" min="0" max="100" value="0" step="0.1" aria-label="進度">
+        <span id="timeLabel">0:00 / 0:00</span>
+      </div>
+      <div class="toolbar">
+        <button type="button" id="btnPrev" class="ghost">上一章</button>
+        <button type="button" id="btnPlay">播放</button>
+        <button type="button" id="btnPause" class="ghost">暫停</button>
+        <button type="button" id="btnNext" class="ghost">下一章</button>
+      </div>
+      <label class="rate-ctl">語速
+        <input id="listenRate" type="range" min="0.7" max="1.4" step="0.05" value="1">
+        <span id="listenRateLabel">正常</span>
+      </label>
+      <label class="chk"><input type="checkbox" id="autoNext" checked> 聽完自動下一章</label>
+      <p class="caption" id="listenStatus">請勾選章節後按播放，或按「繼續上次」。</p>
+    </div>
+
+    <div class="resume-bar" id="resumeBar" hidden>
+      <span data-resume-label>有未完成進度</span>
+      <button type="button" id="btnResume">繼續上次</button>
+    </div>
+
+    <div class="toolbar">
+      <button type="button" id="btnAll" class="ghost">全選</button>
+      <button type="button" id="btnNone" class="ghost">全不選</button>
+      <button type="button" id="btnM3u">下載已選章節 M3U</button>
+      <a class="btn ghost" href="playlist.m3u" download="SEN游泳教師-粵語說明.m3u">下載全套 M3U</a>
+    </div>
+    <p class="caption">M3U 適用 VLC、Poweramp、MX Player。下載後用該 App「開啟檔案」。清單內音檔一律用外連 <a href="https://cpoffice203.diskstation.me/sen/">https://cpoffice203.diskstation.me/sen/</a>，手機用流動數據也可播。</p>
+
+    <h2>播放清單（可選章節）</h2>
+    <div id="playlist" class="playlist"></div>
+    <footer>粵語錄音為原創講稿，不翻印講義原聲。講稿已改寫為地道香港口語，由香港粵語男聲朗讀。</footer>
+  </div>
+  <script src="js/listen.js"></script>
+  <script src="js/progress.js"></script>
+
+  <script src="../../js/coach-gate.js?v=20261021a"></script>
+  <script>if(window.CoachGate){CoachGate.requireCoachAccess();document.querySelectorAll('[data-coach-logout]').forEach(function(el){el.addEventListener('click',function(e){e.preventDefault();CoachGate.logout();});});}</script>
+
+</body>
+</html>

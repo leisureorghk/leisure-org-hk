@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260">
+  <rect width="960" height="260" fill="#f8fafc"/>
+  <text x="40" y="36" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="700" fill="#155e75">扶抱原則（示意，非完整操作手冊）</text>
+  <rect x="40" y="56" width="880" height="160" rx="16" fill="#e0f2fe"/>
+  <ellipse cx="300" cy="150" rx="180" ry="40" fill="#7dd3fc"/>
+  <circle cx="220" cy="110" r="22" fill="#fde68a" stroke="#92400e"/>
+  <rect x="242" y="118" width="120" height="28" rx="10" fill="#fde68a" stroke="#92400e"/>
+  <text x="470" y="100" font-family="Microsoft JhengHei, sans-serif" font-size="18">做到：先說明再接觸；承托頭與肩；面朝上時保持氣道</text>
+  <text x="470" y="132" font-family="Microsoft JhengHei, sans-serif" font-size="18">避免：突然從後抱起；抓住頸部；拉扯關節或頭髮</text>
+  <text x="470" y="164" font-family="Microsoft JhengHei, sans-serif" font-size="18">尊嚴：盡量少暴露、少觸碰；兩人協助時先分工</text>
+  <text x="40" y="240" font-family="Microsoft JhengHei, sans-serif" font-size="15" fill="#334155">實際扶抱須按課堂實習示範。唐氏綜合症若有寰樞椎風險，避免過度頸伸與跳水。</text>
+</svg>

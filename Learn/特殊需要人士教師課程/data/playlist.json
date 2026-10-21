@@ -1,0 +1,182 @@
+{
+  "title": "特殊需要人士游泳教師證書課程",
+  "publicBase": "https://cpoffice203.diskstation.me/sen/",
+  "tracks": [
+    {
+      "id": "1.1",
+      "slug": "1-1-sen-support",
+      "title": "認識特殊需要及本地支援系統",
+      "category": "基礎",
+      "src": "audio/1-1-sen-support.mp3",
+      "page": "units/1-1-sen-support.html"
+    },
+    {
+      "id": "1.2",
+      "slug": "1-2-sport-development",
+      "title": "國際及香港特殊需要人士游泳運動發展",
+      "category": "基礎",
+      "src": "audio/1-2-sport-development.mp3",
+      "page": "units/1-2-sport-development.html"
+    },
+    {
+      "id": "1.3",
+      "slug": "1-3-value",
+      "title": "特殊需要人士習泳之價值",
+      "category": "基礎",
+      "src": "audio/1-3-value.mp3",
+      "page": "units/1-3-value.html"
+    },
+    {
+      "id": "2.1",
+      "slug": "2-1-physical",
+      "title": "肢體、視覺、聽力障礙",
+      "category": "類別",
+      "src": "audio/2-1-physical.mp3",
+      "page": "units/2-1-physical.html"
+    },
+    {
+      "id": "2.2",
+      "slug": "2-2-intellectual",
+      "title": "智障及多重障礙",
+      "category": "類別",
+      "src": "audio/2-2-intellectual.mp3",
+      "page": "units/2-2-intellectual.html"
+    },
+    {
+      "id": "2.3",
+      "slug": "2-3-down",
+      "title": "唐氏綜合症",
+      "category": "類別",
+      "src": "audio/2-3-down.mp3",
+      "page": "units/2-3-down.html"
+    },
+    {
+      "id": "2.4",
+      "slug": "2-4-sensory",
+      "title": "感覺統合障礙",
+      "category": "類別",
+      "src": "audio/2-4-sensory.mp3",
+      "page": "units/2-4-sensory.html"
+    },
+    {
+      "id": "2.5",
+      "slug": "2-5-adhd",
+      "title": "注意力不足及過度活躍症",
+      "category": "類別",
+      "src": "audio/2-5-adhd.mp3",
+      "page": "units/2-5-adhd.html"
+    },
+    {
+      "id": "2.6",
+      "slug": "2-6-autism",
+      "title": "自閉症譜系障礙",
+      "category": "類別",
+      "src": "audio/2-6-autism.mp3",
+      "page": "units/2-6-autism.html"
+    },
+    {
+      "id": "2.7",
+      "slug": "2-7-sld-mental",
+      "title": "特殊學習困難和常見精神病",
+      "category": "類別",
+      "src": "audio/2-7-sld-mental.mp3",
+      "page": "units/2-7-sld-mental.html"
+    },
+    {
+      "id": "2.8",
+      "slug": "2-8-communication",
+      "title": "提昇與特殊需要學員的溝通",
+      "category": "教學支援",
+      "src": "audio/2-8-communication.mp3",
+      "page": "units/2-8-communication.html"
+    },
+    {
+      "id": "2.9",
+      "slug": "2-9-behavior",
+      "title": "正向行為管理及小組教學",
+      "category": "教學支援",
+      "src": "audio/2-9-behavior.mp3",
+      "page": "units/2-9-behavior.html"
+    },
+    {
+      "id": "2.8b",
+      "slug": "cue-cards",
+      "title": "泳池提示咭與先－後卡",
+      "category": "教學支援",
+      "src": "audio/cue-cards.mp3",
+      "page": "units/cue-cards.html"
+    },
+    {
+      "id": "U-list",
+      "slug": "disorders-list",
+      "title": "常見障礙與教學備註",
+      "category": "類別",
+      "src": "audio/disorders-list.mp3",
+      "page": "units/disorders-list.html"
+    },
+    {
+      "id": "3.2",
+      "slug": "3-2-land-hold",
+      "title": "陸上扶抱特殊需要人士技巧",
+      "category": "實務",
+      "src": "audio/3-2-land-hold.mp3",
+      "page": "units/3-2-land-hold.html"
+    },
+    {
+      "id": "3.3",
+      "slug": "3-3-water-hold",
+      "title": "水中扶抱與協助",
+      "category": "實務",
+      "src": "audio/3-3-water-hold.mp3",
+      "page": "units/3-3-water-hold.html"
+    },
+    {
+      "id": "4.2",
+      "slug": "4-2-experience",
+      "title": "特殊需要人士游泳教學經驗分享",
+      "category": "實務",
+      "src": "audio/4-2-experience.mp3",
+      "page": "units/4-2-experience.html"
+    },
+    {
+      "id": "4.3",
+      "slug": "4-3-safety",
+      "title": "特殊需要人士游泳安全指引",
+      "category": "實務",
+      "src": "audio/4-3-safety.mp3",
+      "page": "units/4-3-safety.html"
+    },
+    {
+      "id": "4.4",
+      "slug": "4-4-methods",
+      "title": "特殊需要人士游泳教學法",
+      "category": "實務",
+      "src": "audio/4-4-methods.mp3",
+      "page": "units/4-4-methods.html"
+    },
+    {
+      "id": "4.5",
+      "slug": "4-5-fitness",
+      "title": "特殊需要人士體適能測試及相關運動研究",
+      "category": "實務",
+      "src": "audio/4-5-fitness.mp3",
+      "page": "units/4-5-fitness.html"
+    },
+    {
+      "id": "4.6",
+      "slug": "4-6-legal",
+      "title": "特殊需要人士游泳教師法律指引概要",
+      "category": "實務",
+      "src": "audio/4-6-legal.mp3",
+      "page": "units/4-6-legal.html"
+    },
+    {
+      "id": "CP",
+      "slug": "child-protection",
+      "title": "保護兒童原則",
+      "category": "實務",
+      "src": "audio/child-protection.mp3",
+      "page": "units/child-protection.html"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-HK">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="新天地教練分享區：特殊需要人士游泳教師證書課程自學教材（需登入碼）。">
+    <meta name="robots" content="noindex, nofollow">
+    <title>教練分享區 | 新天地</title>
+    <link rel="canonical" href="https://www.leisure.org.hk/coach-share.html">
+    <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
+    <link rel="stylesheet" href="css/style.css?v=20261005a">
+    <style>
+      .coach-gate-wrap { max-width: 420px; margin: 0 auto; }
+      .coach-gate-card {
+        background: var(--white, #fff);
+        border-radius: 16px;
+        padding: 1.75rem 1.5rem;
+        box-shadow: 0 12px 40px rgba(13, 40, 71, 0.08);
+        border: 1px solid rgba(30, 87, 153, 0.12);
+      }
+      .coach-gate-card label { display: block; font-weight: 600; margin-bottom: 0.5rem; color: var(--ocean-deep, #0D2847); }
+      .coach-gate-card input[type="password"] {
+        width: 100%;
+        padding: 0.85rem 1rem;
+        border: 1.5px solid var(--gray-light, #CBD5E0);
+        border-radius: 10px;
+        font-size: 1rem;
+        box-sizing: border-box;
+      }
+      .coach-gate-card input:focus {
+        outline: none;
+        border-color: var(--ocean-blue, #1E5799);
+        box-shadow: 0 0 0 3px rgba(30, 87, 153, 0.15);
+      }
+      .coach-gate-err { color: #b91c1c; font-size: 0.9rem; margin-top: 0.75rem; min-height: 1.25em; }
+      .coach-portal { display: none; }
+      .coach-portal.is-open { display: block; }
+      .coach-gate-form.is-hidden { display: none; }
+      .coach-portal-links { display: grid; gap: 0.85rem; margin-top: 1.25rem; }
+      .coach-portal-links a.btn { text-align: center; }
+      .coach-note { font-size: 0.9rem; color: var(--text-muted, #718096); line-height: 1.65; margin-top: 1rem; }
+    </style>
+</head>
+<body>
+    <div class="loading" id="loading"><div class="loading-spinner"></div></div>
+    <div class="nav-backdrop" id="nav-backdrop"></div>
+    <header class="header" id="header">
+        <div class="header-inner">
+            <a href="index.html" class="logo">
+                <div class="logo-icon"><img src="images/icons/logo-header.svg" alt="新天地"></div>
+                <div class="logo-text">新天地<span>SEN學生游泳及多功能發展</span></div>
+            </a>
+            <nav class="nav" id="nav">
+                <div class="nav-drawer-header">
+                    <div class="logo-text">新天地<span>導航選單</span></div>
+                    <button class="nav-close-btn" id="nav-close-btn" aria-label="關閉選單">×</button>
+                </div>
+                <div class="nav-drawer-links">
+                    <a href="index.html" class="nav-link">首頁</a>
+                    <a href="about.html" class="nav-link">關於我們</a>
+                    <a href="services.html" class="nav-link">服務項目</a>
+                    <a href="why-us.html" class="nav-link">為何選擇我們</a>
+                    <a href="resources.html" class="nav-link">家長資源</a>
+                    <a href="blog.html" class="nav-link">教練專欄</a>
+                    <a href="coach-share.html" class="nav-link active">教練分享區</a>
+                    <a href="booking.html" class="nav-link">預約課程</a>
+                    <a href="contact.html" class="nav-link">聯絡我們</a>
+                </div>
+                <div class="nav-drawer-footer">
+                    <a href="https://wa.me/85297083907" target="_blank" rel="noopener" class="btn btn-primary">WhatsApp 查詢</a>
+                </div>
+            </nav>
+            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="開啟選單">☰</button>
+        </div>
+    </header>
+
+    <section class="page-header">
+        <div class="container">
+            <h1>教練分享區</h1>
+            <p>特殊需要人士游泳教師證書課程 · 內部自學教材</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="coach-gate-wrap">
+                <div class="coach-gate-card" id="coach-gate-panel">
+                    <form class="coach-gate-form" id="coach-gate-form" autocomplete="off">
+                        <label for="coach-pass">請輸入登入碼</label>
+                        <input type="password" id="coach-pass" name="passcode" required maxlength="64" autocomplete="current-password" placeholder="登入碼">
+                        <p class="coach-gate-err" id="coach-gate-err" role="alert"></p>
+                        <p style="margin-top:1.25rem">
+                            <button type="submit" class="btn btn-primary" style="width:100%">進入分享區</button>
+                        </p>
+                    </form>
+
+                    <div class="coach-portal" id="coach-portal" aria-live="polite">
+                        <h2 style="margin:0 0 0.5rem;font-size:1.25rem;color:var(--ocean-deep,#0D2847)">已解鎖</h2>
+                        <p style="margin:0;color:var(--text-body,#2D3748);line-height:1.7">可研讀教師證書自學單元。內容隨網站每月自動化一併更新。</p>
+                        <div class="coach-portal-links">
+                            <a class="btn btn-primary" id="coach-enter-course" href="Learn/特殊需要人士教師課程/index.html">開啟特殊需要人士教師課程</a>
+                            <a class="btn btn-secondary" href="Learn/特殊需要人士教師課程/listen.html">聲音學習／播放清單</a>
+                            <a class="btn btn-outline" href="Learn/特殊需要人士教師課程/glossary.html">詞彙總表</a>
+                            <button type="button" class="btn btn-outline" id="coach-logout" style="width:100%">登出</button>
+                        </div>
+                        <p class="coach-note">本區供教練與學員內部使用，不能代替面授、醫療診斷或法律意見。關閉分頁後需重新輸入登入碼。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2026 新天地 SEN學生游泳及多功能發展中心 · <a href="index.html">返回首頁</a></p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/coach-gate.js?v=20261021a"></script>
+    <script src="js/site-ui.js?v=20261021a" defer></script>
+    <script src="js/security.js" defer></script>
+    <script>
+      (function () {
+        var form = document.getElementById('coach-gate-form');
+        var portal = document.getElementById('coach-portal');
+        var err = document.getElementById('coach-gate-err');
+        var pass = document.getElementById('coach-pass');
+        var enter = document.getElementById('coach-enter-course');
+
+        function showPortal() {
+          form.classList.add('is-hidden');
+          portal.classList.add('is-open');
+          var params = new URLSearchParams(location.search);
+          var next = params.get('next');
+          if (next && /^\/Learn\//i.test(next)) {
+            enter.href = next;
+          }
+        }
+
+        function showForm() {
+          form.classList.remove('is-hidden');
+          portal.classList.remove('is-open');
+        }
+
+        if (window.CoachGate && CoachGate.isUnlocked()) {
+          showPortal();
+        } else {
+          showForm();
+        }
+
+        form.addEventListener('submit', function (e) {
+          e.preventDefault();
+          err.textContent = '';
+          CoachGate.verifyPasscode(pass.value).then(function (ok) {
+            if (!ok) {
+              err.textContent = '登入碼不正確，請再試。';
+              pass.select();
+              return;
+            }
+            CoachGate.setUnlocked(true);
+            showPortal();
+            pass.value = '';
+          }).catch(function (ex) {
+            err.textContent = ex.message || '無法驗證，請稍後再試。';
+          });
+        });
+
+        document.getElementById('coach-logout').addEventListener('click', function () {
+          CoachGate.logout();
+        });
+      })();
+    </script>
+</body>
+</html>

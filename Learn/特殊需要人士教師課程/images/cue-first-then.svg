@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360">
+  <rect width="720" height="360" fill="#f8fafc"/>
+  <text x="24" y="40" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#155e75">先－後卡（First–Then）視覺提示</text>
+  <rect x="30" y="70" width="280" height="240" rx="18" fill="#fef9c3" stroke="#111" stroke-width="4"/>
+  <text x="170" y="120" text-anchor="middle" font-size="36" font-weight="800" font-family="Microsoft JhengHei">先</text>
+  <text x="170" y="200" text-anchor="middle" font-size="22" font-family="Microsoft JhengHei">吹泡／踢水</text>
+  <text x="170" y="250" text-anchor="middle" font-size="16" fill="#334155" font-family="Microsoft JhengHei">新技能或較難項目</text>
+  <polygon points="340,190 390,160 390,220" fill="#0e7490"/>
+  <rect x="410" y="70" width="280" height="240" rx="18" fill="#bbf7d0" stroke="#111" stroke-width="4"/>
+  <text x="550" y="120" text-anchor="middle" font-size="36" font-weight="800" font-family="Microsoft JhengHei">後</text>
+  <text x="550" y="200" text-anchor="middle" font-size="22" font-family="Microsoft JhengHei">休息／選擇遊戲</text>
+  <text x="550" y="250" text-anchor="middle" font-size="16" fill="#334155" font-family="Microsoft JhengHei">合理的強化</text>
+</svg>

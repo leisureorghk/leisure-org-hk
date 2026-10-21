@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560">
+  <rect width="960" height="560" fill="#f8fafc"/>
+  <text x="32" y="40" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#155e75">編寫一節 SEN 游泳教案：課堂檢查清單</text>
+  <g font-family="Microsoft JhengHei, sans-serif" font-size="16">
+    <rect x="28" y="64" width="440" height="460" rx="14" fill="#fff" stroke="#0e7490"/>
+    <text x="48" y="100" font-size="18" font-weight="800">封面／描述（U／O）</text>
+    <text x="48" y="136">☐ 特殊需要類別與主要特徵</text>
+    <text x="48" y="168">☐ 人數、已有技能／學習經歷</text>
+    <text x="48" y="200">☐ 醫療備註：癲癇、異食癖、寰椎</text>
+    <text x="48" y="232">☐ 行為、感覺過敏、專注困難</text>
+    <text x="48" y="264">☐ 高／中／初能力三層目標</text>
+    <text x="48" y="296">☐ 人手：教師、助教、家長</text>
+    <text x="48" y="328">☐ 熱身是否有常規活動</text>
+    <text x="48" y="360">☐ 替代方案／適應技能</text>
+    <text x="48" y="392">☐ 視覺：平面圖、時間表、課程表</text>
+    <text x="48" y="424">☐ 延伸學習資料（E）與家長（P）</text>
+    <rect x="492" y="64" width="440" height="460" rx="14" fill="#fff" stroke="#b45309"/>
+    <text x="512" y="100" font-size="18" font-weight="800">五階段表（S 必須具名）</text>
+    <text x="512" y="136">☐ 熱身活動　時間＋策略＋原因</text>
+    <text x="512" y="168">☐ 主題內容　點名 WPW／TEACCH 等</text>
+    <text x="512" y="200">☐ 遊戲活動　規則／同伴／選擇</text>
+    <text x="512" y="232">☐ 緩和活動　環境／上岸常規</text>
+    <text x="512" y="264">☐ 課後延伸　圖卡／家校一致</text>
+    <text x="512" y="308">☐ 原因欄解釋「為何用此法」</text>
+    <text x="512" y="340">☐ 分組圖像顯示比例（4.3）</text>
+    <text x="512" y="372">☐ 溝通工具：PECS／提示咭／App</text>
+    <text x="512" y="404">☐ 安全鏈至交回家人</text>
+    <text x="512" y="448" font-size="14" fill="#64748b">不可只寫「示範、練習、遊戲」</text>
+  </g>
+</svg>

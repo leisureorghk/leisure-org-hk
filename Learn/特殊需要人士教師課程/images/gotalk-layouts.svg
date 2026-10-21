@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360">
+  <rect width="960" height="360" fill="#f8fafc"/>
+  <text x="28" y="36" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="700" fill="#155e75">GoTalk NOW 三種版面（銜接 PECS）</text>
+  <rect x="24" y="60" width="290" height="260" rx="12" fill="#fff" stroke="#111"/>
+  <text x="169" y="92" text-anchor="middle" font-weight="800" font-family="Microsoft JhengHei">標準頁 Standard</text>
+  <rect x="54" y="120" width="70" height="70" fill="#ddd6fe"/><rect x="134" y="120" width="70" height="70" fill="#ddd6fe"/>
+  <rect x="214" y="120" width="70" height="70" fill="#ddd6fe"/>
+  <text x="169" y="230" text-anchor="middle" font-size="14" font-family="Microsoft JhengHei">1–49 格，按一下出聲</text>
+  <text x="169" y="258" text-anchor="middle" font-size="13" fill="#64748b" font-family="Microsoft JhengHei">對應 PECS 一至三</text>
+  <rect x="334" y="60" width="290" height="260" rx="12" fill="#fff" stroke="#111"/>
+  <text x="479" y="92" text-anchor="middle" font-weight="800" font-family="Microsoft JhengHei">快捷組合 Express</text>
+  <rect x="354" y="112" width="250" height="36" rx="6" fill="#0e7490"/>
+  <text x="479" y="136" text-anchor="middle" fill="#fff" font-size="14" font-family="Microsoft JhengHei">語音欄：我想要＋入水</text>
+  <rect x="364" y="168" width="70" height="50" fill="#a5f3fc"/><rect x="444" y="168" width="70" height="50" fill="#a5f3fc"/>
+  <rect x="524" y="168" width="70" height="50" fill="#a5f3fc"/>
+  <text x="479" y="258" text-anchor="middle" font-size="13" fill="#64748b" font-family="Microsoft JhengHei">對應 PECS 四或以上</text>
+  <rect x="644" y="60" width="292" height="260" rx="12" fill="#fff" stroke="#111"/>
+  <text x="790" y="92" text-anchor="middle" font-weight="800" font-family="Microsoft JhengHei">視覺場景 Scenes</text>
+  <rect x="674" y="118" width="232" height="120" rx="8" fill="#bae6fd"/>
+  <circle cx="720" cy="170" r="16" fill="#f97316"/>
+  <circle cx="820" cy="190" r="16" fill="#22c55e"/>
+  <text x="790" y="270" text-anchor="middle" font-size="13" fill="#64748b" font-family="Microsoft JhengHei">真實照片＋熱點，減抽象</text>
+</svg>

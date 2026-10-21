@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 480">
+  <rect width="360" height="480" rx="28" fill="#fde68a" stroke="#111" stroke-width="8"/>
+  <text x="180" y="70" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="22" fill="#111">泳池提示咭</text>
+  <circle cx="180" cy="180" r="70" fill="none" stroke="#92400e" stroke-width="14"/>
+     <polygon points="230,120 250,170 200,155" fill="#92400e"/>
+  <text x="180" y="390" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="48" font-weight="800" fill="#111">再試</text>
+  <text x="180" y="432" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="20" fill="#1e293b">再試一次 · 唔急</text>
+</svg>

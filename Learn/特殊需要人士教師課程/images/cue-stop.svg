@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 480">
+  <rect width="360" height="480" rx="28" fill="#fecaca" stroke="#111" stroke-width="8"/>
+  <text x="180" y="70" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="22" fill="#111">泳池提示咭</text>
+  <rect x="120" y="120" width="120" height="120" rx="16" fill="#b91c1c"/>
+     <text x="180" y="198" text-anchor="middle" fill="#fff" font-size="42" font-family="Arial" font-weight="700">停</text>
+  <text x="180" y="390" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="48" font-weight="800" fill="#111">停</text>
+  <text x="180" y="432" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="20" fill="#1e293b">STOP · 即時停動作</text>
+</svg>

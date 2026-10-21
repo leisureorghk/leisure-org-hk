@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280">
+  <rect width="960" height="280" fill="#f8fafc"/>
+  <text x="40" y="38" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#155e75">課堂視覺日程（完成一格就揭走）</text>
+  <g font-family="Microsoft JhengHei, sans-serif" font-size="16" font-weight="700">
+    <rect x="30" y="60" width="140" height="140" rx="12" fill="#fff" stroke="#0e7490" stroke-width="3"/>
+    <text x="100" y="130" text-anchor="middle">換衫</text>
+    <rect x="186" y="60" width="140" height="140" rx="12" fill="#fff" stroke="#0e7490" stroke-width="3"/>
+    <text x="256" y="130" text-anchor="middle">沖涼／池邊</text>
+    <rect x="342" y="60" width="140" height="140" rx="12" fill="#fff" stroke="#0e7490" stroke-width="3"/>
+    <text x="412" y="130" text-anchor="middle">熱身吹泡</text>
+    <rect x="498" y="60" width="140" height="140" rx="12" fill="#fff" stroke="#0e7490" stroke-width="3"/>
+    <text x="568" y="130" text-anchor="middle">主練習</text>
+    <rect x="654" y="60" width="140" height="140" rx="12" fill="#fff" stroke="#0e7490" stroke-width="3"/>
+    <text x="724" y="130" text-anchor="middle">遊戲</text>
+    <rect x="810" y="60" width="120" height="140" rx="12" fill="#ecfeff" stroke="#0e7490" stroke-width="3"/>
+    <text x="870" y="130" text-anchor="middle">再見</text>
+  </g>
+  <text x="40" y="240" font-family="Microsoft JhengHei, sans-serif" font-size="16" fill="#334155">結構化教學：視覺安排、固定常規、清晰環境、個人工作系統。結束儀式幫助過渡。</text>
+</svg>

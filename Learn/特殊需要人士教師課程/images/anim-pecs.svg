@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340">
+  <rect width="960" height="340" fill="#faf5ff"/>
+  <text x="28" y="36" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="700" fill="#6d28d9">PECS 階段一：主動遞卡以物易物</text>
+  <rect x="80" y="90" width="160" height="160" rx="16" fill="#f5d0fe" stroke="#111" stroke-width="4">
+    <animateTransform attributeName="transform" type="translate" values="0,0;280,40;0,0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="160" y="180" text-anchor="middle" font-size="28" font-weight="800" font-family="Microsoft JhengHei">害怕</text>
+  <text x="80" y="280" font-size="16" font-family="Microsoft JhengHei">學員</text>
+  <text x="520" y="280" font-size="16" font-family="Microsoft JhengHei">溝通夥伴即時兌現（退一步／休息）</text>
+  <text x="40" y="320" font-size="15" font-family="Microsoft JhengHei">2.8／PECS notes：先建立「溝通有用」；不可沒收溝通工具作懲罰。</text>
+</svg>

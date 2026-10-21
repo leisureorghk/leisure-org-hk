@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 480">
+  <rect width="360" height="480" rx="28" fill="#ccfbf1" stroke="#111" stroke-width="8"/>
+  <text x="180" y="70" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="22" fill="#111">泳池提示咭</text>
+  <ellipse cx="180" cy="200" rx="90" ry="28" fill="#5eead4"/>
+     <rect x="168" y="110" width="24" height="90" rx="10" fill="#0f766e"/>
+  <text x="180" y="390" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="48" font-weight="800" fill="#111">踢水</text>
+  <text x="180" y="432" text-anchor="middle" font-family="Microsoft JhengHei, sans-serif" font-size="20" fill="#1e293b">細踢、數下數</text>
+</svg>

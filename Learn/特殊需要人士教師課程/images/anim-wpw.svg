@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280">
+  <rect width="960" height="280" fill="#fff7ed"/>
+  <text x="28" y="36" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="700" fill="#9a3412">WPW：整體 → 部分 → 整體</text>
+  <circle cx="180" cy="150" r="70" fill="#fdba74">
+    <animate attributeName="r" values="70;78;70" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="180" y="156" text-anchor="middle" font-size="20" font-weight="800" font-family="Microsoft JhengHei">整體</text>
+  <polygon points="270,150 310,130 310,170" fill="#9a3412"/>
+  <rect x="330" y="90" width="70" height="50" fill="#fed7aa"/><rect x="410" y="90" width="70" height="50" fill="#fed7aa"/>
+  <rect x="370" y="160" width="70" height="50" fill="#fed7aa"/>
+  <text x="440" y="250" text-anchor="middle" font-size="16" font-family="Microsoft JhengHei">部分（拆步）</text>
+  <polygon points="530,150 570,130 570,170" fill="#9a3412"/>
+  <circle cx="680" cy="150" r="70" fill="#fb923c">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="680" y="156" text-anchor="middle" font-size="20" font-weight="800" font-family="Microsoft JhengHei">整合</text>
+</svg>

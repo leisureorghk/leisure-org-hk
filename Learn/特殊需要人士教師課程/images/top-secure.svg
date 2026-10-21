@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520">
+  <rect width="960" height="520" fill="#f8fafc"/>
+  <text x="32" y="40" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="700" fill="#155e75">4.4 TOP SECURe：寫教案時逐項對齊</text>
+  <g font-family="Microsoft JhengHei, sans-serif">
+    <rect x="24" y="70" width="220" height="120" rx="14" fill="#cffafe" stroke="#0e7490"/>
+    <text x="134" y="108" text-anchor="middle" font-size="20" font-weight="800">U／Re</text>
+    <text x="134" y="140" text-anchor="middle" font-size="14">理解需要、建立關係</text>
+    <text x="134" y="166" text-anchor="middle" font-size="13">病歷、興趣、優勢</text>
+    <rect x="256" y="70" width="220" height="120" rx="14" fill="#dbeafe" stroke="#1d4ed8"/>
+    <text x="366" y="108" text-anchor="middle" font-size="20" font-weight="800">O</text>
+    <text x="366" y="140" text-anchor="middle" font-size="14">個別學習目標</text>
+    <text x="366" y="166" text-anchor="middle" font-size="13">高／中／初能力</text>
+    <rect x="488" y="70" width="220" height="120" rx="14" fill="#fef3c7" stroke="#b45309"/>
+    <text x="598" y="108" text-anchor="middle" font-size="20" font-weight="800">S</text>
+    <text x="598" y="140" text-anchor="middle" font-size="14">具名教學策略</text>
+    <text x="598" y="166" text-anchor="middle" font-size="13">TEACCH、STEP、WPW…</text>
+    <rect x="720" y="70" width="216" height="120" rx="14" fill="#ede9fe" stroke="#6d28d9"/>
+    <text x="828" y="108" text-anchor="middle" font-size="20" font-weight="800">T</text>
+    <text x="828" y="140" text-anchor="middle" font-size="14">科技促進學習</text>
+    <text x="828" y="166" text-anchor="middle" font-size="13">視頻示範、AAC App</text>
+    <rect x="140" y="220" width="220" height="120" rx="14" fill="#dcfce7" stroke="#15803d"/>
+    <text x="250" y="258" text-anchor="middle" font-size="20" font-weight="800">E</text>
+    <text x="250" y="290" text-anchor="middle" font-size="14">延伸學習</text>
+    <text x="250" y="316" text-anchor="middle" font-size="13">課後圖卡／家課</text>
+    <rect x="372" y="220" width="220" height="120" rx="14" fill="#fce7f3" stroke="#be185d"/>
+    <text x="482" y="258" text-anchor="middle" font-size="20" font-weight="800">P</text>
+    <text x="482" y="290" text-anchor="middle" font-size="14">家長支持</text>
+    <text x="482" y="316" text-anchor="middle" font-size="13">同一套規則與圖</text>
+    <rect x="604" y="220" width="220" height="120" rx="14" fill="#ffedd5" stroke="#c2410c"/>
+    <text x="714" y="258" text-anchor="middle" font-size="20" font-weight="800">C</text>
+    <text x="714" y="290" text-anchor="middle" font-size="14">社區／跨專業</text>
+    <text x="714" y="316" text-anchor="middle" font-size="13">OT／PT／ST／助教</text>
+  </g>
+  <text x="32" y="390" font-family="Microsoft JhengHei, sans-serif" font-size="16" fill="#334155">課堂要求：教學策略欄必須寫出方法名稱；原因欄解釋為何適合該學員，不可只寫「鼓勵」。</text>
+  <text x="32" y="424" font-family="Microsoft JhengHei, sans-serif" font-size="16" fill="#334155">檢查：熱身有無常規、有無視覺提示（平面圖／時間表）、不同層次成果、人手、醫療備註、延伸資料。</text>
+  <text x="32" y="470" font-family="Microsoft JhengHei, sans-serif" font-size="15" fill="#64748b">整理自 4.4 講義及 2026-10-04 課堂錄音要點（編寫教案）。</text>
+</svg>

@@ -151,6 +151,26 @@
       "imageAlt": "教練專欄教學筆記插畫"
     },
     {
+      "file": "coach-share.html",
+      "path": "/coach-share.html",
+      "title": "教練分享區 | 新天地",
+      "description": "新天地教練分享區：特殊需要人士游泳教師證書課程自學教材（需登入碼，內部使用）。",
+      "keywords": "教練分享區, 特殊需要人士教師課程, SEN游泳教師",
+      "ogType": "website",
+      "priority": 0.1,
+      "changefreq": "monthly",
+      "robots": "noindex, nofollow",
+      "breadcrumb": [
+        {
+          "name": "教練分享區",
+          "path": "/coach-share.html"
+        }
+      ],
+      "schemas": [],
+      "image": "/images/learn/hero-blog.webp",
+      "imageAlt": "教練分享區"
+    },
+    {
       "file": "booking.html",
       "path": "/booking.html",
       "title": "預約課程 | 新天地 — 香港 SEN 游泳報名",

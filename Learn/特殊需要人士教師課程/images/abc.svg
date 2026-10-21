@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300">
+  <rect width="960" height="300" fill="#f8fafc"/>
+  <text x="40" y="40" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#155e75">ABC：先理解功能，再決定介入</text>
+  <g font-family="Microsoft JhengHei, sans-serif">
+    <rect x="40" y="64" width="260" height="140" rx="14" fill="#fff7ed" stroke="#ea580c" stroke-width="3"/>
+    <text x="170" y="108" text-anchor="middle" font-size="22" font-weight="700" fill="#9a3412">A 前因</text>
+    <text x="170" y="142" text-anchor="middle" font-size="16">嘈吵、難指令、水深改變</text>
+    <text x="170" y="170" text-anchor="middle" font-size="16">未預告、任務太難</text>
+    <rect x="350" y="64" width="260" height="140" rx="14" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+    <text x="480" y="108" text-anchor="middle" font-size="22" font-weight="700" fill="#1e40af">B 行為</text>
+    <text x="480" y="142" text-anchor="middle" font-size="16">可觀察：摀耳、哭、停住</text>
+    <text x="480" y="170" text-anchor="middle" font-size="16">不猜測「故意搗亂」</text>
+    <rect x="660" y="64" width="260" height="140" rx="14" fill="#ecfdf5" stroke="#059669" stroke-width="3"/>
+    <text x="790" y="108" text-anchor="middle" font-size="22" font-weight="700" fill="#065f46">C 後果</text>
+    <text x="790" y="142" text-anchor="middle" font-size="16">獲得關注／物品</text>
+    <text x="790" y="170" text-anchor="middle" font-size="16">或逃避困難任務</text>
+    <text x="40" y="248" font-size="16" fill="#334155">常見功能：獲取、逃避、感官、關注。一哭就取消任務，可能強化「哭就能逃避」。</text>
+  </g>
+</svg>

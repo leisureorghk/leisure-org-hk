@@ -54,10 +54,40 @@
     }
   }
 
+  function injectCoachShareNav() {
+    var links = document.querySelectorAll('.nav-drawer-links');
+    if (!links.length) return;
+    links.forEach(function (nav) {
+      if (nav.querySelector('[data-coach-share]')) return;
+      var a = document.createElement('a');
+      a.href = 'coach-share.html';
+      a.className = 'nav-link';
+      a.setAttribute('data-coach-share', '1');
+      a.textContent = '教練分享區';
+      var blog = nav.querySelector('a[href="blog.html"]');
+      if (blog && blog.parentNode === nav) {
+        if (blog.nextSibling) nav.insertBefore(a, blog.nextSibling);
+        else nav.appendChild(a);
+      } else {
+        nav.appendChild(a);
+      }
+      try {
+        var path = location.pathname || '';
+        if (/coach-share\.html$/i.test(path)) a.classList.add('active');
+      } catch (e) {
+        /* ignore */
+      }
+    });
+  }
+
   initLoading();
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initHeaderSearch);
-  } else {
+  function onReady() {
     initHeaderSearch();
+    injectCoachShareNav();
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', onReady);
+  } else {
+    onReady();
   }
 })();

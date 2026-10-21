@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360">
+  <rect width="960" height="360" fill="#ecfeff"/>
+  <text x="28" y="36" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="700" fill="#155e75">TEACCH 程序時間表（由上而下完成即揭走）</text>
+  <g font-family="Microsoft JhengHei, sans-serif">
+    <rect x="40" y="70" width="140" height="70" rx="10" fill="#fef08a" stroke="#111"><animate attributeName="opacity" values="1;0.35;1" dur="4s" repeatCount="indefinite"/></rect>
+    <text x="110" y="112" text-anchor="middle" font-size="18" font-weight="700">1 點名</text>
+    <rect x="220" y="70" width="140" height="70" rx="10" fill="#bbf7d0" stroke="#111"><animate attributeName="opacity" values="0.35;1;0.35" dur="4s" repeatCount="indefinite"/></rect>
+    <text x="290" y="112" text-anchor="middle" font-size="18" font-weight="700">2 更衣</text>
+    <rect x="400" y="70" width="140" height="70" rx="10" fill="#a5f3fc" stroke="#111"><animate attributeName="opacity" values="0.35;0.35;1;0.35" dur="4s" repeatCount="indefinite"/></rect>
+    <text x="470" y="112" text-anchor="middle" font-size="18" font-weight="700">3 入水</text>
+    <rect x="580" y="70" width="140" height="70" rx="10" fill="#ddd6fe" stroke="#111"><animate attributeName="opacity" values="0.35;0.35;0.35;1" dur="4s" repeatCount="indefinite"/></rect>
+    <text x="650" y="112" text-anchor="middle" font-size="18" font-weight="700">4 主題</text>
+    <rect x="760" y="70" width="160" height="70" rx="10" fill="#fecaca" stroke="#111"/>
+    <text x="840" y="112" text-anchor="middle" font-size="18" font-weight="700">5 交回家人</text>
+  </g>
+  <text x="40" y="200" font-family="Microsoft JhengHei, sans-serif" font-size="16">結構化教學：視覺安排＋常規；形式包括環境安排、程序時間表、個人工作系統（4.2／4.4）。</text>
+  <rect x="40" y="230" width="70" height="70" rx="8" fill="#fff" stroke="#0e7490"/>
+  <text x="75" y="272" text-anchor="middle" font-size="14" font-family="Microsoft JhengHei">取板</text>
+  <rect x="130" y="230" width="70" height="70" rx="8" fill="#fff" stroke="#0e7490"/>
+  <text x="165" y="272" text-anchor="middle" font-size="14" font-family="Microsoft JhengHei">踢水</text>
+  <rect x="220" y="230" width="70" height="70" rx="8" fill="#fff" stroke="#0e7490"/>
+  <text x="255" y="272" text-anchor="middle" font-size="14" font-family="Microsoft JhengHei">交板</text>
+  <polygon points="310,265 340,250 340,280" fill="#0e7490">
+    <animateTransform attributeName="transform" type="translate" values="0,0;12,0;0,0" dur="1.2s" repeatCount="indefinite"/>
+  </polygon>
+  <text x="360" y="272" font-size="16" font-family="Microsoft JhengHei">個人工作系統：由左至右編號完成</text>
+  <text x="40" y="340" font-size="14" fill="#64748b" font-family="Microsoft JhengHei">動態示意僅作教學，非學員影像。</text>
+</svg>

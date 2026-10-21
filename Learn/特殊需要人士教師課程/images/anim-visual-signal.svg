@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340">
+  <rect width="960" height="340" fill="#0f172a"/>
+  <text x="28" y="36" font-family="Microsoft JhengHei, sans-serif" font-size="22" font-weight="700" fill="#e0f2fe">聽障：視覺緊急信號（閃燈／舉牌）　視障：聽覺信號</text>
+  <circle cx="220" cy="170" r="54" fill="#facc15">
+    <animate attributeName="opacity" values="0.15;1;0.15" dur="1s" repeatCount="indefinite"/>
+  </circle>
+  <text x="220" y="178" text-anchor="middle" font-size="20" font-weight="800" fill="#111" font-family="Microsoft JhengHei">停</text>
+  <rect x="420" y="110" width="200" height="120" rx="12" fill="#22c55e">
+    <animate attributeName="fill" values="#22c55e;#ef4444;#22c55e" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="520" y="180" text-anchor="middle" fill="#fff" font-size="28" font-weight="800" font-family="Microsoft JhengHei">撤離</text>
+  <text x="40" y="280" fill="#cbd5e1" font-size="16" font-family="Microsoft JhengHei">4.3：視覺緊急信號（聽力障礙）；聽覺緊急信號（視力障礙）。2.8：聽障用閃爍提示、較前位置、圖文筆記。</text>
+  <text x="40" y="314" fill="#94a3b8" font-size="14" font-family="Microsoft JhengHei">助聽器／人工耳蝸多不防水，入水前按指示除下並存放。</text>
+</svg>

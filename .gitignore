@@ -18,5 +18,5 @@ Thumbs.db
 # Local PDF extract / training notes (not for public site)
 Doc/
 Doc/_extract/
-/Learn/
+# Learn 教師課程已上網（經教練分享區）；僅忽略本機抽取暫存
 /Learn/_extract/

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480">
+  <rect width="960" height="480" fill="#f8fafc"/>
+  <text x="28" y="36" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#155e75">TEACCH 泳池環境平面圖（視覺安排）</text>
+  <rect x="28" y="56" width="160" height="140" rx="10" fill="#fef3c7" stroke="#111"/>
+  <text x="108" y="120" text-anchor="middle" font-family="Microsoft JhengHei" font-size="18" font-weight="700">更衣室</text>
+  <text x="108" y="148" text-anchor="middle" font-size="13">界線／圖示</text>
+  <rect x="210" y="56" width="160" height="140" rx="10" fill="#e0f2fe" stroke="#111"/>
+  <text x="290" y="120" text-anchor="middle" font-family="Microsoft JhengHei" font-size="18" font-weight="700">池邊預告</text>
+  <text x="290" y="148" text-anchor="middle" font-size="13">時間表／入水位</text>
+  <rect x="392" y="56" width="360" height="280" rx="10" fill="#67e8f9" stroke="#111"/>
+  <text x="572" y="100" text-anchor="middle" font-family="Microsoft JhengHei" font-size="20" font-weight="700">淺水教學區</text>
+  <text x="572" y="132" text-anchor="middle" font-size="14">顏色線＝站位　浮板固定存放</text>
+  <rect x="420" y="160" width="120" height="70" rx="8" fill="#fff" stroke="#0e7490"/>
+  <text x="480" y="202" text-anchor="middle" font-size="14">工作站 A</text>
+  <rect x="560" y="160" width="120" height="70" rx="8" fill="#fff" stroke="#0e7490"/>
+  <text x="620" y="202" text-anchor="middle" font-size="14">工作站 B</text>
+  <rect x="770" y="56" width="160" height="140" rx="10" fill="#bbf7d0" stroke="#111"/>
+  <text x="850" y="120" text-anchor="middle" font-family="Microsoft JhengHei" font-size="18" font-weight="700">休息角</text>
+  <text x="850" y="148" text-anchor="middle" font-size="13">害怕卡／耳塞</text>
+  <rect x="28" y="220" width="342" height="116" rx="10" fill="#ede9fe" stroke="#111"/>
+  <text x="199" y="270" text-anchor="middle" font-family="Microsoft JhengHei" font-size="18" font-weight="700">個人工作系統</text>
+  <text x="199" y="300" text-anchor="middle" font-size="14">由上而下揭卡：取板→踢→交板</text>
+  <rect x="28" y="360" width="904" height="90" rx="10" fill="#fff" stroke="#111"/>
+  <text x="48" y="396" font-family="Microsoft JhengHei" font-size="16">程序時間表：點名 → 更衣 → 入水 → 主題 → 遊戲 → 出水 → 交回家人。每個區有符號說明「這裡要做甚麼」。</text>
+  <text x="48" y="428" font-family="Microsoft JhengHei" font-size="16" fill="#334155">4.3：休息角不是獨處關閉空間；更衣協助仍要可見、可解釋。</text>
+</svg>

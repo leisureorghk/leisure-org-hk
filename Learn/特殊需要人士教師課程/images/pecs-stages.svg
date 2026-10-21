@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360">
+  <rect width="960" height="360" fill="#f8fafc"/>
+  <text x="40" y="38" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#155e75">PECS 圖片交換溝通：六階段</text>
+  <g font-family="Microsoft JhengHei, sans-serif" font-size="14">
+    <rect x="24" y="60" width="140" height="210" rx="12" fill="#fff" stroke="#7c3aed" stroke-width="2"/>
+    <text x="94" y="100" text-anchor="middle" font-size="16" font-weight="700">一 單張易物</text>
+    <text x="94" y="140" text-anchor="middle">遞出圖卡</text>
+    <text x="94" y="164" text-anchor="middle">換取物品</text>
+    <rect x="176" y="60" width="140" height="210" rx="12" fill="#fff" stroke="#7c3aed" stroke-width="2"/>
+    <text x="246" y="100" text-anchor="middle" font-size="16" font-weight="700">二 距離堅持</text>
+    <text x="246" y="140" text-anchor="middle">帶溝通本</text>
+    <text x="246" y="164" text-anchor="middle">主動找人</text>
+    <rect x="328" y="60" width="140" height="210" rx="12" fill="#fff" stroke="#7c3aed" stroke-width="2"/>
+    <text x="398" y="100" text-anchor="middle" font-size="16" font-weight="700">三 分辨圖片</text>
+    <text x="398" y="140" text-anchor="middle">多張中挑選</text>
+    <text x="398" y="164" text-anchor="middle">拿對目標卡</text>
+    <rect x="480" y="60" width="140" height="210" rx="12" fill="#fff" stroke="#7c3aed" stroke-width="2"/>
+    <text x="550" y="100" text-anchor="middle" font-size="16" font-weight="700">四 組句</text>
+    <text x="550" y="140" text-anchor="middle">我想要＋物品</text>
+    <text x="550" y="164" text-anchor="middle">短句結構</text>
+    <rect x="632" y="60" width="140" height="210" rx="12" fill="#fff" stroke="#7c3aed" stroke-width="2"/>
+    <text x="702" y="100" text-anchor="middle" font-size="16" font-weight="700">五 回答問題</text>
+    <text x="702" y="140" text-anchor="middle">你想要什麼</text>
+    <text x="702" y="164" text-anchor="middle">用句型回應</text>
+    <rect x="784" y="60" width="152" height="210" rx="12" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
+    <text x="860" y="100" text-anchor="middle" font-size="16" font-weight="700">六 評論分享</text>
+    <text x="860" y="140" text-anchor="middle">看到／聽到</text>
+    <text x="860" y="164" text-anchor="middle">感受與心事</text>
+  </g>
+  <text x="40" y="310" font-family="Microsoft JhengHei, sans-serif" font-size="16" fill="#334155">泳池可用防水圖卡：休息、再試、抹面、害怕。數位工具可銜接匡智溝通易或 GoTalk NOW。</text>
+</svg>

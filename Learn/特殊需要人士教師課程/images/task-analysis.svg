@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280">
+  <rect width="960" height="280" fill="#f8fafc"/>
+  <text x="40" y="38" font-family="Microsoft JhengHei, sans-serif" font-size="24" font-weight="700" fill="#155e75">工序分析例子：扶板踢水</text>
+  <g font-family="Microsoft JhengHei, sans-serif" font-weight="700">
+    <circle cx="90" cy="140" r="36" fill="#0e7490"/><text x="90" y="148" text-anchor="middle" fill="#fff" font-size="22">1</text>
+    <text x="90" y="200" text-anchor="middle" font-size="16">雙手揸實浮板</text>
+    <circle cx="310" cy="140" r="36" fill="#0e7490"/><text x="310" y="148" text-anchor="middle" fill="#fff" font-size="22">2</text>
+    <text x="310" y="200" text-anchor="middle" font-size="16">身體伸直眼望前</text>
+    <circle cx="530" cy="140" r="36" fill="#0e7490"/><text x="530" y="148" text-anchor="middle" fill="#fff" font-size="22">3</text>
+    <text x="530" y="200" text-anchor="middle" font-size="16">細細腳踢水</text>
+    <circle cx="760" cy="140" r="36" fill="#0e7490"/><text x="760" y="148" text-anchor="middle" fill="#fff" font-size="22">4</text>
+    <text x="760" y="200" text-anchor="middle" font-size="16">數十下再休息</text>
+  </g>
+  <text x="40" y="250" font-family="Microsoft JhengHei, sans-serif" font-size="16" fill="#334155">讚賞要具體：「你今朝踢水時眼望前，好穩陣。」</text>
+</svg>

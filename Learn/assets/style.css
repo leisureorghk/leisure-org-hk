@@ -1,0 +1,92 @@
+/* 特殊需要人士教師課程 — 網上自學樣式（輕量） */
+:root {
+  --ink: #0f172a;
+  --muted: #475569;
+  --brand: #0e7490;
+  --brand-dark: #155e75;
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --line: #e2e8f0;
+  --do: #166534;
+  --avoid: #991b1b;
+  --sand: #ecfeff;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: "Microsoft JhengHei", "Noto Sans TC", "PingFang TC", sans-serif;
+  color: var(--ink);
+  background: linear-gradient(180deg, #ecfeff 0%, var(--bg) 28%, #f1f5f9 100%);
+  line-height: 1.7;
+}
+.wrap { max-width: 880px; margin: 0 auto; padding: 1rem 1.15rem 3rem; }
+header.site {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+  gap: 0.75rem; padding: 0.75rem 0 1rem; border-bottom: 1px solid var(--line); margin-bottom: 1.25rem;
+}
+header.site .brand { font-weight: 700; color: var(--brand-dark); text-decoration: none; font-size: 1.05rem; }
+header.site nav { display: flex; flex-wrap: wrap; gap: 0.65rem 1rem; }
+header.site nav a { color: var(--muted); text-decoration: none; font-size: 0.92rem; }
+header.site nav a:hover { color: var(--brand); }
+h1 { font-size: clamp(1.45rem, 3vw, 1.85rem); margin: 0.4rem 0 0.75rem; color: var(--brand-dark); }
+h2 { font-size: 1.2rem; margin: 1.6rem 0 0.75rem; color: var(--ink); }
+h3 { font-size: 1.05rem; margin: 0 0 0.5rem; }
+.tag {
+  display: inline-block; background: var(--sand); color: var(--brand-dark);
+  padding: 0.2rem 0.65rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;
+}
+.lead, .disclaimer, .caption { color: var(--muted); }
+.disclaimer {
+  background: rgba(14, 116, 144, 0.06); border-radius: 10px; padding: 0.85rem 1rem; font-size: 0.92rem;
+}
+.card {
+  background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+  padding: 1rem 1.1rem; margin: 0.85rem 0; box-shadow: 0 6px 20px rgba(15, 23, 42, 0.04);
+}
+.card.pro { border-left: 4px solid var(--brand); }
+.card.do { border-left: 4px solid var(--do); }
+.card.avoid { border-left: 4px solid var(--avoid); }
+.kp-block { margin: 0.65rem 0; }
+.kp-kicker { font-size: 0.8rem; font-weight: 700; color: var(--brand); margin: 0 0 0.2rem; letter-spacing: 0.02em; }
+.cite { font-size: 0.82rem; color: var(--muted); }
+.list { padding-left: 1.2rem; }
+.list li { margin: 0.35rem 0; }
+.two-col { display: grid; gap: 0.85rem; }
+@media (min-width: 720px) { .two-col { grid-template-columns: 1fr 1fr; } }
+.grid { display: grid; gap: 0.85rem; }
+@media (min-width: 640px) { .grid { grid-template-columns: 1fr 1fr; } }
+.grid .card .title { font-weight: 700; color: var(--brand-dark); text-decoration: none; display: block; margin: 0.35rem 0; }
+.fig-grid { display: grid; gap: 0.75rem; margin: 0.75rem 0 1rem; }
+.figure img { max-width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--line); background: #fff; }
+.audio-bar {
+  display: flex; flex-wrap: wrap; gap: 0.65rem; align-items: center;
+  background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.85rem 1rem; margin: 1rem 0;
+}
+.btn, button.play-cantonese, button.ghost, button[data-check-btn], .to-top {
+  display: inline-block; border: none; cursor: pointer; border-radius: 999px;
+  padding: 0.45rem 0.95rem; font: inherit; text-decoration: none;
+}
+.btn, button.play-cantonese, button[data-check-btn] { background: var(--brand); color: #fff; }
+.btn.ghost, button.ghost, .to-top, .btn.ghost { background: transparent; color: var(--brand-dark); border: 1px solid var(--line); }
+.toolbar { display: flex; flex-wrap: wrap; gap: 0.55rem; margin: 1rem 0; align-items: center; }
+.search {
+  width: 100%; max-width: 420px; padding: 0.65rem 0.85rem; border-radius: 10px;
+  border: 1px solid var(--line); font: inherit;
+}
+.term-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.term-chip {
+  display: inline-block; padding: 0.2rem 0.55rem; border-radius: 999px; background: #e0f2fe;
+  color: var(--brand-dark); text-decoration: none; font-size: 0.85rem;
+}
+.glossary dt { font-weight: 700; margin-top: 0.65rem; }
+.glossary dd { margin: 0.15rem 0 0.5rem; color: var(--muted); }
+footer { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.88rem; }
+.chk { display: inline-flex; align-items: center; gap: 0.35rem; font-size: 0.9rem; color: var(--muted); }
+.judge { border: 1px solid var(--line); border-radius: 10px; padding: 0.75rem; margin: 0.65rem 0; }
+.coach-bar {
+  position: sticky; top: 0; z-index: 20; background: rgba(14, 116, 144, 0.95); color: #fff;
+  padding: 0.45rem 1rem; display: flex; flex-wrap: wrap; gap: 0.65rem; align-items: center; justify-content: space-between;
+  font-size: 0.9rem;
+}
+.coach-bar a { color: #fff; }
