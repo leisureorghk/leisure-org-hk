@@ -4,6 +4,15 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import {
+  CSS_HREF,
+  SCRIPT_TAGS,
+  activeFromFile,
+  renderFooter,
+  renderHeader,
+  renderNavInlineScript,
+  FULL_FOOTER_FILES,
+} from './site-chrome.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
@@ -87,7 +96,8 @@ function attachExtras(file, body) {
   return body + block;
 }
 
-function shell({ title, description, keywords, bodyHtml }) {
+function shell({ title, description, keywords, bodyHtml, file }) {
+  const footerVariant = FULL_FOOTER_FILES.has(file) ? 'full' : 'compact';
   return `<!DOCTYPE html>
 <html lang="zh-Hant-HK">
 <head>
@@ -97,58 +107,16 @@ function shell({ title, description, keywords, bodyHtml }) {
     <meta name="keywords" content="${keywords}">
     <title>${title}</title>
     <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
-    <link rel="stylesheet" href="css/style.css?v=20261021g">
+    <link rel="stylesheet" href="${CSS_HREF}">
 </head>
 <body>
     <div class="loading" id="loading"><div class="loading-spinner"></div></div>
     <div class="nav-backdrop" id="nav-backdrop"></div>
-    <header class="header" id="header">
-        <div class="header-inner">
-            <a href="index.html" class="logo">
-                <div class="logo-icon"><img src="images/icons/logo-header.svg" alt="新天地"></div>
-                <div class="logo-text">新天地<span>SEN學生游泳及多功能發展</span></div>
-            </a>
-            <nav class="nav" id="nav">
-                <div class="nav-drawer-header">
-                    <div class="logo-text">新天地<span>導航選單</span></div>
-                    <button class="nav-close-btn" id="nav-close-btn" aria-label="關閉選單">×</button>
-                </div>
-                <div class="nav-drawer-links">
-                    <a href="index.html" class="nav-link">首頁</a>
-                    <a href="about.html" class="nav-link">關於我們</a>
-                    <a href="services.html" class="nav-link">服務項目</a>
-                    <a href="resources.html" class="nav-link">家長資源</a>
-                    <a href="blog.html" class="nav-link">教練專欄</a>
-                    <a href="booking.html" class="nav-link">預約課程</a>
-                    <a href="contact.html" class="nav-link">聯絡我們</a>
-                </div>
-                <div class="nav-drawer-footer">
-                    <a href="${WA}" target="_blank" rel="noopener" class="btn btn-primary">WhatsApp 查詢</a>
-                </div>
-            </nav>
-            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="開啟選單">☰</button>
-        </div>
-    </header>
+${renderHeader({ active: activeFromFile(file) })}
     ${bodyHtml}
-    <footer class="footer">
-        <div class="container">
-            <div class="footer-bottom">
-                <p>&copy; 2026 新天地 SEN學生游泳及多功能發展中心 · <a href="sitemap.xml">網站地圖</a> · <a href="sen-guide.html">認識特殊需要</a></p>
-            </div>
-        </div>
-    </footer>
-    <script src="js/site-ui.js?v=20260827b" defer></script>
-    <script src="js/share.js?v=20260827a" defer></script>
-    <script src="js/analytics.js?v=20260525a" defer></script>
-    <script src="js/security.js"></script>
-    <script>
-        const mobileMenuBtn=document.getElementById('mobile-menu-btn'),nav=document.getElementById('nav'),navBackdrop=document.getElementById('nav-backdrop'),navCloseBtn=document.getElementById('nav-close-btn');
-        function openNav(){nav.classList.add('active');navBackdrop.classList.add('active');document.body.style.overflow='hidden';}
-        function closeNav(){nav.classList.remove('active');navBackdrop.classList.remove('active');document.body.style.overflow='';}
-        mobileMenuBtn&&mobileMenuBtn.addEventListener('click',openNav);
-        navCloseBtn&&navCloseBtn.addEventListener('click',closeNav);
-        navBackdrop&&navBackdrop.addEventListener('click',closeNav);
-    </script>
+${renderFooter({ variant: footerVariant })}
+    ${SCRIPT_TAGS}
+    ${renderNavInlineScript()}
 </body>
 </html>`;
 }
@@ -320,6 +288,14 @@ ${learnFigure('teach-safe-guidance.webp', '水中安全引導示意：教練輕�
 <li>若使用助聽器／人工耳蝸，請家長說明是否可於水中配戴防水配件；否則下水前妥善保管（設備通常昂貴）。以視覺溝通為主。</li>
 <li>緊急情況以預先約定的<strong>看得見的訊號</strong>（例如「停、扶邊」手勢或圖卡）為優先，不要只靠隔水喊話。</li>
 </ul>
+<h2>聽障：看得見的緊急訊號（家長版）</h2>
+<p>水中嘈雜、耳塞或取下輔具後，隔水喊話往往失效。課堂會預先與家庭約定<strong>視覺緊急訊號</strong>，例如：</p>
+<ul>
+<li><strong>閃燈／燈光提示</strong>：轉場或需要即時停下來時用。</li>
+<li><strong>彩色旗幟</strong>：池邊舉起，孩子抬頭就看得見。</li>
+<li><strong>圖卡</strong>：「停」「幫忙」「完成」等短語，與家中／學校符號盡量一致。</li>
+</ul>
+<p>教練會進入孩子視線範圍才發指令；示範遠多於長句口語。助聽器／人工耳蝸多數不宜直接浸水——請課前說明保管方式，輔具離水後改以視覺溝通為主。</p>
 <h2>安全溝通：請家長主動告知的事項</h2>
 <p>若孩子有已知的發作病史、用藥或活動限制，請課前告訴教練。課堂會以<strong>預防與預案</strong>為先：熟悉孩子訊號、保護頭部與池邊、並確保有熟悉孩子的成人可即時聯絡。具體醫療安排以醫生意見為準，游泳課不能取代急救訓練或醫療判斷。</p>
 <p>家長可簡單準備：發作大概樣子與常見時長、用藥時間、緊急聯絡人，以及「哪些觸發要避免」。這不是要嚇怕任何人，而是讓教練有準備地守護安全。</p>
@@ -463,6 +439,8 @@ ${motionFig('anim-visual-schedule.svg', '視覺流程卡依序發亮的動態示
 <li><strong>模仿建立信任：</strong>可先短暫跟隨孩子的節奏或動作，再引導他跟從教練示範；初期可允許家長陪同，再逐步獨立。</li>
 <li><strong>完成儀式：</strong>每節有清楚的「完結」動作（例如同一首歌、同一張完成卡），幫助從泳池過渡回更衣室。</li>
 </ul>
+<h2>「還未學會」還是「不想做」？</h2>
+<p>拒絕下水或哭鬧，有時是<strong>技能還未夠</strong>（怕嗆水、不知道下一步），有時是<strong>已會卻想逃避</strong>。前者需要 SOS 漸進、拆步與更多示範；後者則在安全範圍內輔助完成一小步，或提供圖卡表達「休息／再試」，而不是每次完全取消目標。兩者都先保安全、降刺激，再判斷下一步。詳見<a href="sen-swim-behavior.html">正向行為</a>。</p>
 ${DISCLAIMER}
 <section class="weekly-faq" style="margin-top:2rem">
 <h2>家長常見問題</h2>
@@ -639,7 +617,14 @@ ${motionFig('anim-visual-schedule.svg', '課堂步驟卡依序發亮', '看得�
 </ol>
 <h2>ABC：前因—行為—結果</h2>
 <p>簡單記錄有助找出模式：行為前發生了甚麼（前因）？孩子實際做了甚麼（行為）？之後發生了甚麼（結果）？例如：教練要求由淺水到較深水域（前因）→ 孩子哭著拒絕（行為）→ 若每次都因此取消練習（結果），「哭鬧＝逃避」的連結可能被強化。較佳做法是預告、拆細步驟、先在熟悉環境練習、給選擇，並對小成功即時讚賞。</p>
-<p>行為常見功能可以想成四類：<strong>想得到</strong>（物品、活動）、<strong>想逃避</strong>（難度太高）、<strong>想被注意</strong>，或<strong>感官需要</strong>（例如尋求水壓）。家中與課堂的規則、讚賞盡量一致，孩子較易跟從。也要分辨「還未學會」與「不想做」：技能不足要用拆步與示範；若已會卻用哭逃避，則改為輔助完成一小步或提供替代溝通，而不是每次完全取消目標。</p>
+<p>行為常見功能可以想成四類：<strong>想得到</strong>（物品、活動）、<strong>想逃避</strong>（難度太高）、<strong>想被注意</strong>，或<strong>感官需要</strong>（例如尋求水壓）。家中與課堂的規則、讚賞盡量一致，孩子較易跟從。</p>
+<h2>技能缺失 vs 不想做（與 PBS 對齊）</h2>
+<p>正向行為支援（PBS）強調：先預防、再教導合適行為，而不是只靠懲罰。分辨兩種情況很重要：</p>
+<ul>
+<li><strong>技能缺失：</strong>孩子還不會浮、不會求助、聽不懂長句——應對是拆步、示範、視覺提示與較短單元。</li>
+<li><strong>不想做／逃避：</strong>孩子已演示過該動作，卻用哭鬧換取消——應對是輔助完成「最小成功一步」、提供替代溝通（「休息」圖卡），並對小成功即時具體讚賞，而不是每次完全取消目標。</li>
+</ul>
+<p>無論哪一種，涉及泳池安全的行為（奔跑、推人、未經指示跳水）仍會用短句即時停下。詳見<a href="sen-swim-autism.html">自閉症漸進入水</a>與<a href="sen-swim-safety.html">安全指引</a>。</p>
 <section class="weekly-faq" style="margin-top:2rem">
 <h2>家長常見問題</h2>
 <h3>正向行為是否等於沒有規矩？</h3>
@@ -737,6 +722,15 @@ ${motionFig('anim-pecs.svg', '圖卡交換動態示意', '動態示意：主動�
 <li><strong>覆述重點：</strong>練完可請孩子用自己的方式重說或指出圖卡，確認他聽懂，而不是只聽教練講完。</li>
 <li><strong>位置與環境：</strong>需要較多支援的孩子可較靠近教練、光線足夠看見口型或圖卡；被動與容易激動的孩子分組時宜分開。</li>
 </ol>
+<h2>溝通四原則（位置・流程・工具・傳意）</h2>
+<p>言語治療常用的課堂妙法，家長可這樣理解：</p>
+<ol>
+<li><strong>位置：</strong>需要較多提示的孩子靠近教練與示範區，看得見口型與圖卡。</li>
+<li><strong>流程：</strong>結構化、「事先張揚」下一節做甚麼；一堂拆成多個短小節。</li>
+<li><strong>工具：</strong>簡化語句、多示範、圖示與短口訣，必要時用 AAC／圖卡。</li>
+<li><strong>傳意：</strong>練完請孩子覆述或指出圖卡，確認聽懂，而不是只聽教練講完。</li>
+</ol>
+<p>語言困難也可粗分為理解／表達、社交輪流、發音、流暢（口吃）、聲線與讀寫等面向——同一孩子可能只卡在其中一兩項。課堂會對準實際卡點調媒介，而不是強求追同年齡口語層次。</p>
 <h2>圖卡交換（PECS）概念</h2>
 <p>圖片交換溝通系統教導孩子<strong>主動遞出圖片</strong>來表達需要，而不是只等待別人猜。階段由單張圖卡易物，逐步到走去找溝通夥伴、分辨圖卡、組合「我想要＋物品」、再回應問題與評論。好處是建立「溝通有用」的動機，減少因表達不出而哭鬧。</p>
 <p>泳池實用例子：帶「休息」「再試一次」「耳塞」「上岸」等圖卡，讓孩子在水中仍有方法表達，而不是只能用掙扎或喊叫。</p>
@@ -854,6 +848,15 @@ ${learnHero('hero-booking.webp', '共融插畫：結構化游泳課的熱身到�
 ${DISCLAIMER}
 ${learnFigure('teach-visual-schedule.webp', '課堂五階段視覺流程示意', '固定開始與結束，比催促進度更重要')}
 ${motionFig('anim-lesson.svg', '課堂步驟動態示意', '動態流程：熱身、主題練習、遊戲、緩和')}
+<h2>TEACCH／STEP：家長版四維調整</h2>
+<p>你或許會聽到教練說 TEACCH（結構化、視覺安排）或 STEP（泳池結構化教學）。對家長來說，可以記四個維度——當日孩子狀態不同，就改其中一項或幾項：</p>
+<ul>
+<li><strong>空間：</strong>更衣室位置、池邊集合點、固定水道／休息角是否清晰。</li>
+<li><strong>任務：</strong>動作拆多細、一次只練幾個小目標，還是合起來練。</li>
+<li><strong>設備：</strong>浮板、助浮衣、圖卡、防水提示是否配合需要（不作固定「必須用某件」）。</li>
+<li><strong>人員：</strong>教練、協助成人、家長觀課／陪同的角色怎樣分工。</li>
+</ul>
+<p>常用教法還包括：<strong>整體→拆步→再合起來</strong>（先看完整動作，再練局部）、視覺提示卡、短語邊做邊說，以及把動作串成「小鏈」逐步加長。重點是孩子看得見下一步，而不是背誦方法名稱。</p>
 <h2>五個階段（家長版）</h2>
 <ol>
 <li><strong>熱身：</strong>身體與心理預備；出示今日流程卡。</li>
@@ -862,6 +865,8 @@ ${motionFig('anim-lesson.svg', '課堂步驟動態示意', '動態流程：熱�
 <li><strong>緩和：</strong>慢下來、具體讚賞、清楚「完成」儀式。</li>
 <li><strong>延伸：</strong>用一句話告訴家長今日成功點，方便帶回家重複。</li>
 </ol>
+<h2>進度看得見（可選）</h2>
+<p>部分家庭喜歡用簡單技能清單或短影片回顧「今日做到甚麼」。拍攝須先取得家長同意，並尊重隱私；清單用來慶祝小進步與調課，不是公開排名。</p>
 <h2>心理安全：淺、可站、有牆</h2>
 <p>初學與焦慮較高時，孩子需要感到「隨時可以離開水面」：水深可站、附近有池壁可扶。我們不會把未準備好的孩子帶到無法站立、無法扶牆的位置來「加速進步」。</p>
 <h2>評估是為調課，不是排名</h2>
@@ -981,6 +986,7 @@ for (const p of [...landings, ...articles]) {
     description: p.description,
     keywords: p.keywords,
     bodyHtml: attachExtras(p.file, p.body),
+    file: p.file,
   });
   fs.writeFileSync(path.join(root, p.file), html, 'utf8');
   console.log('Wrote', p.file);

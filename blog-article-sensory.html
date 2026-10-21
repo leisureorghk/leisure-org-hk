@@ -88,7 +88,7 @@
     </script>
     <!-- /seo-jsonld -->
 <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
-    <link rel="stylesheet" href="css/style.css?v=20261021g">
+    <link rel="stylesheet" href="css/style.css?v=20261021h">
 </head>
 <body>
     <div class="loading" id="loading"><div class="loading-spinner"></div></div>
@@ -102,22 +102,23 @@
             <nav class="nav" id="nav">
                 <div class="nav-drawer-header">
                     <div class="logo-text">新天地<span>導航選單</span></div>
-                    <button class="nav-close-btn" id="nav-close-btn" aria-label="關閉選單">×</button>
+                    <button class="nav-close-btn" id="nav-close-btn" aria-label="關閉選單"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
                 </div>
                 <div class="nav-drawer-links">
                     <a href="index.html" class="nav-link">首頁</a>
                     <a href="about.html" class="nav-link">關於我們</a>
                     <a href="services.html" class="nav-link">服務項目</a>
+                    <a href="why-us.html" class="nav-link">為何選擇我們</a>
                     <a href="resources.html" class="nav-link">家長資源</a>
-                    <a href="blog.html" class="nav-link">教練專欄</a>
+                    <a href="blog.html" class="nav-link active">教練專欄</a>
                     <a href="booking.html" class="nav-link">預約課程</a>
                     <a href="contact.html" class="nav-link">聯絡我們</a>
                 </div>
                 <div class="nav-drawer-footer">
-                    <a href="https://wa.me/85297083907?text=%E5%A4%9A%E8%AC%9D%E5%AE%B6%E9%95%B7%E7%9A%84%E6%9F%A5%E8%A9%A2%EF%BC%88%E7%94%B1%E7%B6%B2%E7%AB%99%E8%91%97%E9%99%B8%E9%A0%81%EF%BC%89" target="_blank" rel="noopener" class="btn btn-primary">WhatsApp 查詢</a>
+                    <a href="https://wa.me/85297083907?text=%E5%A4%9A%E8%AC%9D%E5%AE%B6%E9%95%B7%E7%9A%84%E6%9F%A5%E8%A9%A2" target="_blank" rel="noopener" class="btn btn-primary">WhatsApp 查詢</a>
                 </div>
             </nav>
-            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="開啟選單">☰</button>
+            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="開啟選單"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
         </div>
     </header>
     <section class="page-header"><div class="container"><h1>為什麼水中感統訓練對 SEN 孩子特別有效？</h1><p>2026年6月 · 曹教練</p></div></section>
@@ -141,10 +142,6 @@
             </div>
         </div>
     </footer>
-    <script src="js/site-ui.js?v=20260827b" defer></script>
-    <script src="js/share.js?v=20260827a" defer></script>
-    <script src="js/analytics.js?v=20260525a" defer></script>
-    <script src="js/security.js"></script>
     <script>
         const mobileMenuBtn=document.getElementById('mobile-menu-btn'),nav=document.getElementById('nav'),navBackdrop=document.getElementById('nav-backdrop'),navCloseBtn=document.getElementById('nav-close-btn');
         function openNav(){nav.classList.add('active');navBackdrop.classList.add('active');document.body.style.overflow='hidden';}
@@ -153,5 +150,9 @@
         navCloseBtn&&navCloseBtn.addEventListener('click',closeNav);
         navBackdrop&&navBackdrop.addEventListener('click',closeNav);
     </script>
+        <script src="js/site-ui.js?v=20261021h" defer></script>
+    <script src="js/share.js?v=20261021a" defer></script>
+    <script src="js/analytics.js?v=20260525a" defer></script>
+    <script src="js/security.js"></script>
 </body>
 </html>

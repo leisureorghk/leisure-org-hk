@@ -54,7 +54,7 @@ node render-course-unit.mjs 4-3-safety
 自動化排程會把新內容寫進 GitHub；本機過時請先在專案**根目錄**執行：
 
 ```powershell
-.\sync-from-github.ps1
+.\tools\sync-from-github.ps1
 ```
 
 然後才跑下列腳本。
@@ -93,4 +93,4 @@ node build-digest.mjs
 
 ## 相關文件
 
-專案根目錄的 [`AUTOMATION.md`](../AUTOMATION.md) 說明 GitHub Secrets、Workflow 與審核流程。
+[`docs/AUTOMATION.md`](../docs/AUTOMATION.md) 說明 GitHub Secrets、Workflow 與審核流程。

@@ -91,7 +91,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
-  <link rel="stylesheet" href="css/style.css?v=20261021g">
+  <link rel="stylesheet" href="css/style.css?v=20261021h">
   <style>
     .weekly-ai-shell { max-width: 820px; margin: 0 auto; padding: 2rem 1rem 4rem; }
     .weekly-ai-banner {
@@ -115,17 +115,34 @@
   </style>
 </head>
 <body style="font-family:'Noto Sans TC',sans-serif;background:var(--cream);color:var(--text-body);">
-  <header class="header" style="position:relative">
-    <div class="header-inner">
-      <a href="index.html" class="logo">
-        <div class="logo-text">新天地<span>每週專題</span></div>
-      </a>
-      <nav class="nav" style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:flex-end">
-        <a href="blog.html" class="nav-link">返回教練專欄</a>
-        <a href="index.html" class="nav-link">首頁</a>
-      </nav>
-    </div>
-  </header>
+  <header class="header" id="header">
+        <div class="header-inner">
+            <a href="index.html" class="logo">
+                <div class="logo-icon"><img src="images/icons/logo-header.svg" alt="新天地"></div>
+                <div class="logo-text">新天地<span>SEN學生游泳及多功能發展</span></div>
+            </a>
+            <nav class="nav" id="nav">
+                <div class="nav-drawer-header">
+                    <div class="logo-text">新天地<span>導航選單</span></div>
+                    <button class="nav-close-btn" id="nav-close-btn" aria-label="關閉選單"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+                </div>
+                <div class="nav-drawer-links">
+                    <a href="index.html" class="nav-link">首頁</a>
+                    <a href="about.html" class="nav-link">關於我們</a>
+                    <a href="services.html" class="nav-link">服務項目</a>
+                    <a href="why-us.html" class="nav-link">為何選擇我們</a>
+                    <a href="resources.html" class="nav-link">家長資源</a>
+                    <a href="blog.html" class="nav-link active">教練專欄</a>
+                    <a href="booking.html" class="nav-link">預約課程</a>
+                    <a href="contact.html" class="nav-link">聯絡我們</a>
+                </div>
+                <div class="nav-drawer-footer">
+                    <a href="https://wa.me/85297083907?text=%E5%A4%9A%E8%AC%9D%E5%AE%B6%E9%95%B7%E7%9A%84%E6%9F%A5%E8%A9%A2" target="_blank" rel="noopener" class="btn btn-primary">WhatsApp 查詢</a>
+                </div>
+            </nav>
+            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="開啟選單"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+        </div>
+    </header>
   <main class="weekly-ai-shell container">
     <p style="font-size:0.85rem;color:var(--text-muted);margin-bottom:0.5rem;">blog-weekly-2026-W38.html</p>
     <h1 style="font-size:clamp(1.35rem,4vw,1.85rem);color:var(--text-dark);margin-bottom:1rem;line-height:1.3;">為何SEN學童更需要學會游泳？</h1>
@@ -197,7 +214,17 @@
     </div>
     <p style="margin-top:2rem;"><a href="blog.html" class="btn btn-primary">返回教練專欄</a></p>
   </main>
-  <script src="js/share.js?v=20260821a" defer></script>
-  <script src="js/analytics.js?v=20260525a" defer></script>
+<footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2026 新天地 SEN學生游泳及多功能發展中心 · <a href="sitemap.xml">網站地圖</a> · <a href="sen-guide.html">認識特殊需要</a></p>
+            </div>
+        </div>
+    </footer>
+
+          <script src="js/site-ui.js?v=20261021h" defer></script>
+    <script src="js/share.js?v=20261021a" defer></script>
+    <script src="js/analytics.js?v=20260525a" defer></script>
+    <script src="js/security.js"></script>
 </body>
 </html>

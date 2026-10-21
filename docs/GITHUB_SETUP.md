@@ -258,13 +258,13 @@ Resolve-DnsName leisure.org.hk -Type A
 
 ```powershell
 cd "c:\Users\CompassJeffCho\Hkcompass\Communication site - 文件\AI_Project\Project\leisure_org_hk"
-.\sync-from-github.ps1
+.\tools\sync-from-github.ps1
 ```
 
 成功後終端機會顯示目前最新的 commit。若提示有未提交變更，請先存檔／提交，或確定可放棄本機修改時才用：
 
 ```powershell
-.\sync-from-github.ps1 -Force
+.\tools\sync-from-github.ps1 -Force
 ```
 
 `-Force` 會讓本機與 `origin/main` 完全一致（未提交與未推送的改動會被丟棄）。

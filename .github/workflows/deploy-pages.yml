@@ -1,4 +1,5 @@
-# 將倉庫根目錄靜態檔案部署到 GitHub Pages（需在倉庫 Settings → Pages 選擇 GitHub Actions）
+# 將倉庫靜態檔案部署到 GitHub Pages（需在倉庫 Settings → Pages 選擇 GitHub Actions）
+# 排除 tools/、docs/ 等非公開目錄，避免舊檢查腳本掛上公開站
 name: Deploy GitHub Pages
 
 on:
@@ -41,13 +42,30 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
+      - name: Build clean Pages artifact
+        run: |
+          mkdir -p _site
+          rsync -a \
+            --exclude='.git' \
+            --exclude='.github' \
+            --exclude='_site' \
+            --exclude='tools' \
+            --exclude='docs' \
+            --exclude='node_modules' \
+            --exclude='.cursor' \
+            --exclude='*.pyc' \
+            --exclude='__pycache__' \
+            --exclude='.env' \
+            --exclude='indexnow_key' \
+            ./ _site/
+
       - name: Setup Pages
         uses: actions/configure-pages@v6
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
-          path: '.'
+          path: '_site'
 
       - name: Deploy to GitHub Pages
         id: deployment
