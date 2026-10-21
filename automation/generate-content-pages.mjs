@@ -97,7 +97,7 @@ function shell({ title, description, keywords, bodyHtml }) {
     <meta name="keywords" content="${keywords}">
     <title>${title}</title>
     <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
-    <link rel="stylesheet" href="css/style.css?v=20261021c">
+    <link rel="stylesheet" href="css/style.css?v=20261021d">
 </head>
 <body>
     <div class="loading" id="loading"><div class="loading-spinner"></div></div>

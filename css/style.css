@@ -3447,7 +3447,8 @@ p { margin-bottom: var(--spacing-sm); }
         position: fixed;
         inset: 0;
         background: rgba(13, 40, 71, 0.45);
-        z-index: 1050;
+        /* 必須低於 .header（1000），否則會蓋住抽屜內的連結，導致手機點不到選單 */
+        z-index: 999;
         opacity: 0;
         transition: opacity 0.3s ease;
     }
@@ -3473,15 +3474,31 @@ p { margin-bottom: var(--spacing-sm); }
         z-index: 1100;
         transform: translateX(110%);
         transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+        overflow-x: hidden;
         overflow-y: auto;
         overscroll-behavior: contain;
         padding: 0 0 env(safe-area-inset-bottom, 0px);
         pointer-events: none;
+        touch-action: pan-y;
     }
 
     .nav.active {
         transform: translateX(0);
         pointer-events: auto;
+    }
+
+    /* 開啟抽屜時抬高整個 header，確保選單在遮罩之上可點 */
+    .header:has(.nav.active) {
+        z-index: 1100;
+    }
+
+    .nav.active .nav-drawer-links,
+    .nav.active .nav-drawer-links .nav-link,
+    .nav.active .nav-close-btn,
+    .nav.active .nav-drawer-footer a {
+        pointer-events: auto;
+        position: relative;
+        z-index: 1;
     }
 
     .nav-drawer-header {

@@ -87,10 +87,51 @@
     });
   }
 
+  /** 手機抽屜選單（委託事件，後注入的連結也可關閉抽屜） */
+  function initMobileNav() {
+    var mobileMenuBtn = document.getElementById('mobile-menu-btn');
+    var nav = document.getElementById('nav');
+    var navBackdrop = document.getElementById('nav-backdrop');
+    var navCloseBtn = document.getElementById('nav-close-btn');
+    if (!mobileMenuBtn || !nav) return;
+    if (nav.getAttribute('data-site-ui-nav') === '1') return;
+    nav.setAttribute('data-site-ui-nav', '1');
+
+    function openNav(e) {
+      if (e) e.preventDefault();
+      nav.classList.add('active');
+      if (navBackdrop) navBackdrop.classList.add('active');
+      document.body.style.overflow = 'hidden';
+      mobileMenuBtn.setAttribute('aria-expanded', 'true');
+    }
+
+    function closeNav() {
+      nav.classList.remove('active');
+      if (navBackdrop) navBackdrop.classList.remove('active');
+      document.body.style.overflow = '';
+      mobileMenuBtn.setAttribute('aria-expanded', 'false');
+    }
+
+    mobileMenuBtn.setAttribute('aria-expanded', 'false');
+    mobileMenuBtn.addEventListener('click', openNav);
+    if (navCloseBtn) navCloseBtn.addEventListener('click', closeNav);
+    if (navBackdrop) navBackdrop.addEventListener('click', closeNav);
+
+    nav.addEventListener('click', function (e) {
+      var link = e.target && e.target.closest ? e.target.closest('a.nav-link') : null;
+      if (link && nav.contains(link)) closeNav();
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && nav.classList.contains('active')) closeNav();
+    });
+  }
+
   initLoading();
   function onReady() {
     initHeaderSearch();
     injectCoachShareNav();
+    initMobileNav();
   }
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', onReady);
