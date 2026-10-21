@@ -58,7 +58,14 @@
     var links = document.querySelectorAll('.nav-drawer-links');
     if (!links.length) return;
     links.forEach(function (nav) {
-      if (nav.querySelector('[data-coach-share]')) return;
+      // 已有手寫或先前注入的連結時不要再加（避免「教練分享區」重複）
+      if (
+        nav.querySelector('[data-coach-share]') ||
+        nav.querySelector('a[href="coach-share.html"]') ||
+        nav.querySelector('a[href$="/coach-share.html"]')
+      ) {
+        return;
+      }
       var a = document.createElement('a');
       a.href = 'coach-share.html';
       a.className = 'nav-link';

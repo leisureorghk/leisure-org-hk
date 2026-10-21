@@ -3300,20 +3300,20 @@ p { margin-bottom: var(--spacing-sm); }
 
     .nav-drawer-links .nav-link {
         white-space: nowrap;
-        padding: var(--spacing-xs) 0.45rem;
-        font-size: 0.8125rem;
+        padding: var(--spacing-xs) 0.38rem;
+        font-size: 0.78rem;
     }
 }
 
 /* 窄桌面／小平板橫向：導覽較擠時略縮字級與間距 */
-@media (min-width: 1024px) and (max-width: 1280px) {
+@media (min-width: 1024px) and (max-width: 1360px) {
     .nav-drawer-links .nav-link {
-        padding: 0.35rem 0.32rem;
-        font-size: 0.75rem;
+        padding: 0.3rem 0.28rem;
+        font-size: 0.72rem;
     }
 
     .site-search input[type="search"] {
-        width: 5.25rem;
+        width: 5rem;
     }
 }
 
