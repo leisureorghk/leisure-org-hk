@@ -56,12 +56,12 @@
     if (!featuredRoot) return;
     featuredRoot.innerHTML =
       '<div class="custom-icon round teal" style="margin:0 auto 1rem"><img src="images/icons/icon-pen.svg" alt="筆"></div>' +
-      '<div class="blog-meta" style="text-align:center;margin-bottom:0.75rem"><span style="color:var(--text-muted);font-size:0.9rem">精選 · 曹柏林教練</span></div>' +
+      '<div class="blog-meta" style="text-align:center;margin-bottom:0.75rem"><span style="color:var(--text-muted);font-size:0.9rem">精選 · 曹教練</span></div>' +
       '<h3 class="featured-article-title">「看著水，不要怕水」——寫給每一個怕水的孩子</h3>' +
       '<div class="featured-article-body">' +
       '<p>對怕水的孩子來說，最需要的不是鼓勵，而是時間。我們願意陪孩子在池邊，用遊戲慢慢建立對水的信任。</p>' +
       '</div>' +
-      '<div class="featured-article-byline">—— 曹柏林教練</div>' +
+      '<div class="featured-article-byline">—— 曹教練</div>' +
       '<p style="text-align:center;margin-top:1rem"><a class="btn btn-primary" href="blog.html#article-1">閱讀站內精選文章</a></p>';
   }
 
@@ -74,7 +74,7 @@
       '<div class="custom-icon round teal" style="margin:0 auto 1rem"><img src="images/icons/icon-pen.svg" alt="筆"></div>' +
       '<div class="blog-meta" style="text-align:center;margin-bottom:0.75rem"><span style="color:var(--text-muted);font-size:0.9rem">' +
       esc(fmtDate(latest.publishedAt) || '每週專題') +
-      ' · 曹柏林教練團隊</span></div>' +
+      ' · 曹教練與同行教練</span></div>' +
       '<h3 class="featured-article-title">' +
       esc(latest.title || '本週專題') +
       '</h3>' +

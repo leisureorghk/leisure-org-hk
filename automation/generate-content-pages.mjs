@@ -322,7 +322,7 @@ ${learnFigure('teach-safe-guidance.webp', '水中安全引導示意：教練輕�
 </ul>
 <h2>安全溝通：請家長主動告知的事項</h2>
 <p>若孩子有已知的發作病史、用藥或活動限制，請課前告訴教練。課堂會以<strong>預防與預案</strong>為先：熟悉孩子訊號、保護頭部與池邊、並確保有熟悉孩子的成人可即時聯絡。具體醫療安排以醫生意見為準，游泳課不能取代急救訓練或醫療判斷。</p>
-<p>家長可簡單準備：發作大概樣子與常見時長、用藥時間、緊急聯絡人，以及「哪些觸發要避免」。這不是要嚇怕任何人，而是讓教練團隊有準備地守護安全。</p>
+<p>家長可簡單準備：發作大概樣子與常見時長、用藥時間、緊急聯絡人，以及「哪些觸發要避免」。這不是要嚇怕任何人，而是讓教練有準備地守護安全。</p>
 <h2>家長可如何配合？</h2>
 <ol>
 <li>提供醫療／復康師的活動限制（若有），例如承重或頸椎注意。</li>
@@ -903,9 +903,9 @@ const articles = [
   {
     file: 'blog-article-sensory.html',
     title: '水中感統訓練為何對 SEN 孩子特別有效 | 新天地',
-    description: '曹柏林教練解釋水中感統訓練如何幫助 SEN 孩子調節感官、建立專注與情緒穩定。',
+    description: '曹教練解釋水中感統訓練如何幫助 SEN 孩子調節感官、建立專注與情緒穩定。',
     keywords: '感統訓練, SEN游泳, 水中感統',
-    body: `<section class="page-header"><div class="container"><h1>為什麼水中感統訓練對 SEN 孩子特別有效？</h1><p>2026年6月 · 曹柏林教練</p></div></section>
+    body: `<section class="page-header"><div class="container"><h1>為什麼水中感統訓練對 SEN 孩子特別有效？</h1><p>2026年6月 · 曹教練</p></div></section>
 <section class="section"><div class="container article-body">
 <p>水同時提供浮力、阻力和溫和壓力，對感覺統合困難的孩子來說，這是一個非常友善的訓練環境。當孩子在水中活動時，身體可得到穩定而連續的本體覺輸入，能幫助調節過高或過低的感官反應。</p>
 <p>另外，水中動作節奏清晰，容易建立「預測感」，能減少焦慮。很多孩子在陸地上難以維持專注，但在水中反而更願意跟從指令。</p>
@@ -925,7 +925,7 @@ ${DISCLAIMER}
     title: '教了三十年游泳，我學會的一件事：等待 | 新天地',
     description: '三十年 SEN 游泳教學心得：等待孩子準備好，比催促進步更重要。',
     keywords: 'SEN游泳教學, 游泳教練心得',
-    body: `<section class="page-header"><div class="container"><h1>教了三十年游泳，我學會的一件事：等待</h1><p>2026年2月 · 曹柏林教練</p></div></section>
+    body: `<section class="page-header"><div class="container"><h1>教了三十年游泳，我學會的一件事：等待</h1><p>2026年2月 · 曹教練</p></div></section>
 <section class="section"><div class="container article-body">
 <p>年輕的時候，我總是急著看到學生進步。現在我明白了：有些孩子需要的不只是教學，他們需要的是有人願意在他們旁邊坐著，等到他們準備好的那一刻。</p>
 <p>在 SEN 游泳課裡，「等」不是偷懶，而是讓孩子保留對水的正面感受——這才是能學一輩子的禮物。</p>
@@ -936,7 +936,7 @@ ${DISCLAIMER}
     title: 'ADHD 孩子學游泳的 5 個實用技巧 | 新天地',
     description: '五個實用技巧協助 ADHD 孩子在游泳課建立專注、遵守流程與水中安全。',
     keywords: 'ADHD游泳, 專注力訓練, SEN游泳',
-    body: `<section class="page-header"><div class="container"><h1>ADHD 孩子學游泳的 5 個實用技巧</h1><p>2025年10月 · 曹柏林教練</p></div></section>
+    body: `<section class="page-header"><div class="container"><h1>ADHD 孩子學游泳的 5 個實用技巧</h1><p>2025年10月 · 曹教練</p></div></section>
 <section class="section"><div class="container article-body">
 <p>ADHD 孩子並非不聽話，而是需要更清晰的界線與即時回饋。課堂上我們會保持視線與伸手可及範圍、少長篇講解，並用短而密的練習維持動力。</p>
 <ol>
@@ -955,7 +955,7 @@ ${DISCLAIMER}
     description:
       '從特殊需要游泳教練培訓與家長分享錄音整理：行為是訊息、游泳非根治、漸進入水、安全交接、具體讚賞。',
     keywords: 'SEN游泳家長須知, 正向行為, 游泳安全, 自閉症游泳, 教練培訓',
-    body: `<section class="page-header"><div class="container"><h1>教練培訓錄音整理：家長最該知道的五件事</h1><p>2026年9月 · 新天地教練團隊</p></div></section>
+    body: `<section class="page-header"><div class="container"><h1>教練培訓錄音整理：家長最該知道的五件事</h1><p>2026年9月 · 新天地教練</p></div></section>
 <section class="section"><div class="container article-body">
 <p>我們把近期教練培訓與經驗分享錄音，消化成家長聽得懂的五個重點——不公開錄音原文，只留下對家校合作真正有用的共識。</p>
 ${DISCLAIMER}

@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-20T05:48:18.073Z",
+  "builtAt": "2026-10-21T06:18:58.329Z",
   "count": 72,
   "items": [
     {
@@ -15,8 +15,8 @@
       "path": "about.html",
       "url": "https://www.leisure.org.hk/about.html",
       "title": "關於我們",
-      "description": "了解新天地的專業教練團隊、三十年 SEN 游泳教學理念與發展歷程。香港專為特殊教育需要學生設立的游泳及多功能發展機構。",
-      "keywords": "SEN游泳, 新天地, 曹柏林教練, 特殊教育游泳, 自閉症游泳課程, ADHD游泳教學, 香港游泳中心"
+      "description": "了解新天地的服務理念、三十年 SEN 游泳教學方向與發展歷程。香港專為特殊教育需要學生設立的游泳及多功能發展機構。",
+      "keywords": "SEN游泳, 新天地, 曹教練, 特殊教育游泳, 自閉症游泳課程, ADHD游泳教學, 香港游泳中心"
     },
     {
       "type": "page",
@@ -30,9 +30,9 @@
       "type": "page",
       "path": "why-us.html",
       "url": "https://www.leisure.org.hk/why-us.html",
-      "title": "為何選擇新天地 | 香港 SEN 游泳專業團隊",
-      "description": "三十年 SEN 游泳教學經驗、個人化課程設計、專業特殊教育教練團隊。了解家長為何選擇新天地作為孩子學泳的首選。",
-      "keywords": "新天地優勢, 香港SEN游泳機構, 曹柏林教練團隊, 個人化游泳教學, 特殊教育游泳"
+      "title": "為何選擇新天地 | 香港 SEN 游泳服務",
+      "description": "三十年 SEN 游泳教學經驗、個人化課程設計、特殊教育游泳服務。了解家長為何選擇新天地作為孩子學泳的首選。",
+      "keywords": "新天地優勢, 香港SEN游泳機構, 曹教練, 個人化游泳教學, 特殊教育游泳服務"
     },
     {
       "type": "page",
@@ -47,8 +47,8 @@
       "path": "blog.html",
       "url": "https://www.leisure.org.hk/blog.html",
       "title": "教練專欄",
-      "description": "曹柏林教練與團隊分享 SEN 游泳教學心得、自閉症與 ADHD 育兒建議、感統訓練與香港游泳教育專業文章。",
-      "keywords": "SEN游泳教學心得, 自閉症游泳, ADHD專注力, 曹柏林教練, 香港游泳教練專欄"
+      "description": "新天地教練分享 SEN 游泳教學心得、自閉症與 ADHD 育兒建議、感統訓練與香港游泳教育專業文章。",
+      "keywords": "SEN游泳教學心得, 自閉症游泳, ADHD專注力, 曹教練, 香港游泳教練專欄"
     },
     {
       "type": "page",
@@ -71,7 +71,7 @@
       "path": "download-parent-guide-first-swim.html",
       "url": "https://www.leisure.org.hk/download-parent-guide-first-swim.html",
       "title": "第一次游泳課家長指南（免費下載）",
-      "description": "免費下載：SEN 孩子第一次游泳課家長準備清單、情緒安撫技巧與與教練溝通要點，由新天地專業團隊編製。",
+      "description": "免費下載：SEN 孩子第一次游泳課家長準備清單、情緒安撫技巧與與教練溝通要點，由新天地編製。",
       "keywords": "SEN游泳家長指南, 第一次游泳課, 特殊需要兒童游泳準備"
     },
     {
@@ -87,7 +87,7 @@
       "path": "download-visual-cue-cards-pack.html",
       "url": "https://www.leisure.org.hk/download-visual-cue-cards-pack.html",
       "title": "視覺提示卡套裝（免費下載）",
-      "description": "免費下載 SEN 游泳課視覺提示卡，協助自閉症及語言發展較慢的孩子理解課堂流程，由新天地教練團隊設計。",
+      "description": "免費下載 SEN 游泳課視覺提示卡，協助自閉症及語言發展較慢的孩子理解課堂流程，由新天地教練設計。",
       "keywords": "視覺提示卡, 自閉症游泳, SEN游泳教具, 圖卡教材"
     },
     {
@@ -231,7 +231,7 @@
       "path": "blog-article-sensory.html",
       "url": "https://www.leisure.org.hk/blog-article-sensory.html",
       "title": "水中感統訓練為何對 SEN 孩子特別有效",
-      "description": "曹柏林教練解釋水中感統訓練如何幫助 SEN 孩子調節感官、建立專注與情緒穩定。",
+      "description": "曹教練解釋水中感統訓練如何幫助 SEN 孩子調節感官、建立專注與情緒穩定。",
       "keywords": "感統訓練, SEN游泳, 水中感統"
     },
     {
