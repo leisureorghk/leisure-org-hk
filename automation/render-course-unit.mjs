@@ -75,8 +75,8 @@ function siteHeader() {
     <nav>
       <a href="../../../coach-share.html">教練分享區</a>
       <a href="../index.html">單元目錄</a>
-      <a href="../glossary.html">詞彙</a>
-      <a href="../listen.html">聲音學習</a>
+      <a href="../../modexam/index.html">選擇題</a>
+      <a href="../../教案/index.html">五類教案</a>
     </nav>
   </header>`;
 }

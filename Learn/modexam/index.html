@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>選擇題練習｜特殊需要人士游泳教師證書</title>
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <div class="coach-bar" role="navigation" aria-label="教練分享區">
+    <span>教練分享區 · 選擇題</span>
+    <span><a href="../../coach-share.html">返回分享區</a> · <a href="#" data-coach-logout>登出</a></span>
+  </div>
+  <div class="wrap">
+    <header class="site">
+      <a class="brand" href="../特殊需要人士教師課程/index.html">特殊需要人士游泳教師證書課程</a>
+      <nav>
+        <a href="../index.html">教材首頁</a>
+        <a href="../特殊需要人士教師課程/index.html">單元目錄</a>
+        <a href="../教案/index.html">五類教案</a>
+      </nav>
+    </header>
+    <h1>選擇題練習</h1>
+    <p class="lead">用以核對理解，不宜作為唯一學習方法。答錯請回到該單元原文覆習。</p>
+    <p class="disclaimer">練習題不能代替面授考核。涉及醫療與法律，以課堂與機構政策為準。</p>
+    <div class="card">
+      <label for="unitPick"><strong>選擇單元</strong></label>
+      <select id="unitPick" style="width:100%;margin:0.5rem 0 1rem;padding:0.5rem;font:inherit;border-radius:8px;border:1px solid #e2e8f0"></select>
+      <div id="quiz"></div>
+      <p class="toolbar"><button type="button" class="btn" id="checkBtn">核對答案</button>
+      <button type="button" class="btn ghost" id="resetBtn">重設</button></p>
+      <p class="caption" id="result"></p>
+    </div>
+    <div class="toolbar">
+      <a class="btn ghost" href="../特殊需要人士教師課程/index.html">返回單元目錄</a>
+      <a class="btn ghost" id="openUnit" href="../特殊需要人士教師課程/index.html">開啟本單元講義</a>
+    </div>
+    <footer>題目取材自各單元池邊準則（做到／避免）。</footer>
+  </div>
+  <script src="../../js/coach-gate.js?v=20261021e"></script>
+  <script>if(window.CoachGate){CoachGate.requireCoachAccess();document.querySelectorAll('[data-coach-logout]').forEach(function(el){el.addEventListener('click',function(e){e.preventDefault();CoachGate.logout();});});}</script>
+  <script src="quiz.js?v=20261021e"></script>
+</body>
+</html>
