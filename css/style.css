@@ -610,6 +610,7 @@ p { margin-bottom: var(--spacing-sm); }
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 0.75rem;
     padding: var(--spacing-sm) var(--spacing-lg);
     max-width: 1280px;
     margin: 0 auto;
@@ -671,6 +672,9 @@ p { margin-bottom: var(--spacing-sm); }
     align-items: center;
     gap: var(--spacing-sm);
     position: relative;
+    flex-shrink: 0;
+    z-index: 2;
+    max-width: min(320px, 42vw);
 }
 
 .logo-icon {
@@ -703,6 +707,7 @@ p { margin-bottom: var(--spacing-sm); }
     font-weight: 700;
     color: var(--text-dark);
     line-height: 1.2;
+    min-width: 0;
 }
 
 .logo-text span {
@@ -711,6 +716,10 @@ p { margin-bottom: var(--spacing-sm); }
     color: var(--text-muted);
     font-weight: 400;
     letter-spacing: 0.02em;
+    max-width: 14rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 /* Navigation */
@@ -3270,12 +3279,17 @@ p { margin-bottom: var(--spacing-sm); }
         padding-right: var(--spacing-md);
     }
 
+    .logo {
+        flex-shrink: 0;
+        max-width: none;
+    }
+
     .nav {
         display: flex !important;
         flex-direction: row;
         align-items: center;
         justify-content: flex-end;
-        flex: 1;
+        flex: 1 1 auto;
         min-width: 0;
         position: static;
         width: auto;
@@ -3284,7 +3298,15 @@ p { margin-bottom: var(--spacing-sm); }
         box-shadow: none;
         transform: none !important;
         padding: 0;
-        overflow: visible;
+        /* 避免選單擠壓時疊到標誌文字上 */
+        overflow-x: auto;
+        overflow-y: hidden;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+    }
+
+    .nav::-webkit-scrollbar {
+        display: none;
     }
 
     .nav-drawer-links {
@@ -3296,24 +3318,30 @@ p { margin-bottom: var(--spacing-sm); }
         gap: 0.15rem;
         padding: 0;
         margin: 0;
+        margin-left: auto;
     }
 
     .nav-drawer-links .nav-link {
         white-space: nowrap;
         padding: var(--spacing-xs) 0.38rem;
         font-size: 0.78rem;
+        flex-shrink: 0;
     }
 }
 
 /* 窄桌面／小平板橫向：導覽較擠時略縮字級與間距 */
 @media (min-width: 1024px) and (max-width: 1360px) {
+    .logo-text span {
+        max-width: 9.5rem;
+    }
+
     .nav-drawer-links .nav-link {
-        padding: 0.3rem 0.28rem;
-        font-size: 0.72rem;
+        padding: 0.3rem 0.26rem;
+        font-size: 0.7rem;
     }
 
     .site-search input[type="search"] {
-        width: 5rem;
+        width: 4.5rem;
     }
 }
 
