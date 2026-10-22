@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-10-21T06:52:54.669Z",
-  "count": 72,
+  "builtAt": "2026-10-22T01:09:44.183Z",
+  "count": 73,
   "items": [
     {
       "type": "page",
@@ -169,6 +169,14 @@
       "title": "SEN 游泳課堂怎樣上",
       "description": "SEN 游泳課的五階段流程、視覺結構、心理安全，以及評估是為調課不是排名。香港家長教育。",
       "keywords": "SEN游泳課堂, 視覺時間表, 結構化教學, 游泳評估, 香港SEN"
+    },
+    {
+      "type": "page",
+      "path": "sen-swim-first-lesson.html",
+      "url": "https://www.leisure.org.hk/sen-swim-first-lesson.html",
+      "title": "第一次 SEN 泳課會發生什麼",
+      "description": "SEN 孩子第一次游泳課：更衣、見教練、五階段流程與課後交接。家長可預期的節奏，香港新天地。",
+      "keywords": "第一次游泳課, SEN試堂, 特殊需要游泳流程, 家長準備, 香港SEN游泳"
     },
     {
       "type": "page",

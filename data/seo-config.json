@@ -536,6 +536,32 @@
       "imageAlt": "SEN 游泳課堂結構插畫"
     },
     {
+      "file": "sen-swim-first-lesson.html",
+      "path": "/sen-swim-first-lesson.html",
+      "title": "第一次 SEN 泳課會發生什麼 | 新天地",
+      "description": "SEN 孩子第一次游泳課：更衣、見教練、五階段流程與課後交接。家長可預期的節奏，香港新天地。",
+      "keywords": "第一次游泳課, SEN試堂, 特殊需要游泳流程, 家長準備, 香港SEN游泳",
+      "ogType": "website",
+      "priority": 0.85,
+      "changefreq": "monthly",
+      "breadcrumb": [
+        {
+          "name": "認識特殊需要",
+          "path": "/sen-guide.html"
+        },
+        {
+          "name": "第一次 SEN 泳課",
+          "path": "/sen-swim-first-lesson.html"
+        }
+      ],
+      "schemas": [
+        "breadcrumb",
+        "localBusiness"
+      ],
+      "image": "/images/learn/hero-booking.webp",
+      "imageAlt": "第一次 SEN 泳課流程插畫"
+    },
+    {
       "file": "sen-guide.html",
       "path": "/sen-guide.html",
       "title": "認識特殊需要與 SEN 游泳 | 新天地",

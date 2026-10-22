@@ -81,9 +81,52 @@
     .btn-light { background:#fff; color:var(--blue); border:1px solid #b7d9ef; }
     @media print { body{background:#fff;} .sheet{box-shadow:none; margin:0; border-radius:0;} }
     @media (max-width:780px){ .grid{grid-template-columns:1fr;} }
+  
+    .site-download-nav { max-width:900px; margin:12px auto 0; padding:0 8px; display:flex; flex-wrap:wrap; gap:0.75rem; font-size:0.9rem; }
+    .site-download-nav a { color:#0b6fb3; }
+    @media print {
+      .header, .footer, .loading, .nav-backdrop, .actions, .site-download-nav { display:none !important; }
+    }
+
   </style>
+  <link rel="stylesheet" href="css/style.css?v=20261021h">
 </head>
 <body>
+  <div class="loading" id="loading"><div class="loading-spinner"></div></div>
+  <div class="nav-backdrop" id="nav-backdrop"></div>
+    <header class="header" id="header">
+        <div class="header-inner">
+            <a href="index.html" class="logo">
+                <div class="logo-icon"><img src="images/icons/logo-header.svg" alt="新天地"></div>
+                <div class="logo-text">新天地<span>SEN學生游泳及多功能發展</span></div>
+            </a>
+            <nav class="nav" id="nav">
+                <div class="nav-drawer-header">
+                    <div class="logo-text">新天地<span>導航選單</span></div>
+                    <button class="nav-close-btn" id="nav-close-btn" aria-label="關閉選單"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+                </div>
+                <div class="nav-drawer-links">
+                    <a href="index.html" class="nav-link">首頁</a>
+                    <a href="about.html" class="nav-link">關於我們</a>
+                    <a href="services.html" class="nav-link">服務項目</a>
+                    <a href="why-us.html" class="nav-link">為何選擇我們</a>
+                    <a href="resources.html" class="nav-link active">家長資源</a>
+                    <a href="blog.html" class="nav-link">教練專欄</a>
+                    <a href="booking.html" class="nav-link">預約課程</a>
+                    <a href="contact.html" class="nav-link">聯絡我們</a>
+                </div>
+                <div class="nav-drawer-footer">
+                    <a href="https://wa.me/85297083907?text=%E5%A4%9A%E8%AC%9D%E5%AE%B6%E9%95%B7%E7%9A%84%E6%9F%A5%E8%A9%A2" target="_blank" rel="noopener" class="btn btn-primary">WhatsApp 查詢</a>
+                </div>
+            </nav>
+            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="開啟選單"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+        </div>
+    </header>
+  <p class="site-download-nav">
+    <a href="resources.html">← 家長資源</a>
+    <a href="sen-swim-first-lesson.html">第一次 SEN 泳課會發生什麼</a>
+    <a href="booking.html">預約試堂</a>
+  </p>
   <div class="actions">
     <button class="btn btn-light" onclick="window.print()">列印 / 另存 PDF</button>
     <button class="btn btn-primary" onclick="downloadAsPng()">下載 PNG</button>
@@ -146,6 +189,13 @@
 
     <div class="foot"><strong>新天地 家長資源</strong>｜建議列印 A4 使用</div>
   </main>
+      <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2026 新天地 SEN學生游泳及多功能發展中心 · <a href="sitemap.xml">網站地圖</a> · <a href="sen-guide.html">認識特殊需要</a></p>
+            </div>
+        </div>
+    </footer>
   <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
   <script>
     async function downloadAsPng() {
@@ -157,7 +207,15 @@
       a.click();
     }
   </script>
-            <script src="js/site-ui.js?v=20261021h" defer></script>
+                <script>
+        const mobileMenuBtn=document.getElementById('mobile-menu-btn'),nav=document.getElementById('nav'),navBackdrop=document.getElementById('nav-backdrop'),navCloseBtn=document.getElementById('nav-close-btn');
+        function openNav(){nav.classList.add('active');navBackdrop.classList.add('active');document.body.style.overflow='hidden';}
+        function closeNav(){nav.classList.remove('active');navBackdrop.classList.remove('active');document.body.style.overflow='';}
+        mobileMenuBtn&&mobileMenuBtn.addEventListener('click',openNav);
+        navCloseBtn&&navCloseBtn.addEventListener('click',closeNav);
+        navBackdrop&&navBackdrop.addEventListener('click',closeNav);
+    </script>
+    <script src="js/site-ui.js?v=20261021h" defer></script>
     <script src="js/share.js?v=20261021a" defer></script>
     <script src="js/analytics.js?v=20260525a" defer></script>
     <script src="js/security.js"></script>

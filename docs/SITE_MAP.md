@@ -21,7 +21,7 @@
 
 ## SEN 游泳著陸頁（`sen-swim-*.html`）
 
-障別與主題：`autism`、`adhd`、`down-syndrome`、`intellectual`、`physical`、`learning`、`sensory`、`wellbeing`、`communication`、`behavior`、`safety`、`classroom`、`benefits`、`development`。
+障別與主題：`autism`、`adhd`、`down-syndrome`、`intellectual`、`physical`、`learning`、`sensory`、`wellbeing`、`communication`、`behavior`、`safety`、`classroom`、`first-lesson`、`benefits`、`development`。
 
 ## 教練專欄／摘要
 

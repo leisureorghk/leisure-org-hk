@@ -26,6 +26,13 @@ import {
   pickRelatedLandingPages,
 } from './seo-lib.mjs';
 import { buildSearchIndex } from './build-search-index.mjs';
+import {
+  CSS_HREF,
+  SCRIPT_TAGS,
+  renderFooter,
+  renderHeader,
+  renderNavInlineScript,
+} from './site-chrome.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
@@ -300,7 +307,7 @@ ${faqJsonLd}
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
-  <link rel="stylesheet" href="css/style.css?v=20260827b">
+  <link rel="stylesheet" href="${CSS_HREF}">
   <style>
     .weekly-ai-shell { max-width: 820px; margin: 0 auto; padding: 2rem 1rem 4rem; }
     .weekly-ai-banner {
@@ -323,18 +330,10 @@ ${faqJsonLd}
     .weekly-share { display:flex; flex-wrap:wrap; gap:0.5rem; margin: 1rem 0 1.5rem; }
   </style>
 </head>
-<body style="font-family:'Noto Sans TC',sans-serif;background:var(--cream);color:var(--text-body);">
-  <header class="header" style="position:relative">
-    <div class="header-inner">
-      <a href="index.html" class="logo">
-        <div class="logo-text">新天地<span>每週專題</span></div>
-      </a>
-      <nav class="nav" style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:flex-end">
-        <a href="blog.html" class="nav-link">返回教練專欄</a>
-        <a href="index.html" class="nav-link">首頁</a>
-      </nav>
-    </div>
-  </header>
+<body>
+  <div class="loading" id="loading"><div class="loading-spinner"></div></div>
+  <div class="nav-backdrop" id="nav-backdrop"></div>
+${renderHeader({ active: 'blog' })}
   <main class="weekly-ai-shell container">
     <p style="font-size:0.85rem;color:var(--text-muted);margin-bottom:0.5rem;">${esc(slug)}</p>
     <h1 style="font-size:clamp(1.35rem,4vw,1.85rem);color:var(--text-dark);margin-bottom:1rem;line-height:1.3;">${esc(title)}</h1>
@@ -363,8 +362,9 @@ ${faqJsonLd}
     </div>
     <p style="margin-top:2rem;"><a href="blog.html" class="btn btn-primary">返回教練專欄</a></p>
   </main>
-  <script src="js/share.js?v=20260821a" defer></script>
-  <script src="js/analytics.js?v=20260525a" defer></script>
+${renderFooter({ variant: 'compact' })}
+    ${SCRIPT_TAGS}
+    ${renderNavInlineScript()}
 </body>
 </html>`;
 }

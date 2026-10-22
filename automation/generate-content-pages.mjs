@@ -149,6 +149,7 @@ ${DISCLAIMER}
   <div class="card">${cardThumb('card-overview.webp', '感覺統合游泳示意')}<h3><a href="sen-swim-sensory.html">感覺統合與游泳</a></h3><p>前庭、本體、觸覺：過敏與尋求刺激在水中怎樣調。</p></div>
   <div class="card">${cardThumb('card-adhd.webp', '情緒與心理健康示意')}<h3><a href="sen-swim-wellbeing.html">情緒與心理健康</a></h3><p>焦慮、用藥影響與怕水記憶：游泳課配合醫療，而不是取代。</p></div>
   <div class="card">${cardThumb('card-overview.webp', '課堂結構示意')}<h3><a href="sen-swim-classroom.html">課堂怎樣上</a></h3><p>五階段流程、視覺結構、評估是為調課不是排名。</p></div>
+  <div class="card">${cardThumb('card-overview.webp', '第一次 SEN 泳課流程示意')}<h3><a href="sen-swim-first-lesson.html">第一次 SEN 泳課</a></h3><p>從更衣到離場：家長可預期的流程與「成功」長怎樣。</p></div>
   <div class="card">${cardThumb('card-overview.webp', '家長資源與 SEN 游泳總覽示意')}<h3><a href="resources.html">家長資源</a></h3><p>育兒錦囊、免費下載與常見問題。</p></div>
   <div class="card">${cardThumb('card-support.webp', '公開學習資源示意')}<h3><a href="resources.html#public-learning">公開學習資源</a></h3><p>包括香港教育大學健康與體育學系高級講師 Roy Chan 的 Padlet《List of Disorder》（第三方教材，非醫療診斷）。</p></div>
 </div>
@@ -562,6 +563,8 @@ ${motionFig('anim-bubbles.svg', '水中氣泡上升動態示意', '吹泡泡、�
 <li><strong>社交溝通：</strong>輪流、模仿、共同注意，在水中往往比陸上更容易練習。</li>
 <li><strong>自信與自主：</strong>學會終身可用的水中安全技能，建立「我做得到」的自我形象。</li>
 </ol>
+<h2>看得見的小進步（家長版）</h2>
+<p>比起「會不會游自由式」，更值得慶祝的往往是：願意走進更衣室、願意坐池邊拍水、聽到「停」就停、願意吹一個泡。可用簡單技能清單或短影片（須家長同意）回顧「今日做到甚麼」——用來調課與鼓勵，不是公開排名或保證療效。</p>
 <h2>不同需要，水中各有重點（概念）</h2>
 <ul>
 <li><strong>自閉症：</strong>可預測的水溫與壓力；視覺示範多於複雜口語。</li>
@@ -687,6 +690,8 @@ ${motionFig('anim-breath.svg', '呼吸節奏動態示意', '先看呼吸，再�
 <li>確認由指定家人／照顧者接回；不要讓孩子無人看管離開。</li>
 <li>觀察訓練後身體狀況；與教練短短交接今日成功點與明日注意。</li>
 </ul>
+<h2>課前 5 分鐘對齊（建議）</h2>
+<p>到場後、下水前，家長可用短句與教練對齊：今日睡眠／情緒、用藥或限制有無改動、有效安撫方法、輔具怎樣保管、指定接回人是誰。愈短愈清楚，愈少臨時誤會。第一次流程總覽見<a href="sen-swim-first-lesson.html">第一次 SEN 泳課</a>。</p>
 <section class="weekly-faq" style="margin-top:2rem">
 <h2>家長常見問題</h2>
 <h3>第一次來要帶甚麼資料？</h3>
@@ -823,6 +828,13 @@ ${motionFig('anim-focus.svg', '節奏呼吸動態示意', '節奏與深壓有時
 <li>情緒事件請讓教練私下處理，不要在池邊當眾分析診斷。</li>
 <li>需要專業支援時，請聯絡醫生、輔導或學校社工／SENCO；教練只負責轉介與課堂調整。</li>
 </ol>
+<h2>池邊情緒支援節奏</h2>
+<ol>
+<li><strong>先安全：</strong>確保孩子在可站、可扶的位置，或帶回池邊休息角（仍在視線內）。</li>
+<li><strong>少說話：</strong>減少圍觀與長篇講道理；可用短句或「休息」圖卡。</li>
+<li><strong>等平復：</strong>給時間自我調節，再決定是否繼續或提早完結。</li>
+<li><strong>課後短交接：</strong>私下告訴家長發生了甚麼、下次可怎樣預告——不當眾分析診斷。</li>
+</ol>
 <p>若你或家人正感到情緒困擾，可致電衛生署精神健康支援熱線 <a href="tel:18111">18111</a>（24 小時）。緊急危險請打 999。</p>
 <section class="weekly-faq" style="margin-top:2rem">
 <h2>家長常見問題</h2>
@@ -881,7 +893,56 @@ ${motionFig('anim-lesson.svg', '課堂步驟動態示意', '動態流程：熱�
 <h3>評估要另外收費嗎？</h3>
 <p>費用與班別請 WhatsApp 查詢最新安排。本頁只說明評估用途，不公布價目。</p>
 </section>
-<p style="margin-top:1.5rem">延伸：<a href="sen-swim-communication.html">泳池溝通</a> · <a href="sen-swim-behavior.html">正向行為</a> · <a href="sen-swim-sensory.html">感覺統合</a> · <a href="booking.html">預約試堂</a></p>
+<p style="margin-top:1.5rem">延伸：<a href="sen-swim-first-lesson.html">第一次 SEN 泳課</a> · <a href="sen-swim-communication.html">泳池溝通</a> · <a href="sen-swim-behavior.html">正向行為</a> · <a href="sen-swim-sensory.html">感覺統合</a> · <a href="booking.html">預約試堂</a></p>
+${CTA()}
+</div></section>`,
+  },
+  {
+    file: 'sen-swim-first-lesson.html',
+    title: '第一次 SEN 泳課會發生什麼 | 新天地',
+    description:
+      'SEN 孩子第一次游泳課：更衣、見教練、五階段流程與課後交接。家長可預期的節奏，香港新天地。',
+    keywords: '第一次游泳課, SEN試堂, 特殊需要游泳流程, 家長準備, 香港SEN游泳',
+    body: `<section class="page-header"><div class="container"><h1>第一次 SEN 泳課會發生什麼</h1><p>把未知變成可預期：從更衣到離場的家長版流程</p></div></section>
+${learnHero('hero-booking.webp', '共融插畫：家庭第一次到泳池見教練', '第一次課：安全、節奏與正面感受優先')}
+<section class="section"><div class="container reading-flow">
+<p>很多家長最擔心的不是「會不會游」，而是「孩子會不會崩潰、我該站哪裡、教練會不會明白他」。以下是一般 SEN 試堂／首課的可預期節奏——個別孩子會更快或更慢，一切以當日狀態為準。</p>
+${DISCLAIMER}
+${learnFigure('teach-visual-schedule.webp', '第一次課流程示意', '看得見的流程，比催促「快啲游」更有用')}
+<h2>1. 到場前</h2>
+<ul>
+<li>用短句＋圖卡預告：換衣服 → 見教練 → 下水／拍水 → 沖身回家。</li>
+<li>帶齊泳衣、毛巾、替換衣、安撫物；如有圖卡／AAC，請一併帶來。</li>
+<li>把健康限制、安撫方法、指定接回人用 WhatsApp 或到場短句告訴教練。</li>
+</ul>
+<p>可列印準備清單：<a href="download-parent-guide-first-swim.html">第一次游泳課家長指南</a>。</p>
+<h2>2. 更衣室與池邊</h2>
+<ul>
+<li>先觀察環境幾分鐘；指令一次只說一件事。</li>
+<li>課堂以教練主導，家長在旁支援，避免同時下太多指令。</li>
+<li>初學水深以<strong>可站、有牆可扶</strong>為先，不會為了「快啲進步」把未準備好的孩子帶去無法站立的位置。</li>
+</ul>
+<h2>3. 課中五段（家長版）</h2>
+<ol>
+<li><strong>熱身：</strong>出示今日流程卡，身體與心理預備。</li>
+<li><strong>主題：</strong>只練一至兩個小目標（例如坐池邊拍水、吹泡）。</li>
+<li><strong>遊戲：</strong>用短遊戲鞏固剛才的成功，仍以安全為先。</li>
+<li><strong>緩和：</strong>清楚「完成」儀式與具體讚賞。</li>
+<li><strong>延伸：</strong>教練用一句話告訴家長今日成功點。</li>
+</ol>
+<p>更細的課堂結構見<a href="sen-swim-classroom.html">課堂怎樣上</a>；怕水則用漸進接觸，見<a href="sen-swim-autism.html">自閉症／漸進入水</a>。</p>
+<h2>4. 「成功」長怎樣？</h2>
+<p>第一次課的成功，往往是<strong>帶著正面感受離開</strong>：願意進更衣室、願意靠近水、願意跟教練幾分鐘。不必完成整套泳式。若情緒升溫，會先保安全、降刺激，必要時提早完結——這不是失敗，而是保護對水的好印象。</p>
+<section class="weekly-faq" style="margin-top:2rem">
+<h2>家長常見問題</h2>
+<h3>家長一定要落水嗎？</h3>
+<p>視孩子需要。初期可在池邊支援；若孩子需要家長陪同入水，請課前說明，我們再安排。</p>
+<h3>第一次課要游多久？</h3>
+<p>寧短勿長。許多家庭以短時試水起步，按反應延長。詳見<a href="sen-swim-safety.html">安全家長指引</a>。</p>
+<h3>要帶診斷報告嗎？</h3>
+<p>不是必須帶齊病歷，但關鍵安全與安撫資訊愈清楚愈好。費用與班別請 WhatsApp 查詢，本頁不公布價目。</p>
+</section>
+<p style="margin-top:1.5rem">延伸：<a href="booking.html">預約試堂</a> · <a href="download-parent-guide-first-swim.html">家長指南下載</a> · <a href="sen-swim-communication.html">泳池溝通</a> · <a href="resources.html">家長資源</a></p>
 ${CTA()}
 </div></section>`,
   },
