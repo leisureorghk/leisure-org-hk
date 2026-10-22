@@ -1,0 +1,52 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isCoach() {
+      return request.auth != null && request.auth.token.coach == true;
+    }
+
+    // 名單僅後端／Admin SDK 可寫；客戶端不可讀（防枚舉）
+    match /allowlist/{phoneId} {
+      allow read, write: if false;
+    }
+
+    match /members/{uid} {
+      allow read: if isCoach() && request.auth.uid == uid;
+      allow write: if false;
+    }
+
+    match /coachContent/{slug} {
+      allow read: if isCoach();
+      allow write: if false;
+    }
+
+    match /posts/{postId} {
+      allow read: if isCoach();
+      allow create: if isCoach()
+        && request.resource.data.keys().hasAll(['authorUid', 'authorName', 'body', 'createdAt'])
+        && request.resource.data.authorUid == request.auth.uid
+        && request.resource.data.body is string
+        && request.resource.data.body.size() > 0
+        && request.resource.data.body.size() <= 4000;
+      allow update, delete: if isCoach()
+        && resource.data.authorUid == request.auth.uid;
+
+      match /comments/{commentId} {
+        allow read: if isCoach();
+        allow create: if isCoach()
+          && request.resource.data.keys().hasAll(['authorUid', 'authorName', 'body', 'createdAt'])
+          && request.resource.data.authorUid == request.auth.uid
+          && request.resource.data.body is string
+          && request.resource.data.body.size() > 0
+          && request.resource.data.body.size() <= 2000;
+        allow delete: if isCoach()
+          && resource.data.authorUid == request.auth.uid;
+        allow update: if false;
+      }
+    }
+
+    match /joinRequests/{id} {
+      allow read, write: if false;
+    }
+  }
+}

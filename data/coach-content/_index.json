@@ -1,0 +1,189 @@
+{
+  "senPages": [
+    {
+      "slug": "sen-swim-learning",
+      "title": "讀寫障礙與動作協調障礙游泳 | 新天地",
+      "sourceFile": "sen-swim-learning.html"
+    },
+    {
+      "slug": "sen-swim-down-syndrome",
+      "title": "唐氏綜合症游泳課程 | 新天地 — 香港",
+      "sourceFile": "sen-swim-down-syndrome.html"
+    },
+    {
+      "slug": "sen-swim-intellectual",
+      "title": "智力障礙及多重障礙游泳教學 | 新天地",
+      "sourceFile": "sen-swim-intellectual.html"
+    },
+    {
+      "slug": "sen-swim-physical",
+      "title": "肢體、視覺、聽力障礙游泳教學 | 新天地",
+      "sourceFile": "sen-swim-physical.html"
+    },
+    {
+      "slug": "sen-swim-sensory",
+      "title": "感覺統合與 SEN 游泳 | 新天地",
+      "sourceFile": "sen-swim-sensory.html"
+    },
+    {
+      "slug": "sen-swim-communication",
+      "title": "SEN 游泳溝通與 AAC | 新天地",
+      "sourceFile": "sen-swim-communication.html"
+    },
+    {
+      "slug": "sen-swim-behavior",
+      "title": "正向行為管理與 SEN 游泳課堂 | 新天地",
+      "sourceFile": "sen-swim-behavior.html"
+    },
+    {
+      "slug": "sen-swim-classroom",
+      "title": "SEN 游泳課堂怎樣上 | 新天地",
+      "sourceFile": "sen-swim-classroom.html"
+    },
+    {
+      "slug": "sen-swim-wellbeing",
+      "title": "情緒、心理健康與 SEN 游泳 | 新天地",
+      "sourceFile": "sen-swim-wellbeing.html"
+    },
+    {
+      "slug": "sen-swim-development",
+      "title": "國際及香港特殊需要人士游泳運動發展 | 新天地",
+      "sourceFile": "sen-swim-development.html"
+    }
+  ],
+  "learnPages": [
+    {
+      "path": "index.html",
+      "title": "index"
+    },
+    {
+      "path": "modexam/index.html",
+      "title": "index"
+    },
+    {
+      "path": "教案/ADHD兒童-STEP.html",
+      "title": "ADHD兒童-STEP"
+    },
+    {
+      "path": "教案/index.html",
+      "title": "index"
+    },
+    {
+      "path": "教案/中度智障兒童-TEACCH.html",
+      "title": "中度智障兒童-TEACCH"
+    },
+    {
+      "path": "教案/唐氏綜合症青少年-STEP.html",
+      "title": "唐氏綜合症青少年-STEP"
+    },
+    {
+      "path": "教案/聽覺障礙兒童-STEP.html",
+      "title": "聽覺障礙兒童-STEP"
+    },
+    {
+      "path": "教案/自閉症譜系障礙兒童-TEACCH.html",
+      "title": "自閉症譜系障礙兒童-TEACCH"
+    },
+    {
+      "path": "特殊需要人士教師課程/glossary.html",
+      "title": "glossary"
+    },
+    {
+      "path": "特殊需要人士教師課程/index.html",
+      "title": "index"
+    },
+    {
+      "path": "特殊需要人士教師課程/listen.html",
+      "title": "listen"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/1-1-sen-support.html",
+      "title": "1-1-sen-support"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/1-2-sport-development.html",
+      "title": "1-2-sport-development"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/1-3-value.html",
+      "title": "1-3-value"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/2-1-physical.html",
+      "title": "2-1-physical"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/2-2-intellectual.html",
+      "title": "2-2-intellectual"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/2-3-down.html",
+      "title": "2-3-down"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/2-4-sensory.html",
+      "title": "2-4-sensory"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/2-5-adhd.html",
+      "title": "2-5-adhd"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/2-6-autism.html",
+      "title": "2-6-autism"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/2-7-sld-mental.html",
+      "title": "2-7-sld-mental"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/2-8-communication.html",
+      "title": "2-8-communication"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/2-9-behavior.html",
+      "title": "2-9-behavior"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/3-2-land-hold.html",
+      "title": "3-2-land-hold"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/3-3-water-hold.html",
+      "title": "3-3-water-hold"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/4-2-experience.html",
+      "title": "4-2-experience"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/4-3-safety.html",
+      "title": "4-3-safety"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/4-4-methods.html",
+      "title": "4-4-methods"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/4-5-fitness.html",
+      "title": "4-5-fitness"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/4-6-legal.html",
+      "title": "4-6-legal"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/child-protection.html",
+      "title": "child-protection"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/cue-cards.html",
+      "title": "cue-cards"
+    },
+    {
+      "path": "特殊需要人士教師課程/units/disorders-list.html",
+      "title": "disorders-list"
+    }
+  ],
+  "exportedAt": "2026-10-22T02:36:55.684Z"
+}

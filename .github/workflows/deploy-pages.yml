@@ -1,11 +1,10 @@
-# 將倉庫靜態檔案部署到 GitHub Pages（需在倉庫 Settings → Pages 選擇 GitHub Actions）
-# 排除 tools/、docs/ 與本機雜訊，避免非公開檔掛上公開站
+# 將倉庫靜態檔案部署到 GitHub Pages
+# 排除 tools/docs/Learn/private 與本機雜訊；深入教材不進公開站
 name: Deploy GitHub Pages
 
 on:
   push:
     branches: ['main']
-  # GITHUB_TOKEN 自動 push 不會觸發 push 事件；改由 digest／週報完成後連動部署
   workflow_run:
     workflows:
       - Daily RSS digest
@@ -36,7 +35,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     env:
-      # 過渡期：強制以 Node 24 執行仍依賴舊 runtime 的 JavaScript action（見 GitHub Blog 2025-09-19）
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout
@@ -51,6 +49,14 @@ jobs:
             --exclude='_site' \
             --exclude='tools' \
             --exclude='docs' \
+            --exclude='private' \
+            --exclude='functions' \
+            --exclude='Learn' \
+            --exclude='data/coach-content' \
+            --exclude='data/allowlist.example.json' \
+            --exclude='firestore.rules' \
+            --exclude='storage.rules' \
+            --exclude='firebase.json' \
             --exclude='node_modules' \
             --exclude='automation/node_modules' \
             --exclude='.cursor' \
@@ -65,11 +71,19 @@ jobs:
             --exclude='Thumbs.db' \
             --exclude='README.md' \
             ./ _site/
-          # 確認公開關鍵檔存在
+          # Learn 只留轉址入口
+          mkdir -p _site/Learn
+          node automation/write-coach-redirect-stubs.mjs --out _site
           test -f _site/index.html
           test -f _site/sitemap.xml
+          test ! -d _site/private
           test ! -d _site/tools
-          test ! -d _site/docs
+          # 確認深入頁為轉址殼而非全文
+          if grep -q 'TEACCH／STEP' _site/sen-swim-classroom.html 2>/dev/null; then
+            echo "ERROR: deep classroom content leaked into Pages" >&2
+            exit 1
+          fi
+          grep -q '教練會員區' _site/sen-swim-classroom.html
           echo "Pages artifact ready: $(find _site -type f | wc -l) files"
 
       - name: Setup Pages

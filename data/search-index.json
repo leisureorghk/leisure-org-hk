@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-10-22T01:09:44.183Z",
-  "count": 73,
+  "builtAt": "2026-10-22T02:37:53.459Z",
+  "count": 63,
   "items": [
     {
       "type": "page",
@@ -108,14 +108,6 @@
     },
     {
       "type": "page",
-      "path": "sen-swim-learning.html",
-      "url": "https://www.leisure.org.hk/sen-swim-learning.html",
-      "title": "讀寫障礙與動作協調障礙游泳",
-      "description": "讀寫障礙（Dyslexia）與發展性動作協調障礙（DCD）兒童的游泳教學：示範為主、分步練習、多感官提示，香港 SEN 游泳。",
-      "keywords": "讀寫障礙游泳, 動作協調障礙, DCD游泳, 特殊學習困難, SEN游泳香港"
-    },
-    {
-      "type": "page",
       "path": "sen-swim-benefits.html",
       "url": "https://www.leisure.org.hk/sen-swim-benefits.html",
       "title": "特殊需要兒童習泳的價值",
@@ -124,51 +116,11 @@
     },
     {
       "type": "page",
-      "path": "sen-swim-behavior.html",
-      "url": "https://www.leisure.org.hk/sen-swim-behavior.html",
-      "title": "正向行為管理與 SEN 游泳課堂",
-      "description": "特殊需要游泳課的正向行為策略：可預測結構、具體讚賞、ABC 行為分析、先調節再教學。家長與教練共通語言。",
-      "keywords": "正向行為管理, SEN游泳行為, ABC行為分析, 視覺流程, 特殊需要課堂管理"
-    },
-    {
-      "type": "page",
       "path": "sen-swim-safety.html",
       "url": "https://www.leisure.org.hk/sen-swim-safety.html",
       "title": "特殊需要游泳安全家長指引",
       "description": "SEN 游泳安全：課前健康溝通、更衣室注意、泳池環境、教學過程觀察與課後交接。家長教育參考。",
       "keywords": "SEN游泳安全, 特殊需要泳池安全, 兒童游泳安全, 更衣室安全, 香港SEN游泳"
-    },
-    {
-      "type": "page",
-      "path": "sen-swim-communication.html",
-      "url": "https://www.leisure.org.hk/sen-swim-communication.html",
-      "title": "SEN 游泳溝通與 AAC",
-      "description": "低口語、語言障礙與自閉症孩子的泳池溝通：短指令、視覺圖卡、PECS／AAC，沿用孩子慣用的溝通方式。香港 SEN 游泳。",
-      "keywords": "PECS游泳, AAC溝通, 圖卡溝通, SEN游泳溝通, 低口語游泳, 匡智溝通易"
-    },
-    {
-      "type": "page",
-      "path": "sen-swim-sensory.html",
-      "url": "https://www.leisure.org.hk/sen-swim-sensory.html",
-      "title": "感覺統合與 SEN 游泳",
-      "description": "感覺統合與游泳：前庭、本體、觸覺，過敏與尋求刺激在水中的家長向調整方向。非醫療診斷，香港 SEN 游泳。",
-      "keywords": "感覺統合游泳, 水中感統, 感官過敏, 本體覺, 前庭覺, SEN游泳香港"
-    },
-    {
-      "type": "page",
-      "path": "sen-swim-wellbeing.html",
-      "url": "https://www.leisure.org.hk/sen-swim-wellbeing.html",
-      "title": "情緒、心理健康與 SEN 游泳",
-      "description": "焦慮、情緒波動、用藥影響與怕水記憶：游泳課如何配合醫療與家長溝通。非診斷、非心理治療。",
-      "keywords": "SEN游泳情緒, 焦慮怕水, 心理健康游泳, 用藥副作用, 香港SEN"
-    },
-    {
-      "type": "page",
-      "path": "sen-swim-classroom.html",
-      "url": "https://www.leisure.org.hk/sen-swim-classroom.html",
-      "title": "SEN 游泳課堂怎樣上",
-      "description": "SEN 游泳課的五階段流程、視覺結構、心理安全，以及評估是為調課不是排名。香港家長教育。",
-      "keywords": "SEN游泳課堂, 視覺時間表, 結構化教學, 游泳評估, 香港SEN"
     },
     {
       "type": "page",
@@ -193,38 +145,6 @@
       "title": "認識特殊需要及香港支援系統",
       "description": "認識特殊教育需要（SEN）的基本概念，以及香港教育、社福相關支援如何與 SEN 游泳課程互相配合。",
       "keywords": "特殊教育需要, SEN支援, 香港SEN, 特殊需要兒童, 融合教育"
-    },
-    {
-      "type": "page",
-      "path": "sen-swim-development.html",
-      "url": "https://www.leisure.org.hk/sen-swim-development.html",
-      "title": "國際及香港特殊需要人士游泳運動發展",
-      "description": "認識帕運游泳分級、香港傷殘／智障人士體育協會及普及游泳培訓脈絡，了解特殊需要游泳如何從復康走向競技與共融。",
-      "keywords": "帕運游泳, 殘疾人游泳, 智障人士游泳, HKSAPD, HKSAPID, 特殊需要游泳香港"
-    },
-    {
-      "type": "page",
-      "path": "sen-swim-physical.html",
-      "url": "https://www.leisure.org.hk/sen-swim-physical.html",
-      "title": "肢體、視覺、聽力障礙游泳教學",
-      "description": "肢體、視覺、聽力障礙兒童的游泳教學重點：泳池安全、溝通調整與個別化水中學習，香港 SEN 游泳中心。",
-      "keywords": "肢體障礙游泳, 視障游泳, 聽障游泳, 感官障礙游泳, SEN游泳香港"
-    },
-    {
-      "type": "page",
-      "path": "sen-swim-intellectual.html",
-      "url": "https://www.leisure.org.hk/sen-swim-intellectual.html",
-      "title": "智力障礙及多重障礙游泳教學",
-      "description": "智力障礙（智障）及多重障礙學童的游泳教學：分步指令、重複練習、安全意識與耐心節奏，香港 SEN 游泳。",
-      "keywords": "智力障礙游泳, 智障游泳, 多重障礙游泳, SEN游泳, 特殊需要游泳教學"
-    },
-    {
-      "type": "page",
-      "path": "sen-swim-down-syndrome.html",
-      "url": "https://www.leisure.org.hk/sen-swim-down-syndrome.html",
-      "title": "唐氏綜合症游泳課程",
-      "description": "唐氏綜合症兒童游泳教學：肌張力、健康注意事項與循序漸進的水中學習，香港 SEN 游泳中心個別化安排。",
-      "keywords": "唐氏綜合症游泳, 唐氏游泳, Down syndrome 游泳, SEN游泳香港"
     },
     {
       "type": "page",

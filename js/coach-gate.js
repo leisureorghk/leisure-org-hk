@@ -1,6 +1,6 @@
 /**
- * 教練分享區：登入碼護欄（靜態站輕量防護，非伺服器級權限）
- * 通過後 sessionStorage 記住；Learn 教材頁會檢查並未登入則導回 coach-share.html
+ * @deprecated 已改為 Firebase 會員（見 js/coach-auth.js、docs/COACH_FIREBASE.md）。
+ * 保留此檔僅供舊 Learn 本機副本轉址：未登入導回 coach-share.html。
  */
 (function (global) {
   'use strict';

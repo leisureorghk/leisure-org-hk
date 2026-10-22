@@ -1,0 +1,34 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    function isCoach() {
+      return request.auth != null && request.auth.token.coach == true;
+    }
+
+    function isImageOrVideo() {
+      return request.resource.contentType.matches('image/.*')
+        || request.resource.contentType.matches('video/.*');
+    }
+
+    function sizeOk() {
+      return request.resource.size < 50 * 1024 * 1024;
+    }
+
+    // 會員互傳媒體
+    match /media/{uid}/{allPaths=**} {
+      allow read: if isCoach();
+      allow create: if isCoach()
+        && request.auth.uid == uid
+        && isImageOrVideo()
+        && sizeOk();
+      allow update: if false;
+      allow delete: if isCoach() && request.auth.uid == uid;
+    }
+
+    // 教材／深入文附件（僅 Admin SDK 上傳；會員可讀）
+    match /coach-materials/{allPaths=**} {
+      allow read: if isCoach();
+      allow write: if false;
+    }
+  }
+}

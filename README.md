@@ -10,8 +10,10 @@
 | `css/`、`js/`、`images/` | 站內樣式、腳本、圖像 |
 | `data/` | SEO、搜尋索引、摘要與週報 meta（JSON） |
 | `automation/` | 內容生成、SEO、摘要／週報腳本（Node） |
-| `Learn/` | 教練區教材（coach-gate，`noindex`） |
-| `docs/` | 營運與設定說明（不部署到 Pages） |
+| `Learn/` | 教練教材本機／私密來源（**不**部署到 Pages） |
+| `private/coach-html/` | 深入 SEN 全文備份（不部署） |
+| `coach-app/` | Firebase 會員區前端殼 |
+| `docs/` | 營運說明（含 [`docs/COACH_FIREBASE.md`](docs/COACH_FIREBASE.md)） |
 | `tools/` | 本機舊檢查／同步腳本（不部署到 Pages） |
 
 公開頁分組見 [`docs/SITE_MAP.md`](docs/SITE_MAP.md)。

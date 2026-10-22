@@ -13,9 +13,36 @@ import {
   renderNavInlineScript,
   FULL_FOOTER_FILES,
 } from './site-chrome.mjs';
+import { DEEP_SEN_FILES, slugFromFile } from './coach-deep-slugs.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
+const deepArchive = path.join(root, 'private', 'coach-html');
+const deepSet = new Set(DEEP_SEN_FILES);
+
+function redirectStub(file) {
+  const slug = slugFromFile(file);
+  return `<!DOCTYPE html>
+<html lang="zh-Hant-HK">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>需登入教練會員區 | 新天地</title>
+  <link rel="stylesheet" href="${CSS_HREF}">
+  <meta http-equiv="refresh" content="8;url=coach-share.html?next=${encodeURIComponent(slug)}">
+</head>
+<body>
+  <main class="container" style="max-width:560px;margin:3rem auto;padding:1.5rem;line-height:1.8">
+    <h1 style="font-size:1.35rem">此內容已移至教練會員區</h1>
+    <p>進階課堂策略與教材僅供核准教練／同行閱讀，以保護學員私隱與教學專業內容。</p>
+    <p><a class="btn btn-primary" href="coach-share.html?next=${encodeURIComponent(slug)}">前往教練分享區登入</a></p>
+    <p style="font-size:0.9rem;color:#718096">家長入門資料請見 <a href="resources.html">家長資源</a> 與 <a href="sen-guide.html">認識特殊需要</a>。</p>
+  </main>
+</body>
+</html>
+`;
+}
 
 const WA =
   'https://wa.me/85297083907?text=' +
@@ -135,23 +162,13 @@ ${learnHero('hero-sen-guide.webp', '共融插畫：香港泳池邊，教練歡�
 ${DISCLAIMER}
 <div class="features-grid" style="margin-top:2rem">
   <div class="card">${cardThumb('card-support.webp', '香港支援系統示意插畫')}<h3><a href="sen-support-hk.html">香港支援系統</a></h3><p>認識特殊需要的基本概念，以及教育、社福等本地支援如何與游泳課銜接。</p></div>
-  <div class="card">${cardThumb('card-overview.webp', 'SEN 習泳價值示意')}<h3><a href="sen-swim-benefits.html">習泳的價值</a></h3><p>從感覺統合、動作、專注到情緒與社交：水中活動如何幫助孩子。</p></div>
-  <div class="card">${cardThumb('card-adhd.webp', '正向行為與課堂結構示意')}<h3><a href="sen-swim-behavior.html">正向行為與課堂</a></h3><p>行為是訊息：可預測結構、具體讚賞、先調節再教學。</p></div>
-  <div class="card">${cardThumb('card-autism.webp', '視覺與輔助溝通示意')}<h3><a href="sen-swim-communication.html">泳池溝通與 AAC</a></h3><p>圖卡、手勢、短指令與孩子慣用的溝通方式，讓低口語孩子也能參與。</p></div>
+  <div class="card">${cardThumb('card-overview.webp', 'SEN 習泳價值示意')}<h3><a href="sen-swim-benefits.html">習泳的價值</a></h3><p>水中活動如何幫助感覺、動作、專注與自信——家長入門。</p></div>
   <div class="card">${cardThumb('card-physical.webp', '水中安全示意')}<h3><a href="sen-swim-safety.html">游泳安全家長指引</a></h3><p>課前準備、更衣室、泳池與課後交接的安全重點。</p></div>
-  <div class="card">${cardThumb('card-development.webp', '特殊需要游泳運動發展示意')}<h3><a href="sen-swim-development.html">游泳運動發展</a></h3><p>帕運與香港殘疾／智障體育協會、普及游泳與精英培訓的脈絡。</p></div>
-  <div class="card">${cardThumb('card-physical.webp', '肢體與感官游泳支援示意')}<h3><a href="sen-swim-physical.html">肢體・視覺・聽力</a></h3><p>泳池安全、溝通方式與教學調整，讓感官與肢體需要的孩子也能下水。</p></div>
-  <div class="card">${cardThumb('card-intellectual.webp', '智力及多重障礙游泳示意')}<h3><a href="sen-swim-intellectual.html">智力及多重障礙</a></h3><p>分步、重複與安全意識：適合智力障礙及多重需要的水中學習節奏。</p></div>
-  <div class="card">${cardThumb('card-down.webp', '唐氏綜合症游泳示意')}<h3><a href="sen-swim-down-syndrome.html">唐氏綜合症</a></h3><p>肌張力、健康注意與循序漸進的游泳課設計重點。</p></div>
-  <div class="card">${cardThumb('card-autism.webp', '自閉症游泳視覺提示示意')}<h3><a href="sen-swim-autism.html">自閉症游泳</a></h3><p>視覺提示、感官調節與固定流程。</p></div>
-  <div class="card">${cardThumb('card-adhd.webp', 'ADHD 短單元游泳示意')}<h3><a href="sen-swim-adhd.html">ADHD 游泳</a></h3><p>短單元、即時回饋與專注力訓練。</p></div>
-  <div class="card">${cardThumb('card-overview.webp', '讀寫與動作協調游泳示意')}<h3><a href="sen-swim-learning.html">讀寫／動作協調</a></h3><p>示範為主、分步練習與多感官提示，減少文字負擔。</p></div>
-  <div class="card">${cardThumb('card-overview.webp', '感覺統合游泳示意')}<h3><a href="sen-swim-sensory.html">感覺統合與游泳</a></h3><p>前庭、本體、觸覺：過敏與尋求刺激在水中怎樣調。</p></div>
-  <div class="card">${cardThumb('card-adhd.webp', '情緒與心理健康示意')}<h3><a href="sen-swim-wellbeing.html">情緒與心理健康</a></h3><p>焦慮、用藥影響與怕水記憶：游泳課配合醫療，而不是取代。</p></div>
-  <div class="card">${cardThumb('card-overview.webp', '課堂結構示意')}<h3><a href="sen-swim-classroom.html">課堂怎樣上</a></h3><p>五階段流程、視覺結構、評估是為調課不是排名。</p></div>
+  <div class="card">${cardThumb('card-autism.webp', '自閉症游泳視覺提示示意')}<h3><a href="sen-swim-autism.html">自閉症游泳</a></h3><p>視覺提示、感官調節與固定流程（家長向）。</p></div>
+  <div class="card">${cardThumb('card-adhd.webp', 'ADHD 短單元游泳示意')}<h3><a href="sen-swim-adhd.html">ADHD 游泳</a></h3><p>短單元、即時回饋與專注力訓練（家長向）。</p></div>
   <div class="card">${cardThumb('card-overview.webp', '第一次 SEN 泳課流程示意')}<h3><a href="sen-swim-first-lesson.html">第一次 SEN 泳課</a></h3><p>從更衣到離場：家長可預期的流程與「成功」長怎樣。</p></div>
-  <div class="card">${cardThumb('card-overview.webp', '家長資源與 SEN 游泳總覽示意')}<h3><a href="resources.html">家長資源</a></h3><p>育兒錦囊、免費下載與常見問題。</p></div>
-  <div class="card">${cardThumb('card-support.webp', '公開學習資源示意')}<h3><a href="resources.html#public-learning">公開學習資源</a></h3><p>包括香港教育大學健康與體育學系高級講師 Roy Chan 的 Padlet《List of Disorder》（第三方教材，非醫療診斷）。</p></div>
+  <div class="card">${cardThumb('card-overview.webp', '家長資源示意')}<h3><a href="resources.html">家長資源</a></h3><p>入門錦囊、免費下載與常見問題。</p></div>
+  <div class="card">${cardThumb('card-support.webp', '教練會員區示意')}<h3><a href="coach-share.html">教練分享／會員區</a></h3><p>進階課堂策略、教材與同行交流（需核准名單登入）。</p></div>
 </div>
 ${CTA('<p style="margin-top:1rem"><a href="services.html">查看服務項目</a></p>')}
 </div></section>`,
@@ -1041,6 +1058,8 @@ ${DISCLAIMER}
   },
 ];
 
+fs.mkdirSync(deepArchive, { recursive: true });
+
 for (const p of [...landings, ...articles]) {
   const html = shell({
     title: p.title,
@@ -1049,6 +1068,12 @@ for (const p of [...landings, ...articles]) {
     bodyHtml: attachExtras(p.file, p.body),
     file: p.file,
   });
-  fs.writeFileSync(path.join(root, p.file), html, 'utf8');
-  console.log('Wrote', p.file);
+  if (deepSet.has(p.file)) {
+    fs.writeFileSync(path.join(deepArchive, p.file), html, 'utf8');
+    fs.writeFileSync(path.join(root, p.file), redirectStub(p.file), 'utf8');
+    console.log('Wrote private+stub', p.file);
+  } else {
+    fs.writeFileSync(path.join(root, p.file), html, 'utf8');
+    console.log('Wrote', p.file);
+  }
 }

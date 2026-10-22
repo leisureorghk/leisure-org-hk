@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-HK">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <title>教練會員區 | 新天地</title>
+  <link rel="icon" type="image/svg+xml" href="../images/icons/app-icon.svg">
+  <link rel="stylesheet" href="../css/style.css?v=20261021h">
+  <link rel="stylesheet" href="coach-app.css?v=1">
+</head>
+<body>
+  <div class="loading" id="loading"><div class="loading-spinner"></div></div>
+  <header class="coach-app-bar">
+    <div class="coach-app-bar-inner">
+      <a href="../coach-share.html" class="coach-app-brand">新天地 · 教練會員區</a>
+      <div class="coach-app-bar-actions">
+        <span id="coach-user-label" class="coach-user-label"></span>
+        <button type="button" class="btn btn-outline" id="coach-logout" hidden>登出</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="coach-app-main container" id="coach-app-root">
+    <p class="coach-muted" id="coach-boot">正在檢查登入狀態…</p>
+  </main>
+
+  <script src="../js/firebase-config.js"></script>
+  <script type="module" src="coach-app.js?v=1"></script>
+</body>
+</html>

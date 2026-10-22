@@ -1,0 +1,11 @@
+{
+  "_comment": "複製為本機私密檔（勿提交真實名單）。上傳用 automation/upload-allowlist.mjs + Admin SDK。",
+  "members": [
+    {
+      "name": "陳教練",
+      "phone": "97083907",
+      "active": true,
+      "note": "範例"
+    }
+  ]
+}

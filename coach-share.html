@@ -105,35 +105,44 @@
     <section class="page-header">
         <div class="container">
             <h1>教練分享區</h1>
-            <p>特殊需要人士游泳教師證書課程 · 內部自學教材</p>
+            <p>歡迎有志 SEN 游泳教學的同行加入 · 會員交流與進階教材</p>
         </div>
     </section>
 
     <section class="section">
-        <div class="container">
-            <div class="coach-gate-wrap">
-                <div class="coach-gate-card" id="coach-gate-panel">
-                    <form class="coach-gate-form" id="coach-gate-form" autocomplete="off">
-                        <label for="coach-pass">請輸入登入碼</label>
-                        <input type="password" id="coach-pass" name="passcode" required maxlength="64" autocomplete="current-password" placeholder="登入碼">
-                        <p class="coach-gate-err" id="coach-gate-err" role="alert"></p>
-                        <p style="margin-top:1.25rem">
-                            <button type="submit" class="btn btn-primary" style="width:100%">進入分享區</button>
-                        </p>
-                    </form>
+        <div class="container" style="max-width:720px">
+            <div class="coach-gate-card" style="margin-bottom:1.5rem">
+                <h2 style="margin:0 0 0.75rem;font-size:1.2rem;color:var(--ocean-deep,#0D2847)">有志一同？給本會留言</h2>
+                <p class="coach-note" style="margin-top:0">若你關心特殊需要學童游泳，歡迎留下聯絡與簡介。訊息會經 WhatsApp 傳給本會，我們會盡快回覆是否適合加入核准名單。</p>
+                <form id="coach-join-form" class="coach-gate-form" style="margin-top:1rem">
+                    <label for="join-name">姓名</label>
+                    <input type="text" id="join-name" required maxlength="40" autocomplete="name" placeholder="你的稱呼">
+                    <label for="join-phone" style="margin-top:0.85rem;display:block">電話</label>
+                    <input type="tel" id="join-phone" required maxlength="20" autocomplete="tel" placeholder="香港手機 8 位">
+                    <label for="join-msg" style="margin-top:0.85rem;display:block">留言</label>
+                    <textarea id="join-msg" required maxlength="500" rows="4" placeholder="例如：教學年資、希望交流的主題…" style="width:100%;box-sizing:border-box;padding:0.85rem 1rem;border:1.5px solid var(--gray-light,#CBD5E0);border-radius:10px;font:inherit"></textarea>
+                    <p style="margin-top:1.25rem">
+                        <button type="submit" class="btn btn-primary" style="width:100%">以 WhatsApp 傳送給本會</button>
+                    </p>
+                </form>
+            </div>
 
-                    <div class="coach-portal" id="coach-portal" aria-live="polite">
-                        <h2 style="margin:0 0 0.5rem;font-size:1.25rem;color:var(--ocean-deep,#0D2847)">已解鎖</h2>
-                        <p style="margin:0;color:var(--text-body,#2D3748);line-height:1.7">可研讀教師證書自學單元。內容隨網站每月自動化一併更新。</p>
-                        <div class="coach-portal-links">
-                            <a class="btn btn-primary" id="coach-enter-course" href="Learn/特殊需要人士教師課程/index.html">開啟特殊需要人士教師課程</a>
-                            <a class="btn btn-secondary" href="Learn/特殊需要人士教師課程/listen.html">聲音學習／播放清單</a>
-                            <a class="btn btn-outline" href="Learn/特殊需要人士教師課程/glossary.html">詞彙總表</a>
-                            <button type="button" class="btn btn-outline" id="coach-logout" style="width:100%">登出</button>
-                        </div>
-                        <p class="coach-note">本區供教練與學員內部使用，不能代替面授、醫療診斷或法律意見。關閉分頁後需重新輸入登入碼。</p>
-                    </div>
-                </div>
+            <div class="coach-gate-card" id="coach-gate-panel">
+                <h2 style="margin:0 0 0.75rem;font-size:1.2rem;color:var(--ocean-deep,#0D2847)">已在名單？登入會員區</h2>
+                <p class="coach-note" style="margin-top:0">請填寫與名單一致的姓名、電話，以及本會提供的登入碼。通過後可閱讀深入教材、互留言與上載媒體。</p>
+                <form class="coach-gate-form" id="coach-gate-form" autocomplete="off" style="margin-top:1rem">
+                    <label for="coach-name">姓名</label>
+                    <input type="text" id="coach-name" name="name" required maxlength="40" autocomplete="name" placeholder="名單上的姓名">
+                    <label for="coach-phone" style="margin-top:0.85rem;display:block">電話</label>
+                    <input type="tel" id="coach-phone" name="phone" required maxlength="20" autocomplete="tel" placeholder="香港手機 8 位">
+                    <label for="coach-pass" style="margin-top:0.85rem;display:block">登入碼</label>
+                    <input type="password" id="coach-pass" name="passcode" required maxlength="64" autocomplete="current-password" placeholder="登入碼">
+                    <p class="coach-gate-err" id="coach-gate-err" role="alert"></p>
+                    <p style="margin-top:1.25rem">
+                        <button type="submit" class="btn btn-primary" style="width:100%">登入會員區</button>
+                    </p>
+                </form>
+                <p class="coach-note">家長入門資料請使用 <a href="resources.html">家長資源</a>；進階課堂策略已改為會員專區，不再以靜態網址公開全文。</p>
             </div>
         </div>
     </section>
@@ -146,62 +155,23 @@
         </div>
     </footer>
 
-    <script src="js/coach-gate.js?v=20261021a"></script>
-    <script src="js/security.js" defer></script>
+    <script src="js/firebase-config.js"></script>
+    <script type="module" src="js/coach-auth.js?v=1"></script>
     <script>
-      (function () {
-        var form = document.getElementById('coach-gate-form');
-        var portal = document.getElementById('coach-portal');
-        var err = document.getElementById('coach-gate-err');
-        var pass = document.getElementById('coach-pass');
-        var enter = document.getElementById('coach-enter-course');
-
-        function showPortal() {
-          form.classList.add('is-hidden');
-          portal.classList.add('is-open');
-          var params = new URLSearchParams(location.search);
-          var next = params.get('next');
-          if (next && /^\/Learn\//i.test(next)) {
-            enter.href = next;
-          }
-        }
-
-        function showForm() {
-          form.classList.remove('is-hidden');
-          portal.classList.remove('is-open');
-        }
-
-        if (window.CoachGate && CoachGate.isUnlocked()) {
-          showPortal();
-        } else {
-          showForm();
-        }
-
-        form.addEventListener('submit', function (e) {
-          e.preventDefault();
-          err.textContent = '';
-          CoachGate.verifyPasscode(pass.value).then(function (ok) {
-            if (!ok) {
-              err.textContent = '登入碼不正確，請再試。';
-              pass.select();
-              return;
-            }
-            CoachGate.setUnlocked(true);
-            showPortal();
-            pass.value = '';
-          }).catch(function (ex) {
-            err.textContent = ex.message || '無法驗證，請稍後再試。';
-          });
-        });
-
-        document.getElementById('coach-logout').addEventListener('click', function () {
-          CoachGate.logout();
-        });
-      })();
+      document.getElementById('coach-join-form').addEventListener('submit', function (e) {
+        e.preventDefault();
+        var name = document.getElementById('join-name').value.trim();
+        var phone = document.getElementById('join-phone').value.trim();
+        var msg = document.getElementById('join-msg').value.trim();
+        var text = '【教練分享區／有志加入】\n姓名：' + name + '\n電話：' + phone + '\n留言：\n' + msg;
+        var url = 'https://wa.me/85297083907?text=' + encodeURIComponent(text);
+        window.open(url, '_blank', 'noopener');
+      });
     </script>
-        <script src="js/site-ui.js?v=20261021h" defer></script>
+    <script src="js/site-ui.js?v=20261021h" defer></script>
     <script src="js/share.js?v=20261021a" defer></script>
     <script src="js/analytics.js?v=20260525a" defer></script>
     <script src="js/security.js"></script>
 </body>
 </html>
+

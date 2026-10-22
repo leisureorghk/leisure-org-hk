@@ -624,6 +624,7 @@ export function writeLlmsTxt(root, config) {
  */
 export function pickRelatedLandingPages(config, textBlob, limit = 3) {
   const blob = String(textBlob || '').toLowerCase();
+  // 只連公開入門頁；深入主題改指向教練分享區
   const candidates = [
     {
       path: '/sen-swim-autism.html',
@@ -636,19 +637,9 @@ export function pickRelatedLandingPages(config, textBlob, limit = 3) {
       keys: ['adhd', '專注', '過動', '衝動'],
     },
     {
-      path: '/sen-swim-learning.html',
-      title: '讀寫／動作協調游泳',
-      keys: ['讀寫', 'dyslexia', 'dcd', '動作協調', '學習困難', '協調障礙'],
-    },
-    {
       path: '/sen-swim-benefits.html',
       title: '習泳的價值',
       keys: ['好處', '價值', '效益', '浮力', '靜水壓', '為何游泳', '為甚麼游泳'],
-    },
-    {
-      path: '/sen-swim-behavior.html',
-      title: '正向行為與課堂',
-      keys: ['正向行為', '行為管理', 'abc', '讚賞', '強化', '情緒', '崩潰'],
     },
     {
       path: '/sen-swim-safety.html',
@@ -656,44 +647,30 @@ export function pickRelatedLandingPages(config, textBlob, limit = 3) {
       keys: ['安全', '更衣室', '遇溺', '急救', '課前', '健康', '扶抱', '轉移'],
     },
     {
-      path: '/sen-swim-communication.html',
-      title: '泳池溝通與 AAC',
-      keys: ['溝通', 'pecs', 'aac', '圖卡', '口語', '語言', '輔具'],
+      path: '/sen-swim-first-lesson.html',
+      title: '第一次 SEN 泳課',
+      keys: ['第一次', '試堂', '首課', '準備'],
     },
     {
-      path: '/sen-swim-sensory.html',
-      title: '感覺統合與游泳',
-      keys: ['感覺統合', '感統', '感官', '前庭', '本體', '觸覺', '過敏'],
-    },
-    {
-      path: '/sen-swim-wellbeing.html',
-      title: '情緒與心理健康',
-      keys: ['情緒', '焦慮', '抑鬱', '心理健康', '用藥', '創傷'],
-    },
-    {
-      path: '/sen-swim-classroom.html',
-      title: '課堂怎樣上',
-      keys: ['課堂', '教案', '評估', '時間表', '結構化', 'teacch', 'step'],
-    },
-    {
-      path: '/sen-swim-down-syndrome.html',
-      title: '唐氏綜合症游泳',
-      keys: ['唐氏', 'down', '肌張力'],
-    },
-    {
-      path: '/sen-swim-intellectual.html',
-      title: '智力及多重障礙游泳',
-      keys: ['智障', '智力', '多重障礙', 'virtus'],
-    },
-    {
-      path: '/sen-swim-physical.html',
-      title: '肢體・視覺・聽力游泳',
-      keys: ['肢體', '視障', '聽障', '視覺', '聽力', '截肢'],
-    },
-    {
-      path: '/sen-swim-development.html',
-      title: '特殊需要游泳運動發展',
-      keys: ['帕運', '殘奧', '競技', '協會', 'hksapd', 'hksapid'],
+      path: '/coach-share.html',
+      title: '教練分享／會員區',
+      keys: [
+        '課堂',
+        '教案',
+        'teacch',
+        'step',
+        '溝通',
+        'pecs',
+        'aac',
+        '感統',
+        '感覺統合',
+        '行為',
+        '唐氏',
+        '智障',
+        '肢體',
+        '帕運',
+        '教練',
+      ],
     },
     {
       path: '/sen-support-hk.html',
