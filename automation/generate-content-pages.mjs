@@ -72,7 +72,7 @@ const cardThumb = (file, alt) =>
   `<img class="learn-card-thumb" src="images/learn/${file}" alt="${alt}" width="480" height="360" loading="lazy" decoding="async">`;
 
 const motionFig = (file, alt, caption) => `<figure class="learn-figure motion-figure">
-<img src="images/learn/${file}?v=20261005b" alt="${alt}" width="720" height="240" loading="lazy" decoding="async">
+<img src="images/learn/${file}?v=20261022b" alt="${alt}" width="720" height="240" loading="lazy" decoding="async">
 <figcaption>${caption}</figcaption>
 </figure>`;
 
@@ -160,15 +160,19 @@ ${learnHero('hero-sen-guide.webp', '共融插畫：香港泳池邊，教練歡�
 <section class="section"><div class="container reading-flow">
 <p>每一位孩子的學習節奏都不同。新天地以游泳及多功能發展為核心，陪伴自閉症、ADHD、讀寫／動作協調困難、肢體／感官障礙、智力障礙、唐氏綜合症等家庭，用可預期的流程與個別化安排，讓孩子在水中建立安全感與自信。我們相信特殊需要不是「污名」，而是需要被理解與適切支援的個別差異。</p>
 ${DISCLAIMER}
+<div class="motion-duo">
+${motionFig('anim-welcome.svg', '溫柔水波與親子浮板動態示意', '先建立安全感，再談技巧')}
+${motionFig('anim-visual-schedule.svg', '視覺流程卡動態示意', '看得見的流程，學習更可預期')}
+</div>
 <div class="features-grid" style="margin-top:2rem">
-  <div class="card">${cardThumb('card-support.webp', '香港支援系統示意插畫')}<h3><a href="sen-support-hk.html">香港支援系統</a></h3><p>認識特殊需要的基本概念，以及教育、社福等本地支援如何與游泳課銜接。</p></div>
-  <div class="card">${cardThumb('card-overview.webp', 'SEN 習泳價值示意')}<h3><a href="sen-swim-benefits.html">習泳的價值</a></h3><p>水中活動如何幫助感覺、動作、專注與自信——家長入門。</p></div>
-  <div class="card">${cardThumb('card-physical.webp', '水中安全示意')}<h3><a href="sen-swim-safety.html">游泳安全家長指引</a></h3><p>課前準備、更衣室、泳池與課後交接的安全重點。</p></div>
-  <div class="card">${cardThumb('card-autism.webp', '自閉症游泳視覺提示示意')}<h3><a href="sen-swim-autism.html">自閉症游泳</a></h3><p>視覺提示、感官調節與固定流程（家長向）。</p></div>
-  <div class="card">${cardThumb('card-adhd.webp', 'ADHD 短單元游泳示意')}<h3><a href="sen-swim-adhd.html">ADHD 游泳</a></h3><p>短單元、即時回饋與專注力訓練（家長向）。</p></div>
-  <div class="card">${cardThumb('card-overview.webp', '第一次 SEN 泳課流程示意')}<h3><a href="sen-swim-first-lesson.html">第一次 SEN 泳課</a></h3><p>從更衣到離場：家長可預期的流程與「成功」長怎樣。</p></div>
-  <div class="card">${cardThumb('card-overview.webp', '家長資源示意')}<h3><a href="resources.html">家長資源</a></h3><p>入門錦囊、免費下載與常見問題。</p></div>
-  <div class="card">${cardThumb('card-support.webp', '教練會員區示意')}<h3><a href="coach-share.html">教練分享／會員區</a></h3><p>進階課堂策略、教材與同行交流（需核准名單登入）。</p></div>
+  <div class="card reveal stagger-1">${cardThumb('card-support.webp', '香港支援系統示意插畫')}<h3><a href="sen-support-hk.html">香港支援系統</a></h3><p>認識特殊需要的基本概念，以及教育、社福等本地支援如何與游泳課銜接。</p></div>
+  <div class="card reveal stagger-2">${cardThumb('card-overview.webp', 'SEN 習泳價值示意')}<h3><a href="sen-swim-benefits.html">習泳的價值</a></h3><p>水中活動如何幫助感覺、動作、專注與自信——家長入門。</p></div>
+  <div class="card reveal stagger-3">${cardThumb('card-physical.webp', '水中安全示意')}<h3><a href="sen-swim-safety.html">游泳安全家長指引</a></h3><p>課前準備、更衣室、泳池與課後交接的安全重點。</p></div>
+  <div class="card reveal stagger-4">${cardThumb('card-autism.webp', '自閉症游泳視覺提示示意')}<h3><a href="sen-swim-autism.html">自閉症游泳</a></h3><p>視覺提示、感官調節與固定流程（家長向）。</p></div>
+  <div class="card reveal stagger-5">${cardThumb('card-adhd.webp', 'ADHD 短單元游泳示意')}<h3><a href="sen-swim-adhd.html">ADHD 游泳</a></h3><p>短單元、即時回饋與專注力訓練（家長向）。</p></div>
+  <div class="card reveal stagger-6">${cardThumb('card-overview.webp', '第一次 SEN 泳課流程示意')}<h3><a href="sen-swim-first-lesson.html">第一次 SEN 泳課</a></h3><p>從更衣到離場：家長可預期的流程與「成功」長怎樣。</p></div>
+  <div class="card reveal stagger-1">${cardThumb('card-overview.webp', '家長資源示意')}<h3><a href="resources.html">家長資源</a></h3><p>入門錦囊、免費下載與常見問題。</p></div>
+  <div class="card reveal stagger-2">${cardThumb('card-support.webp', '教練會員區示意')}<h3><a href="coach-share.html">教練分享／會員區</a></h3><p>進階課堂策略、教材與同行交流（需核准名單登入）。</p></div>
 </div>
 ${CTA('<p style="margin-top:1rem"><a href="services.html">查看服務項目</a></p>')}
 </div></section>`,
@@ -926,6 +930,8 @@ ${learnHero('hero-booking.webp', '共融插畫：家庭第一次到泳池見教�
 <p>很多家長最擔心的不是「會不會游」，而是「孩子會不會崩潰、我該站哪裡、教練會不會明白他」。以下是一般 SEN 試堂／首課的可預期節奏——個別孩子會更快或更慢，一切以當日狀態為準。</p>
 ${DISCLAIMER}
 ${learnFigure('teach-visual-schedule.webp', '第一次課流程示意', '看得見的流程，比催促「快啲游」更有用')}
+${motionFig('anim-welcome.svg', '溫柔水波與親子浮板動態示意', '動態示意：先建立安全感，再談技巧')}
+${motionFig('anim-bubbles.svg', '氣泡上升動態示意', '動態示意：小成功像氣泡一樣慢慢累積')}
 <h2>1. 到場前</h2>
 <ul>
 <li>用短句＋圖卡預告：換衣服 → 見教練 → 下水／拍水 → 沖身回家。</li>

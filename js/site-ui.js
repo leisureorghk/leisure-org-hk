@@ -127,11 +127,43 @@
     });
   }
 
+  /** 捲動顯現：全站 .reveal 卡片 */
+  function initReveal() {
+    var els = document.querySelectorAll('.reveal');
+    if (!els.length) return;
+    function show(el) {
+      el.classList.add('visible');
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      els.forEach(show);
+      return;
+    }
+    if (!('IntersectionObserver' in window)) {
+      els.forEach(show);
+      return;
+    }
+    var io = new IntersectionObserver(
+      function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            show(entry.target);
+            io.unobserve(entry.target);
+          }
+        });
+      },
+      { rootMargin: '0px 0px -8% 0px', threshold: 0.12 }
+    );
+    els.forEach(function (el) {
+      io.observe(el);
+    });
+  }
+
   initLoading();
   function onReady() {
     initHeaderSearch();
     injectCoachShareNav();
     initMobileNav();
+    initReveal();
   }
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', onReady);

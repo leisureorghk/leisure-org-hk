@@ -85,6 +85,10 @@ function renderShell(name) {
   root.innerHTML = `
     <h1 style="font-size:1.45rem;margin:0 0 0.35rem">教練會員交流區</h1>
     <p class="coach-muted">深入教材、同行留言與媒體分享。請尊重學員私隱，勿公開可識別個人資料。</p>
+    <figure class="learn-figure motion-figure coach-visual-strip" style="margin:1rem auto 1.25rem">
+      <img src="../images/learn/anim-coach-circle.svg?v=20261022b" alt="教練交流圈動態示意" width="720" height="240" loading="lazy" decoding="async">
+      <figcaption>同行交流：教材、留言與媒體同一個圈子</figcaption>
+    </figure>
     <div class="coach-tabs" role="tablist">
       <button type="button" data-tab="content" class="is-active">深入教材</button>
       <button type="button" data-tab="board">留言板</button>

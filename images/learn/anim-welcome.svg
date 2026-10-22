@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img">
+  <title>Gentle welcome waves and float board</title>
+  <style>
+    .w1{animation:wave 7s ease-in-out infinite}
+    .w2{animation:wave 9s ease-in-out infinite reverse}
+    .sun{animation:glow 5s ease-in-out infinite}
+    .float{animation:bob 4.5s ease-in-out infinite}
+    @keyframes wave{0%,100%{transform:translateX(0)}50%{transform:translateX(-18px)}}
+    @keyframes glow{0%,100%{opacity:.55}50%{opacity:.95}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    @media (prefers-reduced-motion:reduce){.w1,.w2,.sun,.float{animation:none}}
+  </style>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E8F4FB"/>
+      <stop offset="100%" stop-color="#B8D9F0"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="240" rx="20" fill="url(#sky)"/>
+  <circle class="sun" cx="580" cy="58" r="28" fill="#F7C948" opacity=".7"/>
+  <path class="w1" d="M0 150 Q90 120 180 150 T360 150 T540 150 T720 150 V240 H0 Z" fill="#1E5799" opacity=".35"/>
+  <path class="w2" d="M0 170 Q90 145 180 170 T360 170 T540 170 T720 170 V240 H0 Z" fill="#2A9D8F" opacity=".45"/>
+  <g class="float">
+    <ellipse cx="220" cy="128" rx="42" ry="14" fill="#fff" opacity=".85"/>
+    <circle cx="200" cy="118" r="16" fill="#F4A261"/>
+    <circle cx="248" cy="116" r="14" fill="#E9C46A"/>
+    <rect x="188" y="132" width="70" height="8" rx="4" fill="#1E5799" opacity=".5"/>
+  </g>
+  <g class="float" style="animation-delay:1.2s">
+    <circle cx="460" cy="105" r="12" fill="#2A9D8F"/>
+    <rect x="448" y="116" width="24" height="28" rx="8" fill="#1E5799"/>
+  </g>
+</svg>

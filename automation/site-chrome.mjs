@@ -1,9 +1,9 @@
 /**
  * 全站共用 header／footer／腳本引用（單一來源）
  */
-export const CSS_HREF = 'css/style.css?v=20261021h';
+export const CSS_HREF = 'css/style.css?v=20261022b';
 
-export const SCRIPT_TAGS = `<script src="js/site-ui.js?v=20261021h" defer></script>
+export const SCRIPT_TAGS = `<script src="js/site-ui.js?v=20261022b" defer></script>
     <script src="js/share.js?v=20261021a" defer></script>
     <script src="js/analytics.js?v=20260525a" defer></script>
     <script src="js/security.js"></script>`;
