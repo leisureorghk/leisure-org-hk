@@ -71,19 +71,18 @@ jobs:
             --exclude='Thumbs.db' \
             --exclude='README.md' \
             ./ _site/
-          # Learn 只留轉址入口
+          # Learn 只留轉址入口；深入 SEN 頁以登入碼門檻部署（coach-gate.js）
           mkdir -p _site/Learn
           node automation/write-coach-redirect-stubs.mjs --out _site
           test -f _site/index.html
           test -f _site/sitemap.xml
+          test -f _site/js/coach-gate.js
+          test -f _site/coach-share.html
+          test -f _site/coach-app/index.html
           test ! -d _site/private
           test ! -d _site/tools
-          # 確認深入頁為轉址殼而非全文
-          if grep -q 'TEACCH／STEP' _site/sen-swim-classroom.html 2>/dev/null; then
-            echo "ERROR: deep classroom content leaked into Pages" >&2
-            exit 1
-          fi
-          grep -q '教練會員區' _site/sen-swim-classroom.html
+          grep -q 'coach-gate' _site/sen-swim-classroom.html
+          grep -q 'requireCoachAccess' _site/sen-swim-classroom.html
           echo "Pages artifact ready: $(find _site -type f | wc -l) files"
 
       - name: Setup Pages

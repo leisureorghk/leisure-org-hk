@@ -6,6 +6,7 @@
     <meta name="description" content="智力障礙（智障）及多重障礙學童的游泳教學：分步指令、重複練習、安全意識與耐心節奏，香港 SEN 游泳。">
     <meta name="keywords" content="智力障礙游泳, 智障游泳, 多重障礙游泳, SEN游泳, 特殊需要游泳教學">
     <title>智力障礙及多重障礙游泳教學 | 新天地</title>
+    <meta name="robots" content="noindex, nofollow">
     <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
     <link rel="stylesheet" href="css/style.css?v=20261026a">
 </head>
@@ -40,6 +41,11 @@
             <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="開啟選單"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
         </div>
     </header>
+<div class="container" style="max-width:960px;margin:0.75rem auto 0;padding:0 1rem;font-size:0.9rem">
+  <a href="coach-app/index.html">教練會員區</a> · <a href="coach-share.html">教練分享區</a>
+  · <button type="button" id="coach-page-logout" style="border:0;background:none;color:var(--ocean-blue);cursor:pointer;font:inherit;padding:0">登出</button>
+</div>
+<script>document.getElementById('coach-page-logout')?.addEventListener('click',function(){CoachGate&&CoachGate.logout();});</script>
     <section class="page-header"><div class="container"><h1>智力障礙及多重障礙與游泳</h1><p>把大目標拆成小步驟，用重複與安全感建立水中能力</p></div></section>
 <div class="learn-hero"><figure>
 <img src="images/learn/hero-sen-intellectual.webp" alt="共融插畫：教練以圖像提示協助智力障礙孩子學游泳" width="960" height="540" loading="lazy" decoding="async">
@@ -104,5 +110,8 @@
         navCloseBtn&&navCloseBtn.addEventListener('click',closeNav);
         navBackdrop&&navBackdrop.addEventListener('click',closeNav);
     </script>
+    
+    <script src="js/coach-gate.js?v=20261026c"></script>
+    <script>window.CoachGate&&CoachGate.requireCoachAccess();</script>
 </body>
 </html>

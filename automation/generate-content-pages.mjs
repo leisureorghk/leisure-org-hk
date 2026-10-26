@@ -123,8 +123,23 @@ function attachExtras(file, body) {
   return body + block;
 }
 
-function shell({ title, description, keywords, bodyHtml, file }) {
+function shell({ title, description, keywords, bodyHtml, file, gated = false }) {
   const footerVariant = FULL_FOOTER_FILES.has(file) ? 'full' : 'compact';
+  const robots = gated
+    ? `\n    <meta name="robots" content="noindex, nofollow">`
+    : '';
+  const gateScripts = gated
+    ? `
+    <script src="js/coach-gate.js?v=20261026c"></script>
+    <script>window.CoachGate&&CoachGate.requireCoachAccess();</script>`
+    : '';
+  const coachBar = gated
+    ? `<div class="container" style="max-width:960px;margin:0.75rem auto 0;padding:0 1rem;font-size:0.9rem">
+  <a href="coach-app/index.html">教練會員區</a> · <a href="coach-share.html">教練分享區</a>
+  · <button type="button" id="coach-page-logout" style="border:0;background:none;color:var(--ocean-blue);cursor:pointer;font:inherit;padding:0">登出</button>
+</div>
+<script>document.getElementById('coach-page-logout')?.addEventListener('click',function(){CoachGate&&CoachGate.logout();});</script>`
+    : '';
   return `<!DOCTYPE html>
 <html lang="zh-Hant-HK">
 <head>
@@ -132,7 +147,7 @@ function shell({ title, description, keywords, bodyHtml, file }) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name="description" content="${description}">
     <meta name="keywords" content="${keywords}">
-    <title>${title}</title>
+    <title>${title}</title>${robots}
     <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
     <link rel="stylesheet" href="${CSS_HREF}">
 </head>
@@ -140,10 +155,12 @@ function shell({ title, description, keywords, bodyHtml, file }) {
     <div class="loading" id="loading"><div class="loading-spinner"></div></div>
     <div class="nav-backdrop" id="nav-backdrop"></div>
 ${renderHeader({ active: activeFromFile(file) })}
+${coachBar}
     ${bodyHtml}
 ${renderFooter({ variant: footerVariant })}
     ${SCRIPT_TAGS}
     ${renderNavInlineScript()}
+    ${gateScripts}
 </body>
 </html>`;
 }
@@ -172,7 +189,7 @@ ${motionFig('anim-visual-schedule.svg', '視覺流程卡動態示意', '看得�
   <div class="card reveal stagger-5">${cardThumb('card-adhd.webp', 'ADHD 短單元游泳示意')}<h3><a href="sen-swim-adhd.html">ADHD 游泳</a></h3><p>短單元、即時回饋與專注力訓練（家長向）。</p></div>
   <div class="card reveal stagger-6">${cardThumb('card-overview.webp', '第一次 SEN 泳課流程示意')}<h3><a href="sen-swim-first-lesson.html">第一次 SEN 泳課</a></h3><p>從更衣到離場：家長可預期的流程與「成功」長怎樣。</p></div>
   <div class="card reveal stagger-1">${cardThumb('card-overview.webp', '家長資源示意')}<h3><a href="resources.html">家長資源</a></h3><p>入門錦囊、免費下載與常見問題。</p></div>
-  <div class="card reveal stagger-2">${cardThumb('card-support.webp', '教練會員區示意')}<h3><a href="coach-share.html">教練分享／會員區</a></h3><p>進階課堂策略、教材與同行交流（需核准名單登入）。</p></div>
+  <div class="card reveal stagger-2">${cardThumb('card-support.webp', '教練分享區示意')}<h3><a href="coach-share.html">教練分享區（登入碼）</a></h3><p>進階課堂策略與留言：WhatsApp 索取登入碼後進入。</p></div>
 </div>
 ${CTA('<p style="margin-top:1rem"><a href="services.html">查看服務項目</a></p>')}
 </div></section>`,
@@ -1067,17 +1084,20 @@ ${DISCLAIMER}
 fs.mkdirSync(deepArchive, { recursive: true });
 
 for (const p of [...landings, ...articles]) {
+  const gated = deepSet.has(p.file);
   const html = shell({
     title: p.title,
     description: p.description,
     keywords: p.keywords,
     bodyHtml: attachExtras(p.file, p.body),
     file: p.file,
+    gated,
   });
-  if (deepSet.has(p.file)) {
+  if (gated) {
+    // 備份＋正式站：登入碼門檻頁（靜態，無 Firebase）
     fs.writeFileSync(path.join(deepArchive, p.file), html, 'utf8');
-    fs.writeFileSync(path.join(root, p.file), redirectStub(p.file), 'utf8');
-    console.log('Wrote private+stub', p.file);
+    fs.writeFileSync(path.join(root, p.file), html, 'utf8');
+    console.log('Wrote gated', p.file);
   } else {
     fs.writeFileSync(path.join(root, p.file), html, 'utf8');
     console.log('Wrote', p.file);

@@ -12,8 +12,8 @@
 | `automation/` | 內容生成、SEO、摘要／週報腳本（Node） |
 | `Learn/` | 教練教材本機／私密來源（**不**部署到 Pages） |
 | `private/coach-html/` | 深入 SEN 全文備份（不部署） |
-| `coach-app/` | Firebase 會員區前端殼 |
-| `docs/` | 營運說明（含 [`docs/COACH_FIREBASE.md`](docs/COACH_FIREBASE.md)） |
+| `coach-app/` | 登入碼通過後的教練會員區（留言／限制內容目錄） |
+| `docs/` | 營運說明（含 [`docs/COACH_ACCESS.md`](docs/COACH_ACCESS.md)） |
 | `tools/` | 本機舊檢查／同步腳本（不部署到 Pages） |
 
 公開頁分組見 [`docs/SITE_MAP.md`](docs/SITE_MAP.md)。

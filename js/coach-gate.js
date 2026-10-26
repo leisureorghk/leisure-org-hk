@@ -1,6 +1,6 @@
 /**
- * @deprecated 已改為 Firebase 會員（見 js/coach-auth.js、docs/COACH_FIREBASE.md）。
- * 保留此檔僅供舊 Learn 本機副本轉址：未登入導回 coach-share.html。
+ * 教練分享區登入碼門檻（靜態站，無需 Firebase）
+ * 登入狀態存 sessionStorage；深入頁呼叫 requireCoachAccess()。
  */
 (function (global) {
   'use strict';
@@ -14,6 +14,9 @@
     var path = String(location.pathname || '').replace(/\\/g, '/');
     var i = path.indexOf('/Learn/');
     if (i === -1) {
+      if (/\/coach\//.test(path) || /\/coach-app\//.test(path)) {
+        return '../' + fileName;
+      }
       if (/特殊需要人士教師課程/.test(path)) {
         var segs = path.split('/').filter(Boolean);
         var learnAt = segs.indexOf('Learn');
@@ -27,14 +30,6 @@
     var after = path.slice(i + 1);
     var ups2 = after.split('/').length - 1;
     return '../'.repeat(ups2) + fileName;
-  }
-
-  function courseIndexHref() {
-    var path = String(location.pathname || '').replace(/\\/g, '/');
-    if (path.indexOf('/Learn/') === -1 && !/特殊需要人士教師課程/.test(path)) {
-      return encodeURI('Learn/特殊需要人士教師課程/index.html');
-    }
-    return 'index.html';
   }
 
   function isUnlocked() {
@@ -87,12 +82,30 @@
     }
   }
 
-  /** Learn 教材頁：未登入則導向教練分享區 */
+  function resolveNext(nextRaw) {
+    var next = String(nextRaw || '').trim();
+    if (!next) return hrefToSiteFile('coach-app/index.html');
+    try {
+      next = decodeURIComponent(next);
+    } catch (e) {
+      /* keep */
+    }
+    if (/^https?:\/\//i.test(next) || next.indexOf('//') === 0) {
+      return hrefToSiteFile('coach-app/index.html');
+    }
+    if (next.charAt(0) === '/') next = next.slice(1);
+    if (!/\.html($|\?)/i.test(next) && next.indexOf('/') === -1) {
+      next = next + '.html';
+    }
+    return hrefToSiteFile(next);
+  }
+
+  /** 深入頁／會員區：未登入則導向教練分享區 */
   function requireCoachAccess() {
     markNoIndex();
     if (isUnlocked()) return;
     var gate = hrefToSiteFile('coach-share.html');
-    var next = encodeURIComponent(location.pathname + location.search + location.hash);
+    var next = encodeURIComponent(location.pathname.split('/').pop() || 'coach-app/index.html');
     location.replace(gate + (gate.indexOf('?') >= 0 ? '&' : '?') + 'next=' + next);
   }
 
@@ -108,7 +121,7 @@
     verifyPasscode: verifyPasscode,
     requireCoachAccess: requireCoachAccess,
     hrefToSiteFile: hrefToSiteFile,
-    courseIndexHref: courseIndexHref,
+    resolveNext: resolveNext,
     logout: logout,
     markNoIndex: markNoIndex,
   };

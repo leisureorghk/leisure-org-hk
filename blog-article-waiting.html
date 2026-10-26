@@ -40,6 +40,7 @@
             <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="開啟選單"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
         </div>
     </header>
+
     <section class="page-header"><div class="container"><h1>教了三十年游泳，我學會的一件事：等待</h1><p>2026年2月 · 曹教練</p></div></section>
 <section class="section"><div class="container article-body">
 <p>年輕的時候，我總是急著看到學生進步。現在我明白了：有些孩子需要的不只是教學，他們需要的是有人願意在他們旁邊坐著，等到他們準備好的那一刻。</p>
@@ -52,6 +53,10 @@
             </div>
         </div>
     </footer>
+    <script src="js/site-ui.js?v=20261022b" defer></script>
+    <script src="js/share.js?v=20261021a" defer></script>
+    <script src="js/analytics.js?v=20260525a" defer></script>
+    <script src="js/security.js"></script>
     <script>
         const mobileMenuBtn=document.getElementById('mobile-menu-btn'),nav=document.getElementById('nav'),navBackdrop=document.getElementById('nav-backdrop'),navCloseBtn=document.getElementById('nav-close-btn');
         function openNav(){nav.classList.add('active');navBackdrop.classList.add('active');document.body.style.overflow='hidden';}
@@ -60,9 +65,6 @@
         navCloseBtn&&navCloseBtn.addEventListener('click',closeNav);
         navBackdrop&&navBackdrop.addEventListener('click',closeNav);
     </script>
-    <script src="js/site-ui.js?v=20261022b" defer></script>
-    <script src="js/share.js?v=20261021a" defer></script>
-    <script src="js/analytics.js?v=20260525a" defer></script>
-    <script src="js/security.js"></script>
+    
 </body>
 </html>

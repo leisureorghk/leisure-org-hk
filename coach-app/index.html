@@ -6,29 +6,124 @@
   <meta name="robots" content="noindex, nofollow">
   <title>教練會員區 | 新天地</title>
   <link rel="icon" type="image/svg+xml" href="../images/icons/app-icon.svg">
-  <link rel="stylesheet" href="../css/style.css?v=20261026a">
-  <link rel="stylesheet" href="coach-app.css?v=3">
+  <link rel="stylesheet" href="../css/style.css?v=20261026c">
+  <link rel="stylesheet" href="coach-app.css?v=4">
 </head>
 <body>
   <div class="loading" id="loading"><div class="loading-spinner"></div></div>
   <header class="coach-app-bar">
     <div class="coach-app-bar-inner">
       <a href="../coach-share.html" class="coach-app-brand">
-        <img src="../images/icons/logo-header.svg" alt="" width="28" height="28" style="vertical-align:middle;margin-right:0.4rem;border-radius:6px">
+        <img src="../images/icons/logo-header.svg" alt="" width="28" height="28" style="vertical-align:middle;margin-right:0.4rem;filter:brightness(0) invert(1)">
         新天地 · 教練會員區
       </a>
       <div class="coach-app-bar-actions">
-        <span id="coach-user-label" class="coach-user-label"></span>
-        <button type="button" class="btn btn-outline" id="coach-logout" hidden>登出</button>
+        <button type="button" class="btn btn-outline" id="coach-logout">登出</button>
       </div>
     </div>
   </header>
 
   <main class="coach-app-main container" id="coach-app-root">
-    <p class="coach-muted" id="coach-boot">正在檢查登入狀態…</p>
+    <h1 style="font-size:1.45rem;margin:0 0 0.35rem">教練會員交流區</h1>
+    <p class="coach-muted">登入碼通過後可閱讀限制內容，並以 WhatsApp 留言給本會。請尊重學員私隱，勿公開可識別個人資料。</p>
+
+    <div class="coach-tabs" role="tablist">
+      <button type="button" data-tab="content" class="is-active">限制內容</button>
+      <button type="button" data-tab="board">留言</button>
+      <button type="button" data-tab="public">公開資料</button>
+    </div>
+
+    <section class="coach-panel is-open" id="panel-content">
+      <div class="coach-card">
+        <h3>進階教材（需登入碼）</h3>
+        <p class="coach-muted">以下頁面僅供已獲登入碼的同行閱讀；對外搜尋引擎會盡量標為 noindex。</p>
+        <ul class="coach-list" id="deep-list"></ul>
+      </div>
+    </section>
+
+    <section class="coach-panel" id="panel-board">
+      <div class="coach-card">
+        <h3>給本會留言</h3>
+        <p class="coach-muted">靜態網站無法即時公開留言板；請用 WhatsApp 傳送，本會會在合適渠道回覆或轉達同行。</p>
+        <form id="board-form" class="coach-form">
+          <label for="board-name">你的稱呼</label>
+          <input type="text" id="board-name" required maxlength="40" placeholder="例如：陳教練">
+          <label for="board-body">留言內容</label>
+          <textarea id="board-body" required maxlength="800" rows="5" placeholder="想交流的主題、課堂觀察、或想問的問題…"></textarea>
+          <div class="coach-actions">
+            <button type="submit" class="btn btn-primary">以 WhatsApp 傳送留言</button>
+          </div>
+        </form>
+      </div>
+    </section>
+
+    <section class="coach-panel" id="panel-public">
+      <div class="coach-card">
+        <h3>公開家長／同行入門</h3>
+        <p class="coach-muted">無需登入碼亦可閱讀：</p>
+        <ul class="coach-list">
+          <li><a href="../sen-guide.html">認識特殊需要總覽</a></li>
+          <li><a href="../sen-swim-first-lesson.html">第一次 SEN 泳課</a></li>
+          <li><a href="../sen-swim-benefits.html">習泳的價值</a></li>
+          <li><a href="../sen-swim-safety.html">游泳安全家長指引</a></li>
+          <li><a href="../sen-swim-autism.html">自閉症游泳（家長向）</a></li>
+          <li><a href="../sen-swim-adhd.html">ADHD 游泳（家長向）</a></li>
+          <li><a href="../resources.html">家長資源</a></li>
+        </ul>
+      </div>
+    </section>
   </main>
 
-  <script src="../js/firebase-config.js"></script>
-  <script type="module" src="coach-app.js?v=20261026a"></script>
+  <script src="../js/coach-gate.js?v=20261026c"></script>
+  <script>
+    (function () {
+      var loading = document.getElementById('loading');
+      function hideLoading() { if (loading) loading.style.display = 'none'; }
+      if (!window.CoachGate || !CoachGate.isUnlocked()) {
+        CoachGate && CoachGate.requireCoachAccess();
+        return;
+      }
+      hideLoading();
+
+      document.getElementById('coach-logout').addEventListener('click', function () {
+        CoachGate.logout();
+      });
+
+      var deep = [
+        ['sen-swim-classroom.html', '課堂怎樣上'],
+        ['sen-swim-behavior.html', '正向行為'],
+        ['sen-swim-communication.html', '泳池溝通'],
+        ['sen-swim-sensory.html', '感覺統合'],
+        ['sen-swim-wellbeing.html', '情緒與心理健康'],
+        ['sen-swim-learning.html', '讀寫／動作協調'],
+        ['sen-swim-physical.html', '肢體・視覺・聽力'],
+        ['sen-swim-intellectual.html', '智力及多重障礙'],
+        ['sen-swim-down-syndrome.html', '唐氏綜合症'],
+        ['sen-swim-development.html', '游泳運動發展']
+      ];
+      var ul = document.getElementById('deep-list');
+      ul.innerHTML = deep.map(function (x) {
+        return '<li><a href="../' + x[0] + '">' + x[1] + '</a></li>';
+      }).join('');
+
+      document.querySelectorAll('.coach-tabs button').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          document.querySelectorAll('.coach-tabs button').forEach(function (b) { b.classList.remove('is-active'); });
+          btn.classList.add('is-active');
+          document.querySelectorAll('.coach-panel').forEach(function (p) { p.classList.remove('is-open'); });
+          var panel = document.getElementById('panel-' + btn.getAttribute('data-tab'));
+          if (panel) panel.classList.add('is-open');
+        });
+      });
+
+      document.getElementById('board-form').addEventListener('submit', function (e) {
+        e.preventDefault();
+        var name = document.getElementById('board-name').value.trim();
+        var body = document.getElementById('board-body').value.trim();
+        var text = '【教練會員區留言】\n稱呼：' + name + '\n留言：\n' + body;
+        window.open('https://wa.me/85297083907?text=' + encodeURIComponent(text), '_blank', 'noopener');
+      });
+    })();
+  </script>
 </body>
 </html>

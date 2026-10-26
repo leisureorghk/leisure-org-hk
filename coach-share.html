@@ -3,43 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <meta name="description" content="新天地教練分享區：特殊需要人士游泳教師證書課程自學教材（需登入碼，內部使用）。">
-    <meta name="keywords" content="教練分享區, 特殊需要人士教師課程, SEN游泳教師">
+    <meta name="description" content="新天地教練分享區：以 WhatsApp 索取登入碼，閱讀進階教材與留言。">
+    <meta name="keywords" content="教練分享區, SEN游泳教師, 登入碼">
     <title>教練分享區 | 新天地</title>
-    
-    <!-- seo-head -->
-    <link rel="canonical" href="https://www.leisure.org.hk/coach-share.html">
-    <link rel="alternate" hreflang="zh-Hant-HK" href="https://www.leisure.org.hk/coach-share.html">
-    <link rel="alternate" hreflang="x-default" href="https://www.leisure.org.hk/coach-share.html">
-    <link rel="sitemap" type="application/xml" title="Sitemap" href="https://www.leisure.org.hk/sitemap.xml">
-    <link rel="manifest" href="https://www.leisure.org.hk/site.webmanifest">
-    <link rel="alternate" type="application/rss+xml" title="新天地 教練專欄" href="https://www.leisure.org.hk/rss.xml">
     <meta name="robots" content="noindex, nofollow">
-    <meta name="googlebot" content="noindex, nofollow">
-    <meta name="bingbot" content="noindex, nofollow">
-    <meta name="slurp" content="noindex, nofollow">
-    <meta name="author" content="新天地 SEN學生游泳及多功能發展中心">
-    <meta name="geo.region" content="HK">
-    <meta name="geo.placename" content="Hong Kong">
-    <meta property="og:locale" content="zh_Hant_HK">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="新天地">
-    <meta property="og:title" content="教練分享區 | 新天地">
-    <meta property="og:description" content="新天地教練分享區：特殊需要人士游泳教師證書課程自學教材（需登入碼，內部使用）。">
-    <meta property="og:url" content="https://www.leisure.org.hk/coach-share.html">
-    <meta property="og:image" content="https://www.leisure.org.hk/images/learn/hero-blog.webp">
-    <meta property="og:image:alt" content="教練分享區">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="教練分享區 | 新天地">
-    <meta name="twitter:description" content="新天地教練分享區：特殊需要人士游泳教師證書課程自學教材（需登入碼，內部使用）。">
-    <meta name="twitter:image" content="https://www.leisure.org.hk/images/learn/hero-blog.webp">
-    <meta name="google-site-verification" content="6eT8B5wew1o97FH2hJRpmKznvw9qpp_qnII0puP40Ks">
-    <!-- /seo-head -->
-<link rel="canonical" href="https://www.leisure.org.hk/coach-share.html">
+    <link rel="canonical" href="https://www.leisure.org.hk/coach-share.html">
     <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
-    <link rel="stylesheet" href="css/style.css?v=20261026a">
+    <link rel="stylesheet" href="css/style.css?v=20261026c">
     <style>
-      .coach-gate-wrap { max-width: 420px; margin: 0 auto; }
       .coach-gate-card {
         background: var(--white, #fff);
         border-radius: 16px;
@@ -48,26 +19,28 @@
         border: 1px solid rgba(30, 87, 153, 0.12);
       }
       .coach-gate-card label { display: block; font-weight: 600; margin-bottom: 0.5rem; color: var(--ocean-deep, #0D2847); }
-      .coach-gate-card input[type="password"] {
+      .coach-gate-card input[type="password"],
+      .coach-gate-card input[type="text"],
+      .coach-gate-card input[type="tel"],
+      .coach-gate-card textarea {
         width: 100%;
         padding: 0.85rem 1rem;
         border: 1.5px solid var(--gray-light, #CBD5E0);
         border-radius: 10px;
         font-size: 1rem;
         box-sizing: border-box;
-      }
-      .coach-gate-card input:focus {
-        outline: none;
-        border-color: var(--ocean-blue, #1E5799);
-        box-shadow: 0 0 0 3px rgba(30, 87, 153, 0.15);
+        font: inherit;
       }
       .coach-gate-err { color: #b91c1c; font-size: 0.9rem; margin-top: 0.75rem; min-height: 1.25em; }
       .coach-portal { display: none; }
       .coach-portal.is-open { display: block; }
-      .coach-gate-form.is-hidden { display: none; }
+      .coach-gate-form.is-hidden,
+      #coach-gate-panel.is-hidden { display: none; }
       .coach-portal-links { display: grid; gap: 0.85rem; margin-top: 1.25rem; }
       .coach-portal-links a.btn { text-align: center; }
       .coach-note { font-size: 0.9rem; color: var(--text-muted, #718096); line-height: 1.65; margin-top: 1rem; }
+      .coach-public-links { list-style: none; padding: 0; margin: 1rem 0 0; }
+      .coach-public-links li { margin: 0.4rem 0; }
     </style>
 </head>
 <body>
@@ -105,53 +78,70 @@
     <section class="page-header">
         <div class="container">
             <h1>教練分享區</h1>
-            <p>歡迎有志 SEN 游泳教學的同行加入 · 會員交流與進階教材</p>
+            <p>公開資料自由閱讀 · 進階內容請以登入碼進入</p>
         </div>
     </section>
 
     <div class="learn-hero coach-visual-strip">
       <figure>
         <img src="images/learn/hero-blog.webp" alt="共融插畫：教練同行交流與教材分享" width="960" height="540" loading="eager" decoding="async">
-        <figcaption>同行交流：核准會員可閱讀進階教材、留言與分享媒體</figcaption>
+        <figcaption>公開入門人人可看；限制內容需本會發出的登入碼</figcaption>
       </figure>
     </div>
-    <figure class="learn-figure motion-figure coach-visual-strip">
-      <img src="images/learn/anim-coach-circle.svg?v=20261022b" alt="動態示意：教練交流圈" width="720" height="240" loading="lazy" decoding="async">
-      <figcaption>動態示意：以名單守護的交流圈，內容不公開在搜尋結果</figcaption>
-    </figure>
 
     <section class="section">
         <div class="container" style="max-width:720px">
+
             <div class="coach-gate-card reveal stagger-1" style="margin-bottom:1.5rem">
-                <h2 style="margin:0 0 0.75rem;font-size:1.2rem;color:var(--ocean-deep,#0D2847)">有志一同？給本會留言</h2>
-                <p class="coach-note" style="margin-top:0">若你關心特殊需要學童游泳，歡迎留下聯絡與簡介。訊息會經 WhatsApp 傳給本會，我們會盡快回覆是否適合加入核准名單。</p>
+                <h2 style="margin:0 0 0.75rem;font-size:1.2rem;color:var(--ocean-deep,#0D2847)">公開資料（無需登入碼）</h2>
+                <p class="coach-note" style="margin-top:0">家長與有志同行可先閱讀入門整理：</p>
+                <ul class="coach-public-links">
+                  <li><a href="sen-guide.html">認識特殊需要總覽</a></li>
+                  <li><a href="sen-swim-first-lesson.html">第一次 SEN 泳課</a></li>
+                  <li><a href="sen-swim-benefits.html">習泳的價值</a></li>
+                  <li><a href="sen-swim-safety.html">游泳安全家長指引</a></li>
+                  <li><a href="sen-swim-autism.html">自閉症游泳（家長向）</a></li>
+                  <li><a href="sen-swim-adhd.html">ADHD 游泳（家長向）</a></li>
+                  <li><a href="resources.html">家長資源</a></li>
+                </ul>
+            </div>
+
+            <div class="coach-gate-card reveal stagger-2" style="margin-bottom:1.5rem">
+                <h2 style="margin:0 0 0.75rem;font-size:1.2rem;color:var(--ocean-deep,#0D2847)">索取登入碼（WhatsApp）</h2>
+                <p class="coach-note" style="margin-top:0">進階課堂策略屬限制內容。請留下聯絡與簡介，本會審核後以 WhatsApp 回覆登入碼。</p>
                 <form id="coach-join-form" class="coach-gate-form" style="margin-top:1rem">
                     <label for="join-name">姓名</label>
                     <input type="text" id="join-name" required maxlength="40" autocomplete="name" placeholder="你的稱呼">
                     <label for="join-phone" style="margin-top:0.85rem;display:block">電話</label>
                     <input type="tel" id="join-phone" required maxlength="20" autocomplete="tel" placeholder="香港手機 8 位">
-                    <label for="join-msg" style="margin-top:0.85rem;display:block">留言</label>
-                    <textarea id="join-msg" required maxlength="500" rows="4" placeholder="例如：教學年資、希望交流的主題…" style="width:100%;box-sizing:border-box;padding:0.85rem 1rem;border:1.5px solid var(--gray-light,#CBD5E0);border-radius:10px;font:inherit"></textarea>
+                    <label for="join-msg" style="margin-top:0.85rem;display:block">簡介／用途</label>
+                    <textarea id="join-msg" required maxlength="500" rows="4" placeholder="例如：教學年資、任教機構、希望閱讀哪些主題…"></textarea>
                     <p style="margin-top:1.25rem">
-                        <button type="submit" class="btn btn-primary" style="width:100%">以 WhatsApp 傳送給本會</button>
+                        <button type="submit" class="btn btn-primary" style="width:100%">WhatsApp 申請登入碼</button>
                     </p>
                 </form>
             </div>
 
-            <div class="coach-gate-card reveal stagger-2" id="coach-gate-panel">
-                <h2 style="margin:0 0 0.75rem;font-size:1.2rem;color:var(--ocean-deep,#0D2847)">已在名單？登入會員區</h2>
-                <p class="coach-note" style="margin-top:0">本會核准後會提供<strong>電郵與密碼</strong>（免費 Firebase 方案）。登入後可閱讀深入教材、互留言與上載媒體。</p>
-                <form class="coach-gate-form" id="coach-gate-form" autocomplete="on" style="margin-top:1rem">
-                    <label for="coach-email">電郵</label>
-                    <input type="email" id="coach-email" name="email" required maxlength="120" autocomplete="username" placeholder="本會提供的登入電郵">
-                    <label for="coach-pass" style="margin-top:0.85rem;display:block">密碼</label>
-                    <input type="password" id="coach-pass" name="password" required maxlength="64" autocomplete="current-password" placeholder="密碼" minlength="6">
+            <div class="coach-gate-card reveal stagger-3" id="coach-gate-panel">
+                <h2 style="margin:0 0 0.75rem;font-size:1.2rem;color:var(--ocean-deep,#0D2847)">已有登入碼？進入教練區</h2>
+                <p class="coach-note" style="margin-top:0">輸入本會提供的登入碼後，可閱讀限制內容，並以 WhatsApp 留言。</p>
+                <form class="coach-gate-form" id="coach-gate-form" autocomplete="off" style="margin-top:1rem">
+                    <label for="coach-pass">登入碼</label>
+                    <input type="password" id="coach-pass" name="passcode" required maxlength="64" autocomplete="current-password" placeholder="登入碼">
                     <p class="coach-gate-err" id="coach-gate-err" role="alert"></p>
                     <p style="margin-top:1.25rem">
-                        <button type="submit" class="btn btn-primary" style="width:100%">登入會員區</button>
+                        <button type="submit" class="btn btn-primary" style="width:100%">登入教練區</button>
                     </p>
                 </form>
-                <p class="coach-note">家長入門資料請使用 <a href="resources.html">家長資源</a>；進階課堂策略已改為會員專區，不再以靜態網址公開全文。</p>
+            </div>
+
+            <div class="coach-gate-card coach-portal" id="coach-portal">
+                <h2 style="margin:0 0 0.75rem;font-size:1.2rem;color:var(--ocean-deep,#0D2847)">已登入</h2>
+                <p class="coach-note" style="margin-top:0">此瀏覽器分頁期間有效；關閉分頁後需重新輸入登入碼。</p>
+                <div class="coach-portal-links">
+                  <a class="btn btn-primary" href="coach-app/index.html">進入會員交流區</a>
+                  <button type="button" class="btn btn-secondary" id="coach-logout-btn">登出</button>
+                </div>
             </div>
         </div>
     </section>
@@ -164,23 +154,19 @@
         </div>
     </footer>
 
-    <script src="js/firebase-config.js"></script>
-    <script type="module" src="js/coach-auth.js?v=20261026a"></script>
+    <script src="js/coach-gate.js?v=20261026c"></script>
+    <script src="js/coach-auth.js?v=20261026c"></script>
     <script>
       document.getElementById('coach-join-form').addEventListener('submit', function (e) {
         e.preventDefault();
         var name = document.getElementById('join-name').value.trim();
         var phone = document.getElementById('join-phone').value.trim();
         var msg = document.getElementById('join-msg').value.trim();
-        var text = '【教練分享區／有志加入】\n姓名：' + name + '\n電話：' + phone + '\n留言：\n' + msg;
-        var url = 'https://wa.me/85297083907?text=' + encodeURIComponent(text);
-        window.open(url, '_blank', 'noopener');
+        var text = '【教練分享區／申請登入碼】\n姓名：' + name + '\n電話：' + phone + '\n簡介：\n' + msg;
+        window.open('https://wa.me/85297083907?text=' + encodeURIComponent(text), '_blank', 'noopener');
       });
+      document.getElementById('loading').style.display = 'none';
     </script>
-            <script src="js/site-ui.js?v=20261022b" defer></script>
-    <script src="js/share.js?v=20261021a" defer></script>
-    <script src="js/analytics.js?v=20260525a" defer></script>
-    <script src="js/security.js"></script>
+    <script src="js/site-ui.js?v=20261026c" defer></script>
 </body>
 </html>
-

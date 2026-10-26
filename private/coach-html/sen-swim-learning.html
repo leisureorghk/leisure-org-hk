@@ -6,6 +6,7 @@
     <meta name="description" content="讀寫障礙（Dyslexia）與發展性動作協調障礙（DCD）兒童的游泳教學：示範為主、分步練習、多感官提示，香港 SEN 游泳。">
     <meta name="keywords" content="讀寫障礙游泳, 動作協調障礙, DCD游泳, 特殊學習困難, SEN游泳香港">
     <title>讀寫障礙與動作協調障礙游泳 | 新天地</title>
+    <meta name="robots" content="noindex, nofollow">
     <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
     <link rel="stylesheet" href="css/style.css?v=20261026a">
 </head>
@@ -40,6 +41,11 @@
             <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="開啟選單"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
         </div>
     </header>
+<div class="container" style="max-width:960px;margin:0.75rem auto 0;padding:0 1rem;font-size:0.9rem">
+  <a href="coach-app/index.html">教練會員區</a> · <a href="coach-share.html">教練分享區</a>
+  · <button type="button" id="coach-page-logout" style="border:0;background:none;color:var(--ocean-blue);cursor:pointer;font:inherit;padding:0">登出</button>
+</div>
+<script>document.getElementById('coach-page-logout')?.addEventListener('click',function(){CoachGate&&CoachGate.logout();});</script>
     <section class="page-header"><div class="container"><h1>讀寫障礙與動作協調障礙游泳</h1><p>減少文字負擔，把動作拆清楚，讓孩子在水中累積成功經驗</p></div></section>
 <div class="learn-hero"><figure>
 <img src="images/learn/hero-sen-guide.webp" alt="共融插畫：教練以示範與圖示協助特殊學習需要孩子" width="960" height="540" loading="lazy" decoding="async">
@@ -108,5 +114,8 @@
         navCloseBtn&&navCloseBtn.addEventListener('click',closeNav);
         navBackdrop&&navBackdrop.addEventListener('click',closeNav);
     </script>
+    
+    <script src="js/coach-gate.js?v=20261026c"></script>
+    <script>window.CoachGate&&CoachGate.requireCoachAccess();</script>
 </body>
 </html>
