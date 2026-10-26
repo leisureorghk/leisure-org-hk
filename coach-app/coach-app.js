@@ -1,11 +1,10 @@
 /**
- * 教練會員區：教材／留言／媒體（需 Firebase Auth coach claim）
+ * 教練會員區：教材／留言／媒體（Spark：Email 登入 + coaches/{uid}.active）
  */
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js';
 import {
   getAuth,
   onAuthStateChanged,
-  signInWithCustomToken,
   signOut,
 } from 'https://www.gstatic.com/firebasejs/11.0.2/firebase-auth.js';
 import {
@@ -28,10 +27,6 @@ import {
   getDownloadURL,
   listAll,
 } from 'https://www.gstatic.com/firebasejs/11.0.2/firebase-storage.js';
-import {
-  getFunctions,
-  httpsCallable,
-} from 'https://www.gstatic.com/firebasejs/11.0.2/firebase-functions.js';
 
 const root = document.getElementById('coach-app-root');
 const boot = document.getElementById('coach-boot');
@@ -59,7 +54,7 @@ if (!window.LEISURE_FIREBASE_READY || !window.LEISURE_FIREBASE_READY()) {
   hideLoading();
   root.innerHTML = `<div class="coach-card">
     <h3>尚未連接 Firebase</h3>
-    <p class="coach-muted">請管理員於 <code>js/firebase-config.js</code> 填入專案設定，並依 <code>docs/COACH_FIREBASE.md</code> 部署 Functions 與名單。</p>
+    <p class="coach-muted">請管理員於 <code>js/firebase-config.js</code> 填入專案設定，並依 <code>docs/COACH_FIREBASE.md</code> 部署規則與教練名單（Spark 免費方案即可）。</p>
     <p><a class="btn btn-primary" href="../coach-share.html">返回教練分享區</a></p>
   </div>`;
   throw new Error('Firebase config missing');
@@ -69,9 +64,14 @@ const app = initializeApp(window.LEISURE_FIREBASE_CONFIG);
 const auth = getAuth(app);
 const db = getFirestore(app);
 const storage = getStorage(app);
-const functions = getFunctions(app, 'asia-east1');
 
 let currentUser = null;
+
+async function loadCoachProfile(uid) {
+  const snap = await getDoc(doc(db, 'coaches', uid));
+  if (!snap.exists() || snap.data().active !== true) return null;
+  return snap.data();
+}
 
 logoutBtn?.addEventListener('click', async () => {
   await signOut(auth);
@@ -328,16 +328,6 @@ async function refreshMediaList() {
   }
 }
 
-/** 供 coach-share 頁呼叫：完成登入後導向此處 */
-export async function loginWithCredentials(name, phone, code) {
-  const fn = httpsCallable(functions, 'verifyCoachAccess');
-  const res = await fn({ name, phone, code });
-  const token = res.data?.token;
-  if (!token) throw new Error('伺服器未回傳 token');
-  await signInWithCustomToken(auth, token);
-  return res.data;
-}
-
 onAuthStateChanged(auth, async (user) => {
   hideLoading();
   if (boot) boot.remove();
@@ -348,17 +338,13 @@ onAuthStateChanged(auth, async (user) => {
     location.replace(`../coach-share.html${q}`);
     return;
   }
-  // 強制有 coach claim（token 刷新）
-  const token = await user.getIdTokenResult(true);
-  if (!token.claims.coach) {
+  const profile = await loadCoachProfile(user.uid);
+  if (!profile) {
     await signOut(auth);
-    root.innerHTML = `<div class="coach-card"><p class="coach-err">此帳戶沒有教練權限。</p>
+    root.innerHTML = `<div class="coach-card"><p class="coach-err">此帳戶沒有教練權限，或名單尚未啟用。</p>
       <a href="../coach-share.html">返回</a></div>`;
     return;
   }
   currentUser = user;
-  renderShell(user.displayName || '教練');
+  renderShell(profile.name || user.displayName || user.email || '教練');
 });
-
-// 暴露給同域 coach-share（非 module 頁用 session 導向，不直接呼叫）
-window.LeisureCoachApp = { loginWithCredentials };

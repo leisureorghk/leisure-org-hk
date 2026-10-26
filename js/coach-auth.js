@@ -1,16 +1,19 @@
 /**
- * 教練分享區登入：Callable verifyCoachAccess → custom token → coach-app
+ * 教練分享區登入（Spark 免費方案）：Email／密碼 → coach-app
+ * 權限由 Firestore coaches/{uid}.active 控制，不需 Cloud Functions。
  */
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js';
 import {
   getAuth,
   onAuthStateChanged,
-  signInWithCustomToken,
+  signInWithEmailAndPassword,
+  signOut,
 } from 'https://www.gstatic.com/firebasejs/11.0.2/firebase-auth.js';
 import {
-  getFunctions,
-  httpsCallable,
-} from 'https://www.gstatic.com/firebasejs/11.0.2/firebase-functions.js';
+  getFirestore,
+  doc,
+  getDoc,
+} from 'https://www.gstatic.com/firebasejs/11.0.2/firebase-firestore.js';
 
 const form = document.getElementById('coach-gate-form');
 const errEl = document.getElementById('coach-gate-err');
@@ -19,6 +22,15 @@ function nextTarget() {
   const next = new URLSearchParams(location.search).get('next') || '';
   const q = next ? `?next=${encodeURIComponent(next)}` : '';
   return `coach-app/index.html${q}`;
+}
+
+async function assertCoach(auth, db, user) {
+  const snap = await getDoc(doc(db, 'coaches', user.uid));
+  if (!snap.exists() || snap.data().active !== true) {
+    await signOut(auth);
+    throw new Error('此帳戶未在核准教練名單，或尚未啟用。請 WhatsApp 聯絡本會。');
+  }
+  return snap.data();
 }
 
 if (!window.LEISURE_FIREBASE_READY || !window.LEISURE_FIREBASE_READY()) {
@@ -32,36 +44,39 @@ if (!window.LEISURE_FIREBASE_READY || !window.LEISURE_FIREBASE_READY()) {
 } else {
   const app = initializeApp(window.LEISURE_FIREBASE_CONFIG);
   const auth = getAuth(app);
-  const functions = getFunctions(app, 'asia-east1');
+  const db = getFirestore(app);
 
-  onAuthStateChanged(auth, (user) => {
-    if (user) {
-      user.getIdTokenResult().then((t) => {
-        if (t.claims.coach) location.replace(nextTarget());
-      });
+  onAuthStateChanged(auth, async (user) => {
+    if (!user) return;
+    try {
+      await assertCoach(auth, db, user);
+      location.replace(nextTarget());
+    } catch (e) {
+      if (errEl) errEl.textContent = e.message || '沒有教練權限';
     }
   });
 
   form?.addEventListener('submit', async (e) => {
     e.preventDefault();
     if (errEl) errEl.textContent = '';
-    const name = document.getElementById('coach-name')?.value.trim();
-    const phone = document.getElementById('coach-phone')?.value.trim();
-    const code = document.getElementById('coach-pass')?.value || '';
+    const email = document.getElementById('coach-email')?.value.trim();
+    const password = document.getElementById('coach-pass')?.value || '';
     const btn = form.querySelector('button[type="submit"]');
     if (btn) btn.disabled = true;
     try {
-      const fn = httpsCallable(functions, 'verifyCoachAccess');
-      const res = await fn({ name, phone, code });
-      const token = res.data?.token;
-      if (!token) throw new Error('伺服器未回傳登入憑證');
-      await signInWithCustomToken(auth, token);
+      const cred = await signInWithEmailAndPassword(auth, email, password);
+      await assertCoach(auth, db, cred.user);
       location.replace(nextTarget());
     } catch (err) {
-      const msg =
-        err?.message?.replace(/^Firebase:\s*/i, '') ||
-        err?.code ||
-        '登入失敗，請確認姓名、電話與登入碼。';
+      let msg = '登入失敗，請確認電郵與密碼。';
+      const code = err?.code || '';
+      if (code === 'auth/invalid-credential' || code === 'auth/wrong-password' || code === 'auth/user-not-found') {
+        msg = '電郵或密碼不正確。';
+      } else if (code === 'auth/too-many-requests') {
+        msg = '嘗試次數過多，請稍後再試。';
+      } else if (err?.message && !String(err.message).startsWith('Firebase:')) {
+        msg = err.message;
+      }
       if (errEl) errEl.textContent = msg;
     } finally {
       if (btn) btn.disabled = false;

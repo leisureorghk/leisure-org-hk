@@ -1,0 +1,12 @@
+{
+  "_comment": "複製為本機私密檔（勿提交真實資料）。文件 ID 必須是 Firebase Auth 的 User UID。可用 automation/upload-coaches.mjs 上傳。",
+  "coaches": [
+    {
+      "uid": "PASTE_AUTH_USER_UID_HERE",
+      "name": "陳教練",
+      "email": "coach.chen@example.com",
+      "active": true,
+      "note": "範例"
+    }
+  ]
+}

@@ -2,7 +2,9 @@ rules_version = '2';
 service firebase.storage {
   match /b/{bucket}/o {
     function isCoach() {
-      return request.auth != null && request.auth.token.coach == true;
+      return request.auth != null
+        && firestore.exists(/databases/(default)/documents/coaches/$(request.auth.uid))
+        && firestore.get(/databases/(default)/documents/coaches/$(request.auth.uid)).data.active == true;
     }
 
     function isImageOrVideo() {
@@ -14,7 +16,6 @@ service firebase.storage {
       return request.resource.size < 50 * 1024 * 1024;
     }
 
-    // 會員互傳媒體
     match /media/{uid}/{allPaths=**} {
       allow read: if isCoach();
       allow create: if isCoach()
@@ -25,7 +26,6 @@ service firebase.storage {
       allow delete: if isCoach() && request.auth.uid == uid;
     }
 
-    // 教材／深入文附件（僅 Admin SDK 上傳；會員可讀）
     match /coach-materials/{allPaths=**} {
       allow read: if isCoach();
       allow write: if false;

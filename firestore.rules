@@ -1,11 +1,20 @@
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
+    // Spark 免費方案：以 coaches/{uid} 判定會員（無需 Custom Claims／Cloud Functions）
     function isCoach() {
-      return request.auth != null && request.auth.token.coach == true;
+      return request.auth != null
+        && exists(/databases/$(database)/documents/coaches/$(request.auth.uid))
+        && get(/databases/$(database)/documents/coaches/$(request.auth.uid)).data.active == true;
     }
 
-    // 名單僅後端／Admin SDK 可寫；客戶端不可讀（防枚舉）
+    // 教練檔案：本人可讀；僅 Admin SDK／Console 可寫
+    match /coaches/{uid} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      allow write: if false;
+    }
+
+    // 舊版電話名單（Blaze＋Functions 用）；客戶端一律不可讀寫
     match /allowlist/{phoneId} {
       allow read, write: if false;
     }

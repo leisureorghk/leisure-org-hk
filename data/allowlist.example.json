@@ -1,5 +1,5 @@
 {
-  "_comment": "複製為本機私密檔（勿提交真實名單）。上傳用 automation/upload-allowlist.mjs + Admin SDK。",
+  "_comment": "【舊版／Blaze+Functions】電話 allowlist。Spark 免費方案請改用 data/coaches.example.json + Auth 電郵。上傳用 automation/upload-allowlist.mjs。",
   "members": [
     {
       "name": "陳教練",

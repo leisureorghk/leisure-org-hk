@@ -1,5 +1,8 @@
 /**
- * verifyCoachAccess：姓名＋電話＋登入碼 → custom token（claim coach=true）
+ * 【可選｜需 Blaze】verifyCoachAccess：姓名＋電話＋登入碼 → custom token（claim coach=true）
+ *
+ * 預設前台已改為 Spark 免費方案：Email／密碼 + Firestore coaches/{uid}。
+ * 僅在升級 Blaze 並改回自訂登入流程時部署本 Functions。
  *
  * 參數 COACH_ACCESS_CODE_HASH：登入碼 UTF-8 的 SHA-256 hex（小寫）
  */
