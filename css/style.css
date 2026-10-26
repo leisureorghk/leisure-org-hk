@@ -691,25 +691,26 @@ p { margin-bottom: var(--spacing-sm); }
 }
 
 .logo-icon {
-    width: 48px;
-    height: 40px;
+    width: 44px;
+    height: 44px;
     background: transparent;
-    border-radius: 0;
+    border-radius: 8px;
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow: visible;
+    overflow: hidden;
     box-shadow: none;
     flex-shrink: 0;
     transition: transform var(--transition-bounce);
 }
 
 .logo-icon img {
-    width: 48px;
-    height: 40px;
+    width: 44px;
+    height: 44px;
     object-fit: contain;
     filter: none;
     display: block;
+    border-radius: 8px;
 }
 
 .logo:hover .logo-icon {
@@ -3396,13 +3397,13 @@ p { margin-bottom: var(--spacing-sm); }
     }
 
     .logo-icon {
-        width: 52px;
-        height: 42px;
+        width: 48px;
+        height: 48px;
     }
 
     .logo-icon img {
-        width: 52px;
-        height: 42px;
+        width: 48px;
+        height: 48px;
     }
 
     .logo-text span {
@@ -3768,8 +3769,8 @@ p { margin-bottom: var(--spacing-sm); }
 
     .logo-icon,
     .logo-icon img {
-        width: 48px;
-        height: 33px;
+        width: 40px;
+        height: 40px;
     }
 
     .logo-text {
