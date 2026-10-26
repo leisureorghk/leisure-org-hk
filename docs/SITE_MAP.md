@@ -20,18 +20,20 @@
 - `sen-swim-autism.html`、`sen-swim-adhd.html`
 - 下載頁：`download-*.html`
 
-## 深入內容（會員區 — 公開僅轉址殼）
+## 深入內容（登入碼限制）
 
-以下根目錄檔名仍存在，但 **Pages 只部署登入提示**；全文在 `private/coach-html/` 與 Firestore `coachContent`：
+以下根目錄頁有全文，並以 `js/coach-gate.js` 要求登入碼；未登入會導向 `coach-share.html`：
 
-`learning`、`down-syndrome`、`intellectual`、`physical`、`sensory`、`communication`、`behavior`、`classroom`、`wellbeing`、`development`
+`sen-swim-learning`、`down-syndrome`、`intellectual`、`physical`、`sensory`、`communication`、`behavior`、`classroom`、`wellbeing`、`development`
 
-`Learn/` **不部署**到 Pages；本機／私密副本供匯出。
+備份：`private/coach-html/`（不部署）。`Learn/` **不部署**到 Pages。
+
+說明見 [`COACH_ACCESS.md`](./COACH_ACCESS.md)。
 
 ## 教練分享／會員
 
-- `coach-share.html` — 公開招募（WhatsApp）＋登入
-- `coach-app/` — 會員 SPA（教材、留言、媒體）
+- `coach-share.html` — 公開資料連結、WhatsApp 索取登入碼、輸入登入碼
+- `coach-app/` — 登入後：限制內容目錄、WhatsApp 留言、公開資料捷徑
 
 ## 教練專欄／摘要
 
