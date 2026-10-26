@@ -1,5 +1,5 @@
 # 將倉庫靜態檔案部署到 GitHub Pages
-# 排除 tools/docs/Learn/private 與本機雜訊；深入教材不進公開站
+# 排除 tools/docs/Learn/private 與本機雜訊；深入頁以登入碼門檻部署
 name: Deploy GitHub Pages
 
 on:
@@ -50,13 +50,8 @@ jobs:
             --exclude='tools' \
             --exclude='docs' \
             --exclude='private' \
-            --exclude='functions' \
             --exclude='Learn' \
             --exclude='data/coach-content' \
-            --exclude='data/allowlist.example.json' \
-            --exclude='firestore.rules' \
-            --exclude='storage.rules' \
-            --exclude='firebase.json' \
             --exclude='node_modules' \
             --exclude='automation/node_modules' \
             --exclude='.cursor' \

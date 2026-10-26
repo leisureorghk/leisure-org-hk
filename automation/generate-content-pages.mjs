@@ -1,4 +1,4 @@
-/**
+﻿/**
  * 產生著陸頁與獨立部落格文章 HTML 殼層（SEO 由 apply-seo.mjs 套用）
  */
 import fs from 'fs';
@@ -130,7 +130,7 @@ function shell({ title, description, keywords, bodyHtml, file, gated = false }) 
     : '';
   const gateScripts = gated
     ? `
-    <script src="js/coach-gate.js?v=20261026c"></script>
+    <script src="js/coach-gate.js?v=20261026d"></script>
     <script>window.CoachGate&&CoachGate.requireCoachAccess();</script>`
     : '';
   const coachBar = gated

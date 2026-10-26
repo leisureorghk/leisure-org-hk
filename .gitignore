@@ -1,16 +1,12 @@
 # Dependencies
 automation/node_modules/
-functions/node_modules/
 
 # Secrets / local env
 .env
 .env.*
 ftp_local.env
 indexnow_key
-*-firebase-adminsdk*.json
 serviceAccount*.json
-data/allowlist.json
-js/firebase-config.local.js
 
 # OS / editor
 Thumbs.db

@@ -1,6 +1,6 @@
 /**
  * 匯出深入 SEN 頁正文為 data/coach-content/*.json（勿部署到 Pages）
- * 供上傳 Firestore coachContent 集合使用。
+ * 本機備份／離線整理用；站上限制內容以 HTML＋登入碼門檻為準。
  */
 import fs from 'fs';
 import path from 'path';
