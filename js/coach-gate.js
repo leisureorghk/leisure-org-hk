@@ -8,7 +8,7 @@
   var STORAGE_KEY = 'leisure_coach_share_ok';
   /** SHA-256(登入碼) — 不在原始碼存放明文 */
   var PASS_HASH =
-    '839f32c060771ad5d54eccd06bd4b91d4b3f8be41194f7d188eb2dae37d0e898';
+    '2d2a4ebda3b5a79b150616c9b649d1adb7795b775e46f983a6db0cf4ad1aa410';
 
   function hrefToSiteFile(fileName) {
     var path = String(location.pathname || '').replace(/\\/g, '/');

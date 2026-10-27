@@ -130,7 +130,7 @@ function shell({ title, description, keywords, bodyHtml, file, gated = false }) 
     : '';
   const gateScripts = gated
     ? `
-    <script src="js/coach-gate.js?v=20261026d"></script>
+    <script src="js/coach-gate.js?v=20261027a"></script>
     <script>window.CoachGate&&CoachGate.requireCoachAccess();</script>`
     : '';
   const coachBar = gated
