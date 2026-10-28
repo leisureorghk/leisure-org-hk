@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-27T06:05:04.558Z",
+  "updatedAt": "2026-10-28T06:44:41.648Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "「我多年來都在爭取獲得 ADHD 服務」",
+      "title": "「我多年來一直爭取接受ADHD服務」",
       "url": "https://www.bbc.co.uk/news/videos/crly0x8wqn4qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T06:48:24.000Z",
-      "summary": "28 歲的 Jordan 表示，在家人提出疑慮後，他一直難以在當地取得 ADHD 相關服務。",
+      "summary": "28歲的Jordan表示，家人憂慮他的情況後，他多年來一直難以在當地取得ADHD服務。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -15,11 +15,31 @@
           "alt": "A man with short brown hair and facial hair. He is wearing a black t-shirt and is standing in front of a body of water and some green trees."
         },
         {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c34b/live/eebe6880-d262-11f1-b441-2b33b063138f.jpg",
+          "alt": "Three women holding Israeli flags smile and celebrate in a conference room with blue lights and crowds."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8774/live/b2b005e0-d246-11f1-b441-2b33b063138f.jpg",
+          "alt": "A composite image of a street with burnt out cars and Melania Trump"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/054f/live/2e8109b0-d1f4-11f1-a701-fddedf244c16.jpg",
+          "alt": "Left, a shot of rubble and destroyed buildings in Gaza. Right, a man in a blue shirt and backpack walks through a street."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1cfd/live/7eff31e0-d1dc-11f1-a701-fddedf244c16.jpg",
+          "alt": "Left, men carry flags of Israel. Right, a woman in a blue shirt walks in a street."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f5cf/live/45485530-d1ff-11f1-b30f-21253679b290.jpg",
+          "alt": "Harry Kane picks up the Ballon d&#x27;Or gold football trophy."
+        },
+        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e4e4/live/083fc370-d188-11f1-a701-fddedf244c16.jpg",
           "alt": "Man in Brazil t-shirt hugging Brazilian President Lula"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/fe66/live/b5f63180-d0d8-11f1-93e1-3b657b665bcf.jpg",
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9df4/live/5c4cd8f0-d1d7-11f1-b441-2b33b063138f.jpg",
           "alt": "Composite image on the left is a woman wearing a grey cardigan standing outside, on the right is a woman wearing a denim dress standing outside"
         },
         {
@@ -29,36 +49,16 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/76cc/live/d85ebe80-d151-11f1-93e1-3b657b665bcf.jpg",
           "alt": "Brazil&#x27;s President and re-election candidate for the Workers&#x27; Party (PT) Luiz Inacio Lula da Silva"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b694/live/4b6db110-d143-11f1-a701-fddedf244c16.jpg",
-          "alt": "A woman walking down the newly pedestrianised Oxford Street holding a red umbrella"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ca99/live/0766cc30-d112-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "A Jet2 plane veering off the runway into the grass as it lands."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/cf80/live/c5aaa2d0-d0ad-11f1-84bc-f3a33719a550.jpg",
-          "alt": "Composite image of Lucy Williamson wearing a beige top and glasses on left and on right a man with a blue shirt waving an Israeli flag amongst a crowd"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f4f2/live/c78fb360-cfe5-11f1-b441-2b33b063138f.jpg",
-          "alt": "Split screen Nick Beake wears a black hat talking to the camera and a protester is about to throw a fence at police"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Orange flames light up an old building in the alps"
         }
       ],
-      "bodyZh": "「我多年來一直難以取得 ADHD 服務」——BBC News\n\nBBC 首頁\n\n跳至內容\n\n無障礙說明\n\n你的帳戶\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\nSounds\n\n更多選單\n\n更多選單\n\n搜尋 BBC\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\nSounds\n\n關閉選單\n\nBBC News\n\n選單\n\n首頁\n\n氣候\n\n世界\n\n美國與加拿大\n\n英國\n\n商業\n\n科技\n\n科學\n\n娛樂與藝術\n\n健康\n\n更多\n\n圖片報道\n\nBBC Verify\n\nNewsbeat\n\n北愛爾蘭\n\n北愛爾蘭政治\n\n「我多年來一直難以取得 ADHD 服務」\n\n要播放此影片，您需要在瀏覽器中啟用 JavaScript。\n\n無法播放此影片\n\n「我多年來一直難以取得 ADHD 服務」\n\n關閉\n\n在這裡閱讀更多內容。\n\n次分區\n\n北愛爾蘭\n\n發布\n\n1 日前\n\n分享\n\n關閉面板\n\n分享此頁\n\n複製連結\n\n關於分享\n\n相關主題\n\n北愛爾蘭\n\n追蹤\n\n北愛爾蘭\n\nADHD\n\n追蹤\n\nADHD\n\n閱讀描述\n\n編輯推薦\n\n「我多年來一直難以取得 ADHD 服務」影片，00:00:53\n\n「我多年來一直難以取得 ADHD 服務」\n\n次分區\n\n北愛爾蘭\n\n發布\n\n1 日前\n\n0:53\n\n接下來播放。WhatsApp 頻道有否協助 Lula 再次當選？影片，00:01:12\n\nWhatsApp 頻道有否協助 Lula 再次當選？\n\n次分區\n\n拉丁美洲\n\n發布\n\n7 小時前\n\n接下來播放\n\n1:12\n\n悉尼新耗資 50 億美元的機場有一個大問題：前往機場並不容易。影片，00:01:24\n\n悉尼新耗資 50 億美元的機場有一個大問題：前往機場並不容易\n\n次分區\n\n澳洲\n\n發布\n\n11 小時前\n\n1:24\n\n流亡數月後，委內瑞拉的 María Machado 獲群眾歡迎。影片，00:00:58\n\n流亡數月後，委內瑞拉的 María Machado 獲群眾歡迎\n\n次分區\n\n拉丁美洲\n\n發布\n\n19 小時前\n\n0:58\n\n觀看：總統 Lula 如何扭轉局勢，擊敗 Flávio Bolsonaro。影片，00:01:18\n\n觀看：總統 Lula 如何扭轉局勢，擊敗 Flávio Bolsonaro\n\n次分區\n\n拉丁美洲\n\n發布\n\n1 日前\n\n1:18\n\n在剛完成行人化改造的牛津街漫步是甚麼感受？影片，00:01:16\n\n在剛完成行人化改造的牛津街漫步是甚麼感受？\n\n次分區\n\n倫敦\n\n發布\n\n17 小時前\n\n1:16\n\n暴風期間，客機在伯明翰機場偏離跑道。影片，00:00:53\n\n暴風期間，客機在伯明翰機場偏離跑道\n\n次分區\n\n英國\n\n發布\n\n20 小時前\n\n0:53\n\n以色列大選為何是其歷史上最重要的選舉之一？影片，00:00:59\n\n以色列大選為何是其歷史上最重要的選舉之一？\n\n次分區\n\n中東\n\n發布\n\n1 日前\n\n0:59\n\n巴黎示威者與防暴警察衝突，現場煙花與催淚氣體齊發。影片，00:01:18\n\n巴黎示威者與防暴警察衝突，現場煙花與催淚氣體齊發\n\n次分區\n\n歐洲\n\n發布\n\n2 日前\n\n1:18\n\n火勢吞噬希特勒位於山頂的鷹巢別墅。影片，00:00:33\n\n火勢吞噬希特勒位於山頂的鷹巢別墅\n\n次分區\n\n歐洲\n\n發布\n\n2 日前\n\n0:33\n\nAI 選舉廣告在美國中期選舉競選中興起。影片，00:01:57\n\nAI 選舉廣告在美國中期選舉競選中興起\n\n次分區\n\nBBC Verify\n\n發布\n\n2 日前\n\n1:57\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\nSounds\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\nCookie\n\n無障礙說明\n\n家長指引\n\n聯絡 BBC\n\n招聘\n\nBBC 為你提供的電子郵件服務\n\n刊登廣告\n\nCopyright © 2026 BBC。BBC 概不負責外部網站的內容。\n\n閱讀我們處理外部連結的方式。",
+      "bodyZh": "「多年來，我一直很難獲得 ADHD 服務」——BBC News\n\nBBC 主頁\n\n跳至內容\n\n無障礙說明\n\n你的帳戶\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\nSounds\n\n更多選單\n\n更多選單\n\n搜尋 BBC\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\nSounds\n\n關閉選單\n\nBBC News\n\n選單\n\n主頁\n\n氣候\n\n世界\n\n美國及加拿大\n\n英國\n\n商業\n\n科技\n\n科學\n\n娛樂及藝術\n\n健康\n\n更多\n\n圖片報道\n\nBBC Verify\n\nNewsbeat\n\n北愛爾蘭\n\n北愛爾蘭政治\n\n「多年來，我一直很難獲得 ADHD 服務」\n\n要播放這段影片，你需要在瀏覽器中啟用 JavaScript。\n\n無法播放這段影片\n\n「多年來，我一直很難獲得 ADHD 服務」\n\n關閉\n\n在這裏閱讀更多內容。\n\n次分類\n\n北愛爾蘭\n\n發布時間\n\n2 日前\n\n分享\n\n關閉面板\n\n分享此頁面\n\n複製連結\n\n關於分享\n\n相關主題\n\n北愛爾蘭\n\n追蹤\n\n北愛爾蘭\n\nADHD\n\n追蹤\n\nADHD\n\n閱讀描述\n\n編輯推介\n\n「多年來，我一直很難獲得 ADHD 服務」影片，00:00:53\n\n「多年來，我一直很難獲得 ADHD 服務」\n\n次分類\n\n北愛爾蘭\n\n發布時間\n\n2 日前\n\n0:53\n\n接下來播放。觀看：以色列大選在票數接近的投票結束後，現時會發生甚麼？影片，00:00:44\n\n觀看：以色列大選在票數接近的投票結束後，現時會發生甚麼？\n\n次分類\n\n中東\n\n發布時間\n\n2 小時前\n\n接下來播放\n\n0:44\n\n我們知道由梅拉尼婭・特朗普斡旋的烏克蘭與俄羅斯坦在 Oleshky 達成停火有哪些情況？影片，00:01:16\n\n我們知道由梅拉尼婭・特朗普斡旋的烏克蘭與俄羅斯坦在 Oleshky 達成停火有哪些情況？\n\n次分類\n\n歐洲\n\n發布時間\n\n9 小時前\n\n1:16\n\n以色列大選對加薩及更廣泛的世界意味着甚麼？影片，00:01:03\n\n以色列大選對加薩及更廣泛的世界意味着甚麼？\n\n次分類\n\n中東\n\n發布時間\n\n20 小時前\n\n1:03\n\n為何新一屆以色列政府可能需要一段時間才能組成？影片，00:00:39\n\n為何新一屆以色列政府可能需要一段時間才能組成？\n\n次分類\n\n中東\n\n發布時間\n\n22 小時前\n\n0:39\n\n「美夢成真」——夏利・堅恩談贏得金球獎。影片，00:01:17\n\n「美夢成真」——夏利・堅恩談贏得金球獎\n\n次分類\n\n英格蘭\n\n發布時間\n\n23 小時前\n\n1:17\n\n一個 WhatsApp 頻道有否幫助盧拉再次當選？影片，00:01:12\n\n一個 WhatsApp 頻道有否幫助盧拉再次當選？\n\n次分類\n\n拉丁美洲\n\n發布時間\n\n1 日前\n\n1:12\n\n悉尼新耗資 50 億美元的機場有一個大問題：前往機場相當困難。影片，00:01:24\n\n悉尼新耗資 50 億美元的機場有一個大問題：前往機場相當困難\n\n次分類\n\n澳洲\n\n發布時間\n\n1 日前\n\n1:24\n\n流亡數月後，人群歡迎委內瑞拉的 María Machado。影片，00:00:58\n\n流亡數月後，人群歡迎委內瑞拉的 María Machado\n\n次分類\n\n拉丁美洲\n\n發布時間\n\n1 日前\n\n0:58\n\n觀看：盧拉總統如何扭轉局勢，擊敗 Flávio Bolsonaro。影片，00:01:18\n\n觀看：盧拉總統如何扭轉局勢，擊敗 Flávio Bolsonaro\n\n次分類\n\n拉丁美洲\n\n發布時間\n\n2 日前\n\n1:18\n\n新近劃為行人專用區的牛津街，步行體驗如何？影片，00:01:16\n\n新近劃為行人專用區的牛津街，步行體驗如何？\n\n次分類\n\n倫敦\n\n發布時間\n\n1 日前\n\n1:16\n\n暴風期間，客機在伯明翰機場偏離跑道。影片，00:00:53\n\n暴風期間，客機在伯明翰機場偏離跑道\n\n次分類\n\n英國\n\n發布時間\n\n1 日前\n\n0:53\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\nSounds\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\nCookie\n\n無障礙說明\n\n家長指引\n\n聯絡 BBC\n\n招聘\n\nBBC 電郵資訊\n\n刊登廣告\n\n版權 © 2026 BBC。BBC 概不負責外部網站的內容。\n\n閱讀我們有關外部連結的處理方式。",
       "featured": true
     },
     {
-      "title": "學生譜寫特別歌曲為同學發聲",
+      "title": "特殊學校學生譜寫歌曲　讓同學擁有發聲機會",
       "url": "https://www.bbc.co.uk/news/articles/cmx2qpjge5lyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T05:17:18.000Z",
-      "summary": "貝爾法斯特東部 Mitchell House 特殊學校的許多學生不會說話，但這並不代表他們無法溝通。",
+      "summary": "貝爾法斯特東區Mitchell House特殊學校不少學生不會說話，但這不代表他們無法溝通。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -95,22 +95,22 @@
           "alt": "Sheenah McCann with her son Joe. Joe has short dark hair and a moustache. He is wearing a teal coloured polo-shirt. Sheenagh has curly dark hair and is wearing red framed glasses and a blue top."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Chloe Chin-Saad with her hair tied back in a ponytail, wearing black glasses and with a lanyard round her neck."
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
+          "alt": "The Budget 2026 cover, photographed in the No 11 office in Downing Street."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/4a0c/live/7a506af0-d19c-11f1-b177-234ec5dbaca5.png",
-          "alt": "The headline on the front page of the Times reads: “Chancellor will boost minimum wage by 4%”. The headline on the front page of the Mirror reads: “It&#x27;s time to pay fair”."
+          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/58f8/live/d9d32f00-d262-11f1-9fb8-81df04238bb4.png",
+          "alt": "The headline on the front page of the Independent reads: “Netanyahu&#x27;s fate in balance after historic election”."
         }
       ],
-      "bodyZh": "貝爾法斯特：學生譜歌為不善言語的同學發聲 — BBC新聞\n\n圖片說明：\n\nGemma表示，她希望讓更多人明白，並非每個人都以相同方式溝通。\n\n作者：\n\nRobbie Meredith\n\n教育及藝術記者，BBC News NI\n\n發布日期：\n\n2026年10月23日\n\n這是一首專為難以發聲的年輕人而創作的歌曲。\n\n東貝爾法斯特Mitchell House Special School的許多學生無法以言語溝通，但這並不代表他們不能表達自己。\n\n為了傳達這個訊息，他們創作並錄錄了一首名為《My Voice》的歌曲。\n\n歌曲旨在讓人認識Makaton、手勢眼球操控及電子裝置等替代溝通方式，以及使用這些方式溝通的人。\n\n《My Voice》的歌詞及音樂由Mitchell House School的「Moon」班共同創作，班內學生年齡介乎11至13歲。\n\n其中一段歌詞唱道：「有時我的聲音充滿自信，有時我的聲音沉著平靜；有時我使用我的溝通器，告訴你我是誰。」\n\n圖片說明：\n\nKatie-Louise表示，這個班正在慶祝每個人以不同方式溝通。\n\n12歲的Gemma是歌曲創作人之一。她表示，希望讓更多人意識到，並非每個人都以相同方式溝通。\n\n「這首歌的意思是，我們想告訴大家，不論你如何運用自己的聲音，它同樣重要。這其實也是我們的校訓，而我們希望將它付諸實踐。」她說。\n\n「對我個人而言，這一點尤其重要，因為我有很多不會說話的朋友。我希望人們明白，他們其實並非『不會說話』；只是不接觸和了解他們的人，才會這樣認為。」\n\n圖片說明：\n\nCaelainn是該校的副校隊長。\n\n11歲的Katie-Louise使用電子溝通裝置參與創作。\n\n「我們正在慶祝每個人以不同方式溝通。」她告訴BBC News NI。\n\n「今個月，我們與Ryan老師一起創作了一首歌，展示我們如何以不同方式溝通，以及我們的聲音有多重要。」\n\n圖片說明：\n\nMatthew以雙眼操控電子溝通裝置。\n\n該校副校隊長Matthew以眼神與好友兼校隊長Caelainn溝通。\n\n眼神操控讓人可以通过眼部移動操作電腦或平板電腦來溝通，也可以使用卡片作為視覺提示。\n\n「Matthew通常會使用卡片回答是非題。」Caelainn說。\n\n不過，Matthew亦會以雙眼操控電子溝通裝置。\n\n「只要Matthew向某個方向看，裝置便會偵測他的眼神。」Caelainn解釋道。\n\n「我能在這裡待上16年是一種榮幸。這段時間非常美好，每個孩子都很出色。他們十分友善，尊重別人，也懂得體諒和照顧其他人的需要。」\n\n圖片說明：\n\nMitchell House校長Miriam Donnan表示，他們樂於向外界分享學生不同的溝通方式。\n\n憑着相關工作，Mitchell House獲Elklan評為「溝通友善環境」。Elklan是一個在全英國支持兒童言語、語言及溝通發展的機構。\n\n這是北愛爾蘭僅有兩所憑借着使用增強及替代溝通（AAC）的工作而取得這項認證的學校之一。\n\n校長Miriam Donnan表示，他們很榮幸能分享學生不同的溝通方式。\n\n「我們希望告訴全世界，溝通並不只限於說話。」她說。\n\n「我們在學校與言語及語言治療部門緊密合作，積極推廣多種不同的溝通方法。我們希望慶祝這些方式，並與大家分享。\n\n「因此，班上的學生自行構思了這首歌，歌詞也是他們在Ryan老師協助下創作的。這是一首很美好的歌，紀念和慶祝每個人的聲音都很重要。」\n\nGemma亦希望讓所有人知道，有時溝通需要多一點耐性及體諒。\n\n「讓人明白我們必須花時間並耐心了解別人如何溝通，真的非常重要。」她說。\n\n相關主題\n\n北愛爾蘭\n\n特殊需要\n\n貝爾法斯特\n\n青少年與殘疾\n\n北愛爾蘭教育\n\n相關報道\n\n家長擔心特殊教育需要支援減少，創辦「生命線」暑期計劃\n\n發布日期：8月16日\n\n「我真的很為自己感到自豪」— 讓有額外需要成人參與節目，擔任焦點\n\n發布日期：5月16日\n\n「有特殊教育需要的學生離校後甚麼也得不到」\n\n發布日期：2月14日\n\n热门新聞\n\n以色列將舉行大選，選舉由安全及民主議題主導\n\n發布於16分鐘前\n\nChris Mason：隨着棘手問題累積，預算案即將出台，Burnham面臨考驗\n\n發布於6小時前\n\nHealey在預算案前提出一系列「日常修正」，承諾減價橙子醬及小黃瓜\n\n發布於4小時前\n\n更多內容\n\n「我是單親媽媽，年收入41,000英鎊，每星期購物只花40英鎊。」你希望預算案怎樣做？\n\n《The Papers》：「英格蘭」金童Kane，以及「是時候公平付款」\n\nLula在巴西捲土重來，削弱特朗普對拉丁美洲的影響\n\n丈夫去世已令我痛心不已— 接着還要處理種種行政手續\n\n反對派領袖María Machado結束流亡返回特朗普重塑的委內瑞拉\n\nPutellas贏得創紀錄的第三座金球獎\n\n公眾會否改變對Meghan的看法？\n\n女子就照顧母親在家中提出12.7萬英鎊索償並勝訴\n\n「缺鐵面」是甚麼一回事？你真的能從外貌看出缺鐵嗎？\n\nBBC其他內容\n\n萬眾期待的第二季現已開播\n\n重溫審訊第十日陪審團聽到甚麼\n\n觀看令人熱議的演出\n\n《Celebrity Traitors》拍檔重聚，重演Celia Imrie差點被捕的故事\n\n最多閱讀\n\n1\n\n政府呼籲囤積必需品後，必需品銷量急升\n\n2\n\nHealey在預算案前提出一系列「日常修正」，承諾減價橙子醬及小黃瓜\n\n3\n\n《The Papers》：「英格蘭」金童Kane，以及「是時候公平付款」\n\n4\n\n法官裁定特朗普政府非法解僱James Comey的女兒\n\n5\n\n丈夫去世已令我痛心不已— 接着還要處理種種行政手續\n\n6\n\nChris Mason：隨着棘手問題累積，預算案即將出台，Burnham面臨考驗\n\n7\n\nApple表示將更換有屏幕問題的iPhone Duo手機\n\n8\n\n英國氣象局發出新的大風警告，風暴Boelo令數千人停電\n\n9\n\n「我是單親媽媽，年收入41,000英鎊，每星期購物只花40英鎊。」你希望預算案怎樣做？\n\n10\n\nBusted的James Bourne表示，哥哥是英雄，曾透過捐贈腎臟救回他的性命",
+      "bodyZh": "貝爾法斯特：學生譜寫歌曲，讓不能說話的同學發聲\n\n由 BBC News NI 教育及藝術記者 Robbie Meredith 報道\n\n發布日期：2026年10月23日\n\n這是一首為難以用言語表達的年輕人而寫的特別歌曲。\n\n貝爾法斯特東區 Mitchell House Special School 的不少學生不能以言語溝通，但這不代表他們無法表達想法。\n\n為了傳達這訊息，學生創作並錄製了一首名為《My Voice》的歌曲。\n\n歌曲旨在讓人認識 Makaton 語言、眼動追蹤及電子溝通裝置等替代溝通方式，以及這些工具的使用者。\n\n《My Voice》的歌詞及音樂由 Mitchell House School 的「Moon」班共同創作，班內學生年齡介乎11至13歲。\n\n其中一段歌詞這樣唱道：「有時我的聲音充滿自信，有時我的聲音平靜沉穩，有時我使用talker，向你訴說我是誰。」\n\n12歲的 Gemma 是歌曲背後的創作分子之一。她表示，希望更多人意識到，每個人與別人溝通的方式並不相同。\n\n「這首歌的意思是，我們想告訴你，不論你以甚麼方式運用自己的聲音，那聲音同樣重要。這亦正是我們希望實踐的校訓。」她說。\n\n「對我個人而言，這亦非常重要。我有很多不能以言語溝通的朋友，我希望人們明白，他們其實並非『不能說話』；真正把他們視為不能溝通的人，是那些不了解他們的人。」\n\n11歲的 Katie-Louise 使用電子溝通裝置參與創作。\n\n她向 BBC News NI 表示：「我們正在慶祝每一個人都以不同方式溝通。這個月，我們與老師 Miss Ryan 一起創作了這首歌，展現我們各自不同的溝通方式，以及我們的聲音同樣重要。」\n\nMatthew 是學校的副學生會長，他以眼動追蹤與好友兼學生會長 Caelainn 溝通。\n\n眼動追蹤讓使用者可以透過眼球移動操作電腦或平板電腦，以文字溝通，亦可使用卡片作為視覺提示。\n\nCaelainn 說：「Matthew 通常會使用卡片回答是非題。」\n\n不過，Matthew 也能以眼睛操作電子溝通裝置。\n\nCaelainn 解釋：「只要 Matthew 望向某個方向，裝置便會偵測他的眼球位置。」\n\n她補充道：「能在這裏學習16年是一種福氣。這裏的一切都很棒，孩子們也都非常出色。他們十分友善，會尊重別人，也懂得照顧別人的需要。」\n\nMitchell House 校長 Miriam Donnan 表示，校方很榮幸能與外界分享學生不同的溝通方式。\n\n憑着相關工作，Mitchell House 已獲英國全國性兒童言語、語言及溝通支援機構 Elklan 評為「溝通友善環境」。北愛爾蘭只有兩所學校能以增強及替代溝通（AAC）方面的成果取得這項認證。\n\nMiriam Donnan 說：「我們希望告訴全世界，溝通並不只限於說話。我們在學校與言語治療師團隊緊密合作，積極推廣多種不同的溝通方式。我們希望慶祝這些方式，並與每一個人分享。\n\n「所以，構思這首歌的正是班上的學生；所有歌詞都是他們與老師 Miss Ryan 一起創作的。這是一場很美好的慶祝，彰顯每一個人的聲音都很重要。」\n\nGemma 亦希望所有人知道，有時可能需要多一點耐性和體諒。\n\n她說：「讓人明白我們必須花時間、耐心地了解別人如何溝通，真的非常重要。」\n\n相關主題\n\n北愛爾蘭\n\n特殊教育需要\n\n貝爾法斯特\n\n青少年與殘疾\n\n北愛爾蘭教育\n\n相關報道\n\n家長在擔心特殊教育需要學生支援服務不足後，創辦「生命線」暑期計劃\n\n發布日期：8月16日\n\n「我真為自己感到驕傲」——以有額外需要成年人為主角的節目主角訪問\n\n發布日期：5月16日\n\n「有特殊教育需要的學生離校後甚麼也得不到」\n\n發布日期：2月14日",
       "featured": false
     },
     {
-      "title": "「我和丈夫每年支付 4,000 英鎊接受 ADHD 治療，實在極不公平」",
+      "title": "「我和丈夫每年花4,000英鎊接受ADHD治療，實在極不公平」",
       "url": "https://www.bbc.co.uk/news/articles/cvze4wg10389o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T05:14:41.000Z",
-      "summary": "北愛爾蘭是英國唯一沒有正式委託、由公帑資助的成人 ADHD 服務的地區。",
+      "summary": "北愛爾蘭是英國唯一未有正式委託並由公帑資助成人ADHD服務的地區。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -143,26 +143,26 @@
           "alt": "Mark Bonello, pictured with his family"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/18f0/live/dd774060-d168-11f1-b441-2b33b063138f.jpg",
-          "alt": "Chris Brown in a black hat with a &#x27;B&#x27; on it"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a3b0/live/bb60a5a0-d23c-11f1-a701-fddedf244c16.jpg",
+          "alt": "A man wearing a dark suit and pale blue shirt talks to the camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8893/live/537061f0-d157-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "A woman with brown hair and a man with blond hair poste together on a beach with the sea in the background."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b83e/live/39764900-d23c-11f1-a701-fddedf244c16.jpg",
+          "alt": "A man wearing a grey polo shirt looks off-camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/773d/live/417f4150-d125-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Lucy Williamson looking at the camera"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/14e7/live/7ce1a010-d23f-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "A shopping trolly with items in it"
         }
       ],
-      "bodyZh": "成人 ADHD 治療在北愛求診無門 - BBC News\n\n北愛缺乏公共資助服務，成人 ADHD 患者求診困難\n\n圖片來源：Mark Barnes\n\nRebecca 與丈夫均患有 ADHD；兩人每年均要自費接受定期精神科覆診、普通科醫生處方及藥物治療。\n\n作者：Conor McCann\nBBC News NI\n\n發布日期：2026年10月23日\n\n患有注意力不足過度活躍症（ADHD）的成年人要求當局緊急處理北愛缺乏資助服務的問題，部分受訪者更透露，他們每年花費數千英鎊接受私人治療。\n\n與英國其他地方不同，北愛並無經正式委託、由公帑資助的成人 ADHD 服務途徑。\n\n一名女子形容現況「極不公平，而且有點不人道」，並表示她與丈夫每年約花£4,000接受私人治療及照顧。\n\n衛生部承認服務需求日益增加，但指出任何決定均須考慮整體財政承受能力。\n\n「這是一大筆大多數人根本負擔不起的錢」\n\nRebecca Bryson 擁有Three businesses，因而有能力支付 ADHD 治療及後續照護費用。她的丈夫 Colum Coyle 同樣患有 ADHD；兩人均須自費接受定期精神科覆診、處方藥物及藥物治療，維持治療的總開支約為每年£4,000。\n\n她說：「這是一大筆大多數人根本負擔不起的錢。我們有條件負擔，是因為我做着幾份工作。」\n\n她形容這種情況「極不公平，而且有點不人道」。\n\n「如果我患的是癌症或骨折等另一種疾病，再向醫療系統要求治療，他們不會拒絕我。」\n\nBryson 表示，北愛須為成年 ADHD 患者建立清晰的診斷途徑。\n\n「小朋友可以接受診斷，但一旦年滿18歲，就得靠自己。實在荒謬。」\n\n英國各地有哪些服務？\n\n北愛：仍未設正式委託的 ADHD 服務。醫療信託須在現有資源內處理轉介，導致輪候時間冗長。\n\n英格蘭：英格蘭部分地區的病人享有選擇服務的法定權利。如果當地輪候時間很長，普通科醫生可把病人轉介至另一間獲 NHS 批准的服務提供者。\n\n蘇格蘭：ADHD 沒有單一服務統一的委託服務；當地的法定合作機構須負責規劃、設計及提供服務，以滿足區內神經發展支援需要，並在適當情況下採購第三部門服務。\n\n威爾斯：ADHD 服務由各地健康委員會委託。威爾斯政府正推行「神經多樣性改善計劃」（Neurodiverse Improvement Programme），以增加服務容量、改善評估途徑及縮短冗長輪候時間。\n\n圖片來源：Dr Allen McCullough\n\nAllen McCullough 醫生表示，ADHD 診斷情況已成為一幅「不斷變化的圖像」。\n\nMcCullough 醫生擔任普通科醫生35年。他表示，自己明白有意尋求 ADHD 診斷人士所面對的困難，而診斷供應情況已變成一幅「不斷變化的圖像」。\n\n「我可以把病人轉介至本區的成人 ADHD 服務，但我完全知道，當地根本沒有任何人接收他們。」\n\nMcCullough 表示，部分普通科醫生對於是否向尋求共同照顧安排的人士處方藥物有所憂慮。共同照顧是指由專科醫生與普通科醫生合作管理及處方專科藥物。\n\n「有些病人正接受私人治療，我們不會獲通知他們求診於何人，也不知道作出診斷者的資歷。因此，我不是说這種診斷一定不合格，但如果我們收不到資料，我們便肯定不會參與，亦無法參與。\n\n「一旦由你處方藥物，你便要負責。」\n\n圖片說明：\n\n28歲的 Jordan 表示，在家人提出疑慮後，他一直未能取得當地的 ADHD 服務。\n\nJordan Young 現年28歲。他表示，自己一直難以取得 ADHD 服務，而有關服務通常包括評估、藥物治療及覆診。\n\n「我試過很多不同地方，基本上每次都被告知已經關門，不会再收新病人。」\n\n他前往英格蘭接受診斷。\n\n「坦白說，如果不是外婆，我根本不會跨境求診並接受私人治療。她讓我使用自己的私人醫療保險。」\n\nYoung 認為，北愛必須採取更多措施，改善 ADHD 服務的可及性。\n\n「我希望看到衛生部長確實就撥出預算供 ADHD 患者或正接受 ADHD 診斷人士使用達成某種共識，並把這件事當作嚴肅問題處理。」\n\n圖片說明：\n\nAlliance 黨議員 Peter McReynolds 表示，成年 ADHD 患者一直「完全被遺忘」。\n\nAlliance 黨議員 Peter McReynolds 表示，衛生部一直「完全遺忘」成年 ADHD 患者。他稱自2024年起一直敦促當局委託設立相關服務，並曾與三位衛生部長會面；他指出，各人的做法相近。\n\n「在委託這項服務方面，我認為我們應該已經取得多得多的進展，因為它可為北愛民眾帶來改變，從長遠而言亦可為我們節省開支。」\n\n衛生部有何回應？\n\n衛生部發言人表示，醫療信託「在現有資源內處理轉介，而需求持續超出可供服務的容量，導致輪候時間很長，部分人因而尋求私人診斷」。\n\n他說：「我們已進行大量工作，以更準確掌握 ADHD 服務的需求水平。」\n\n「在醫療及社會照護各範疇都面對嚴重資金限制之際，任何日後的服務委託決定，均須在整體財政承受能力的大前提下作出。」\n\n相關報道\n\n《成人 ADHD 診斷「困難，但完全说得通」》\n\n發布日期：2025年4月16日\n\n《英國各地的診所供應北愛近一半私人 ADHD 藥物》\n\n發布日期：2025年12月23日\n\n《等待 ADHD 診斷的成年人面臨「嚴峻」警告》\n\n發布日期：2023年4月2日",
+      "bodyZh": "北愛成人 ADHD 求診無門　批當局失職\n\nBBC News\n\n作者：Conor McCann｜BBC News NI\n\n2026年10月23日\n\n患有注意力不足過度活躍症（ADHD）的北愛成年人要求當局採取緊急行動，解決當地欠缺資助服務的問題；部分個案透露，他們每年要花費數千英鎊接受私人治療。\n\n與英國其他地區不同，北愛並無正式委託、由公帑資助的成人 ADHD 診療途徑。\n\n一名女子形容現況「極不公平兼不人道」，並表示她與丈夫每年約花 £4,000 接受私人治療及照顧。\n\n衛生部承認需求日益增加，但表示任何決定都必須顧及整體財政承受能力。\n\n「這是一大筆多數人根本拿不出的錢」\n\nRebecca Bryson 擁有 三 businesses，因此有能力支付自己的 ADHD 治療及 follow-up care。\n\n她的丈夫 Colum Coyle 同樣患有 ADHD；兩人都要自費定期接受私人精神科覆診、處方藥及藥物。两人維持治療的總開支約為每年 £4,000。\n\n「這是一大筆多數人根本拿不出的錢。我們之所以負擔得起，是因為我做着幾份工作。」她說。\n\n她表示目前的處境令人感到「極不公平，也有點不人道」。\n\n「假如我患有癌症或骨折等其他疾病，再要求接受治療，他們不會拒絕我。」\n\nBryson 認為，北愛必須為 ADHD 成年人建立清晰的診斷途徑。\n\n「小時候可以接受診斷，但一旦年滿 18 歲，就得自己想办法。這實在荒謬。」\n\n英國各地有哪些服務？\n\n北愛：仍未建立正式委託的 ADHD 服務。醫療基金信任局須在現有資源內處理轉介，導致輪候名單冗長。\n\n英格蘭：部分地區的病人有法定權利選擇服務提供者。若當地輪候時間過長，普通科醫生可把病人轉介至其他獲 NHS 批准的服務提供者。\n\n蘇格蘭：沒有單一的 ADHD 委託服務；各地法定合作機構須負責規劃、設計及提供切合當地神經發展支援需要的服務，並在適當情況下委託第三部門提供服務。\n\n威爾斯：ADHD 服務由各地 health boards 委託。威爾斯政府正透過「Neurodiverse Improvement Programme」增加服務容量、改善評估途徑，並縮短冗長輪候時間。\n\n「要求處方藥便要負責」\n\n擔任普通科醫生 35 年的 Allen McCullough 醫生表示，他明白求診者面對的困難，而 ADHD 診斷亦已成為一幅「不斷演變的圖像」。\n\n「我可以把病人轉介至本區的成人 ADHD 服務，但我完全知道，當地根本沒有人接收個案。」他說。\n\nMcCullough 表示，部分普通科醫生對於向有意接受共同照顧安排的病人處方藥物有所保留；共同照顧是指由專科醫生與普通科醫生合作管理及處方專科藥物。\n\n「有些病人正接受私人治療，我們卻收不到任何通知，不知道他們求診於誰，也不知道替他們診斷的人有甚麼資歷。因此，我並不是說這些診斷一定不可靠，但我們既然沒有資料，便肯定不會參與，或根本無法參與。\n\n「一旦由你處方，你便要負責任。」\n\n28 歲 Jordan 當初因家人提出疑慮而求診 ADHD 服務，但一直難以獲得服務；這類服務通常包括評估、藥物治療及覆診。\n\nJordan Young 表示：「我試過很多不同地方，基本上人人都說門已經關了，不再接收新個案。」\n\n他其後前往英格蘭接受診斷。\n\n「坦白說，如果不是外婆，我都未必會過去接受私人診斷。她讓我使用自己的私人醫療保險。」\n\nYoung 認為，北愛應採取更多措施，改善 ADHD 服務的可及性。\n\n「我希望見到衛生部長真正達成某種共識，為 ADHD 病人或正在等候 ADHD 診斷的人撥出預算，並把這件事當作嚴肅問題處理。」\n\n成年人 ADHD「被完全遺忘」\n\n聯盟黨議員 Peter McReynolds 表示，衛生部「完全遺忘」了患有 ADHD 的成年人。\n\n他說，自 2024 年起一直要求當局委託設立相關服務，並曾會見三位衛生部長；他指各人的做法大同小異。\n\n「我認為，在委託這項服務方面，我們應該已走得遠得多，因為它可以為北愛民眾帶來根本性的改變，長遠而言亦可為我們節省開支。」\n\n衛生部如何回應？\n\n衛生部發言人表示，各醫療基金信任局「在現有資源內處理轉介，而需求持續超出可服務容量，導致輪候時間很長，亦令部分人尋求私人診斷」。\n\n他說：「當局已展開大量工作，以更準確掌握 ADHD 服務的需求水平。\n\n「在醫療及社會照護面臨嚴重資金限制之際，任何日後有關委託服務的決定，都必須在整體財政承受能力下考慮。」\n\n相關專題：北愛、ADHD、北愛醫療",
       "featured": false
     },
     {
-      "title": "新研究將在阿茲海默症患者身上測試糖尿病與 ADHD 藥物",
+      "title": "新研究將在阿茲海默病患者身上測試糖尿病及ADHD藥物",
       "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T23:02:30.000Z",
-      "summary": "兩種藥物將同時接受測試，希望藉此加快為這種常見失智症尋找新治療方法的過程。",
+      "summary": "研究將同步測試兩類藥物，希望加快為這種常見失智症尋找新治療方法。",
       "sourceName": "BBC 新聞（健康）",
       "sourceId": "bbc-health",
       "images": [
@@ -179,42 +179,42 @@
           "alt": "A thin, grey banner promoting the News Daily newsletter. On the right, there is a graphic of an orange sphere with two concentric crescent shapes around it in a red-orange gradient, like a sound wave. The banner reads: &quot;The latest news in your inbox first thing.”"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/18f0/live/dd774060-d168-11f1-b441-2b33b063138f.jpg",
-          "alt": "Chris Brown in a black hat with a &#x27;B&#x27; on it"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a3b0/live/bb60a5a0-d23c-11f1-a701-fddedf244c16.jpg",
+          "alt": "A man wearing a dark suit and pale blue shirt talks to the camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8893/live/537061f0-d157-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "A woman with brown hair and a man with blond hair poste together on a beach with the sea in the background."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b83e/live/39764900-d23c-11f1-a701-fddedf244c16.jpg",
+          "alt": "A man wearing a grey polo shirt looks off-camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/773d/live/417f4150-d125-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Lucy Williamson looking at the camera"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/14e7/live/7ce1a010-d23f-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "A shopping trolly with items in it"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5953/live/9155aba0-d16c-11f1-b441-2b33b063138f.jpg",
-          "alt": "A still of a computer game showing character Samantha Traynor. She has short dark hair and is wearing a futuristic suit."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0f2f/live/da4a4020-d228-11f1-a701-fddedf244c16.jpg",
+          "alt": "Kylian Mbappé of Real Madrid celebrates scoring a goal."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3340/live/d69f30a0-d103-11f1-a701-fddedf244c16.jpg",
-          "alt": "A plane veers off a runway into grass while landing."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/90ab/live/c28fa940-d244-11f1-a701-fddedf244c16.jpg",
+          "alt": "Explorer Ash Dykes looks at the camera in a blue t-shirt with short brown hair."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7659/live/ff824db0-d129-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "A close-up of a young woman with long, wavy, dark brown hair, looking straight into the camera."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3708/live/ec8eb2e0-d244-11f1-a701-fddedf244c16.jpg",
+          "alt": "A woman checks her shopping receipt with some vegetables in her basket."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8448/live/1fae6bc0-d141-11f1-b441-2b33b063138f.jpg",
-          "alt": "Singer Ozzy Osbourne with his wife Sharon. They are both dressed all in black."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d681/live/a1682950-d22f-11f1-a701-fddedf244c16.jpg",
+          "alt": "UK Chancellor John Healey is wearing a dark blue top and trousers. He is being interviewed by journalist Adam Fleming."
         }
       ],
-      "bodyZh": "糖尿病及 ADHD 藥物將於新研究中接受阿茲海默症患者測試 — BBC News\n\nBBC News\n\n醫療編輯 Ferguson Walsh\n\n發布日期：2026年10月22日\n\n英國啟動一項臨床試驗，科學家希望藉此縮短尋找阿茲海默症新療法所需的時間。試驗將同時測試多種藥物，首批包括兩種重新定位用作治療的藥物：二甲雙胍及哌甲酯。\n\n研究將探討這些藥物能否減輕記憶和思考等症狀，以及協助患者維持生活質素。\n\n來自劍橋郡、現年67歲的 Angela Bucksey 於1月確診阿茲海默症，是首位開始接受這項名為 AD-SMART 的試驗治療的人士。\n\n她接受 BBC 訪問時說：「我們家族有人患上阿茲海默症。母親和姨母都曾患病，所以確診對我來說是失望，而不是震驚，因為我知道這種病會限制我的人生。\n\n「但我下定決心，不讓它定義我的人生。」\n\nAngela 表示，加入試驗令她感到充滿力量，因為「至少你正在做點甚麼」。\n\n「你不會只是坐在那裏，而是站起來說：我會反擊。」\n\n阿茲海默症是最常見的失智症類型，在英國約有60萬人受影響。\n\n「尖端治療」\n\n首相 Andy Burnham 的父親上月因阿茲海默症病逝。他表示，自己明白失去摯愛之人的感受，也親身見到這種疾病給家庭造成的沉重打擊。\n\n他說：「正因如此，我很高興看到這項試驗在英國啟動，讓尖端治療可以尽快惠及這裡的病人。」\n\nAD-SMART 是一項多組、多階段的平台試驗，會同時測試數種治療，再把結果與服用安慰劑或假藥的一組參與者比較。與傳統試驗相比，這種方式可提高參與者接受有效治療的機會。\n\n如果某種藥物未能顯示療效，可以迅速將其剔除，再加入新的治療；這種方法已在癌症及運動神經元疾病研究方面成功應用。\n\n首批接受測試的兩種藥物，是用於治療二型糖尿病的二甲雙胍，以及用於治療 ADHD 的托莫西汀。這兩種藥物由一個國際專家小組選定。\n\n首席Investigator、倫敦帝國學院英國失智症研究所照護研究與技術中心組長 Paresh Malhotra 教授表示，兩種藥物或有助減少腦部發炎，而腦部發炎正是神經退行性變的驅動因素之一。\n\n他接受 BBC 訪問時說：「很長一段時間以來，阿茲海默症研究都是一種藥物、一項試驗、一個答案地逐步推进，有時要花上十年或更久，才知道我們找到的方法是否有效。\n\n「我們正把癌症及其他疾病領域的進展應用於加快阿茲海默症治療方法的測試。」\n\n「從絕望中走出」\n\n藥物要取得成功，研究必須證明它們能改善思考能力，以及患者履行日常活動的能力。\n\nMalhotra 教授說：「這才是病人及其照顧者最關心的事情。」\n\n研究將在全英國超過30個地點招募約1,200名輕度至中度阿茲海默症患者。劍橋郡、薩里、倫敦、南安普敦及愛丁堡的研究中心已經開放。\n\n科學家預計於2030年完成首批藥物的評估；在此期間，研究很可能還會加入更多治療方法。\n\n所有參與者都會定期接受健康檢查，包括認知測試，以協助研究人員評估治療方法的成效。\n\nAngela Bucksey 的丈夫 Steve 是她的研究夥伴。他接受 BBC 訪問時說：「參加試驗讓我們從確診後的絕望中重新站起來。所有人都知道這種病無法痊癒。\n\n「知道我們正在接受藥物試驗的人，明白我們正在為它做點甚麼；他們不會只替我們感到可惜，而是可以給我們鼓勵。」\n\n阿茲海默症研究英國分部研究主管 Sheona Scales 博士表示，對阿茲海默症患者而言，「時間非常珍貴」，當局迫切需要提供更多治療選擇。\n\n已獲確診阿茲海默症並有意參加的人士，可於 AD-SMART 網站登記。\n\n這項試驗由英國失智症研究所及阿茲海默症研究英國分部共同領導。合作機構包括英國健康與照護研究所、醫學研究委員會及 Health Data Research UK，並由英國政府提供資金。",
+      "bodyZh": "糖尿病及 ADHD 藥物將於新研究中接受阿茲海默症患者測試——BBC News\n\nBBC 首頁\n\n英國啟動一項臨床試驗，科學家期望藉此縮短尋找阿茲海默症新療法所需的時間。\n\n試驗將同時測試多種藥物，首階段採用兩種重新定位用途的藥物：它們目前分別用於治療二型糖尿病及注意力缺陷多動障礙（ADHD）。\n\n研究將探討這些藥物能否減輕記憶及思考等症狀，並幫助患者維持生活質素。\n\n現年 67 歲、來自劍橋郡的 Angela Bucksey 今年 1 月確診阿茲海默症，是首位開始接受名為「AD-SMART」試驗治療的人士。\n\n她接受 BBC 訪問時說：「我們家族有人患有阿茲海默症。我的母親和姑姨都曾患病，所以確診時我感到失望，而非震驚，因為我知道這種病會限制我的生活。\n\n「但我下定決心，不讓它成為我人生的定義。」\n\nAngela 表示，參加試驗令她感到更有力量，因為「至少你正在採取行動」。\n\n「你不再只是坐在那裏，而是站起來說：我會抗擊這場病。」\n\n阿茲海默症是最常見的失智症類型，在英國約影響 60 萬人。\n\n「尖端治療」\n\n首相 Andy Burnham 的父親上月因阿茲海默症去世。他表示，自己明白失去摯愛、被失智症奪去生命的感受，也親身看見這種病對家庭造成的毀滅性影響。\n\n他說：「因此，看到這項試驗在英國啟動，令我深感自豪，讓尖端治療可以盡早在這裏惠及患者。」\n\nAD-SMART 是所謂的「多組 arms、多階段平台試驗」，即同時測試多種治療，再把結果與服用安慰劑或無效藥丸的一組參加者比較。\n\n這代表參與者接受真正療效藥物治療的機會，較傳統試驗為高。\n\n如果某種藥物沒有顯示效益，便可迅速剔除，再加入新的治療方法。這種做法已成功用於癌症及運動神經元疾病研究。\n\n首階段測試的兩種藥物，是用於治療二型糖尿病的 metformin，以及用於 ADHD 的 atomoxetine；兩者均由一個國際專家小組選出。\n\n首席研究員、倫敦帝國學院英國失智症研究所照顧研究與技術中心組長 Paresh Malhotra 教授表示，這兩種藥物或有助減少腦部發炎，而腦部發炎正是神經退行性變化的推動因素之一。\n\n他接受 BBC 訪問時說：「過去太長時間，阿茲海默症研究都循着『一種藥物、一項試驗、一個答案』的速度逐步前行，有時要花上十年或更久，才知道我們找到的東西是否有效。\n\n「我們正把癌症及其他疾病領域的進展應用於阿茲海默症治療，以加快測試步伐。」\n\n「走出绝望」\n\n藥物要取得成功，研究必須證明它們有助改善思考能力，以及履行日常活動的能力。\n\nMalhotra 教授說：「這才是患者及照顧者所關心的事情。」\n\n研究將在全英國超過 30 個地點招募約 1,200 名輕度至中度阿茲海默症患者。劍橋郡、薩里、倫敦、南安普敦及愛丁堡的研究地點已經開放。\n\n科學家預計於 2030 年完成首階段藥物的評估；在此期間，料會再加入其他治療方法。\n\n所有參加者都會定期接受健康檢查，包括認知測試，以協助研究人員評估治療成效。\n\nAngela Bucksey 的丈夫 Steve 是她的研究夥伴。他接受 BBC 訪問時說：「參加試驗把我們從診斷結果帶來的絕望中拉了出來。所有人都知道這種病無法痊癒。\n\n「知道我們正在接受藥物試驗的人，明白我們正在為此採取行動；他們不會只替我們感到可惜，反而可以鼓勵我們。」\n\nAlzheimer's Research UK 研究總監 Sheona Scales 醫生表示，對阿茲海默症患者而言，「時間彌足珍貴」，當局急需提供更多治療選擇。\n\n已獲確認患有阿茲海默症並有意參加者可於 AD-SMART 網站登記。\n\n試驗由英國失智症研究所及 Alzheimer's Research UK 共同主辦。\n\n合作機構包括英國健康與照顧研究國家研究所、醫學研究理事會及 Health Data Research UK，並由英國政府提供資助。\n\n這篇報道所提出的問題曾否影響你？\n\n聯絡表格\n\n聯絡表格\n\n預訂 BBC 旗艦電子報，收取每天所需的全部重要新聞。\n\n在此訂閱。\n\n相關主題\n\n阿茲海默症\n\n失智症\n\n健康\n\n醫學研究\n\n臨床試驗",
       "featured": false
     },
     {
-      "title": "抗癌倡議者 Goodburn 將為橄欖球賽事獻上比賽球",
+      "title": "癌症倡議人士Goodburn將為欖球賽獻上-match ball",
       "url": "https://www.bbc.co.uk/sport/articles/cqn49jxjg19eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T13:45:55.000Z",
-      "summary": "游泳冠軍兼腦癌研究倡議者 Archie Goodburn 將於下月為蘇格蘭對澳洲的 Nations Championship 比賽獻上比賽球。",
+      "summary": "游泳冠軍及腦癌研究倡議人Archie Goodburn將於下月蘇格蘭對澳洲的國家錦標賽中，親手獻上比賽用球。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -223,50 +223,50 @@
           "alt": "Archie Goodburn in action in the pool"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b5d2/live/5d2f33d0-d141-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Ballon d&#x27;Or trophy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f83d/live/d6c78bc0-d259-11f1-a701-fddedf244c16.jpg",
+          "alt": "Ian Dennis &amp; Leon Osman"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c4a7/live/6f5a7870-d18d-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Ballon d&#x27;Or"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c3dc/live/c893e880-d24c-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Harry Kane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1730/live/582ce040-cff1-11f1-b441-2b33b063138f.jpg",
-          "alt": "Ellen White and Alex Scott discussing the Ballon d&#x27;Or"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b2ee/live/010d1410-d235-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Ballon d&#x27;Or red carpet"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/038a/live/2a75cba0-cec8-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Alan Shearer and the Ballon d&#x27;Or"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b6f8/live/d8aa6b70-d22b-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Harry Kane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c9b6/live/31e066f0-d168-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Evanilson with Ali Bruce-Ball &amp; Clinton Morrison"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e82c/live/1d7c1a00-d213-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Harry Kane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f78f/live/0ed28080-d163-11f1-a701-fddedf244c16.jpg",
-          "alt": "Joe Cordina in all white boxing attire and Manny Pacquiao pictured in a yellow circle"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1b46/live/85b131f0-d213-11f1-a701-fddedf244c16.jpg",
+          "alt": "Manchester United fan Jay Motty"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ed38/live/f9b01d50-d155-11f1-b441-2b33b063138f.jpg",
-          "alt": "Troy Deeney pointin at his Team of the Week graphic"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0724/live/ba955da0-d200-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Harry Kane as a young Tottenham player superimposed with him holding the Ballon D&#x27;or trophy"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/307a/live/0e396f90-cfc8-11f1-a701-fddedf244c16.jpg",
-          "alt": "Runner with head torch on"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9a7a/live/ec1f21a0-d217-11f1-a701-fddedf244c16.jpg",
+          "alt": "Gianni Infantino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9efe/live/704b15e0-d0d0-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Toby Alderweireld analysis and circular image of Harry Kane"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4ebc/live/97aae320-d14a-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Fara Williams looks sternly ahead"
         }
       ],
-      "bodyZh": "Archie Goodburn：抗癌倡議者將為蘇格蘭對澳洲的欖球比賽贈送開賽球\n\nBBC Sport\n\n抗癌倡議者 Goodburn 將在欖球比賽贈送開賽球\n\n圖片來源：Getty Images\n\n圖片說明：Archie Goodburn 是英國冠軍及歐洲銅牌得主。\n\n發布日期：2026年10月21日\n\n游泳冠軍兼腦癌研究倡議者 Archie Goodburn 將於下月蘇格蘭在 Nations Championship 對澳洲的比賽中，負責贈送開賽球。\n\n這名 25 歲、在愛丁堡出生的泳手，近來已向英國首相 Andy Burnham 及蘇格蘭首席大臣 John Swinney 陳述其加強腦癌治療及研究的倡議。\n\n這位蘇格蘭 50 米蛙泳紀錄保持者，對能夠在出生地的 Murrayfield 擔任貴賓深感欣喜。澳洲 Wallabies 將於 11 月 15 日星期日到訪作賽。\n\n他說：「這對我而言簡直是世上最重要的事。我之前曾在最多 10,000 人面前演出，那是在愛丁堡城堡前的廣場舉行的愛丁堡軍樂節。\n\n「那時我只有 12 歲，獨唱《What a Wonderful World!》。所以，能夠在超過 60,000 人面前贈送開賽球，實在是一次難以置信的機會。」\n\n聽：Tavi Tuipulotu 為「代表蘇格蘭上陣」的夢想\n\n蘇格蘭將於世界盃熱身賽作客挑戰 All Blacks\n\n發布日期：5日前\n\nGoodburn 曾在 Stewart's-Melville College 擔任盲翼前鋒，其後才專注於現時參與的運動。他於 2024 年確診一種罕見的腦腫瘤——寡樹突膠質瘤，並在接受手術後重返競技游泳。\n\nMurrayfield 的支持者可趁機向兩家致力抗擊腦癌的慈善機構捐款，分別是 Brain Tumour Research 及 Astro Brain Tumour Fund。\n\nGoodburn 補充說：「這項事業對我非常重要。腦癌是英國 40 歲以下人士最大的癌症殺手，但多年來只獲得全國癌症研究預算不足 2% 的撥款。\n\n「事情正開始轉變，而這類倡議可以帶來實際影響。」\n\n相關題材\n\n欖球聯會\n\nScottish Rugby\n\nScotland Rugby Union\n\n游泳\n\n其他相關連結\n\nScottish Rugby Union\n\n短片\n\n上一則\n\n下一則\n\n1:17\n\n英超球迷預測金球獎得主。00:01:17，播放影片\n\n英超球迷預測金球獎得主\n\n0:32\n\nBallon d'Or 網站鬧烏龍？00:00:32，播放影片\n\nBallon d'Or 網站鬧烏龍？\n\n0:40\n\n誰才配得上金球獎？00:00:40，播放影片\n\n誰才配得上金球獎？\n\n0:51\n\nBBC 足球評論員選出 2026 年男足金球獎得主。00:00:51，播放影片\n\nBBC 足球評論員選出 2026 年男足金球獎得主\n\n1:15\n\n球證視角：曼聯 0-3 般尼茅。00:01:15，播放影片\n\n球證視角：曼聯 0-3 般尼茅\n\n1:33\n\nCordina 談與 Pacquiao 的可能「夢想」對決。00:01:33，播放影片\n\nCordina 談與 Pacquiao 的可能「夢想」對決\n\n1:05\n\n哪三人能夠完成 Troy 的一週最佳阵容？00:01:05，播放影片\n\n哪三人能夠完成 Troy 的一週最佳阵容？\n\n1:23\n\n女性夜間運動所面對的騷擾憂慮上升。00:01:23，播放影片\n\n女性夜間運動所面對的騷擾憂慮上升\n\n0:58\n\nKane 為何應贏得金球獎。00:00:58，播放影片\n\nKane 為何應贏得金球獎\n\n1:09\n\nAntonelli 爭奪 F1 冠軍是否「太容易」？00:01:09，播放影片\n\nAntonelli 爭奪 F1 冠軍是否「太容易」？\n\n0:54\n\n「有時數字會說謊」——Williams 談部分令人誤解的曼聯數據。00:00:54，播放影片\n\n「有時數字會說謊」——Williams 談部分令人誤解的曼聯數據\n\n0:40\n\n「我會照常繼續」——Carrick 談自己的曼聯前景。00:00:40，播放影片\n\n「我會照常繼續」——Carrick 談自己的曼聯前景\n\n0:59\n\nCarrick 是曼聯的問題所在嗎？00:00:59，播放影片\n\nCarrick 是曼聯的問題所在嗎？\n\n頭條新聞\n\nKane 結束英國 25 年來未能贏得金球獎的等待——他如何逆勢突破\n\n發布日期：6小時前\n\nPutellas 贏得追平紀錄的第三座金球獎\n\n發布日期：6小時前\n\n若 Carrick 被解僱，Howe 與 Nagelsmann 在曼聯教練人選中排名居前\n\n發布日期：14小時前\n\nBBC 其他版面\n\nBob 與 Paul 展開新冒險\n\n甚麼是金邊證券，能否用它賺取 8%？\n\nEllie White 與 Natasia Demetriou 帶來全新超現實短劇\n\n首支 Refugee Olympic Team 如何於 2016 年成立\n\n蘇格蘭體育其他報道\n\n蘇格蘭如何躋身世界盃——由親歷者現身說法\n\n蘇格蘭男子代表隊賽事將於 BBC 直播\n\n英國隊如何在冰壺軍備競賽中領先\n\nMcTominay 離開曼聯後如何成為 Napoli 深受愛戴的球星\n\n成為 Team Scotland 一分子為何如此特別？\n\n體育其他報道\n\nKane 結束英國 25 年來未能贏得金球獎的等待——他如何逆勢突破\n\nPutellas 贏得追平紀錄的第三座金球獎\n\n世界盃將至，Borthwick 面對的秋季疑問\n\nWilcox 為何可能遭曼聯球迷炮轟？\n\nNix 的 62 碼達陣及「復古 Rodgers」——NFL 最佳進球。影片\n\nNix 的 62 碼達陣及「復古 Rodgers」——NFL 最佳進球\n\nAntonelli 展現「尚未成為冠軍的冠軍選手」的比賽風采\n\n改變了 Spurs 命運的坦率會面——他們是否終於重新上路？\n\n曼城的防線漏洞反映 Donnarumma 與 Guehi 的struggles\n\n阿仙奴擊敗 Spurs 減輕壓力——他們現在能乘勢向前嗎？\n\n68 分鐘反轉及 Tonga 一場勝仗——英國如何避免世界盃出局\n\nVickery 從世界盃冠軍到 50 歲健美選手之路\n\n環法單車賽英國賽段詳情——可以在哪裡觀看？\n\n這名冉冉升起的法國新星，其父親曾隨英國贏得欖球世界盃\n\n沒有危機但充滿樂趣——新的歐洲冠軍聯賽賽制是否成功？\n\n比賽、疾病、受傷、再來——REDs，以及男性為何默默受苦\n\n這名奧運短跑選手現時每天臥床 22 小時\n\n由催淚氣體到眼淚——欖球聯盟最熱情的球迷？\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\nCookie 政策\n\n無障礙支援\n\n家長指引\n\n聯絡 BBC\n\n招聘\n\nBBC 電子郵件\n\nBBC 廣告\n\n版權 © 2026 BBC。BBC 概不負責外部網站的內容。\n\n閱讀我們對外部連結的處理方式。",
+      "bodyZh": "Archie Goodburn：抗癌倡議者將為蘇格蘭對澳洲賽事獻上match ball - BBC Sport\n\nBBC主頁\n\n略過內容\n\n無障礙支援\n\n你的帳戶\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作與生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n更多選單\n\n更多選單\n\n搜尋BBC\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作與生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n關閉選單\n\nBBC Sport\n\n選單\n\n主頁\n\n足球\n\n板球\n\n一級方程式\n\n欖球聯會\n\n網球\n\n高爾夫\n\n單車\n\n田徑\n\n更多\n\n體育項目A至Z\n\n美式足球\n\n田徑\n\n籃球\n\n拳擊\n\n板球\n\n單車\n\n飛鏢\n\n殘疾人體育\n\n足球\n\n一級方程式\n\n蓋爾式運動\n\n高爾夫\n\n體操\n\n賽馬\n\n綜合武術\n\n賽車\n\n無板籃球\n\n欖球聯會\n\n欖球聯盟\n\n桌球\n\n游泳\n\n網球\n\n更多體育項目A至Z\n\n更多體育內容\n\n英格蘭\n\n蘇格蘭\n\n威爾斯\n\n北愛爾蘭\n\n小測驗\n\n新聞資訊\n\n常見問題及說明\n\n欖球聯會\n\n賽果及賽程\n\n聯賽排行榜\n\n所有隊伍\n\n英格蘭\n\n蘇格蘭\n\n威爾斯\n\n愛爾蘭\n\n抗癌倡議者Goodburn將為欖球賽事獻上match ball\n\n圖片來源：Getty Images\n\n圖片說明：Archie Goodburn是英國冠軍及歐洲銅牌得主。\n\n發布日期：2026年10月21日\n\n游泳冠軍兼腦癌研究倡議者Archie Goodburn，下月將在蘇格蘭對澳洲的國家錦標賽中，親自獻上match ball。\n\n這名25歲、出生於愛丁堡的青年，近數星期已向首相Andy Burnham及蘇格蘭首席大臣John Swinney提出行動，爭取增加腦癌治療及研究的資源。\n\nGoodburn亦保持蘇格蘭50米蛙泳紀錄。澳洲威爾士隊將於11月15日星期日作客其家鄉愛丁堡的Murrayfield球場，他對能擔任賽事嘉賓深感欣喜。\n\n他說：「這對我來說簡直是世上最美好的事。我以前最多曾在1萬人面前演出，那是在愛丁堡軍樂節期間，當時城堡前的濱大道聚集了1萬名觀眾。\n\n「我當時只有12歲，獨唱《What a Wonderful World!》。如今竟有這個難得機會，可以面對超過6萬名觀眾獻上match ball。」\n\n收聽：Tavi Tuipulotu夢想「為蘇格蘭上場」\n\n蘇格蘭將於世界盃前哨戰作客迎戰全黑隊\n\n發布日期：6日前\n\nGoodburn在專注現時的游泳運動前，曾在Stewart's-Melville College擔任盲側翼鋒。他於2024年被診斷出罕見腦瘤——少突膠質細胞瘤；其後接受手術，並已重返競技游泳。\n\nMurrayfield的觀眾將有機會向兩間致力抗擊腦癌的慈善機構捐款，分別是Brain Tumour Research及Astro Brain Tumour Fund。\n\nGoodburn補充道：「這項事業對我非常重要。腦癌是英國40歲以下人士最大的癌症殺手，但多年來——約25年——所獲分配的癌症研究經費不足全國癌症預算的2%。\n\n「情況正開始改善，而這類措施可以帶來實際改變。」\n\n相關主題\n\n欖球聯會\n\nScottish Rugby\n\nScotland Rugby Union\n\n游泳\n\n相關網站連結\n\nScottish Rugby Union\n\n短片\n\n上一項\n\n下一項\n\n1:09\n\nComm Cam：Fleetwood Town歷史。00:01:09，播放影片\n\nComm Cam：Fleetwood Town歷史\n\n1:06\n\nKane贏得金球獎是「足球界的勝利」——Coady。00:01:06，播放影片\n\nKane贏得金球獎是「足球界的勝利」——Coady\n\n1:19\n\n這是否仍是金球獎史上最混亂的一屆？00:01:19，播放影片\n\n這是否仍是金球獎史上最混亂的一屆？\n\n0:28\n\nKane在2017年的金球獎美夢成真！00:00:28，播放影片\n\nKane在2017年的金球獎美夢成真！\n\n0:46\n\nDanks為Kane的成就感到驕傲。00:00:46，播放影片\n\nDanks為Kane的成就感到驕傲\n\n1:09\n\nMan Utd決定留用Carrick，「延緩無可避免之事」00:01:09，播放影片\n\nMan Utd決定留用Carrick，「延緩無可避免之事」\n\n1:12\n\n「不可能有比這更合適的人選」00:01:12，播放影片\n\n「不可能有比這更合適的人選」\n\n0:36\n\nFifa主席不應擁有如此大的權力——Mooney。00:00:36，播放影片\n\nFifa主席不應擁有如此大的權力——Mooney\n\n1:04\n\n女子足球知道自己的觀眾是誰嗎？00:01:04，播放影片\n\n女子足球知道自己的觀眾是誰嗎？\n\n1:04\n\n想像超級盃中場表演？00:01:04，播放影片\n\n想像超級盃中場表演？\n\n1:03\n\n「他實至名歸」——Shearer談Kane贏得金球獎。00:01:03，播放影片\n\n「他實至名歸」——Shearer談Kane贏得金球獎\n\n1:23\n\n「我的心跳得很快」——Kane談贏得金球獎。00:01:23，播放影片\n\n「我的心跳得很快」——Kane談贏得金球獎\n\n0:54\n\n位置回撤如何協助Kane贏得金球獎。00:00:54，播放影片\n\n位置回撤如何協助Kane贏得金球獎\n\n0:52\n\nJackson今季可入多少球？00:00:52，播放影片\n\nJackson今季可入多少球？\n\n0:32\n\n金球獎網站出錯？00:00:32，播放影片\n\n金球獎網站出錯？\n\n0:40\n\n誰才配得上金球獎？00:00:40，播放影片\n\n誰才配得上金球獎？\n\n1:15\n\nComm Cam：Man United 0-3 Bournemouth。00:01:15，播放影片\n\nComm Cam：Man United 0-3 Bournemouth\n\n頭條\n\nArsenal被淘汰，Dowman領紅牌，但Arteta是否做得過火？\n\n發布日期：6小時前\n\n無畏的Fleetwood迎來「球會史上最重要的一夜」\n\n發布日期：6小時前\n\nFleetwood擊敗Arsenal，可列入歷來最大級別的盃賽爆冷多少次？\n\n發布日期：7小時前\n\nBBC其他內容\n\n搶先看：四對著名組合即將展開一生難忘的旅程\n\n暢銷作家Harlan Coben分享他的《Desert Island Discs》\n\nRobson Green飾演一名重獲自由、靠偵破案件尋找答案的前囚犯\n\n星期三的財政預算案可能會有哪些改變？\n\n蘇格蘭體育其他內容\n\n由親歷者講述蘇格蘭如何晉身世界盃\n\n蘇格蘭男子代表隊賽事將於BBC直播\n\nTeam GB如何在冰壺軍備競賽中領先\n\nMcTominay在Man Utd離隊後，如何成為Napoli的ICON\n\n成為Team Scotland一分子為何如此特別？\n\n其他體育內容\n\nFleetwood擊敗Arsenal，可列入歷來最大級別的盃賽爆冷多少次？\n\nMan Utd留用Carrick——Old Trafford動盪48小時內幕\n\n「我會再做一次」——Kaepernick回望抗爭所付出的代價\n\nKane結束英格蘭25年未有人贏金球獎的等待——他如何逆勢登頂\n\nPutellas贏得追平紀錄的第三座金球獎\n\n世界盃在即，Borthwick面對秋季各項難題\n\nNix的62碼達陣及「復古Rodgers」——NFL最佳进球。影片\n\nNix的62碼達陣及「復古Rodgers」——NFL最佳进球\n\nAntonelli帶來「一場冠軍級車手仍未成為冠軍的賽事」\n\nVickery由世界盃冠軍到50歲健美選手之路\n\n環法單車賽英國賽段詳情——可以在哪裡觀看？\n\n這名冉冉升起的法國新星，其父親曾隨英格蘭贏得欖球世界盃\n\n比賽、患病、受傷、再重複——紅軍為何讓男士默默受苦\n\n這名奧運短跑選手現時每天臥床22小時\n\n由催淚瓦斯到眼淚——欖球聯會最熱情的球迷？\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作與生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n使用條款\n\n關於BBC\n\n私隱政策\n\nCookie\n\n無障礙支援\n\n家長指引\n\n聯絡BBC\n\n加入BBC\n\nBBC電子郵件\n\n廣告\n\n版權 © 2026 BBC。BBC概不負責外部網站的內容。\n\n閱讀我們的外部連結處理方式。",
       "featured": false
     },
     {
-      "title": "游泳選手阿奇・古德本在宣布腦癌檢討時向首相道謝",
+      "title": "游泳選手阿奇・古德本感謝首相，腦癌檢討公布",
       "url": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-14T19:04:46.000Z",
-      "summary": "這名蘇格蘭運動員患有無法切除的腦部腫瘤，早前曾在《BBC早餐》節目上含淚呼籲增加腦癌研究投資。",
+      "summary": "這名無法切除腦部腫瘤的蘇格蘭運動員，曾在《BBC早餐》節目上含淚呼籲增加腦癌研究投資。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -283,42 +283,42 @@
           "alt": "Archie Goodburn"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/18f0/live/dd774060-d168-11f1-b441-2b33b063138f.jpg",
-          "alt": "Chris Brown in a black hat with a &#x27;B&#x27; on it"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a3b0/live/bb60a5a0-d23c-11f1-a701-fddedf244c16.jpg",
+          "alt": "A man wearing a dark suit and pale blue shirt talks to the camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8893/live/537061f0-d157-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "A woman with brown hair and a man with blond hair poste together on a beach with the sea in the background."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b83e/live/39764900-d23c-11f1-a701-fddedf244c16.jpg",
+          "alt": "A man wearing a grey polo shirt looks off-camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/773d/live/417f4150-d125-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Lucy Williamson looking at the camera"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/14e7/live/7ce1a010-d23f-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "A shopping trolly with items in it"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5953/live/9155aba0-d16c-11f1-b441-2b33b063138f.jpg",
-          "alt": "A still of a computer game showing character Samantha Traynor. She has short dark hair and is wearing a futuristic suit."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0f2f/live/da4a4020-d228-11f1-a701-fddedf244c16.jpg",
+          "alt": "Kylian Mbappé of Real Madrid celebrates scoring a goal."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3340/live/d69f30a0-d103-11f1-a701-fddedf244c16.jpg",
-          "alt": "A plane veers off a runway into grass while landing."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/90ab/live/c28fa940-d244-11f1-a701-fddedf244c16.jpg",
+          "alt": "Explorer Ash Dykes looks at the camera in a blue t-shirt with short brown hair."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7659/live/ff824db0-d129-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "A close-up of a young woman with long, wavy, dark brown hair, looking straight into the camera."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3708/live/ec8eb2e0-d244-11f1-a701-fddedf244c16.jpg",
+          "alt": "A woman checks her shopping receipt with some vegetables in her basket."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8448/live/1fae6bc0-d141-11f1-b441-2b33b063138f.jpg",
-          "alt": "Singer Ozzy Osbourne with his wife Sharon. They are both dressed all in black."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d681/live/a1682950-d22f-11f1-a701-fddedf244c16.jpg",
+          "alt": "UK Chancellor John Healey is wearing a dark blue top and trousers. He is being interviewed by journalist Adam Fleming."
         }
       ],
-      "bodyZh": "游泳選手 Archie Goodburn 感謝首相，腦癌檢討措施公布\n\nBBC 蘇格蘭分部記者 Katy Scott 及 Claire Thomson 報道，英國政府公布新措施之際，游泳選手 Archie Goodburn 為改善腦癌患者照護而作出的努力終見成果。\n\n這名蘇格蘭運動員兩年前被診斷出三個無法切除的腦腫瘤；在為腦癌研究增加投資作出動人電視呼籲後，他與首相 Andy Burnham 會面。\n\n會面後，Burnham 宣布會委任一名新的全國腦癌臨床統籌主管，並承諾檢討腦癌工作的進展，以及採取行動，讓患者更早接受治療。\n\n25 歲的 Goodburn 感謝首相，並表示他的三項要求都「在一定程度獲得答應」，但細節仍需進一步「具體化」及落實。\n\n首相形容這名游泳選手是「我們所有人的榜樣」，並表示很高興歡迎他到訪唐寧街。\n\nBurnham 說：「他熱情地談到腦癌方面亟需改變，而他的看法是對的：無論在這裏還是其他地方，progress 都一直未達理想水平。\n\n「面對這種疾病的家庭等不起。」\n\nGoodburn 在 2026 年格拉斯哥英聯邦運動會奪得 50 米蛙泳決賽資格。\n\n他表示，備戰 2024 年奧運會選拔賽期間出現手腳麻木及癲癇，因此接受醫學檢查。\n\n其後他被診斷出三個大型少突膠質細胞瘤。這是一種可影響腦部及脊髓的罕見癌症。\n\n這名出生於愛丁堡的運動員接受化學治療及放射治療，以對付腫瘤，但醫生發現無法透過手術將其切除。\n\nBurnham 應泳手 Goodburn 邀請，在其呼籲增加癌症研究經費後與他會面\n\n2024 年 6 月 27 日刊出\n\n泳手 Goodburn 被診斷出無法切除的腦腫瘤\n\n2024 年 6 月 27 日刊出\n\n檢討工作將由格拉斯哥大學臨床腫瘤學教授 Anthony Chalmers 帶領。他目前擔任該校臨床腫瘤學系主席。檢討將評估自 2018 年以來，腦癌研究及照護領域取得的進展。\n\n檢討的目標是找出「仍然阻碍進展的因素」。\n\n唐寧街表示，檢討之後將制定全國癌症計劃，目標是讓新治療「更快從實驗室走到患者身上」。\n\n政府補充，首相已要求藥物監管機構——藥品及醫療產品監管局（Medicines and Healthcare Products Regulatory Agency，MHRA）——盡早完成對罕見疾病治療藥物規例的檢討。\n\n他促請監管機構在兩年內而非三年內完成檢討，並盡早落實可能有助患者更快取得新治療的規例修訂。\n\nGoodburn 今年早些時候接受 BBC Breakfast 節目訪問時，形容世界各地進行的試驗並未在英國受到關注，認為情況「不公平及不合理」。\n\n政府補充，患者、家屬及慈善團體將參與設計一項行動，讓更多人加入臨床試驗。\n\n同樣出席唐寧街會面的衞生大臣 Yvette Cooper 將負責帶領這項行動。\n\n觀看 Archie Goodburn 在 BBC Breakfast 節目上情願呼籲增加腦癌研究經費\n\n會面後，Goodburn 說：「他們聽取了全國各地數以千計的聲音，以及多年來一直懇求改變的數以千計家庭的心聲。\n\n「三項要求都獲得了一定程度的答應，細節方面仍有需要進一步具體化的地方。\n\n「到了目前這一步，我認為自己已不能再要求更多，因此我向 Andy Burnham 抽出時間與我會面致以最深的謝意。」\n\n英國政府發言人表示，這項措施適用於整個英國，因為相關研究機構——英國健康與社會照護研究研究所（National Institute for Health and Social Care Research，NIHR）——在若干資助計劃中會與英國各地分權政府合作。\n\n衞生及社會服務在蘇格蘭屬分權事務。\n\n蘇格蘭首席部長 John Swinney 最近也曾與 Goodburn 會面。他表示，蘇格蘭政府承諾支持更多臨床試驗。\n\n他說：「我們很欣慰能透過蘇格蘭成人神經腫瘤學網絡，支持全國腦癌工作的統籌。\n\n「這個網絡把臨床醫生、患者及自願界別代表聚集起來，改善蘇格蘭各地腦癌患者的照護。\n\n「我們會認真考慮蘇格蘭可進一步扮演的角色，讓腦癌患者更快由研究階段進入治療階段。」\n\n圖片來源：PA Media\n\n圖片說明：Archie Goodburn 於 2024 年被診斷出三個少突膠質細胞瘤。\n\n慈善團體 Brain Tumour Research 表示，腦癌是英國最容易奪去 40 歲以下患者生命的癌症。\n\n該團體指出，在腦腫瘤研究的全國總投資中，慈善團體提供的資金接近 75%，政府撥款則佔 25%。\n\n措施公布後，行政總裁 Dan Knowles 感謝 Goodburn 不懈努力，提高社會對這種疾病的關注。\n\n他說：「我們樂觀認為，這次重新聚焦能確保實驗室內的發現真正惠及迫切需要更多治療選擇的患者。」\n\n由愛丁堡西南區議員 Scott Arthur 領導的《罕見癌症法案》於今年較早時候成為法律。\n\n法案旨在鼓勵對罕見癌症的治療作出研究及投資。所謂罕見癌症，是指每 2,000 人中少於 1 人受影响的癌症。\n\n不過，Goodburn 先前表示，這仍不足夠；若設立專門的腦癌統籌主管，便能更集中於特定研究及試驗。\n\nArthur 表示，這項法案對推動腦癌所需研究「至關重要」，而 Goodburn 與 Burnham 的會面可望帶動這個領域進一步工作。\n\n他在會面前說：「這個領域確實有機會拆除一直以來為慈善團體、臨床醫生及研究人員所知悉、卻長期存在的種種研究障礙。\n\n「我曾多次與 Archie 會面，深知他是腦腫瘤社群的一位出色倡議者。\n\n「我希望他與首相的會面，能成為取得實質進展的時刻。」\n\n相關主題\n\n蘇格蘭\n\n腦癌\n\n癌症\n\nAndy Burnham\n\n醫學研究\n\n衞生\n\nNHS\n\n相關報道\n\n可能看不到 40 歲的英聯邦運動會游泳選手\n\n2025 年 6 月 25 日刊出\n\n「獎牌夢未能成真，但我的另一個夢是對抗腦癌」\n\n7 月 27 日刊出\n\n更多精選片段\n\nBBC 熱門影片精選\n\n上一則／下一則\n\nChris Brown 在私人會所襲擊事件後避過入獄\n\n丈夫在巴哈馬悲劇後向「英雄」妻子致敬\n\n以色列選舉是否是其歷史上最重要的一次？\n\n《Mass Effect 3》配音員談 BioWare 結業：「痛苦的結局」\n\n客機在伯明翰機場偏離跑道\n\n你能從臉龐判斷鐵蛋白水平嗎？\n\nOzzy 在人生最後一刻要求親吻及擁抱\n\n向 Sir Kevin Sinfield 頒授騎士勳章很容易\n\n巴西 Lula 稱選舉勝利是「謊言的敗北」\n\n牛津街禁車前的最後一班巴士\n\n「我會照常繼續」——Carrick 談自己在 Man Utd 的前途\n\nMartin Lewis 希望大家了解的一項冷門投資\n\nObama 在美國中期選舉前向 Trump 開火\n\n推動世界運轉的簡單邏輯\n\nFifa 主席笑談外界詢問其會否辭職\n\nChris Brown 在私人會所襲擊事件後避過入獄\n\n《藍色星球 III》：章魚在獵食出錯後逃過一劫\n\n工人被全天候拍攝，以訓練 AI 取代工作\n\n接管 TikTok 的阿婆們\n\n熱門新聞\n\n以色列在以安全及民主為核心的關鍵選舉中投票\n\nChris Mason：Burnham 面對各項難題，預算案即將出台\n\nHealey 在預算案前承諾推出「日常改善」措施，包括減價橙醬及小黃瓜\n\n更多內容\n\n「我是單親媽媽，年收入 41,000 英镑，每周購物開支限制在 40 英镑。」你希望預算案有甚麼內容？\n\n《The Papers》：「英國金童」Kane，以及「是時候公平付款」\n\nLula 在巴西捲土重來，削弱 Trump 對拉丁美洲的影響\n\n丈夫去世已令我痛不堪言——接着還要處理行政手續\n\n反對派領袖 María Machado 流亡後回國，面對被 Trump 重塑的委內瑞拉\n\nPutellas 贏得創紀錄並列第三次金球獎\n\n公眾會否改變對 Meghan 的看法？\n\n女兒因在家照顧母親獲判賠 12.7 萬英鎊\n\n「鐵蛋白臉」是否真有其事？你真的能從外表看出缺鐵嗎？\n\nBBC 其他內容\n\n備受期待的第二季現已開播\n\n重溫審訊第 10 天陪審團聽取的内容\n\n觀看令人談論的演出\n\n《Celebrity Traitors》參演明星再度聚首，重溫 Celia Imrie 幾乎被捕的經歷\n\n最多瀏覽\n\n政府呼籲囤積必需品後，必需商品銷售急升\n\nHealey 在預算案前承諾推出「日常改善」措施，包括減價橙醬及小黃瓜\n\n《The Papers》：「英國金童」Kane，以及「是時候公平付款」\n\nTrump 政府涉嫌非法解僱 James Comey 的女兒",
+      "bodyZh": "游泳選手 Archie Goodburn 感謝首相，並公布腦癌檢討措施——BBC News\n\nBBC 蘇格蘭分部記者 Katy Scott 及 Claire Thomson 報道\n\n發布日期：2026年10月14日\n\n英國政府公布新一輪改善腦癌病人照顧的措施，游泳選手 Archie Goodburn 為爭取增加腦癌研究的投資而作出的努力終於取得成果。\n\n這名蘇格蘭運動員兩年前被診斷出三個無法切除的腦部腫瘤。他在電視上感人呼籲增加腦癌研究投資後，與首相 Andy Burnham 會面。\n\n會面後，Burnham 宣布將委任一位新的全英腦癌臨床研究主管，並承諾檢視腦癌防治工作的進展，以及採取行動，讓病人更早獲得治療。\n\n25歲的 Goodburn 感謝首相，並表示他的三項要求都「在某種程度上獲得答應」，但相關細節仍須進一步「具體落實」。\n\n首相形容這名游泳選手是「我們所有人的榜樣」，並表示很高興歡迎他到唐寧街。\n\nBurnham 說：「他一直熱情地談論腦癌亟須改變，而他的說法是正確的：無論在這裏還是其他地方，进展一直未如理想。\n\n「面對這種疾病的家庭，等不起。」\n\nGoodburn 在2026年格拉斯哥英國聯邦運動會蛙泳50米項目晉身決賽。\n\n他表示，當他在備戰2024年奧運會選拔賽期間出現身體麻痺及癲癇後，便接受醫學檢查。\n\n其後，他被診斷出三個大型少突膠質細胞瘤。這是一種可影響腦部及脊髓的罕見癌症。\n\n這名在愛丁堡出生的運動員接受化學治療及放射治療，以對付腫瘤，但醫生發現無法以手術將腫瘤切除。\n\nBurnham 在 Goodburn 呼籲增加癌症資金後邀請他會面\n\n發布日期：8月4日\n\n游泳選手 Goodburn 被診斷出無法切除的腦部腫瘤\n\n發布日期：2024年6月27日\n\n檢討工作將由格拉斯哥大學臨床腫瘤學系主任 Anthony Chalmers 教授領導，評估自2018年以來，腦癌領域取得的進展。\n\n檢討旨在找出「仍在阻礙進展的因素」。\n\n唐寧街表示，檢討後將制定全國癌症計劃，希望可以讓新治療「更快由實驗室走進病人當中」。\n\n政府補充，首相已促請藥物監管機構——藥品及醫療產品監管局（MHRA）——盡早完成罕見疾病治療藥物規定的檢討。\n\nBurnham 已敦促監管機構在兩年內而非三年內完成檢討，並盡早推行有助病人更快取得新治療的規則修訂。\n\nGoodburn 今年較早時在《BBC Breakfast》節目表示，世界各地進行的試驗在英國並未獲得採用，這種情況「不公平，也不合理」。\n\n政府補充，病人、家屬及慈善機構將共同參與設計推動更多病人參與臨床試驗的計劃。\n\n同樣出席唐寧街會面的衞生大臣 Yvette Cooper 將負責帶領這項工作。\n\nGoodburn 在會面後說：「他們聽到了全國各地數以千計的聲音，以及多年來一直懇求改變的數以千計的家庭。\n\n「三項要求都已在某種程度上獲得答應，部分細節仍須進一步具體落實。\n\n「我認為走到這個階段，我已不能再要求更多，因此我向 Andy Burnham 抽出時間與我會面，表達衷心感謝。」\n\n英國政府發言人表示，這項宣布適用於整個英國，因為相關研究機構——國民健康及社會照護研究所（NIHR）——在若干資助計劃中與多個獲授權地區政府合作。\n\n在蘇格蘭，醫療及社會服務屬已下放中央的權力。\n\n蘇格蘭首席部長 John Swinney 最近也曾與 Goodburn 會面。他指出，蘇格蘭政府一直致力支持更多臨床試驗。\n\n他說：「我們很自豪能透過蘇格蘭成人神經腫瘤學網絡，支持全國腦癌工作的協調領導。\n\n「這個網絡匯聚臨床醫生、病人及志愿機構代表，改善全蘇格蘭腦癌病人的照顧。\n\n「我們會審慎考慮蘇格蘭還可承擔甚麼進一步角色，讓腦癌患者更快由研究階段進入治療階段。」\n\n圖片來源：PA Media\n\n圖片說明：Archie Goodburn 於2024年被診斷出三個少突膠質細胞瘤腫瘤。\n\n慈善機構 Brain Tumour Research 表示，在英國，這種癌症是最可能令40歲以下病人死亡的癌症。\n\n該機構指出，在全國腦腫瘤研究的總投資中，慈善機構提供的資金接近75%，政府資助則佔25%。\n\n宣布措施後，行政總裁 Dan Knowles 感謝 Goodburn 為提高外界對這種疾病的認識而作出的「不懈努力」。\n\n他說：「我們樂觀期望，這次重新受到關注，有助確保實驗室內的發現，真正惠及迫切需要更多治療選擇的病人。」\n\n由愛丁堡西南區議員 Scott Arthur 帶領的《罕見癌症法案》於今年較早時成為法律。\n\n法例旨在鼓勵對罕見癌症治療進行研究及投資；罕見癌症是指每2,000人中少於1人受影響的癌症。\n\n不過，Goodburn 先前表示，法例的力度仍然不足，必須為腦癌設立專責主管，才可讓特定研究及試驗獲得更集中、更充分的關注。\n\nArthur 稱，該法案對推動這種疾病所需的研究至關重要，而 Goodburn 與 Burnham 的會面可望為這個領域帶來進一步工作。\n\n他在會面前說：「這個領域確有重大機會，可以掃除慈善機構、臨床醫生及研究人員數十年來一直都知道存在的研究障礙。\n\n「我曾數次與 Archie 會面，知道他是腦腫癌社群一位出色的倡議者。\n\n「我希望他與首相的會面，能成為推動實質進展的一刻。」\n\n相關主題：蘇格蘭、腦癌、癌症、Andy Burnham、醫學研究、醫療、國民保健服務",
       "featured": false
     },
     {
-      "title": "《絕命毒師》RJ・米特如何改變了我們看待腦癱的看法",
+      "title": "《毒醫生》列尼・米特如何改變我們觀看腦癱的方法",
       "url": "https://www.bbc.co.uk/news/articles/cvp8gj20j2ljo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-13T14:07:33.000Z",
-      "summary": "這位星級演員離世時年僅34歲，他曾致力於推動銀幕上更好地呈現殘疾人士。",
+      "summary": "這位離世時年僅34歲的演員，一直 strive 爭取殘疾者在屏幕上獲得更佳的代表性。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -347,30 +347,30 @@
           "alt": "Project manager Jake Brown and former soldier Leanne Quigley in formal attire smiling at a photocall at the BBC. Jake is wearing a black bow tie."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/18f0/live/dd774060-d168-11f1-b441-2b33b063138f.jpg",
-          "alt": "Chris Brown in a black hat with a &#x27;B&#x27; on it"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a3b0/live/bb60a5a0-d23c-11f1-a701-fddedf244c16.jpg",
+          "alt": "A man wearing a dark suit and pale blue shirt talks to the camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8893/live/537061f0-d157-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "A woman with brown hair and a man with blond hair poste together on a beach with the sea in the background."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b83e/live/39764900-d23c-11f1-a701-fddedf244c16.jpg",
+          "alt": "A man wearing a grey polo shirt looks off-camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/773d/live/417f4150-d125-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Lucy Williamson looking at the camera"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/14e7/live/7ce1a010-d23f-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "A shopping trolly with items in it"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5953/live/9155aba0-d16c-11f1-b441-2b33b063138f.jpg",
-          "alt": "A still of a computer game showing character Samantha Traynor. She has short dark hair and is wearing a futuristic suit."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0f2f/live/da4a4020-d228-11f1-a701-fddedf244c16.jpg",
+          "alt": "Kylian Mbappé of Real Madrid celebrates scoring a goal."
         }
       ],
-      "bodyZh": "《破壞王》星級演員 RJ Mitte 如何改變我們看待腦麻痺症的方式\n\n作者：Emma Saunders\n文化新聞記者\n發布日期：2026年10月13日\n\n「我有腦麻痺症，但從來沒有因此阻止自己向前。」\n\n這是《破壞王》（Breaking Bad）22歲演員 RJ Mitte 於2014年在《HuffPost》撰寫文章時說的話。\n\n他解釋自己成長期間如何學習站立，以及如何面對欺凌者，並補充道：「殘疾不應定義你。我只是碰巧患有腦麻痺症而已。」\n\nMitte 飾演的華特・「飛俠」・懷特二世（Walter “Flynn” White Jr）也是如此。這個角色是 Bryan Cranston 所演角色在劇中的兒子，而《破壞王》最近獲《紐約時報》評為21世紀最佳電視劇。\n\n「我真正喜歡的是，他在電視上飾演一名腦麻痺症患者，但故事重點並不是他患有腦麻痺症。」成人腦麻痺症運動組織 Up 創辦人兼行政總裁 Emma Livingstone 說。\n\n「當我們在電視上看見 RJ Mitte 只是演出一個角色，而他又恰好患有腦麻痺症時，我認為這具有非常強大的力量。」\n\nMitte 不僅是演員，也是倡議者和支持者。他曾擔任多個慈善機構的大使，包括 United Cerebral Palsy 和 Can Do Canines；他又成立 The Mitte Foundation，向德州家鄉的社區提供資助。Mitte 星期一以自殺方式離世，終年34歲。\n\n圖片來源：Getty Images\n\nUnited Cerebral Palsy 會長兼行政總裁 Susan Sellers 說：「他的倡議工作建基於一份決心：確保腦麻痺症及其他殘疾人士獲得正視、發聲的機會，並有機會發揮自己的全部潛力。」\n\nMitte 所留下的影響，對殘疾演員尤其重大。\n\n在新電影《Being Heumann》中飾演殘疾權利倡議者 Judy Heumann 的 Ruth Madeley 對 BBC 表示：「如果看不到，就不會認為這是可行的。年輕時，演員這條路甚至從未出現在我的腦海裏；我根本沒有把它視為一個選擇。」\n\n本身患有脊柱裂的 Madeley 補充說：「讓像他［Mitte］這樣的人，在眾多把藝術工作者視為希望入行行業的年輕人面前長時間亮相於螢幕上……他是一個美好的榜樣。\n\n「但他不只是一名打破業界障礙的殘疾人士。他是一位非凡的人才，我認為大家最想念的，正是这一点。」\n\n圖片來源：Getty Images\n\n圖片說明：2013年，Mitte 在荷里活星光大道受到群眾追捧。\n\n曾參演 Netflix 熱播劇《Sex Education》的另一名演員 Keron Day 對 BBC 說：「我能向 RJ 及其工作作出的最大致敬，就是我今天從一套電視劇的片場寄出這封電郵給你。\n\n「這就是他的傳承：讓殘疾人士在創意產業中建立事業。如果我能做到 RJ 一半的影響力，我已經會萬分自豪。這對我們的業界和社群來說，都是令人傷心的一日。」\n\n喜劇演員兼編劇 Laurence Clarke 亦表示同意：「我們在電視上看到的這類演繹越多，就會有越多殘疾人士受到啟發，認為這也可以成為自己的職業。\n\n「自《破壞王》在2008年推出以來，社會已向前走了很長一段路，但我們始終還有更遠的路要走。」\n\n談到 Mitte 在《破壞王》的角色，Clarke 對 BBC 表示：「這部劇最美妙之處，在於殘疾在畫面上一直清晰可見。」\n\n他亦指出，包容性劇集和節目會影響觀眾。他說：「身為社會大眾，我們接觸這類演繹越多，它便會逐漸成為生活的一部分，也會影響我們看待世界的方式。」\n\n圖片來源：Getty Images\n\n圖片說明：極具成功的《破壞王》中，Bryan Cranston（左）飾演 RJ Mitte 的父親。\n\nMitte 三歲時確診腦麻痺症。英國國民保健服務（NHS）將其描述為一組由腦部問題所引起、影響動作及協調能力的終身疾病；有關腦部問題通常在出生前後形成。\n\n他14歲獲選出演《破壞王》，並在2016年接受 Channel 4 News 訪問時表示，該劇「開創先河，令許多電視製作人和編劇變得更大膽」。\n\n不過，他亦審慎提醒：「我們仍有很長的路要走……這仍然是一門生意，而我們必須循序漸進。」\n\n本月初，他暗示自己可能有興趣延續《破壞王》的故事，但同時表示，任何重啟作品都必須承受很高期望。\n\n他說：「我只想超越《破壞王》，那是最困難的。我年輕時便給自己定下了一個有點難以達到的標準。我常告訴別人：『你看，要從山頂望下去，路還很長呢。』」\n\n《破壞王》結束後，Mitte 的其他幕幕作品包括《Hannah Montana》、《Switched at Birth》、《Westhampton》，以及他今年較早推出/latest的《Talking to Strangers》。\n\n但他最大的成就，以及他最引以自豪的，是他的慈善工作。\n\n「透過《破壞王》，我最感到站在世界頂端的時刻，就是能夠協助他人，以及與殘疾人士一起工作……嘗試提醒大家，他們擁有發聲的權利，而我也願意借用我的聲音。\n\n「《破壞王》給予我的最大禮物，就是讓我能為一些帶來實質影響、改變他人生命的事 Causes 發聲。」\n\n相關題材\n\n演員事業\n腦麻痺症\n殘疾\n電視\n\n延伸閱讀\n\n《破壞王》演員 RJ Mitte 去世，終年34歲\n發布日期：10月13日\n\n3名獲奧斯卡提名者挑戰外界對殘疾的觀念\n發布日期：2021年4月22日\n\n《叛徒》勝出者如何成為「以殘疾為榮」的人\n發布日期：2025年1月27日",
+      "bodyZh": "RJ Mitte：《Breaking Bad》明星如何改變我們看待腦麻痺症的方式\n\nBBC News\n\n作者：Emma Saunders\n文化記者\n\n發布日期：2026年10月13日\n\n「我有腦麻痺症，但從來沒有讓它阻礙我前進。」\n\n這是《Breaking Bad》演員 RJ Mitte 於2014年在《HuffPost》撰寫文章時所說。當時他22歲。他在文中分享自己長大後學習站起來、抵抗欺凌者的經歷，並補充說：「它不應定義你。我只是碰巧患有腦麻痺症而已。」\n\nMitte 飾演的角色 Walter「Flynn」White Jr 同樣患有腦麻痺症。這個角色是 Bryan Cranston 所飾演角色的兒子。《Breaking Bad》近日更獲《紐約時報》評為21世紀最佳電視劇。\n\n「我真正喜歡的是，他在電視上飾演一個患有腦麻痺症的角色，但故事並非只聚焦於他患有腦麻痺症。」成人腦麻痺症運動 Up 創辦人兼行政總裁 Emma Livingstone 說。\n\n「當我們在電視上看到 RJ Mitte 只是演戲，而他又恰好患有腦麻痺症，我認為這具有非常強大的力量。」\n\nMitte 不僅是演員，也是一位倡議者和支持者。他曾擔任 United Cerebral Palsy、Can Do Canines 等慈善機構的大使，並成立 The Mitte Foundation，在其得州故鄉提供社區資助。他於星期一因自殺離世，終年34歲。\n\n圖片來源：Getty Images\n\nUnited Cerebral Palsy 主席兼行政總裁 Susan Sellers 表示：「他的倡議工作源於一份堅持：確保腦麻痺症及其他殘疾人士獲得關注、有人聆聽，並有機會發揮自己的全部潛力。」\n\nMitte 留下的傳承，對殘疾演員尤其意義重大。\n\n在新電影《Being Heumann》中飾演殘疾權利倡議者 Judy Heumann 的 Ruth Madeley 對 BBC 表示：「如果你看不見，你就不會認為那是可能的。年輕時，演員這條路根本沒有出現在我的腦海裏，我甚至不覺得那是個選擇。」\n\n她本身患有脊柱裂，並補充說：「讓像他（Mitte）這樣的人長時間出現在螢幕上，對許多正把藝術工作視為希望投身行業的年輕人來說，是很大的啟示。他就是一個美好的榜樣。\n\n「但他不只是一個正在打破行業障礙的殘疾人士。他是一位非凡的人才，我認為，這才是大家最會想念和懷念他的地方。」\n\n圖片來源：Getty Images\n\n圖片說明：2013年，Mitte 在荷里活星光大道受到Fans包圍。\n\n曾出演 Netflix 熱門劇集《Sex Education》的另一名演員 Keron Day 對 BBC 表示：「我能向 RJ 及其工作致以的最大敬意，就是我今天正從一間電視劇的片場發電郵給你。\n\n「這就是他的傳承：讓殘疾人士在創意產業中建立事業。如果我能做到 RJ 一半的影響力，我會感到无比自豪。這對我們的行業和社群來說，都是令人傷心的一天。」\n\n喜劇演員兼編劇 Laurence Clarke 亦表示同意：「我們在電視上看到的這類演繹越多，就越能激勵更多殘疾人士，把演員視為適合自己的職業。」\n\n他說：「自《Breaking Bad》在2008年推出以來，事態已經向前走了很長一段路，但前面仍有很長的路要走。」\n\n談到 Mitte 在《Breaking Bad》的角色，Clarke 告訴 BBC：「美之處在於，殘疾在畫面中一直清晰可見。」\n\n他亦指出，包容性的劇集和電視節目會影響觀眾。\n\n「作為社會大眾，你接觸這些描寫越多，它們便愈會成為生活的一部分，也會改變你看待世界的方式。」\n\n圖片來源：Getty Images\n\n圖片說明：Bryan Cranston（左）在大受歡迎的《Breaking Bad》中飾演 RJ Mitte 的父親。\n\nMitte 三歲時被診斷患有腦麻痺症。英國國民醫療服務（NHS）將腦麻痺症描述為一組終身疾病的名稱；這些疾病由出生前後大腦發育時出現的問題所引致，會影響病人的動作及協調能力。\n\n他14歲時獲選出演《Breaking Bad》，並於2016年對 Channel 4 News 表示，該劇「開創了許多電視製作及編劇，讓他們變得更勇敢」。\n\n但他同時提醒說：「我們仍有很長的路要走……這始終是一門生意，而我們必須循序漸進。」\n\n本月初，他暗示自己可能有興趣延續《Breaking Bad》的故事，但表示若劇集重啟，便要肩負極高的期望。\n\n他說：「我只想超越《Breaking Bad》，那是最難的。我年輕時為自己定下了一個有點無法達到的標準。我常告訴別人：『你看，要從山頂走到山腳，還有很長的一段路。』」\n\n《Breaking Bad》之後，Mitte 的其他幕前作品包括《Hannah Montana》、《Switched at Birth》、《Westhampton》，以及他今年較早推出的最新項目《Talking to Strangers》。\n\n但他最大的成就，也是他最引以自豪的事，是他的慈善工作。\n\n「透過《Breaking Bad》，以及我與殘疾人士一起進行的工作，我能夠幫助別人，也最能感到自己站在世界之巅……我想提醒大家，他們也有自己的聲音，而我會借用我的聲音為他們發聲。\n\n「《Breaking Bad》給我的最大禮物，是讓我能為一些帶來實質影響、改變別人生命的事奉獻自己的聲音。」\n\n相關主題\n\n演員\n\n腦麻痺症\n\n殘疾\n\n電視\n\n延伸閱讀\n\n《Breaking Bad》演員 RJ Mitte 去世，終年34歲\n\n發布日期：10月13日\n\n3位奧斯卡候選人挑戰外界對殘疾的觀念\n\n發布日期：2021年4月22日\n\n《The Traitors》勝出者如何「以身障為傲」\n\n發布日期：2025年1月27日",
       "featured": false
     },
     {
-      "title": "「就像我的哥哥們一樣」：腦癱男孩靠眼球追蹤技術通過GCSE",
+      "title": "「就像我的哥哥們一樣」：腦癱男孩靠視線追蹤技術通過GCSE",
       "url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
       "publishedAt": "2026-10-02T17:18:06.000Z",
-      "summary": "帕特里克・麥凱布在英格蘭切爾郡麥克利斯菲爾德的法利布魯姆學院 Wheelchair 輪椅四周圍繞着同學。他靠眼球追蹤技術取得GCSE成績，展示了特殊教育需要及殘疾支援體系的局限與可能性。",
+      "summary": "帕特里克・麥凱布在切什爾的法利布魯姆學院就讀，他與同學一起上課、談笑。他能以視線追蹤技術取得GCSE，展現特殊教育需要與殘疾制度的限制及可能性。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -415,14 +415,13 @@
           "alt": ""
         }
       ],
-      "bodyZh": "「就像我的哥哥們一樣」：腦麻痺男孩借助視線追蹤技術通過 GCSE｜特殊教育需要｜《衛報》\n\nPatrick McCabe 借助視線追蹤技術參加 GCSE，剛開始修讀 A-level。\n照片：Christopher Thomond／《衛報》\n\n特殊教育需要\n\n「就像我的哥哥們一樣」：腦麻痺男孩借助視線追蹤技術通過 GCSE\n\nPatrick McCabe 創下的非凡成就，展現了特殊教育需要及殘疾制度的局限與可能\n\nSally Weale\n教育新聞 correspondent\n2026年10月2日（星期五）美東時間13:18\n最後修改於2026年10月2日（星期五）美東時間13:44\n\n初秋陽光下，Patrick McCabe 一眼就能辨認出來。在 Cheshire 郡 Macclesfield 的 Fallibroome Academy，同學們簇擁着他的輪椅，一邊往返課室，一邊聊天、笑說和開玩笑。\n\n今年暑假，他非凡的 GCSE 成績已成為近乎legendary的佳話。這名16歲男孩患有腦麻痺，透過視線追蹤技術花上4個月完成考試。如今 Patrick 已經開始修讀 A-level，包括法語、商業及媒體研究，新的挑戰正在前方。\n\n見面時，Patrick 淘氣、 thoughtful、健談、机智、聰明而誠實。他借助輔助及替代溝通（AAC）裝置告訴《衛報》，整體而言，學校是一段很好的經歷。他出生於瑞士，6歲時隨家人移居英國。此後，他一直就讀當地的普通學校，因為他想跟其他人一樣學習。\n\n「最好的是，我跟哥哥們一樣，能夠學習、發展技能，以及掌握周圍世界的知識，」他說。「即使有些日子我不太想上學，我認為學習的機會幫助我成長，培養出獨立思考的能力。」\n\n過程並不容易。「最困難的是建立有意義的人際關係，而溝通障礙確實存在，」Patrick 說。「人們不總是熟悉 Eyegaze 視線追蹤技術，也不總是願意或能夠在友誼方面給它一個機會。」\n\nPatrick 與母親 Jo。\n照片：Christopher Thomond／《衛報》\n\n在許多方面，Patrick 都體現了工黨政府對有特殊教育需要及殘疾（SEND）學生的願景。即將推出的改革建基於共融方針，讓兒童及青少年留在本地普通學校，而不是特殊學校，並在學校內提供所有必要的專業支援及支援服務。\n\n然而，Patrick 的故事也說明，如果英格蘭的教育及評核要真正做到共融，便需要多麼大規模的改變。他的經歷顯示，考試遠未對所有人開放；他的家人和學校表示，關鍵的專業支援未必隨時可得，而更重要的是，資金從來都不夠。\n\n「我們所要求的，只是讓 Patrick 有機會展示自己的知識，並給予他與其他學生相若的公平競爭環境，」校長 Ross Martland 說。學校和 Patrick 的母親 Jo 曾與考試局交涉，務求確保他能獲得公平機會。\n\n結果，聽起來一點也不公平。當其他同學花上年初一段時間溫習時，Patrick 的考試於2月2日展開，並持續至6月5日，每天上午進行。這需要他付出極大努力，也令他筋疲力盡、感到挫敗，有時甚至病倒。\n\n「使用視線追蹤技術時，我覺得自己必須更努力，才能表達所知的內容，」Patrick 說。\n照片：Christopher Thomond／《衛報》\n\n一道佔30分的題目，可能只是整份考試其中一部分，卻可能耗時長達6小時。Patrick 全程獲得 CandLE 支援；這個組織協助全英使用 AAC 技術的學生接受教育。他通過了全部7科 GCSE，並取得升讀六年級所需的成績，這證明了他的決心。\n\n「為 GCSE 溫習非常疲累，因為本身便需要額外時間和努力，」Patrick 說。「即使我明白科目內容，我仍覺得自己必須更努力才能表達所知。這在身體和心理上都很累。我需要多些休息，但仍然想盡力做到最好，展示自己學到的東西。」\n\nMartland 完全支持政府的 SEND 願景。「我認為這些計劃是正確的。從道德及價值觀角度而言 absolutely right。」他指出問題在於資金，並補充說：「如果沒有足夠資源，我很擔心這會給學校帶來顯著壓力。」\n\n閱讀更多：急於尋求支援，英格蘭有 SEND 計劃的學生人數料增至每10人中有1人\n\n在 Fallibroome 就讀期間，Patrick 一直得到一支盡責的教學助理團隊協助；他們不但支援他在課堂上的學習，也幫助處理他的個人照顧需要。與他合作的一名教學助理 Rachel Crew 說：「我們為 Patrick，以及所有 SEND 學生感到極其自豪。」\n\nPatrick 表示，銜接六年級的進展順利。他已脫下墨綠色校服，換上剪裁醒目的藍色西裝，並說學校正竭盡所能支援他。\n\n他稱媽媽「了不起」，並認為使用視線追蹤技術的身體殘疾學生，應以更合適的方式接受評核，以免面對額外障礙。但讓他擔心的並不只是考試。「老實說，我仍然關注友誼方面的問題。」\n\n那麼，Patrick 下一步有何打算？完成 A-level 後，他想在大學修讀媒體科目。「我覺得這很有趣，亦希望投入這個行業。」媽媽初步提議 nearby 的 Salford，但 Patrick 正考慮200英里外的 Bournemouth。他有沒有感到怯意？完全沒有。「我對這段經歷感到期待。」\n\n延伸閱讀\n\n特殊教育需要\n\n殘疾\n\n英格蘭\n\nCheshire\n\n學校\n\n工黨\n\n特色报道\n\n相關報道\n\n專家稱，家長爭相為子女取得支援，英格蘭 SEND 改革或面臨風險｜2026年10月7日\n\n「警號一直在響起」：家長讲述 SEND 學校因涉嫌虐待而關閉後所受的煎熬｜2026年9月1日\n\n數據顯示，超過五分之一英格蘭學生有特殊教育需要｜2026年6月11日\n\nPhillipson 指律師利用有特殊需要兒童的家長牟利｜2026年3月13日\n\n工作負擔憂慮下，英格蘭 SEND 計劃獲審慎歡迎｜2026年2月24日\n\nBridget Phillipson 能否重新贏得疲憊家庭對 SEND 改革的信任？｜2026年2月23日\n\n有 SEND 兒童的家長對英格蘭改革反應不一｜2026年2月23日\n\n英格蘭 SEND 改革可能涉及多少成本，又有哪些障礙？｜2026年2月23日\n\n英格蘭 SEND 改革的影響：兒童面對的4種可能情境｜2026年2月23日\n\nSEND 全面改革後，到2035年英格蘭獲得 EHCP 的兒童將減少｜2026年2月23日",
       "featured": false
     },
     {
-      "title": "teenager 大橋克服新冠疫情創世界紀錄",
+      "title": "少年大橋克服新冠疫情，刷新世界紀錄",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/ckzdzm06n2pyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T15:12:12.000Z",
-      "summary": "17歲的大橋慎以亞洲運會200米蛙泳創世界紀錄，贏得個人第二面金牌。",
+      "summary": "17歲的大橋慎以200米蛙式刷新世界紀錄，在亞運會摘得第二面金牌。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -439,42 +438,42 @@
           "alt": "A headshot show Tatjana Smith smiling broadly as she holds up her 100m breaststroke gold medal during the medal ceremony at the Paris 2024 Olympic Games"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b5d2/live/5d2f33d0-d141-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Ballon d&#x27;Or trophy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f83d/live/d6c78bc0-d259-11f1-a701-fddedf244c16.jpg",
+          "alt": "Ian Dennis &amp; Leon Osman"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c4a7/live/6f5a7870-d18d-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Ballon d&#x27;Or"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c3dc/live/c893e880-d24c-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Harry Kane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1730/live/582ce040-cff1-11f1-b441-2b33b063138f.jpg",
-          "alt": "Ellen White and Alex Scott discussing the Ballon d&#x27;Or"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b2ee/live/010d1410-d235-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Ballon d&#x27;Or red carpet"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/038a/live/2a75cba0-cec8-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Alan Shearer and the Ballon d&#x27;Or"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b6f8/live/d8aa6b70-d22b-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Harry Kane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c9b6/live/31e066f0-d168-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Evanilson with Ali Bruce-Ball &amp; Clinton Morrison"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e82c/live/1d7c1a00-d213-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Harry Kane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f78f/live/0ed28080-d163-11f1-a701-fddedf244c16.jpg",
-          "alt": "Joe Cordina in all white boxing attire and Manny Pacquiao pictured in a yellow circle"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1b46/live/85b131f0-d213-11f1-a701-fddedf244c16.jpg",
+          "alt": "Manchester United fan Jay Motty"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ed38/live/f9b01d50-d155-11f1-b441-2b33b063138f.jpg",
-          "alt": "Troy Deeney pointin at his Team of the Week graphic"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0724/live/ba955da0-d200-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Harry Kane as a young Tottenham player superimposed with him holding the Ballon D&#x27;or trophy"
         }
       ],
-      "bodyZh": "亞洲運動會：Shin Ohashi，17歲，打破200米蛙泳世界紀錄 - BBC Sport\n\nBBC 主頁\n\n略過內容\n\n無障礙協助\n\n你的帳戶\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\nTravel\n\nCulture\n\nFuture\n\nMusic\n\nTV\n\n天氣\n\nSounds\n\n更多選單\n\n更多選單\n\n搜尋 BBC\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\nTravel\n\nCulture\n\nFuture\n\nMusic\n\nTV\n\n天氣\n\nSounds\n\n關閉選單\n\nBBC Sport\n\n選單\n\n主頁\n\n足球\n\n板球\n\nFormula 1\n\n欖球聯盟\n\n網球\n\n高爾夫\n\n單車\n\n田徑\n\n更多\n\nA-Z 體育項目\n\n美式足球\n\n田徑\n\n籃球\n\n拳擊\n\n板球\n\n單車\n\n飛鏢\n\n殘疾人體育\n\n足球\n\nFormula 1\n\n蓋爾式運動\n\n高爾夫\n\n體操\n\n賽馬\n\n綜合武術\n\n賽車\n\n無板籃球\n\n欖球聯盟\n\n欖球聯會\n\n桌球\n\n游泳\n\n網球\n\n全部 A-Z 體育項目\n\n更多體育新聞\n\nEngland\n\nScotland\n\nWales\n\nNorthern Ireland\n\n問答遊戲\n\n新聞摘要\n\n協助及常見問題\n\n游泳\n\nTeenager Ohashi overcomes Covid to set world record\n\n圖片來源：Getty Images\n\n圖片說明：Shin Ohashi 本周早前與中國的 Dong Zhihao 分享100米蛙泳金牌\n\n作者：Ffion Wynne\n\nBBC Sport 記者\n\n發布日期：2026年9月24日\n\n日本Teenager Shin Ohashi 儘管在備戰期間感染 Covid-19，仍在亞洲運動會打破200米蛙泳世界紀錄。\n\n17歲的 Ohashi 以2分4秒83秒奪冠，輕鬆打破由中國的 Qin Haiyang 於2023年世界錦標賽創下的2分05秒48舊紀錄。\n\n在本屆賽事期間，Ohashi 是第二位成為焦點的少年天才；早前13歲的中國选手 Yu Zidi 在星期三贏得個人第三面金牌。\n\n這是 Ohashi 在本屆賽事的第二面金牌；本周早前，他與中國的 Dong Zhihao 分享100米蛙泳冠軍。\n\nOhashi 賽後說：「說到 Covid，畢竟它在心理上曾令我感到一點焦慮。不過反過來，身體上我認為能夠在康復期間好好休息，其實是一件好事。」\n\nOhashi 去年在世界青年錦標賽贏得五面金牌；法國的 Leon Marchand 是泳池內的明日之星，亦曾這位小將形容為「令人害怕」的潛力新星。Marchand 在2024年巴黎奧運會成為泳池焦點。\n\n與此同時，19歲的 Zhang Zhanshuo 隨中國隊贏得4乘100米自由泳接力後，累積本屆第六面金牌。\n\n相關主題\n\n游泳\n\n更多相關報道\n\nYu，13歲，在亞洲運動會完成金牌帽戲\n\n9月23日發布\n\n「我失去了對游泳的熱愛」- Smith 宣布退役\n\n9月22日發布\n\n短片\n\n上一個\n\n下一個\n\n1:17\n\n英超球迷預測金球獎得主。00:01:17，播放影片\n\n英超球迷預測金球獎得主\n\n0:32\n\n金球獎網站資料有誤？00:00:32，播放影片\n\n金球獎網站資料有誤？\n\n0:40\n\n誰才配得上金球獎？00:00:40，播放影片\n\n誰才配得上金球獎？\n\n0:51\n\nBBC 足球評論員選出2026年男子金球獎得主。00:00:51，播放影片\n\nBBC 足球評論員選出2026年男子金球獎得主\n\n1:15\n\nComm Cam：曼聯0-3般尼茅。00:01:15，播放影片\n\nComm Cam：曼聯0-3般尼茅\n\n1:33\n\nCordina 談可能與 Pacquiao 進行「夢想」對決。00:01:33，播放影片\n\nCordina 談可能與 Pacquiao 進行「夢想」對決\n\n1:05\n\n哪三人可完成 Troy 的一週最佳阵容？00:01:05，播放影片\n\n哪三人可完成 Troy 的一週最佳阵容？\n\n1:23\n\n女性在黑暗中運動而遭騷擾的憂慮日益增加。00:01:23，播放影片\n\n女性在黑暗中運動而遭騷擾的憂慮日益增加\n\n0:58\n\nKane 為何配得上金球獎？00:00:58，播放影片\n\nKane 為何配得上金球獎？\n\n1:09\n\nAntonelli 爭奪 F1 冠軍是否「太容易」？00:01:09，播放影片\n\nAntonelli 爭奪 F1 冠軍是否「太容易」？\n\n0:54\n\n「有時數字會說謊」- Williams 談部分令人誤解的曼聯數據。00:00:54，播放影片\n\n「有時數字會說謊」- Williams 談部分令人誤解的曼聯數據\n\n0:40\n\n「我會如常繼續」- Carrick 談自己在曼聯的未來。00:00:40，播放影片\n\n「我會如常繼續」- Carrick 談自己在曼聯的未來\n\n0:59\n\nCarrick 是否是曼聯的問題？00:00:59，播放影片\n\nCarrick 是否是曼聯的問題？\n\n焦點新聞\n\nKane 結束英格蘭25年來等待金球獎的漫長過程 - 他如何逆勢突圍\n\n6小時前發布\n\nPutellas 贏得追平紀錄的第三座金球獎\n\n6小時前發布\n\n如果 Carrick 被解僱，Howe 和 Nagelsmann 將躋身曼聯高知名度人選榜首\n\n14小時前發布\n\nBBC 其他內容\n\n跟隨 Bob 和 Paul 展開新冒險\n\n什么是政府債券，以及可以藉此賺取8%回報？\n\nEllie White 和 Natasia Demetriou 全新超現實短劇\n\n首支奧運代表隊如何在2016年成立\n\n體育其他內容\n\nKane 結束英格蘭25年來等待金球獎的漫長過程 - 他如何逆勢突圍\n\nPutellas 贏得追平紀錄的第三座金球獎\n\n世界盃臨近，Borthwick 面臨秋季難題\n\n為何 Wilcox 會成為曼聯球迷的攻擊目標？\n\nNix 的62碼達陣及「復古 Rodgers」- NFL 最佳plays。影片\n\nNix 的62碼達陣及「復古 Rodgers」- NFL 最佳plays\n\nAntonelli 帶來「仍未成為冠軍的冠軍級競逐」\n\n一場改變了 Spurs 的坦誠會面 - 他們是否終於踏上正軌？\n\n曼城的脆弱防線突顯 Donnarumma 與 Guehi 的struggles\n\n阿仙奴擊敗 Spurs 紓減壓力 - 他們現在能乘勢向前嗎？\n\n68分逆轉及 Tonga 勝局 - 英格蘭如何避免世界盃出局\n\n由世界盃冠軍到50歲健美選手的 Vickery 之路\n\nTour de France 英國賽段詳情 - 可以在哪裡觀看？\n\n冉冉升起的法國新星，其父親曾與英格蘭贏得欖球世界盃\n\n沒有懸念但充滿樂趣 - 新的 Champions League 賽制是否成功？\n\n競賽、疾病、受傷、再重複 - REDs，以及男子為何默默受苦\n\n這位奧運短跑選手現時每天臥床22小時\n\n由催淚瓦氣到只是眼淚 - 欖球聯盟最熱情的球迷？\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\nTravel\n\nCulture\n\nFuture\n\nMusic\n\nTV\n\n天氣\n\nSounds\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\nCookie\n\n無障礙協助\n\n家長指引\n\n聯絡 BBC\n\nBBC 招聘\n\nBBC 電子郵件\n\n刊登廣告\n\n版權 © 2026 BBC。BBC 概不負責外部網站內容。\n\n閱讀 BBC 對外部連結的處理方式。",
+      "bodyZh": "亞運會：17歲大橋忍打破200米蛙泳世界紀錄 - BBC Sport\n\nBBC首頁\n\n跳至內容\n\n無障礙支援\n\n你的帳戶\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n更多選單\n\n更多選單\n\n搜尋BBC\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n關閉選單\n\nBBC Sport\n\n選單\n\n主頁\n\n足球\n\n板球\n\n一級方程式\n\n欖球聯盟\n\n網球\n\n高爾夫\n\n單車\n\n田徑\n\n更多\n\nA-Z體育項目\n\n美式足球\n\n田徑\n\n籃球\n\n拳擊\n\n板球\n\n單車\n\n飛鏢\n\n殘疾人體育\n\n足球\n\n一級方程式\n\n蓋爾式運動\n\n高爾夫\n\n體操\n\n賽馬\n\n混合武術\n\n賽車\n\n無板篮球\n\n欖球聯盟\n\n欖球聯會\n\n桌球\n\n游泳\n\n網球\n\n體育項目A-Z大全\n\n更多體育新聞\n\n英格蘭\n\n蘇格蘭\n\n威爾斯\n\n北愛爾蘭\n\n quizzes\n\n新聞摘要\n\n常見問題\n\n游泳\n\n Teenager Ohashi overcomes Covid to set world record\n\n圖片來源：Getty Images\n\n圖片說明：大橋忍本週早些時候亦與中國的董智浩分享100米蛙泳金牌。\n\n作者：Ffion Wynne\nBBC Sport記者\n\n發布日期：2026年9月24日\n\n日本 teenage泳手大橋忍（Shin Ohashi）在亞運會打破200米蛙泳世界紀錄，儘管他在賽事前曾感染新冠疫情。\n\n現年17歲的大橋以2分4秒83完成賽事，輕鬆打破中國秦海洋在2023年世界錦標賽創下的2分05秒48紀錄。\n\n在13歲的余子迪於星期三贏得今屆賽事的第三面金牌後，大橋成為本屆亞運會第二位成為焦點的少年天才。\n\n這是他繼本週早些時候與中國的董智浩共同贏得100米蛙泳冠軍後，在本屆亞運會取得的第二面金牌。\n\n大橋在獲勝後說：「說到新冠疫情，畢竟它在一定程度上令我在精神上感到有點焦慮。不過反過來說，身體上我認為能夠好好休息，讓身體有一段恢復期，反而是好事。」\n\n大橋去年在世界青年游泳錦標賽贏得五面金牌；2024年巴黎奧運會泳池新星、法國選手雷昂·馬爾尚（Leon Marchand）更形容這名小將是「令人害怕」的明日之星。\n\n另一方面，19歲的張展碩在中國隊於4乘100米自由泳接力勝出時，贏得本屆賽事的第六面金牌。\n\n相關主題\n\n游泳\n\n更多相關報道\n\n余子迪以13歲之齡在亞運會完成三面金牌帽子戲法\n\n發布日期：9月23日\n\n「我失去了對游泳的熱愛」——史密什宣布退役\n\n發布日期：9月22日\n\n短片\n\n上一則\n\n下一則\n\n1:09\n\nComm Cam：菲士-town歷史。00:01:09，播放影片\n\nComm Cam：菲士-town歷史\n\n1:06\n\n堅恩贏得金球獎是「足球的勝利」——科迪。00:01:06，播放影片\n\n堅恩贏得金球獎是「足球的勝利」——科迪\n\n1:19\n\n這會是最混亂的一屆金球獎嗎？00:01:19，播放影片\n\n這會是最混亂的一屆金球獎嗎？\n\n0:28\n\n堅恩2017年的金球獎美夢成真！00:00:28，播放影片\n\n堅恩2017年的金球獎美夢成真！\n\n0:46\n\n丹克斯為堅恩的成就感到驕傲。00:00:46，播放影片\n\n丹克斯為堅恩的成就感到驕傲\n\n1:09\n\n曼聯決定留用卡里克——「延長不可避免的結局」00:01:09，播放影片\n\n曼聯決定留用卡里克——「延長不可避免的結局」\n\n1:12\n\n「不可能有比這更好的人」——卡里克。00:01:12，播放影片\n\n「不可能有比這更好的人」——卡里克\n\n0:36\n\n國際足聯主席不應擁有如此大的權力——穆尼。00:00:36，播放影片\n\n國際足聯主席不應擁有如此大的權力——穆尼\n\n1:04\n\n女足知道自己的觀眾群體嗎？00:01:04，播放影片\n\n女足知道自己的觀眾群體嗎？\n\n1:04\n\n想像超級盃中場表演？00:01:04，播放影片\n\n想像超級盃中場表演？\n\n1:03\n\n「他值得」——舒爾指堅恩贏得金球獎。00:01:03，播放影片\n\n「他值得」——舒爾指堅恩贏得金球獎\n\n1:23\n\n我的心跳得很快——堅恩談贏得金球獎。00:01:23，播放影片\n\n我的心跳得很快——堅恩談贏得金球獎\n\n0:54\n\n退後位置如何幫助堅恩贏得金球獎。00:00:54，播放影片\n\n退後位置如何幫助堅恩贏得金球獎\n\n0:52\n\n傑克遜今季可入多少球？00:00:52，播放影片\n\n傑克遜今季可入多少球？\n\n0:32\n\n金球獎網站出錯？00:00:32，播放影片\n\n金球獎網站出錯？\n\n0:40\n\n誰應贏得金球獎？00:00:40，播放影片\n\n誰應贏得金球獎？\n\n1:15\n\nComm Cam：曼聯0-3般尼茅夫。00:01:15，播放影片\n\nComm Cam：曼聯0-3般尼茅夫\n\n焦點新聞\n\n阿仙奴被淘汰，達曼見紅；但阿特塔是否做得過分？\n\n6小時前發布\n\n「球會史上最瘋狂的一夜」——無畏的菲士-town\n\n6小時前發布\n\n菲士-town擊敗阿仙奴，在最大冷門中排名幾高？\n\n7小時前發布\n\nBBC其他內容\n\n搶先看：四對著名組合即將展開畢生難忘的旅程\n\n暢銷作家Harlan Coben分享他的《Desert Island Discs》節目內容\n\nRobson Green飾演一名在發現自己偵破罪案的前囚犯\n\n星期三的財政預算案可能會有哪些改變？\n\n體育其他內容\n\n菲士-town擊敗阿仙奴，在最大冷門中排名幾高？\n\n曼聯留用卡里克——在老特拉福德動盪的48小時內\n\n「我仍會再做一次」——卡佩尼克回望抗爭的代價，十年之後\n\n堅恩結束英格蘭25年來等待金球獎的歷程——他如何逆轉潮流\n\n佩德拉斯贏得追平紀錄的第三座金球獎\n\n世界盃臨近，博斯威克面對的秋季疑問\n\nNix的62碼達陣及「復古羅傑斯」——NFL最佳鏡頭。影片\n\nNix的62碼達陣及「復古羅傑斯」——NFL最佳鏡頭\n\n安東內利帶來「一場仍未加冕的冠軍之賽」\n\n由世界盃冠軍到50歲健美選手的Vickery之路\n\n環法自行車賽英國賽段詳情——可以在哪裡觀看？\n\n這位正在冒起的法國新星，其父親曾與英格蘭贏得欖球世界盃\n\n競賽、疾病、受傷、重複——REDs，以及男性為何默默受苦\n\n這位奧運短跑選手現時每天臥床22小時\n\n從催淚瓦斯到眼淚——欖球聯盟最熱情的球迷？\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n使用條款\n\n關於BBC\n\n私隱政策\n\nCookie政策\n\n無障礙支援\n\n家長指引\n\n聯絡BBC\n\n加入我們\n\nBBC電子報\n\n廣告\n\n版權© 2026 BBC。BBC概不對外部網站的內容負責。\n\n閱讀我們有關外部連結的處理方式。",
       "featured": false
     },
     {
-      "title": "13歲的余梓迪在亞洲運會包攬三金",
+      "title": "13歲的余在亞運會完成三金壯舉",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cq0lry2yjg2go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-23T10:16:28.000Z",
-      "summary": "13歲游泳新星余梓迪在400米個人混合泳以強勢姿態勝出，於亞洲運會完成三金連莊。",
+      "summary": "游泳新星余子迪在400米個人混合泳以強勢姿態奪金，在亞運會完成三面金牌的壯舉。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -487,46 +486,46 @@
           "alt": "A headshot show Tatjana Smith smiling broadly as she holds up her 100m breaststroke gold medal during the medal ceremony at the Paris 2024 Olympic Games"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b5d2/live/5d2f33d0-d141-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Ballon d&#x27;Or trophy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f83d/live/d6c78bc0-d259-11f1-a701-fddedf244c16.jpg",
+          "alt": "Ian Dennis &amp; Leon Osman"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c4a7/live/6f5a7870-d18d-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Ballon d&#x27;Or"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c3dc/live/c893e880-d24c-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Harry Kane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1730/live/582ce040-cff1-11f1-b441-2b33b063138f.jpg",
-          "alt": "Ellen White and Alex Scott discussing the Ballon d&#x27;Or"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b2ee/live/010d1410-d235-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Ballon d&#x27;Or red carpet"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/038a/live/2a75cba0-cec8-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Alan Shearer and the Ballon d&#x27;Or"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b6f8/live/d8aa6b70-d22b-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Harry Kane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c9b6/live/31e066f0-d168-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Evanilson with Ali Bruce-Ball &amp; Clinton Morrison"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e82c/live/1d7c1a00-d213-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Harry Kane"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f78f/live/0ed28080-d163-11f1-a701-fddedf244c16.jpg",
-          "alt": "Joe Cordina in all white boxing attire and Manny Pacquiao pictured in a yellow circle"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1b46/live/85b131f0-d213-11f1-a701-fddedf244c16.jpg",
+          "alt": "Manchester United fan Jay Motty"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ed38/live/f9b01d50-d155-11f1-b441-2b33b063138f.jpg",
-          "alt": "Troy Deeney pointin at his Team of the Week graphic"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0724/live/ba955da0-d200-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Harry Kane as a young Tottenham player superimposed with him holding the Ballon D&#x27;or trophy"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/307a/live/0e396f90-cfc8-11f1-a701-fddedf244c16.jpg",
-          "alt": "Runner with head torch on"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9a7a/live/ec1f21a0-d217-11f1-a701-fddedf244c16.jpg",
+          "alt": "Gianni Infantino"
         }
       ],
-      "bodyZh": "余子迪：中國13歲游泳新星於亞運會奪第三金\n\nBBC Sport\n\n游泳\n\n余子迪，13歲，於亞運會完成金牌「帽子戲法」\n\n圖片來源：Getty Images\n\n圖片說明：余子迪在400米個人混合泳刷新亞運會紀錄\n\n作者：Sam Drury\nBBC Sport 記者\n\n發布：2026年9月23日\n\n13歲游泳新星余子迪在400米個人混合泳以壓倒性姿態奪冠，於亞運會完成金牌帽子戲法。\n\n余子迪全程領先，以4分28秒56秒刷新賽會紀錄，將自2014年起保持的舊紀錄大幅拋下近4.5秒。\n\n這是今年全球第四快成績，全世界只有加拿大世界紀錄保持者Summer McIntosh跑出更快的時間。\n\n余子迪領先同胞屈文希（摘銀）3.95秒，日本的成田実（成田市實）奪得銅牌。\n\n余子迪此前已在名古屋的200米蝶泳及200米個人混合泳摘金，兩項同樣以賽會紀錄時間完成，因此廣受看好，認為她可望在2028年洛杉磯奧運會爭奪獎牌。\n\n與此同時，北韓舉重選手李松金（Ri Song Gum）在女子49公斤級別摘下第三面亞運會金牌途中，三破世界紀錄。\n\n28歲的衛冕冠軍李松金在抓舉項目舉出94公斤，繼而在挺舉完成121公斤，兩項成績均比原有世界最佳成績多1公斤。\n\n這讓她的總成績達到215公斤，比前世界紀錄多出約4公斤。\n\n李松金表示：「這項世界紀錄和這面金牌對我意義重大，因為我為今次比賽付出了一切。」「我今天踏上比賽場地時，帶着那份信念與期望。」\n\n相關主題\n\n游泳\n\n延伸閱讀\n\n「我失去了對游泳的熱愛」——史密斯宣佈退役\n\n發布：9月22日",
+      "bodyZh": "游紫體：中國13歲游泳新星於亞運會奪第三金\n\nBBC Sport\n\n游泳\n\n游，13歲，在亞運會完成三金帽子戲法\n\n圖片來源：Getty Images\n\n圖片說明：游紫體在400米個人混合泳刷新亞運會紀錄。\n\n作者：Sam Drury\nBBC Sport記者\n\n發布日期：2026年9月23日\n\n13歲游泳星級選手游紫體在400米個人混合泳以壓倒性優勢勝出，在亞運會完成三面金牌的帽子戲法。\n\n中國選手游紫體從頭到尾領先，以4分28秒56秒創下大賽新紀錄，較2014年至今保持的原有紀錄快近4.5秒。\n\n她的成績是今年全球第四快，只有保持世界紀錄的加拿大選手Summer McIntosh游得更快。\n\n游紫體領先同胞柯文曦3.95秒，后者奪得銀牌；日本的成田実優奪得銅牌。\n\n游紫體早前已在名古屋举行的200米蝶泳及200米個人混合泳摘金，兩項比賽同樣以大賽紀錄時間勝出。現時廣泛認為，她有望於2028年洛杉磯奧運會爭奪獎牌。\n\n與此同時，北韓舉重選手李松金在女子49公斤級別爭奪第三面亞運會金牌期間，連破三項世界紀錄。\n\n28歲的衛冕冠軍李松金在抓舉項目舉起94公斤，之後在挺舉項目成功舉起121公斤，兩個成績都較原有的世界最佳紀錄多1公斤。\n\n她的總成績為215公斤，比原有世界紀錄多約4公斤。\n\n李松金說：「世界紀錄和這面金牌對我意義重大，因為我在這項比賽中付出了一切。\n\n「今天踏上比賽場地時，我帶着那份信念，以及那些期望。」\n\n相關主題：游泳\n\n更多相關報道\n\n「我失去了對游泳的熱愛」——Smith宣布退役\n\n發布日期：9月22日\n\n短片精選\n\n《Comm Cam：Fleetwood Town歷史》、Kane贏得金球獎成「足球界的勝利」、今屆金球獎是否最混亂的一屆、Kane實現2017年金球獎夢想、Danks為Kane的成就感到驕傲、曼聯決定留任Carrick向不可避免的結局延長、Fifa主席不應擁有如此大權力——Mooney、本周預算可能有甚麼變化、女性足球知道自己的觀眾是誰嗎？、美職聯超級盃中場表演、Shearer談Kane贏得金球獎「他值得」、Kane談贏得金球獎時心跳加速、深位部署如何幫助Kane贏得金球獎、曼聯以0比3不敵般特茅斯、Jackson今季可入多少球？、金球獎網站出錯了嗎？、誰應該贏得金球獎？\n\n焦點新聞\n\n阿仙奴被淘汰，Dowman領紅牌；Arteta是否做得過火？\n\n發布於6小時前\n\n「無畏的Fleetwood迎來俱樂部歷來最精彩的一夜」\n\n發布於6小時前\n\nFleetwood擊敗阿仙奴，可躋身哪些最大級別的杯賽爆冷？\n\n發布於7小時前\n\nBBC其他內容\n\n搶先看：四對知名組合即將展開終身难忘的旅程\n\n暢銷作家Harlan Coben分享他的《Desert Island Discs》\n\nRobson Green飾演刑滿獲釋後憑一宗罪案展開調查的前囚犯\n\n星期三的預算可能會作出哪些改變？\n\n其他體育新聞\n\nFleetwood擊敗阿仙奴，可躋身哪些最大級別的杯賽爆冷？\n\n曼聯留任Carrick——曼活路場48小時內風波不斷\n\n「我還會再做一次」——Kaepernick反思十年來為抗爭付出的代價\n\nKane結束英格蘭25年等待金球獎——他如何逆轉潮流\n\nPutellas贏得追平紀錄的第三座金球獎\n\nBorthwick面對的世界盃前秋季疑問\n\nNix的62碼達陣及「復古Rodgers」——NFL最佳plays\n\nAntonelli帶來「一位尚未加冕的冠軍級選手之賽」\n\nVickery由世界盃冠軍到50歲健美選手的旅程\n\n環法自行車賽英國站次詳情——可以在哪裡觀看？\n\n哪位法國新星，其父親曾與英格隊贏得欖球世界盃？\n\n比賽、疾病、受傷、循環——REDs，以及男性為何默默受苦\n\n這位奧運短跑選手現時每天臥床22小時\n\n由催淚瓦斯到眼淚——欖球聯盟最熱情的球迷？\n\n使用條款\n\n關於BBC\n\n私隱政策\n\nCookies\n\n無障礙協助\n\n家長指引\n\n聯絡BBC\n\n招聘\n\nBBC電郵\n\n廣告\n\n版權© 2026 BBC。BBC對外部網站的內容概不負責。\n\n閱讀我們有關外部連結的處理方式。",
       "featured": false
     },
     {
-      "title": "研究190萬人：ADHD與腸胃問題存在顯著關聯",
+      "title": "研究190萬人發現ADHD與腸胃問題存在顯著關聯",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
       "publishedAt": "2026-09-11T11:26:08.000Z",
-      "summary": "研究人員分析逾190萬人的數據，發現ADHD與消化問題發生率大幅上升有關。ADHD患者便秘的機會接近兩倍、腸躁症機會高58%，糞便失禁的機會則超過四倍。",
+      "summary": "研究人員分析逾190萬人的數據，發現ADHD與 digestive problems 患病率大幅上升有關。ADHD患者出現便秘的可能性接近兩倍，患腸躁症的機率高出58%，而排泄失禁的機率則超過四倍。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -539,14 +538,14 @@
           "alt": "Striking Link Between ADHD and Gut Problems"
         }
       ],
-      "bodyZh": "190萬人研究發現 ADHD 與腸胃問題存在顯著關聯｜ScienceDaily\n\n日期：2026年9月11日\n\n來源：華威大學（University of Warwick）\n\n摘要：研究人員分析超過190萬人的數據後發現，注意力缺陷過度活躍症（ADHD）與消化系統問題出現率大幅上升有關。ADHD 患者出現便秘的機會接近沒有 ADHD 者的兩倍，患上腸躁症（IBS）的機會高出58%，而出現大便失禁的機會則超過四倍。\n\n一項涉及190萬人的大型研究揭示了 ADHD 與多種腸胃問題之間令人意外的關聯。圖片來源：Shutterstock\n\n華威大學研究人員分析23項研究、超過190萬人的數據後，發現 ADHD 與消化系統健康之間存在顯著關聯。\n\n整體而言，ADHD 患者出現胃腸道症狀的可能性，較沒有 ADHD 的人高出近50%。個別疾病與 ADHD 的關聯更為明顯：ADHD 患者出現便秘的機會接近兩倍，患上腸躁症的機會增加58%，而出現大便失禁，即失去控制排便能力的機會超過四倍。\n\nADHD 與腸胃道之間的關聯證據日益增加\n\n據估計，ADHD 全球約影響5%的兒童及3%至4%的成年人，而過去40年間的正式診斷比率急升至相當高的水平。\n\n消化問題在自閉症譜系障礙患者身上早已有充分紀錄。與此同時，科學家亦收集到愈來愈多證據，顯示「腸腦軸」將消化系統健康與更廣泛的神經發展障礙連繫起來。不過，直到目前，研究人員對 ADHD 患者出現胃腸道症狀的頻率仍未能有完整掌握。\n\n這項新研究刊登於《Journal of Attention Disorders》，是首項專門檢視 ADHD 與胃腸道症狀關聯的系統性回顧。研究人員整合了美國、瑞典、德國及南韓等國家的研究證據，受試者年齡介乎2至65歲。\n\n華威醫學院醫學生、共同第一作者 Sarah Blake 表示：「我們檢視的幾乎每一種腸胃症狀，包括便秘、腸躁症，甚至消化不良，似乎都與 ADHD 有關。這些症狀可對日常生活造成實際影響，但如果焦點只放在 ADHD 本身，便很容易忽略它們。」\n\n這種關聯可能由甚麼造成？\n\n研究人員目前尚未确切知道 ADHD 與消化問題為何看似相關，但有幾個可能的因素。\n\n與 ADHD 有關的特徵，例如容易衝動和不規律的飲食模式，可能影響消化系統健康。治療 ADHD 所使用的藥物亦可產生胃腸道副作用，包括便秘。\n\n另一個可能因素是腸道微生物群。先前證據顯示，ADHD 與腸道細菌的差異有關；這些差異或可透過迷走神經影響消化系統與大腦之間的溝通。迷走神經是連接腸道與大腦的主要身體通路之一。\n\n醫生或需關注 ADHD 症狀以外的問題\n\n研究人員指出，照顧 ADHD 患者的臨床醫生應留意患者可能同時出現胃腸道症狀，並應考慮在求診時主動詢問消化問題。\n\n如胃腸道症狀較為複雜，患者也可能需要營養師或消化科醫生提供支援。\n\n重要的是，這些結果只顯示兩者存在關聯，並不能證明 ADHD 本身會引致消化問題。仍需進行更多研究，以確定這種關聯有多少可能涉及潛在生物因素，又有多少可能與藥物或其他影響因素有關。\n\n華威醫學院副教授臨床教授 Saran Shantikumar 醫生表示：「我們目前仍不能斷定 ADHD 會導致這些腸胃問題，也未確知究竟是甚麼因素促成這種關聯，但這種模式十分顯著，值得外界關注。照顧 ADHD 患者的臨床醫生或應考慮詢問胃腸道症狀，尤其是在這些症狀可能影響生活質素時。」\n\n期刊論文資料：\n\nSarah Blake、Hugo Cannon、Saran Shantikumar：〈The Association Between Attention-Deficit Hyperactivity Disorder and Gastrointestinal Symptoms: A Systematic Review and Meta-Analysis〉，《Journal of Attention Disorders》，2026年；DOI：10.1177/10870547261469626\n\n素材由華威大學提供。新聞稿註明：內容可能經編輯，以配合文體及篇幅。",
+      "bodyZh": "對190萬人的研究發現 ADHD 與腸胃問題存在顯著關聯｜ScienceDaily\n\n跳至主要內容\n\n你掌握最新研究新聞的來源\n\n追蹤：\n\nFacebook\n\nX/Twitter\n\n訂閱：\n\nRSS 資訊源\n\n電子通訊\n\n新！\n\n登記免費電子通訊。\n\n研究機構發布的新聞\n\n對190萬人的研究發現 ADHD 與腸胃問題存在顯著關聯\n\n日期：2026年9月11日\n\n來源：華威大學（University of Warwick）\n\n摘要：\n\n研究人員分析逾190萬人的數據後發現，ADHD 與大幅較高的消化系統問題發生率相關。ADHD 患者出現便秘的機會幾乎是沒有 ADHD 人士的兩倍，患腸躁症的機會高出58%，出現失禁性糞便（encopresis）的機會則超過四倍。\n\n分享：\n\nFacebook\n\nTwitter\n\nPinterest\n\nLinkedIn\n\n電郵\n\n完整報道\n\n一項涉及190萬人的大型研究揭示了 ADHD 與多種腸胃問題之間令人意外的關聯。圖片來源：Shutterstock\n\n華威大學研究人員分析來自23項研究、涵蓋逾190萬人的數據後，發現 ADHD 與消化健康之間存在顯著關聯。\n\n整體而言，ADHD 患者出現胃腸道症狀的可能性，較沒有 ADHD 人士高出近50%。個別病況的關聯更為明顯。ADHD 患者出現便秘的機會幾乎是沒有 ADHD 人士的兩倍，患腸躁症的機會高出58%，出現失禁性糞便，即失去控制排便能力的機會則超過四倍。\n\nADHD 與腸道關聯的證據日益增加\n\n據估計，ADHD  全球約影響5%的兒童及3至4%的成年人，而過去40年的報告診斷率急升至大幅上升。\n\n消化問題早已在自閉症譜系障礙人士身上有充分紀錄。與此同時，科學家亦愈來愈多掌握到「腸腦軸」的證據；此軸線把消化健康與更廣泛的神經發展障礙連繫起來。不過，直至目前，研究人員對 ADHD 人士出現胃腸道症狀的頻率仍未能有全面掌握。\n\n這項新研究刊登於《Journal of Attention Disorders》，是首項專門檢視 ADHD 與胃腸道症狀關聯的系統综述。研究人員整合了美國、瑞典、德國及南韓等國家 studies 的證據。參加者年齡由2歲至65歲不等。\n\n共同第一作者、華威醫學院醫學生 Sarah Blake 表示：「我們研究的幾乎每一種腸道症狀，包括便秘、腸躁症，甚至消化不良，看來都與 ADHD 有關。這些症狀可對日常生活造成實際影響，但如果焦點只放在 ADHD 本身，便很容易忽略它們。」\n\n這項關聯可能如何解釋？\n\n研究人員尚未确切知道 ADHD 與消化問題為何似乎存在關聯，但可能有數個因素共同造成。\n\nADHD 相關特徵，例如容易衝動和不規律的飲食模式，可能影響消化健康。治療 ADHD 的藥物亦可能引起胃腸道副作用，包括便秘。\n\n另一個可能因素是腸道微生物組。先前證據顯示，ADHD 與腸道細菌的差異有關；這些差異或可透過迷走神經影響消化系統與大腦之間的溝通。迷走神經是連接腸道與大腦的主要路徑之一。\n\n醫生或需關注 ADHD 症狀以外的問題\n\n研究人員表示，負責照顧 ADHD 人士的臨床醫生應留意患者可能同時有胃腸道症狀，並應考慮在診症時詢問病人有否消化問題。\n\n出現較複雜胃腸道症狀的人士，也可能從營養師或腸胃病科醫生的支援中受惠。\n\n重要的是，這些結果顯示的是關聯，並不能證明 ADHD 本身會導致消化問題。研究人員仍需進行更多研究，以確定這種關聯有多少可能涉及潛在生物因素，以及有多少可能與藥物或其他影響因素有關。\n\n華威醫學院副教授級臨床教授 Saran Shantikumar 醫生表示：「我們目前還不能說 ADHD 會造成這些腸道問題，也未能確定究竟是甚麼因素驅動這種關聯，但這個模式十分突出，值得關注。照顧 ADHD 人士的臨床醫生可考慮詢問患者有否胃腸道症狀，尤其是這些症狀可能影響生活質素時。」\n\n相關主題\n\n健康與醫學\n\n胃腸道問題\n\n腸躁症\n\n疾病與病況\n\n今日醫療\n\n思想與大腦\n\n自閉症\n\n學習障礙\n\n精神健康\n\n社會心理學\n\n相關詞彙\n\n便秘\n\n腸躁症\n\n不飽和脂肪\n\n鉛中毒\n\n注意力不足過動症\n\n胃\n\nADHD 爭議\n\n科學方法\n\n報道來源：\n\n由華威大學提供資料。\n\n註：內容可能經編輯，以配合文體及篇幅。\n\n期刊參考資料：\n\nSarah Blake、Hugo Cannon、Saran Shantikumar：《注意力不足過動症與胃腸道症狀的關聯：系統综述及 meta 分析》（The Association Between Attention-Deficit Hyperactivity Disorder and Gastrointestinal Symptoms: A Systematic Review and Meta-Analysis），《Journal of Attention Disorders》，2026；DOI：10.1177/10870547261469626\n\n本頁引用格式：\n\nMLA：\n\nUniversity of Warwick. “Study of 1.9 million people finds a striking link between ADHD and gut problems.” ScienceDaily. ScienceDaily, 11 September 2026. www.sciencedaily.com/releases/2026/09/260911003840.htm.\n\nAPA：\n\nUniversity of Warwick. (2026, September 11). Study of 1.9 million people finds a striking link between ADHD and gut problems. ScienceDaily. https://www.sciencedaily.com/releases/2026/09/260911003840.htm\n\nChicago：\n\nUniversity of Warwick. “Study of 1.9 million people finds a striking link between ADHD and gut problems.” ScienceDaily. www.sciencedaily.com/releases/2026/09/260911003840.htm（2026年10月27日查閱）。\n\n延伸閱讀\n\n《ScienceDaily》相關報道\n\n科學家終於解釋慢性便秘療法為何經常失效\n\n2026年2月19日——一對新發現的細菌可能是慢性便秘的隱藏成因。兩種微生物會分解結腸的保護性黏液層，令糞便乾硬，難以排出。\n\n超越腸道：以腦部為目標的 IBS 治療新領域\n\n2025年2月5日——腸躁症（IBS）是一種成因未明的常見消化疾病，影響全球約10%人口。研究人員現已發現，阿片類藥物 delta 受體激動劑或可成為新的治療方向。\n\n治療慢性腹痛的新突破方法\n\n2024年11月22日——研究團隊開發出一類新的口服肽類治療候選藥物，用以治療慢性腹痛。這項突破性技術提供安全且不依賴阿片類藥物的解決方案。\n\nAmitriptyline 有助紓緩 IBS 症狀\n\n2023年10月16日——最新研究發現，Amitriptyline 可改善在普通科診所求診的腸躁症患者症狀。這種處方藥價格廉宜、容易取得，亦常用於治療抑鬱症。\n\nADHD 與年長司機車禍之間的強大關聯\n\n2023年10月4日——一項研究分析注意力不足／過動症（ADHD）的盛行率及其與年長司機碰撞風險的關聯，發現患有 ADHD 的年長司機發生車禍的風險較高。\n\n研究顯示致病細菌利用腸道黏液層中的糖來感染腸道\n\n2023年7月3日——一項新研究顯示，作為腸道保護性黏液層一部分的唾液酸，可為腸道內的致病細菌提供養分。結果顯示，這或可成為新的治療靶點。\n\nScienceDaily 熱門文章\n\n南極洲的「末日冰川」或令海平面上升的幅度達科學家預期的兩倍\n\n蛇咬傷的致命程度遠超我們想像，新研究揭示\n\n考古學家可能剛發現世界上最古老的沉船\n\n研究人員發現，關節炎或會在關節中留下隱藏記憶\n\n即時新聞\n\n常見藥物可幫助病毒擴散\n\n擁有巨型「防曬霜」的熔岩行星\n\n科學家重現宇宙早期\n\n蜘蛛會發夢嗎？科學家找到新線索\n\n部分腦部抵抗阿茲海默病的原因\n\n梅約診所揭開衰老的新秘密\n\n古代發現改寫人類歷史\n\n科學家破解存在30年的 IBD 謎團\n\n運動可改變心臟隱藏的電氣線路\n\n古代日食顯示地球自轉速度加快\n\n本週熱門主題\n\n健康與醫學：\n\n高血壓\n\n免疫系統\n\n營養\n\n思想與大腦：\n\n智能\n\n行為\n\n抑鬱症\n\n生活與健康：\n\n行為\n\n營養\n\n健身\n\n奇特與另類：\n\n健康與醫學\n\n簡單液體無須鑽牙 便可阻止蛀牙，主要研究證實\n\n降低高血壓會否只需刺激耳部？\n\n科學家以光控制腦細胞，贏得2026年諾貝爾獎\n\n思想與大腦\n\n這種神秘蘑菇令人看見數百個微型人類\n\n現代神經科學正重新發現弗洛伊德130年前提出的驚人概念\n\n麻醉期間的神秘腦活動，挑戰我們對意識的理解\n\n生活與健康\n\n科學家測試39種甜味劑，發現令人意外的腸道影響\n\n成年後更容易運動的秘訣或始於童年\n\n熱門減肥藥與一種令人意外的指甲問題有關\n\n本頁關鍵詞：\n\n搜尋\n\n免費訂閱\n\n透過 ScienceDaily 的每日及每週電子通訊掌握最新消息，亦可在 RSS 閱讀器查看多個新聞資訊源。\n\n電郵通訊\n\nRSS 資訊源\n\n追蹤我們：\n\nFacebook\n\nX／Twitter\n\n歡迎提供意見\n\n歡迎 Tell us what you think about ScienceDaily——我們歡迎正面及負面回饋。如有任何使用問題或疑問，請與我們聯絡。\n\n關於本網站\n\n職員\n\n參與編寫\n\n廣告\n\n私隱政策\n\n編輯政策",
       "featured": false
     },
     {
-      "title": "從小具備ADHD特徵的潛藏健康影響",
+      "title": "帶著ADHD特徵長大的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項歷時數十年的大型研究顯示，兒童時期的ADHD特徵可能帶來超越學業和行為的長遠影響。研究人員追蹤近1.1萬人由童年至中年，發現10歲時ADHD特徵明顯者，日後出現多種身體健康問題及健康相關殘疾的機會較高。",
+      "summary": "一項歷時數十年的大型研究顯示，兒童期的ADHD特徵，其影響可能遠超學業與行為層面。研究人員追蹤近1.1萬人由兒童期至中年，發現10歲時有明顯ADHD特徵者，日後較可能出現多項身體健康問題及健康相關殘疾。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -559,14 +558,14 @@
           "alt": "ADHD in Childhood Can Affect Adult Health"
         }
       ],
-      "bodyZh": "帶著 ADHD 特徵成長的隱藏健康影響\n\n日期：2026年1月24日\n\n來源：University College London（倫敦大學學院）\n\n摘要：一項歷時數十年的大型研究顯示，兒童時期的 ADHD 徵狀所帶來的影響，可能遠超學業與行為範圍。研究人員追蹤近 11,000 人由童年直至中年，發現 10 歲時有明顯 ADHD 特徵的人，到 40 多歲中期時，出現多項生理健康問題及健康相關殘障的機會較高。\n\n完整報道\n\n由倫敦大學學院（UCL）及利物浦大學研究人員領導的一項大型長期研究發現，兒童時期的 ADHD 特徵與中年時期較高的生理健康問題及殘障風險有關。\n\n10 歲時已呈現 ADHD 特徵的兒童，到 46 歲時較可能出現生理健康問題及健康相關殘障。\n\n研究人員表示，結果很可能反映多項與注意力不足過動症（ADHD）有關的健康風險，也可能反映 ADHD 人士在成年後所接受的治療與支援所產生的長期影響。\n\n研究刊登於《JAMA Network Open》，是探討兒童 ADHD 特徵與日後生理健康之間關聯規模最大、持續時間最長的研究之一。\n\n證據顯示終生健康挑戰\n\n資深作者、倫敦大學學院心理學及語言科學教授 Joshua Stott 表示：「我們在這項研究中進一步補強了令人關注的證據，顯示 ADHD 人士在其人生不同階段，較平均人口更可能面對較差的健康狀況。\n\n「ADHD 人士在獲得適當支援下可以充分發揮潛力，但這類支援往往不足，一方面是欠缺針對個人需要的支援服務，另一方面則是 ADHD 仍普遍未被診斷，尤其在中年人及長者之中，不少人的需要一直未獲處理。」\n\nADHD 如何影響日常功能\n\nADHD 人士在注意力方面會有差異，同時較容易出現過動或衝動。許多精力充沛，並能高度專注於自己感興趣的活動，但未必能持續專注於例行或較缺乏吸引力的任務。\n\n這些挑戰可能影響規劃、時間管理及衝動控制。長期而言，可能令升學和工作變得更困難，增加日後在社交及職業生活上遇到困難的風險。\n\nADHD 始於童年，雖然現時已獲廣泛認識並知道它通常會持續至成年，但英國成年患者接受治療的比例仍低於其他高收入國家。支援服務亦相對有限。\n\n追蹤數十年的健康結果\n\n為了解長遠影響，研究人員分析了由 UCL 主導的「1970 British Cohort Study」中 10,930 名參與者的資料。這項研究由參與者出生開始，一直追蹤至中年。\n\n研究在參與者 10 歲時，以家長及老師填寫的行為問卷評估其 ADHD 特徵。無論參與者曾否接受正式的 ADHD 診斷，均使用同一套評估方法。\n\n慢性疾病及殘障比率較高\n\n研究發現，兒童时期 ADHD 特徵程度較高的人，到 46 歲時較可能報告生理健康問題。他們報告患有兩項或以上病症的機會率高 14%，相關病症包括偏頭痛、背部問題、癌症、癲癇或糖尿病。\n\n在 10 歲時有較明顯 ADHD 特徵的人當中，42% 在中年時表示自己至少有以下兩項生理健康問題，相較之下，ADHD 特徵評分較低組別的相應比例為 37%。\n\n兒童時期 ADHD 特徵較高的人，到 46 歲時亦較可能報告生理健康相關殘障，即因身體健康問題而影響工作或其他日常活動。\n\n健康差異的可能原因\n\n研究人員發現，較差的生理健康結果，部分與 ADHD 人士較高的精神健康問題比率、較高的 BMI，以及較高的吸煙率有關。\n\n較早的研究亦顯示，ADHD 人士較可能經歷具壓力的生活事件及遭受社會排斥，亦較少能及時接受醫療檢查及治療。\n\n兒童 ADHD 特徵與生理健康相關殘障之間的關聯，在女性身上似乎較男性明顯。\n\nStott 教授補充：「所有這些可能的解釋因素，都符合 ADHD 的特徵：ADHD 會令衝動控制更困難、對即時滿足及獎賞的需求更強烈，而 ADHD 人士面對的社會不利處境，亦部分令其精神健康較差。」\n\n對支援及公共衞生的啟示\n\n同一研究團隊去年發表的另一項研究指出，獲診斷患有 ADHD 的成年人可能預期壽命較短，不過此發現並不屬於今次研究的一部分。\n\n首席作者 Amber John 博士原本在 UCL 開始這項工作，其後轉往利物浦大學。她強調妥善支援的重要性：「必須指出，ADHD 人士是一個多元群體，各有不同的強項與經歷，大多數人仍可過上長壽而健康的人生。\n\n「然而，許多人面對接受及時診斷和適當支援的重大障礙。這一點十分重要，因為為 ADHD 人士提供合適支援及回應其需要，有助改善他們的生理及精神健康結果。\n\n「此外，公共衞生策略亦應考慮 ADHD 人士的需要，例如讓 ADHD 人士更容易使用篩查計劃及持續健康監察服務。」\n\n期刊資料\n\nJoshua Stott、Elizabeth O’Nions、Lucy Corrigan、Joanne Cotton、Warren James Donnellan、Danielle Nimmons、Henry Shelford、Céline El Baou、Gavin R. Stewart、Rachael W. Cheung、Roopal Desai、Douglas G. J. McKechnie、Aphrodite Eshetu、Rob Saunders、Jae Won Suh、William Mandy、Darya Gaysina、Philip Asherson、Jessica Agnew-Blais 及 Amber John：《Attention-Deficit/Hyperactivity Disorder Traits in Childhood and Physical Health in Midlife》（《童年時期的注意力不足／過動症特徵與中年生理健康》）。《JAMA Network Open》，2026；9(1)：e2554802。DOI：10.1001/jamanetworkopen.2025.54802。",
+      "bodyZh": "在成長過程中帶有 ADHD 特徵的隱藏健康影響 | ScienceDaily\n\n你掌握最新研究新聞的來源\n\n追蹤：\n\nFacebook\n\nX/Twitter\n\n訂閱：\n\nRSS 資訊源\n\n電子報\n\n新！\n\n登記免費電子報。\n\n來自研究機構的科學新聞\n\n在成長過程中帶有 ADHD 特徵的隱藏健康影響\n\n日期：2026 年 1 月 24 日\n\n來源：倫敦大學學院\n\n摘要：\n\n一項歷時數十年的大型研究顯示，兒童時期的 ADHD徵狀可能造成遠超校園生活和行為範疇的後果。研究人員追蹤近 11,000 人由童年直到中年，發現 10 歲時有明顯 ADHD 特徵的人士，到了四旬中段較可能有多種身體健康問題及健康相關殘疾。\n\n分享：\n\nFacebook\n\nTwitter\n\nPinterest\n\nLinkedIn\n\n電郵\n\n完整報道\n\n一項大型長期研究顯示，兒童時期的 ADHD 特徵與中年較高的身體健康問題及殘疾風險有關。資料來源：Shutterstock\n\n由倫敦大學學院（UCL）及利物浦大學研究人員領導的一項研究發現，10 歲時顯現 ADHD 特徵的兒童，到 46 歲時較可能出現身體健康問題及健康相關殘疾。\n\n研究人員表示，結果很可能反映多項與注意力不足過度活躍症（ADHD）有關的整體健康風險，以及 ADHD 患者在成年後所獲得的治療與支援所產生的長遠影響。\n\n研究發表於《JAMA Network Open》，是探討兒童期 ADHD 特徵與日後身體健康之間關係規模最大、持續時間最長的研究之一。\n\n證據顯示終生健康挑戰\n\n senior author Joshua Stott 教授（UCL 心理學及語言科學學系）表示：「我們在這項研究中進一步補充了令人憂慮的證據，顯示 ADHD 患者在整個人生階段的健康狀況較平均水準差。\n\n「ADHD 患者在獲得適當支援下可以蓬勃發展，但這類支援往往仍然不足，一方面是因為欠缺切合需要的支援服務，另一方面則是因為 ADHD 仍未被充分診斷，尤其是中年人及長者，其需要往往未獲處理。」\n\nADHD 對日常功能的影響\n\nADHD 患者在注意力方面會出現差異，並有較高的活動量或衝動程度。許多人精力充沛，能高度專注於自己感興趣的活動，但可能較難把注意力維持在日常或較欠吸引力的任務上。\n\n這些挑戰可能影響規劃、時間管理及衝動控制。長期而言，可能令學習和工作更困難，並增加日後在社交及職業生活上遇到困難的風險。\n\nADHD 始於兒童期。雖然現時已普遍認識到 ADHD 往往會持續至 adulthood，但英國成年人接受治療的程度不及其他高收入國家，而支援服務仍然有限。\n\n跨越數十年追蹤健康結果\n\n為探討長遠影響，研究人員分析由 UCL 主導的 1970 年英國出生世代研究數據，當中包含 10,930 名參與者；這項研究由他們出生起一直追蹤至中年。\n\n研究人員利用參與者 10 歲時由家長及老師填寫的行為问卷，評估他們的 ADHD 特徵。無論參與者曾否接受正式 ADHD 診斷，均使用這些量表進行評估。\n\n慢性疾病及殘疾比率較高\n\n研究發現，童年時 ADHD 特徵程度較高的人士，到了 46 歲時較可能報告身體健康問題。他們報告患有兩項或以上病症的機會高出 14%，包括偏頭痛、背部問題、癌症、癲癇或糖尿病。\n\n在 10 歲時 ADHD 特徵較高的人士中，42% 報告自己於中年至少有以下兩項身體健康問題，相較之下，ADHD 特徵評分較低人士的相應比例為 37%。\n\n童年 ADHD 特徵較高的參與者，到了 46 歲時也較可能報告身體健康相關殘疾，即因身體健康問題而影響工作或其他日常活動。\n\n健康差異的可能原因\n\n研究人員發現，身體健康結果較差，部分與 ADHD 人群中較高的心理健康問題比率、較高的 BMI，以及較高的吸煙率有關。\n\n過往研究亦顯示，ADHD 患者較可能遇上令人壓力大的生活事件及社交排斥，亦較少能及時接受醫學檢查和治療。\n\n童年 ADHD 特徵與身體健康相關殘疾之間的關聯，在女性身上似乎較男性強。\n\nStott 教授補充：「所有這些可能的解釋因素，都符合 ADHD 會令衝動控制更困難、即時滿足及獎勵的需求更強烈，而ADHD 患者因面對的社會不利處境，部分原因亦使其心理健康較差。」\n\n對支援及公共衛生的啟示\n\n同一研究團隊去年發表的另一項研究，報告成人 ADHD 患者的預期壽命可能有所縮短，儘管這項發現並不屬於目前研究的一部分。\n\n主要作者 Amber John 博士原先在 UCL 開始這項工作，其後轉往利物浦大學。她強調適當支援的重要性：「必須指出，ADHD 患者是一個多元群體，各有不同的強項和經歷，當中大多數人都能過健康而長壽的人生。\n\n「然而，許多人面對未能及時獲得診斷及適當支援的重大障礙。這一點十分重要，因為為 ADHD 患者提供合適支援並滿足其需要，有助改善他們的身體及心理健康結果。\n\n「此外，公共衞生策略應考慮 ADHD 人士的需要，例如讓 ADHD 患者更容易使用篩查計劃和持續健康監察服務。」\n\n相關主題\n\n健康與醫學\n\n糖尿病\n\n注意力不足症\n\n疾病與病況\n\n個人化醫療\n\n思維與腦部\n\nADD 及 ADHD\n\n學習障礙\n\n頭痛\n\n教育心理學\n\n相關詞語\n\n心理學\n\n工作狂\n\n學習殘疾\n\n解剖學\n\n攻擊行為\n\n精神疾病\n\n邊緣系統\n\n教育\n\n報道來源：\n\n倫敦大學學院提供的資料。\n\n註：內容可能已為篇幅及風格而編輯。\n\n期刊參考資料：\n\nJoshua Stott、Elizabeth O’Nions、Lucy Corrigan、Joanne Cotton、Warren James Donnellan、Danielle Nimmons、Henry Shelford、Céline El Baou、Gavin R. Stewart、Rachael W. Cheung、Roopal Desai、Douglas G. J. McKechnie、Aphrodite Eshetu、Rob Saunders、Jae Won Suh、William Mandy、Darya Gaysina、Philip Asherson、Jessica Agnew-Blais、Amber John。《童年期注意力不足／過度活躍症特徵與中年身體健康》。《JAMA Network Open》，2026；9（1）：e2554802。DOI：10.1001/jamanetworkopen.2025.54802\n\n本頁引用格式：\n\nMLA\n\nAPA\n\nChicago\n\n倫敦大學學院。《在成長過程中帶有 ADHD 特徵的隱藏健康影響》。ScienceDaily。ScienceDaily，2026 年 1 月 24 日。www.sciencedaily.com/releases/2026/01/260124073920.htm。\n\n倫敦大學學院。（2026 年 1 月 24 日）。《在成長過程中帶有 ADHD 特徵的隱藏健康影響》。ScienceDaily。2026 年 10 月 27 日取自 www.sciencedaily.com/releases/2026/01/260124073920.htm\n\n倫敦大學學院。《在成長過程中帶有 ADHD 特徵的隱藏健康影響》。ScienceDaily。www.sciencedaily.com/releases/2026/01/260124073920.htm（2026 年 10 月 27 日查閱）。\n\n更多內容\n\n來自 ScienceDaily\n\n相關報道\n\n中年維他命 D 水平可能影響數十年後的腦部健康\n\n2026 年 4 月 7 日——一項追蹤近 800 人達 16 年的研究顯示，中年維他命 D 水平對長遠腦部健康的影響，可能較過往認為的更大。維他命 D 水平較高人士的……\n\n career crisis 是真的嗎？新研究指工作滿意度呈 U 形曲線只見於高技能僱員\n\n2025 年 1 月 9 日——與長期以來「中年 career crisis 困扰所有人」的信念相反，新研究顯示，工作滿意度呈 U 形走勢只見於管理及專業人員。……\n\n新研究：同級別中，年幼學生較年長同學更常獲診斷為 ADHD\n\n2024 年 6 月 6 日——新研究发现，教師可能把與年齡有關的兒童成熟徵狀，誤認為注意力不足／過度活躍症（ADHD）或自閉症譜系障礙等病況。……\n\n新措施改善注意力不足過度活躍症的偵測及評估\n\n2024 年 4 月 1 日——注意力不足過度活躍症（ADHD）是最常見的兒童神經行為障礙，在學齡兒童中的盛行率約為 7% 至 10%。ADHD 顯著影響……\n\n30 年研究連結童年肥胖及體能狀況與中年認知能力\n\n2022 年 6 月 16 日——一項追蹤 1,200 多名 1985 年出生兒童超過 30 年的新研究，探討童年體能及肥胖對中年認知的影響，結果顯示表現較佳的……\n\n研究：有殘疾或認知障礙人士接受中風治療，同樣安全有效\n\n2022 年 3 月 28 日——一項研究檢討利用溶解血塊藥物及機械取栓治療缺血性中風，發現對原有殘疾或認知障礙的成年人而言，此類治療與成年人……同樣安全有效。",
       "featured": false
     },
     {
-      "title": "研究發現ADHD的優點與較佳心理健康有關",
+      "title": "研究發現ADHD的強項與更佳心理健康有關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示ADHD較明亮的一面：成年人若能認識並運用自身優點，往往更愉快、更健康，壓力也較少。ADHD患者較常將創意、幽默和高度專注視作個人優點；運用這些優點與生活質素較佳及較少心理健康問題有關。",
+      "summary": "新研究呈現ADHD較明亮的一面：成年人若能察覺並運用自身強項，往往更幸福、更健康，压力也較少。ADHD患者較常將創造力、幽默感和高度專注視為個人優點；運用這些強項，整體上與更好的生活品質及較少心理健康問題相關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -582,10 +581,10 @@
       "featured": false
     },
     {
-      "title": "ADHD藥物的運作方式與原先所想不同",
+      "title": "ADHD藥物的運作方式有別於過往想法",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "腦部掃描顯示，ADHD興奮劑主要不是藉改善專注力，而是喚醒大腦。藥物可啟動獎賞及警覺系統，幫助兒童對原本會避開的任務保持興趣，甚至逆轉與睡眠不足相關的腦部模式；研究人員指此或令ADHD診斷更複雜。",
+      "summary": "腦部掃描顯示，ADHD興奮劑主要不是藉此集中注意力，而是喚醒大腦。這類藥物會啟動獎賞及警覺系統，幫助兒童對通常會避開的任務保持興趣，甚至逆轉與睡眠不足相關的腦部模式；研究人員指這或令ADHD診斷更複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -601,10 +600,10 @@
       "featured": false
     },
     {
-      "title": "各國未能防止兒童遭受暴力，機構發出警告",
+      "title": "各國未能防止兒童遭受暴力，相關機構發出警告",
       "url": "https://www.who.int/news/item/18-06-2020-countries-failing-to-prevent-violence-against-children-agencies-warn",
       "publishedAt": "2020-06-18T13:00:57.000Z",
-      "summary": "全球約半數兒童，即每年約10億名兒童，遭受身體、性或心理暴力，並因而受傷、殘疾甚至死亡，原因是各國未落實既有保護策略。世衞組織、聯合國兒童基金會等機構在最新報告中指出此問題。",
+      "summary": "全球約一半兒童，即每年約10億名兒童，遭受身體、性或心理暴力，並因國家未落實既有保護策略而受傷、殘疾甚至死亡。WHO、UNICEF及聯合國發布的新報告指出，兒童暴力防治工作仍嚴重不足。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
@@ -624,10 +623,10 @@
       "featured": false
     },
     {
-      "title": "為1100萬名面臨疾病死亡威脅的兒童帶來希望",
+      "title": "為1100萬面臨疾病死亡威脅的兒童帶來希望",
       "url": "https://www.who.int/news/item/26-05-2003-efdef5c2-0e18-435f-a4d3-37757f7b178f",
       "publishedAt": "2020-03-19T09:17:06.000Z",
-      "summary": "世界衛生大會有力支持兒童及青少年健康的新策略方向。這項策略整合了多項關鍵措施，以減少兒童死亡及長期殘疾，並旨在每年減少140萬名青少年死亡。去年，兒童及青少年的死亡人數是去年的兩倍",
+      "summary": "世界衛生大會有力支持兒童及青少年健康的新策略方向。該策略整合多項關鍵措施，以減少兒童死亡及長期殘疾，並旨在每年減少140萬名青少年的死亡。去年，兒童及青少年的死亡人數增至兩倍……",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
