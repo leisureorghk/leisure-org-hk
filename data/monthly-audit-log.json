@@ -1,6 +1,23 @@
 {
   "runs": [
     {
+      "at": "2026-10-28T09:05:58.796Z",
+      "ym": "2026-10",
+      "weeklyCount": 4,
+      "digestCount": 8,
+      "changes": [
+        "monthly-insights-2026-10.html",
+        "index.html",
+        "services.html",
+        "resources.html",
+        "blog.html",
+        "extras:sen-guide.html",
+        "generate-content-pages",
+        "seo:resources.html"
+      ],
+      "skipped": []
+    },
+    {
       "at": "2026-09-28T09:06:34.435Z",
       "ym": "2026-09",
       "weeklyCount": 3,

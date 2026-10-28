@@ -1,4 +1,21 @@
 {
   "note": "由 automation/monthly-sen-course-upgrade.mjs 每月寫入。",
-  "runs": []
+  "runs": [
+    {
+      "at": "2026-10-28T09:06:33.152Z",
+      "ym": "2026-10",
+      "unitId": "4.3",
+      "slug": "4-3-safety",
+      "newChapterId": null,
+      "summary": "",
+      "sources": [],
+      "changes": [
+        "backup:/home/runner/work/leisure-org-hk/leisure-org-hk/Learn/特殊需要人士教師課程/history/2026-10/4-3-safety",
+        "course-knowledge.json",
+        "unit:4-3-safety",
+        "sen-course-upgrade-state.json"
+      ],
+      "ok": true
+    }
+  ]
 }

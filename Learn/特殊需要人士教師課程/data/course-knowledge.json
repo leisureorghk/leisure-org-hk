@@ -2,7 +2,7 @@
   "courseTitle": "特殊需要人士游泳教師證書課程",
   "disclaimer": "本網站根據課程講義、課堂分享與溝通工具筆記整理，供未能出席面授的學員系統研讀。不能代替醫療診斷、法律意見、課堂實習或面授扶抱示範。涉及健康、用藥、脊柱或癲癇等情況，須按家長／醫護文件執行。",
   "audience": "未能出席課堂的學員自學",
-  "generatedAt": "2026-10-05",
+  "generatedAt": "2026-10-28",
   "units": [
     {
       "id": "1.1",
@@ -1542,7 +1542,8 @@
         "pool-zones.svg",
         "anim-ratio.svg",
         "anim-visual-signal.svg"
-      ]
+      ],
+      "lastUpgradedAt": "2026-10-28T09:06:33.148Z"
     },
     {
       "id": "4.4",

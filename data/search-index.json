@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-10-28T06:44:41.696Z",
-  "count": 63,
+  "builtAt": "2026-10-28T09:06:33.211Z",
+  "count": 64,
   "items": [
     {
       "type": "page",
@@ -39,8 +39,8 @@
       "path": "resources.html",
       "url": "https://www.leisure.org.hk/resources.html",
       "title": "家長資源",
-      "description": "新天地家長資源：SEN 教育資訊、親子游泳技巧、感統訓練指南與免費下載教材，支援香港特殊需要兒童家長。",
-      "keywords": "SEN家長資源, 親子游泳技巧, 香港感統訓練指南, 自閉症教育資訊, ADHD家長支援"
+      "description": "新天地2026年10月SEN家長資源：ADHD與自閉症學童游泳教學、感官調節、分段指令、安全溝通及常見疑問，協助家長按孩子步伐準備學習。",
+      "keywords": "SEN家長資源, ADHD游泳, 自閉症游泳, 水中感覺調節, SEN安全溝通, 香港特殊需要游泳"
     },
     {
       "type": "page",
@@ -392,6 +392,15 @@
       "description": "孩子下水前，先走進他的世界：教練與家長的SEN游泳課同行指南 — 新天地教練專欄每週專題",
       "keywords": "SEN游泳, 教練專欄",
       "publishedAt": "2026-05-25T14:19:13.096Z"
+    },
+    {
+      "type": "article",
+      "path": "monthly-insights-2026-10.html",
+      "url": "https://www.leisure.org.hk/monthly-insights-2026-10.html",
+      "title": "2026年10月SEN游泳月報：建立信心與安全",
+      "description": "本月聚焦SEN學童的游泳信心、專注力、感官調節與安全溝通，並整理四篇教練專欄文章，幫助家長按孩子步伐準備學習。",
+      "keywords": "SEN游泳, 家長資源, ADHD游泳, 自閉症游泳, 水中安全",
+      "publishedAt": "2026-10-28T09:05:58.796Z"
     },
     {
       "type": "article",
