@@ -92,6 +92,54 @@ function loadLandingExtras() {
   }
 }
 
+function loadEdbSenReference() {
+  try {
+    return JSON.parse(fs.readFileSync(path.join(root, 'data', 'edb-sen-reference.json'), 'utf8'));
+  } catch {
+    return { sources: [], conceptsForSwimCoaching: [], disclaimer: '' };
+  }
+}
+
+/** 由 data/edb-sen-reference.json 產生教育局參考區塊（單一資料來源） */
+function renderEdbSenBlock() {
+  const edb = loadEdbSenReference();
+  const sources = Array.isArray(edb.sources) ? edb.sources : [];
+  const concepts = Array.isArray(edb.conceptsForSwimCoaching) ? edb.conceptsForSwimCoaching : [];
+  const takeaways = Array.isArray(edb.swimParentTakeaways) ? edb.swimParentTakeaways : [];
+  let html = `<h2 id="edb-official">教育局公開資料（官方入口）</h2>
+<p>以下整理自教育局公開網頁，方便家長與同行先找到<strong>官方入口</strong>。申請、資源與最新安排一律以原文／學校通知為準；本會不代辦申請。</p>
+<div class="edb-ref-grid">`;
+  for (const s of sources) {
+    if (!s?.url || !s?.title) continue;
+    html += `<article class="edb-ref-card" id="edb-${escHtml(s.id || 'ref')}">
+<h3><a href="${escHtml(s.url)}" target="_blank" rel="noopener noreferrer">${escHtml(s.title)}</a></h3>
+<p>${escHtml(s.summary || '')}</p>
+<p><a class="btn btn-outline" href="${escHtml(s.url)}" target="_blank" rel="noopener noreferrer">開啟原文</a></p>
+</article>`;
+  }
+  html += `</div>`;
+  if (edb.disclaimer) {
+    html += `<p class="digest-intro" style="margin:1rem 0;padding:0.85rem 1rem;background:rgba(30,87,153,0.06);border-radius:10px;font-size:0.9rem;line-height:1.7">${escHtml(edb.disclaimer)}</p>`;
+  }
+  if (concepts.length) {
+    html += `<h2 id="edb-concepts">與游泳課相關的幾個概念</h2>
+<p>這些是學校融合教育常見用語的<strong>家長向摘要</strong>，方便你跟教練、SENCO 對齊說法——不是要家長背政策。</p>
+<ul class="edb-concept-list">`;
+    for (const c of concepts) {
+      html += `<li id="concept-${escHtml(c.key || '')}"><strong>${escHtml(c.label || '')}：</strong>${escHtml(c.note || '')}</li>`;
+    }
+    html += `</ul>`;
+  }
+  if (takeaways.length) {
+    html += `<h2 id="edb-takeaways">家長可帶走的重點</h2><ol>`;
+    for (const t of takeaways) {
+      html += `<li>${escHtml(t)}</li>`;
+    }
+    html += `</ol>`;
+  }
+  return html;
+}
+
 function renderLandingExtras(file) {
   const e = loadLandingExtras().landings?.[file];
   if (!e) return '';
@@ -182,7 +230,7 @@ ${motionFig('anim-welcome.svg', '溫柔水波與親子浮板動態示意', '先�
 ${motionFig('anim-visual-schedule.svg', '視覺流程卡動態示意', '看得見的流程，學習更可預期')}
 </div>
 <div class="features-grid" style="margin-top:2rem">
-  <div class="card reveal stagger-1">${cardThumb('card-support.webp', '香港支援系統示意插畫')}<h3><a href="sen-support-hk.html">香港支援系統</a></h3><p>認識特殊需要的基本概念，以及教育、社福等本地支援如何與游泳課銜接。</p></div>
+  <div class="card reveal stagger-1">${cardThumb('card-support.webp', '香港支援系統示意插畫')}<h3><a href="sen-support-hk.html">香港支援系統</a></h3><p>教育局公開入口、三層支援概念，以及游泳課如何與家校支援銜接。</p></div>
   <div class="card reveal stagger-2">${cardThumb('card-overview.webp', 'SEN 習泳價值示意')}<h3><a href="sen-swim-benefits.html">習泳的價值</a></h3><p>水中活動如何幫助感覺、動作、專注與自信——家長入門。</p></div>
   <div class="card reveal stagger-3">${cardThumb('card-physical.webp', '水中安全示意')}<h3><a href="sen-swim-safety.html">游泳安全家長指引</a></h3><p>課前準備、更衣室、泳池與課後交接的安全重點。</p></div>
   <div class="card reveal stagger-4">${cardThumb('card-autism.webp', '自閉症游泳視覺提示示意')}<h3><a href="sen-swim-autism.html">自閉症游泳</a></h3><p>視覺提示、感官調節與固定流程（家長向）。</p></div>
@@ -207,25 +255,18 @@ ${learnHero('hero-sen-support.webp', '共融插畫：家庭、學校與游泳教
 <p>特殊教育需要泛指孩子在學習、溝通、感官、肢體或行為情緒上，需要額外或個別化支援，才能更公平地參與日常學習與活動。常見類別包括：自閉症譜系、專注力不足／過度活躍症（ADHD）、讀寫障礙、肢體／視覺／聽力障礙、智力障礙、唐氏綜合症等。同一標籤下，每位孩子的能力與需要仍可以差別很大。</p>
 <p>社會對特殊需要的理解亦在轉變：早期標籤式稱呼容易帶來偏見，現今更強調<strong>去污名化</strong>與尊重個體差異，並受《聯合國殘疾人權利公約》等理念影響——每位孩子都有平等參與學習與社區生活的權利。</p>
 ${learnFigure('card-support.webp', '支援系統概念插畫：多方協作圍繞孩子', '家長可把學校與治療建議告訴教練，統一小步驟目標')}
-<h2>教育局公開資料（課程發展入口）</h2>
-<p>香港教育局設有「特殊教育需要」課程發展專頁，說明課程發展議會轄下特殊教育需要委員會如何策劃課程方向，包括編訂教學指引與學習重點、推動校本課程、製作教學資源，以及舉辦研討／種籽計劃等。課程發展是持續過程，需要學校、前線同工及家長參與。詳情請以原文為準：</p>
-<ul>
-<li><a href="https://www.edb.gov.hk/tc/curriculum-development/curriculum-area/special-educational-needs/index.html" target="_blank" rel="noopener noreferrer">教育局：特殊教育需要（課程發展）</a></li>
-<li><a href="https://sense.edb.gov.hk/" target="_blank" rel="noopener noreferrer">融合教育及特殊教育資訊網站（SENSE）</a></li>
-<li><a href="https://sense.edb.gov.hk/tc/integrated-education/information-for-parents-and-the-public/" target="_blank" rel="noopener noreferrer">SENSE：給家長及公眾的資訊</a></li>
-</ul>
-<p class="digest-intro" style="margin:1rem 0;padding:0.85rem 1rem;background:rgba(30,87,153,0.06);border-radius:10px;font-size:0.9rem;line-height:1.7">本節為公開網頁的家長向整理；申請、資源及最新安排請直接向學校／教育局查證。查詢課程發展相關事宜，教育局專頁列有高級課程發展主任（特殊教育需要）聯絡（電郵 scdosen@edb.gov.hk／電話 2892 6524）。</p>
-<h2>香港常見的支援途徑（概念層）</h2>
+${renderEdbSenBlock()}
+<h2 id="support-paths">香港常見的支援途徑（概念層）</h2>
 <ul>
 <li><strong>評估與醫療：</strong>兒童體能智力測驗服務、兒科／專科跟進、復康治療（例如職業治療、物理治療、言語治療）。評估常涵蓋智力、肌能、語言等多方面，以理解孩子的實際需要。</li>
 <li><strong>學前支援（概念）：</strong>特殊幼兒中心（常稱 S 位，較密集訓練）、普通幼稚園／幼兒中心的兼收安排（I 位），以及治療師到校服務（E 位）等。學前階段往往是及早識別與介入的重要時期。游泳課不會自行加上治療目標，但歡迎家長告訴我們現時用哪一類支援、訓練重點是什麼。</li>
-<li><strong>學校「全校參與」與「三層支援」（概念）：</strong>教育局推動融合教育時，常提到及早識別、及早支援、全校參與、家校合作、跨界別協作等原則；並以三層支援回應不同程度需要——第一層優化課堂照顧差異；第二層額外／增補輔導（如小組、課後或抽離式）；第三層為持續嚴重困難者提供個別化加強支援（包括個別學習計劃）。特殊教育需要統籌主任（SENCO）與學生支援組常是家校橋樑。資源與層級以學校／教育局最新安排為準；我們可協助整理「水中觀察」給 SENCO 參考，但不代辦申請。</li>
+<li><strong>學校支援：</strong>見上方「全校參與／三層支援／SENCO」概念。資源與層級以學校／教育局最新安排為準。</li>
 <li><strong>社福與社區：</strong>社會福利署及非政府機構的康復、日間訓練、家長資源中心等服務；照顧者的情緒與資訊支援同樣重要。</li>
 <li><strong>體育與康樂：</strong>傷健共融運動、智障人士體育協會、特殊奧運相關活動，以及普及游泳課程。</li>
 </ul>
-<p>以上屬公開資訊層面的整理，實際資格與申請以相關部門／機構最新指引為準；官方連結請以上方教育局專頁為準。</p>
-<h2>公開學習資源</h2>
-<p>官方入口請先看上方教育局連結。若想另以清單方式認識不同身心狀況名稱，亦可參閱香港教育大學（EdUHK）健康與體育學系高級講師 Roy Chan 公開的 Padlet《<a href="https://padlet.com/roychan500ywc/list-of-disorder-z6xo27qut3kp3vg2" target="_blank" rel="noopener noreferrer">List of Disorder</a>》。這是第三方教學整理，<strong>並非醫療診斷</strong>；內容與更新以原作者為準。本站家長資源頁亦有同一連結。</p>
+<p>以上屬公開資訊層面的整理，實際資格與申請以相關部門／機構最新指引為準。</p>
+<h2 id="other-learning">其他公開學習資源</h2>
+<p>官方入口請先看<a href="#edb-official">教育局區塊</a>。若想另以清單方式認識不同身心狀況名稱，亦可參閱香港教育大學（EdUHK）健康與體育學系高級講師 Roy Chan 公開的 Padlet《<a href="https://padlet.com/roychan500ywc/list-of-disorder-z6xo27qut3kp3vg2" target="_blank" rel="noopener noreferrer">List of Disorder</a>》。這是第三方教學整理，<strong>並非醫療診斷</strong>；內容與更新以原作者為準。本站<a href="resources.html#public-learning">家長資源</a>亦有同一連結。</p>
 <h2>游泳課如何與支援系統銜接？</h2>
 <p>游泳不是取代醫療或學校支援，而是<strong>補足身體活動、安全感與生活技能</strong>的一環。新天地會請家長簡述：孩子已有的評估重點、學校或治療師的建議、泳池環境的敏感點（聲音、觸覺、水深）。課堂上我們會用可預期流程、分步目標與安全守則，讓水中學習與日常生活節奏互相配合。</p>
 <h2>家長可以先準備什麼？</h2>
@@ -246,8 +287,10 @@ ${DISCLAIMER}
 <p>每位孩子節奏不同。游泳課的目標是安全、自信與可持續的進步，而不是與他人比較「何時康復」。把小進步寫下來，往往比焦慮「何時正常」更有幫助。</p>
 <h3>游多少堂才可以「返主流」？</h3>
 <p>我們不會承諾時間表。進步用看得見的行為描述（例如「聽到停就停」「願意坐池邊吹泡泡」），而不是用「幾多堂康復」來衡量。詳見<a href="sen-swim-classroom.html">課堂怎樣上</a>。</p>
+<h3>教育局資料跟游泳課有什麼關係？</h3>
+<p>教育局資料幫你了解學校／課程支援的<strong>共同語言</strong>（例如三層支援、SENCO）。游泳課是社區康樂與身體活動的一環，用來補足安全感與生活技能，<strong>不是</strong>取代學校或醫療。把兩邊的觀察用具體句子對齊，孩子較少同時面對互相矛盾的要求。</p>
 </section>
-<p style="margin-top:1.5rem">延伸閱讀：<a href="sen-swim-development.html">特殊需要游泳運動發展</a> · <a href="sen-guide.html">認識特殊需要總覽</a> · <a href="resources.html">家長資源</a></p>
+<p style="margin-top:1.5rem">延伸閱讀：<a href="sen-swim-development.html">特殊需要游泳運動發展</a> · <a href="sen-guide.html">認識特殊需要總覽</a> · <a href="resources.html#public-learning">家長資源・公開學習</a></p>
 ${CTA()}
 </div></section>`,
   },

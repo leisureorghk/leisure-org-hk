@@ -2214,6 +2214,58 @@ p { margin-bottom: var(--spacing-sm); }
     margin-top: 2.25rem;
 }
 
+/* 教育局官方參考卡片（sen-support-hk） */
+.edb-ref-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    margin: 1.25rem 0 1.5rem;
+    max-width: 42rem;
+}
+@media (min-width: 720px) {
+    .edb-ref-grid {
+        grid-template-columns: 1fr 1fr;
+        max-width: none;
+    }
+}
+.edb-ref-card {
+    background: rgba(255, 252, 245, 0.95);
+    border: 1px solid rgba(30, 87, 153, 0.12);
+    border-radius: 14px;
+    padding: 1rem 1.1rem 1.15rem;
+    box-shadow: 0 8px 24px rgba(13, 40, 71, 0.04);
+}
+.edb-ref-card h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1.05rem;
+    line-height: 1.4;
+}
+.edb-ref-card h3 a {
+    color: var(--ocean-deep, #0d2847);
+    text-decoration: none;
+}
+.edb-ref-card h3 a:hover {
+    color: var(--ocean-blue, #1e5799);
+    text-decoration: underline;
+}
+.edb-ref-card p {
+    margin: 0 0 0.85rem;
+    font-size: 0.92rem;
+    line-height: 1.65;
+    color: var(--text-muted, #5a6a7a);
+}
+.edb-ref-card .btn {
+    font-size: 0.88rem;
+    padding: 0.45rem 0.9rem;
+}
+.edb-concept-list {
+    max-width: 42rem;
+}
+.edb-concept-list li {
+    margin-bottom: 0.85rem;
+    line-height: 1.7;
+}
+
 .motion-figure img {
     background: linear-gradient(180deg, #e8f4fb 0%, #faf5e8 100%);
 }

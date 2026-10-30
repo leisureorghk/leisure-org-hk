@@ -41,6 +41,9 @@
   }
 
   function hrefFor(item) {
+    if (item.type === 'reference' && item.externalUrl) {
+      return item.externalUrl;
+    }
     if (item.type === 'digest' && item.externalUrl) {
       return 'digest-article.html?u=' + encodeURIComponent(item.externalUrl);
     }
@@ -53,6 +56,7 @@
     if (t === 'weekly') return '每週專題';
     if (t === 'article') return '教練專欄';
     if (t === 'digest') return '產業摘要';
+    if (t === 'reference') return '官方參考';
     return '網站頁面';
   }
 
@@ -95,6 +99,10 @@
           '）</p><ul class="blog-search-hit-list" style="list-style:none;padding:0;margin:0 0 1rem;display:grid;gap:0.65rem">' +
           pageHits
             .map(function (it) {
+              var ext =
+                it.type === 'reference' || (it.type === 'digest' && it.externalUrl)
+                  ? ' target="_blank" rel="noopener noreferrer"'
+                  : '';
               return (
                 '<li class="card" style="padding:0.85rem 1rem">' +
                 '<span style="font-size:0.75rem;color:var(--text-muted)">' +
@@ -102,7 +110,9 @@
                 '</span>' +
                 '<a href="' +
                 esc(hrefFor(it)) +
-                '" style="display:block;font-weight:600;color:var(--ocean-blue);margin:0.15rem 0">' +
+                '"' +
+                ext +
+                ' style="display:block;font-weight:600;color:var(--ocean-blue);margin:0.15rem 0">' +
                 esc(it.title) +
                 '</a>' +
                 (it.description

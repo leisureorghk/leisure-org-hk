@@ -1,14 +1,15 @@
 {
   "updatedAt": "2026-10-30",
-  "disclaimer": "以下為教育局公開網頁之摘要整理，供家長／教練認識入口；申請資格、資源與最新指引一律以教育局原文為準。本站不代辦申請，亦不構成醫療或法律意見。",
+  "disclaimer": "以下為教育局公開網頁之摘要整理，供家長／教練認識入口；申請資格、資源與最新指引一律以教育局原文為準。本站不代辦申請，亦不構成醫療或法律意見。課程發展查詢可參閱教育局專頁所列高級課程發展主任（特殊教育需要）聯絡：scdosen@edb.gov.hk／2892 6524。",
   "sources": [
     {
       "id": "edb-sen-curriculum",
       "title": "特殊教育需要（課程發展）— 教育局",
       "url": "https://www.edb.gov.hk/tc/curriculum-development/curriculum-area/special-educational-needs/index.html",
       "lang": "zh-Hant-HK",
-      "summary": "課程發展議會轄下特殊教育需要委員會策劃及制訂特殊教育課程方向；工作包括編訂教學指引／學習重點／評估示例、推動校本課程、製作教學資源、舉辦研討與種籽計劃。課程發展持續修訂，需學校、前線同工及家長參與。查詢：高級課程發展主任（特殊教育需要）scdosen@edb.gov.hk／2892 6524。",
+      "summary": "課程發展議會轄下特殊教育需要委員會策劃課程方向：教學指引、學習重點、評估示例、校本課程、教學資源與研討／種籽計劃。課程發展持續修訂，需要學校、前線同工及家長參與。",
       "tags": ["教育局", "SEN", "課程發展", "特殊教育", "教學資源"],
+      "priority": 1,
       "contact": {
         "role": "高級課程發展主任（特殊教育需要）",
         "email": "scdosen@edb.gov.hk",
@@ -23,15 +24,17 @@
       "url": "https://sense.edb.gov.hk/",
       "lang": "zh-Hant-HK",
       "summary": "教育局融合教育／特殊教育資訊入口，涵蓋家長資訊、學與教、三層支援與相關資源。",
-      "tags": ["教育局", "融合教育", "SENSE", "家長資訊"]
+      "tags": ["教育局", "融合教育", "SENSE", "家長資訊"],
+      "priority": 2
     },
     {
       "id": "sense-parents",
       "title": "SENSE：給家長及公眾的資訊",
       "url": "https://sense.edb.gov.hk/tc/integrated-education/information-for-parents-and-the-public/",
       "lang": "zh-Hant-HK",
-      "summary": "面向家長及公眾的融合教育資訊整理。",
-      "tags": ["教育局", "家長", "融合教育"]
+      "summary": "面向家長及公眾的融合教育資訊整理，適合先建立家校溝通的基本認識。",
+      "tags": ["教育局", "家長", "融合教育"],
+      "priority": 3
     },
     {
       "id": "edb-special-system",
@@ -39,7 +42,8 @@
       "url": "https://www.edb.gov.hk/tc/edu-system/special/index.html",
       "lang": "zh-Hant-HK",
       "summary": "特殊教育制度與支援相關資源總覽。",
-      "tags": ["教育局", "特殊教育"]
+      "tags": ["教育局", "特殊教育"],
+      "priority": 4
     }
   ],
   "conceptsForSwimCoaching": [
@@ -63,5 +67,11 @@
       "label": "課程／教學調適（概念）",
       "note": "教育局課程發展為特殊教育需要學生提供教學指引、學習重點與評估示例等方向。水中教學同樣宜分步、可預期、按當日狀態調適目標，而非催促「追上主流」。"
     }
+  ],
+  "swimParentTakeaways": [
+    "先用教育局／SENSE 建立共同語言，再跟教練說孩子在學校／治療的重點。",
+    "把觀察寫成具體行為（例如「聽到哨聲會摀耳」），比只報診斷名稱更有用。",
+    "游泳目標是安全、自信與可持續小進步，不是「幾多堂返主流」。",
+    "學校資源申請與層級安排，請以學校及教育局最新指引為準；本會可協助整理水中觀察，但不代辦。"
   ]
 }
