@@ -111,6 +111,23 @@ export function buildSearchIndex(rootDir = root) {
     }
   }
 
+  const edbRefPath = path.join(rootDir, 'data', 'edb-sen-reference.json');
+  if (fs.existsSync(edbRefPath)) {
+    const edb = JSON.parse(fs.readFileSync(edbRefPath, 'utf8'));
+    for (const src of edb.sources || []) {
+      if (!src?.url) continue;
+      pushItem(items, seen, {
+        type: 'reference',
+        path: `sen-support-hk.html#edb-${src.id || 'ref'}`,
+        url: absUrl(site, '/sen-support-hk.html'),
+        title: src.title || '教育局特殊教育需要參考',
+        description: src.summary || '',
+        keywords: Array.isArray(src.tags) ? src.tags.join(', ') : '教育局, SEN, 特殊教育需要',
+        externalUrl: src.url,
+      });
+    }
+  }
+
   const payload = {
     builtAt,
     count: items.length,

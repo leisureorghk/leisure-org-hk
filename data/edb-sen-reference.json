@@ -1,0 +1,67 @@
+{
+  "updatedAt": "2026-10-30",
+  "disclaimer": "以下為教育局公開網頁之摘要整理，供家長／教練認識入口；申請資格、資源與最新指引一律以教育局原文為準。本站不代辦申請，亦不構成醫療或法律意見。",
+  "sources": [
+    {
+      "id": "edb-sen-curriculum",
+      "title": "特殊教育需要（課程發展）— 教育局",
+      "url": "https://www.edb.gov.hk/tc/curriculum-development/curriculum-area/special-educational-needs/index.html",
+      "lang": "zh-Hant-HK",
+      "summary": "課程發展議會轄下特殊教育需要委員會策劃及制訂特殊教育課程方向；工作包括編訂教學指引／學習重點／評估示例、推動校本課程、製作教學資源、舉辦研討與種籽計劃。課程發展持續修訂，需學校、前線同工及家長參與。查詢：高級課程發展主任（特殊教育需要）scdosen@edb.gov.hk／2892 6524。",
+      "tags": ["教育局", "SEN", "課程發展", "特殊教育", "教學資源"],
+      "contact": {
+        "role": "高級課程發展主任（特殊教育需要）",
+        "email": "scdosen@edb.gov.hk",
+        "phone": "+852 2892 6524",
+        "fax": "+852 2573 5299",
+        "address": "香港灣仔皇后大道東213號胡忠大廈13樓1325室"
+      }
+    },
+    {
+      "id": "sense-portal",
+      "title": "融合教育及特殊教育資訊網站（SENSE）",
+      "url": "https://sense.edb.gov.hk/",
+      "lang": "zh-Hant-HK",
+      "summary": "教育局融合教育／特殊教育資訊入口，涵蓋家長資訊、學與教、三層支援與相關資源。",
+      "tags": ["教育局", "融合教育", "SENSE", "家長資訊"]
+    },
+    {
+      "id": "sense-parents",
+      "title": "SENSE：給家長及公眾的資訊",
+      "url": "https://sense.edb.gov.hk/tc/integrated-education/information-for-parents-and-the-public/",
+      "lang": "zh-Hant-HK",
+      "summary": "面向家長及公眾的融合教育資訊整理。",
+      "tags": ["教育局", "家長", "融合教育"]
+    },
+    {
+      "id": "edb-special-system",
+      "title": "教育局：特殊教育（教育制度）",
+      "url": "https://www.edb.gov.hk/tc/edu-system/special/index.html",
+      "lang": "zh-Hant-HK",
+      "summary": "特殊教育制度與支援相關資源總覽。",
+      "tags": ["教育局", "特殊教育"]
+    }
+  ],
+  "conceptsForSwimCoaching": [
+    {
+      "key": "whole-school-approach",
+      "label": "全校參與模式（概念）",
+      "note": "普通學校以全校參與照顧有特殊教育需要的學生；五個常用基本原則包括：及早識別、及早支援、全校參與、家校合作、跨界別協作。游泳課屬社區／康樂一環，可與家校資訊互相配合，但不取代學校支援。"
+    },
+    {
+      "key": "3-tier-support",
+      "label": "三層支援模式（概念）",
+      "note": "第一層：及早識別＋優化課堂照顧差異；第二層：額外／增補輔導（如小組、課後或抽離式）；第三層：持續嚴重困難者的個別化加強支援（包括個別學習計劃）。實際層級與資源以學校／教育局最新安排為準。"
+    },
+    {
+      "key": "senco",
+      "label": "特殊教育需要統籌主任（SENCO）",
+      "note": "公營普通學校由 SENCO 帶領學生支援組統籌融合教育工作。家長可把泳池觀察寫成可核對的具體行為，供 SENCO／支援組參考；本會不代辦申請。"
+    },
+    {
+      "key": "curriculum-adaptation",
+      "label": "課程／教學調適（概念）",
+      "note": "教育局課程發展為特殊教育需要學生提供教學指引、學習重點與評估示例等方向。水中教學同樣宜分步、可預期、按當日狀態調適目標，而非催促「追上主流」。"
+    }
+  ]
+}
