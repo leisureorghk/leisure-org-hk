@@ -111,7 +111,7 @@ function renderEdbSenBlock() {
 <div class="edb-ref-grid">`;
   for (const s of sources) {
     if (!s?.url || !s?.title) continue;
-    html += `<article class="edb-ref-card" id="edb-${escHtml(s.id || 'ref')}">
+    html += `<article class="edb-ref-card" id="${escHtml(s.id || 'edb-ref')}">
 <h3><a href="${escHtml(s.url)}" target="_blank" rel="noopener noreferrer">${escHtml(s.title)}</a></h3>
 <p>${escHtml(s.summary || '')}</p>
 <p><a class="btn btn-outline" href="${escHtml(s.url)}" target="_blank" rel="noopener noreferrer">開啟原文</a></p>
