@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-11-02T07:23:42.123Z",
-  "count": 67,
+  "builtAt": "2026-11-02T10:33:47.937Z",
+  "count": 68,
   "items": [
     {
       "type": "page",
@@ -185,6 +185,15 @@
       "title": "教練培訓錄音整理：家長最該知道的五件事",
       "description": "從特殊需要游泳教練培訓與家長分享錄音整理：行為是訊息、游泳非根治、漸進入水、安全交接、具體讚賞。",
       "keywords": "SEN游泳家長須知, 正向行為, 游泳安全, 自閉症游泳, 教練培訓"
+    },
+    {
+      "type": "weekly",
+      "path": "blog-weekly-2026-W45.html",
+      "url": "https://www.leisure.org.hk/blog-weekly-2026-W45.html",
+      "title": "SEN學童游泳訓練：安全評估與分階段進階",
+      "description": "SEN學童游泳訓練：安全評估與分階段進階 — 新天地教練專欄每週原創文章，聚焦香港 SEN 學童游泳教學與家長實務。",
+      "keywords": "SEN游泳, 香港特殊教育游泳, 特殊需要兒童游泳",
+      "publishedAt": "2026-11-02T10:33:47.861Z"
     },
     {
       "type": "weekly",
