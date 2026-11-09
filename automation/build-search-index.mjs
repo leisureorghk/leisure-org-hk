@@ -81,7 +81,7 @@ export function buildSearchIndex(rootDir = root) {
     for (const e of list) {
       if (!e?.slug) continue;
       pushItem(items, seen, {
-        type: 'article',
+        type: 'monthly',
         path: e.slug,
         url: absUrl(site, `/${e.slug}`),
         title: e.title || '家長月報',

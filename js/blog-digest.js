@@ -101,9 +101,18 @@
               it.featured
                 ? '<span class="digest-badge" style="margin-left:0.35rem">本週精選</span>'
                 : '';
+            var topicHay = title + ' ' + sum;
+            var topics = [];
+            if (/adhd|專注|紀律/i.test(topicHay)) topics.push('adhd');
+            if (/自閉|asd|autism/i.test(topicHay)) topics.push('autism');
+            if (/感統|感官|感覺|sensory/i.test(topicHay)) topics.push('sensory');
+            if (/安全|防溺|safety/i.test(topicHay)) topics.push('safety');
+            if (/信心|溝通|等待|步伐|準備/i.test(topicHay)) topics.push('confidence');
             return (
               '<article class="digest-card' +
               (it.featured ? ' digest-card-featured' : '') +
+              '" data-content-type="digest" data-topics="' +
+              esc(topics.join(' ') || 'general') +
               '">' +
               '<div class="digest-card-source">' +
               esc(it.sourceName || it.sourceId || '來源') +
@@ -126,6 +135,7 @@
             );
           })
           .join('');
+        document.dispatchEvent(new CustomEvent('blog:content-ready'));
       })
       .catch(function () {
         grid.innerHTML =
@@ -146,6 +156,16 @@
           return;
         }
         weeklyBox.hidden = false;
+        weeklyBox.setAttribute('data-loaded', '1');
+        weeklyBox.setAttribute('data-content-type', 'weekly');
+        var topicHay = [latest.title, latest.description, (latest.keywords || []).join(' ')].join(' ');
+        var topics = [];
+        if (/adhd|專注|紀律/i.test(topicHay)) topics.push('adhd');
+        if (/自閉|asd|autism/i.test(topicHay)) topics.push('autism');
+        if (/感統|感官|感覺|sensory/i.test(topicHay)) topics.push('sensory');
+        if (/安全|防溺|safety/i.test(topicHay)) topics.push('safety');
+        if (/信心|溝通|等待|步伐|準備/i.test(topicHay)) topics.push('confidence');
+        weeklyBox.setAttribute('data-topics', topics.join(' ') || 'confidence');
         weeklyBox.innerHTML =
           '<h3>每週專題精選</h3>' +
           '<p>' +
@@ -157,6 +177,7 @@
           '<a class="btn btn-primary" href="' +
           esc(latest.slug) +
           '">閱讀本週專題</a>';
+        document.dispatchEvent(new CustomEvent('blog:content-ready'));
       })
       .catch(function () {
         hideWeeklyPromo();

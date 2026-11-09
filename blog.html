@@ -60,7 +60,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="images/icons/app-icon.svg">
-    <link rel="stylesheet" href="css/style.css?v=20261030a">
+    <link rel="stylesheet" href="css/style.css?v=20261109a">
 </head>
 <body>
     <div class="particles" aria-hidden="true">
@@ -114,9 +114,9 @@
 </figure></div>
 
     <!-- monthly-audit:start -->
-<section class="section section-light monthly-audit-panel" aria-labelledby="monthly-audit-heading-bloghtml">
-<div class="container"><h2>家長月報（2026-10）</h2>
-<p>本月教練專欄新增 4 篇專題，產業摘要收錄 8 則與 SEN／游泳相關的公開資訊。歡迎先讀月報，再按孩子需要進入專頁。</p>
+<section class="section section-light monthly-audit-panel" data-content-type="monthly" data-topics="confidence adhd sensory safety" aria-labelledby="monthly-audit-heading-bloghtml">
+<div class="container"><h2>最新月報（2026-10）</h2>
+<p>十月教練專欄新增 4 篇專題，產業摘要收錄 8 則與 SEN／游泳相關的公開資訊。歡迎先讀月報，再按孩子需要進入專頁。</p>
 <p id="monthly-insights-latest"><a href="monthly-insights-2026-10.html">閱讀 2026-10 家長月報</a></p>
 <ul><li><a href="blog-weekly-2026-W44.html">SEN學童游泳教學：由專注到水中有信心的實戰策略</a></li><li><a href="blog-weekly-2026-W43.html">水中環境如何影響ADHD學童的感覺系統</a></li><li><a href="blog-weekly-2026-W42.html">ADHD學童學游水好處多｜教練拆解專注與紀律訓練方法</a></li><li><a href="blog-weekly-2026-W41.html">SEN學童游水有著數？拆解特殊需要兒童學習游泳的常見疑問</a></li></ul></div>
 </section>
@@ -135,29 +135,53 @@
                 <input type="search" id="blog-search-input" class="form-control" placeholder="搜尋關鍵字（例：游泳、自閉症、ADHD、感統）" autocomplete="off" style="max-width:420px;width:100%;padding:0.65rem 1rem;border-radius:999px;border:1px solid var(--gray-mist)">
                 <p id="blog-search-status" class="digest-intro" style="margin-top:0.5rem;margin-bottom:0" aria-live="polite"></p>
             </div>
+            <div class="blog-filter-panel" id="blog-filter-panel" aria-label="專欄內容篩選">
+                <div class="blog-filter-row">
+                    <span class="blog-filter-label">內容類型</span>
+                    <div class="blog-filter-chips" role="group" aria-label="內容類型" data-filter-group="type">
+                        <button type="button" class="blog-filter-chip is-active" data-filter-type="all" aria-pressed="true">全部</button>
+                        <button type="button" class="blog-filter-chip" data-filter-type="monthly" aria-pressed="false">家長月報</button>
+                        <button type="button" class="blog-filter-chip" data-filter-type="weekly" aria-pressed="false">每週專題</button>
+                        <button type="button" class="blog-filter-chip" data-filter-type="digest" aria-pressed="false">產業摘要</button>
+                        <button type="button" class="blog-filter-chip" data-filter-type="static" aria-pressed="false">常駐文章</button>
+                    </div>
+                </div>
+                <div class="blog-filter-row">
+                    <span class="blog-filter-label">SEN 主題</span>
+                    <div class="blog-filter-chips" role="group" aria-label="SEN 主題" data-filter-group="topic">
+                        <button type="button" class="blog-filter-chip is-active" data-filter-topic="all" aria-pressed="true">全部</button>
+                        <button type="button" class="blog-filter-chip" data-filter-topic="adhd" aria-pressed="false">ADHD</button>
+                        <button type="button" class="blog-filter-chip" data-filter-topic="autism" aria-pressed="false">自閉症</button>
+                        <button type="button" class="blog-filter-chip" data-filter-topic="sensory" aria-pressed="false">感統</button>
+                        <button type="button" class="blog-filter-chip" data-filter-topic="safety" aria-pressed="false">安全</button>
+                        <button type="button" class="blog-filter-chip" data-filter-topic="confidence" aria-pressed="false">溝通／信心</button>
+                    </div>
+                </div>
+                <p id="blog-filter-status" class="digest-intro" style="margin-top:0.5rem;margin-bottom:0" aria-live="polite"></p>
+            </div>
             <div id="blog-search-results" class="blog-search-results" hidden style="margin-bottom:1.25rem"></div>
             <div class="digest-meta-bar" id="digest-meta-bar" aria-live="polite"></div>
-            <div class="digest-grid" id="digest-grid"></div>
-            <div id="weekly-article-promo" class="digest-weekly-promo card reveal" hidden></div>
+            <div class="digest-grid" id="digest-grid" data-filter-section="digest"></div>
+            <div id="weekly-article-promo" class="digest-weekly-promo card reveal" data-content-type="weekly" data-topics="confidence adhd autism sensory safety" hidden></div>
         </div>
     </section>
 
     <!-- Featured Article -->
-    <section class="section">
+    <section class="section" data-filter-section="weekly" data-content-type="weekly">
         <div class="bg-decoration bg-circle-1"></div>
         <div class="container">
             <div class="section-header">
                 <h2>最新文章</h2>
                 <p>曹教練的最新分享</p>
             </div>
-            <div id="featured-article-root" class="reveal card featured-blog featured-article-shell">
+            <div id="featured-article-root" class="reveal card featured-blog featured-article-shell" data-content-type="weekly" data-topics="confidence adhd autism sensory safety">
                 <p role="status" style="text-align:center;color:var(--text-muted)">載入最新文章…</p>
             </div>
         </div>
     </section>
 
     <!-- Blog Posts -->
-    <section class="section section-light">
+    <section class="section section-light" data-filter-section="cards">
         <div class="container">
             <div class="section-header">
                 <h2>更多文章</h2>
@@ -170,54 +194,54 @@
     </section>
 
     <!-- Full Articles -->
-    <section class="section">
+    <section class="section" data-filter-section="static" data-content-type="static">
         <div class="container">
             <div class="section-header">
                 <h2>文章全文</h2>
                 <p>點選上方「閱讀全文」即可跳到對應文章</p>
             </div>
             <div class="features-grid blog-features-grid">
-                <article id="article-1" class="card reveal">
+                <article id="article-1" class="card reveal" data-content-type="static" data-topics="sensory">
                     <h3>為什麼水中感統訓練對SEN孩子特別有效？</h3>
                     <p>水同時提供浮力、阻力和溫和壓力，對感覺統合困難的孩子來說，這是一個非常友善的訓練環境。當孩子在水中活動時，身體可得到穩定而連續的本體覺輸入，能幫助調節過高或過低的感官反應。</p>
                     <p>另外，水中動作節奏清晰，容易建立「預測感」，能減少焦慮。很多孩子在陸地上難以維持專注，但在水中反而更願意跟從指令。家長最常見到的轉變，是孩子情緒更穩、睡眠更好、願意嘗試新任務。</p>
                     <p>建議家長把目標設定為「先穩定，再進步」：先讓孩子喜歡水、信任教練，再逐步加入技巧訓練，效果會更持久。</p>
                 </article>
-                <article id="article-2" class="card reveal">
+                <article id="article-2" class="card reveal" data-content-type="static" data-topics="confidence">
                     <h3>教了三十年游泳，我學會的一件事：等待</h3>
                     <p>年輕時我追求進度，總想每堂課都有明顯成果。後來我明白，對很多SEN孩子來說，進步不是直線，而是階梯。有時候連續幾堂看似沒有變化，其實孩子正在建立安全感。</p>
                     <p>當孩子未準備好，催促只會增加抗拒；當孩子被理解，他自然會向前。等待不是放任，而是用對節奏：把任務拆細、重複練習、每次只提高一點要求。</p>
                     <p>真正有效的教學，不是把孩子推向目標，而是陪他走到目標。</p>
                 </article>
-                <article id="article-3" class="card reveal">
+                <article id="article-3" class="card reveal" data-content-type="static" data-topics="adhd">
                     <h3>ADHD孩子學游泳的5個實用技巧</h3>
                     <p>第一，先動後學：先安排短時間高活動量熱身，再進入技巧練習。第二，指令要短：一次一個重點，避免長句。第三，視覺提示：用手勢或圖卡比純口頭更有效。</p>
                     <p>第四，節奏分段：把45分鐘拆成多個小任務，每完成一段就給明確回饋。第五，強化立即：做對當下就鼓勵，提升動機。</p>
                     <p>ADHD孩子不是不能專注，而是需要更合適的教學設計。當方法對了，他們的學習速度往往超出預期。</p>
                     <p><a href="blog-article-adhd.html">閱讀全文</a></p>
                 </article>
-                <article id="article-coach-notes" class="card reveal">
+                <article id="article-coach-notes" class="card reveal" data-content-type="static" data-topics="confidence safety sensory">
                     <h3>教練培訓錄音整理：家長最該知道的五件事</h3>
                     <p>行為是訊息、游泳不能根治診斷、怕水要漸進、安全要交到手、讚賞要說出他做到甚麼——把培訓錄音消化成家校共通語言。</p>
                     <p><a href="blog-article-coach-notes.html">閱讀全文</a></p>
                 </article>
-                <article id="article-4" class="card reveal">
+                <article id="article-4" class="card reveal" data-content-type="static" data-topics="confidence">
                     <h3>寫給那位在泳池邊哭泣的媽媽</h3>
                     <p>很多家長以為「孩子不配合」等於「自己做得不夠」。其實不是。你已經很努力了，願意帶孩子一次又一次來嘗試，本身就是最重要的支持。</p>
                     <p>請記住：孩子今天願意踏進泳池，是進步；願意碰水，也是進步；願意再來一次，更是進步。不要只看終點，要看每一小步。</p>
                     <p>你不是一個人在面對。我們會和你站在同一邊，一起找出最適合孩子的步伐。</p>
                 </article>
-                <article id="article-5" class="card reveal">
+                <article id="article-5" class="card reveal" data-content-type="static" data-topics="safety">
                     <h3>水上安全：SEN學生的防溺教育</h3>
                     <p>防溺教育不只是學會游泳，更是建立規則與反應。對SEN學生，我們會用固定流程教「看、停、問、再下水」，並以大量重複練習形成習慣。</p>
                     <p>建議家長在家也一致使用同樣口令，例如「先等大人」、「未許可不下水」。規則越一致，孩子越容易內化。</p>
                     <p>目標不是短期表現，而是長期安全。當孩子能在不同場景都遵守同一套安全規則，才算真正學會。</p>
                 </article>
-                <article id="article-6" class="card reveal">
-                    <h3>暑假來了：如何為SEN孩子準備游泳課程？</h3>
-                    <p>暑假課程前，先做三件事：第一，建立作息，讓上課時間穩定。第二，做環境預習，例如先到泳池外圍走一圈。第三，準備視覺流程卡，降低未知感。</p>
-                    <p>第一週不要追求難度，重點是建立正面經驗。孩子只要願意參與，就是好開始。之後再逐步增加目標，例如臉入水、踢腳、換氣。</p>
-                    <p>暑假是建立新習慣的黃金期，只要步伐合適，孩子可以在短時間內建立很好的基礎。</p>
+                <article id="article-6" class="card reveal" data-content-type="static" data-topics="confidence sensory safety">
+                    <h3>如何為 SEN 孩子準備游泳課程？</h3>
+                    <p>開課前，先做三件事：第一，建立作息，讓上課時間穩定。第二，做環境預習，例如先到泳池外圍走一圈。第三，準備視覺流程卡，降低未知感。</p>
+                    <p>首幾堂不要追求難度，重點是建立正面經驗。孩子只要願意參與，就是好開始。之後再逐步增加目標，例如臉入水、踢腳、換氣。</p>
+                    <p>只要步伐合適，孩子可以在穩定節奏下建立很好的基礎，家長亦更容易與教練對齊期望。</p>
                 </article>
             </div>
         </div>
@@ -228,16 +252,16 @@
         <div class="bg-decoration bg-circle-2"></div>
         <div class="container">
             <div class="section-header">
-                <h2>訂閱教練專欄</h2>
+                <h2>索取教練專欄更新</h2>
                 <p>每期收到曹教練的最新文章和實用建議</p>
             </div>
             <div class="reveal card text-center" style="max-width: 650px; margin: 0 auto;">
                 <div class="custom-icon round orange" style="margin:0 auto 1rem"><img src="images/icons/icon-email.svg" alt=""></div>
-                <p style="color:var(--text-muted);margin-bottom:1.5rem">留下你的電郵，每個月收到曹教練的最新文章。不發垃圾郵件，只分享真心話。</p>
-                <form action="#" method="post" class="newsletter-form" style="display:flex;gap:0.5rem;max-width:450px;margin:0 auto;flex-wrap:wrap">
-                    <input type="email" placeholder="請輸入電郵地址" required class="newsletter-input" style="flex:1;min-width:200px;padding:0.75rem 1rem;border:2px solid var(--gray-light);border-radius:8px;font-size:1rem">
-                    <button type="submit" class="btn btn-primary">訂閱</button>
-                </form>
+                <p style="color:var(--text-muted);margin-bottom:1.5rem">目前未提供網上自動訂閱。請以 WhatsApp 或電郵聯絡我們，索取家長月報與教練專欄更新。</p>
+                <div class="newsletter-form" style="display:flex;gap:0.75rem;max-width:480px;margin:0 auto;flex-wrap:wrap;justify-content:center">
+                    <a class="btn btn-primary" href="https://wa.me/85297083907?text=%E6%83%B3%E7%B4%A2%E5%8F%96%E6%95%99%E7%B7%B4%E5%B0%88%E6%AC%84%E6%9B%B4%E6%96%B0" target="_blank" rel="noopener">WhatsApp 索取更新</a>
+                    <a class="btn btn-outline" href="mailto:info@leisure.org.hk?subject=%E7%B4%A2%E5%8F%96%E6%95%99%E7%B7%B4%E5%B0%88%E6%AC%84%E6%9B%B4%E6%96%B0">電郵 info@leisure.org.hk</a>
+                </div>
             </div>
         </div>
     </section>
@@ -371,9 +395,10 @@
         }
         </script>    </footer>
 
-        <script src="js/blog-digest.js?v=20260612a"></script>
-    <script src="js/blog-featured.js?v=20260525a"></script>
-    <script src="js/blog-search.js?v=20260821a"></script>
+        <script src="js/blog-digest.js?v=20261109a"></script>
+    <script src="js/blog-featured.js?v=20261109a"></script>
+    <script src="js/blog-filters.js?v=20261109a"></script>
+    <script src="js/blog-search.js?v=20261109a"></script>
     <script>
         function hideLoading(){const loading=document.getElementById('loading');if(loading)loading.classList.add('hidden')}
         window.addEventListener('DOMContentLoaded',function(){setTimeout(hideLoading,300)});

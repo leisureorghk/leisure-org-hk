@@ -54,6 +54,7 @@
 
   function typeLabel(t) {
     if (t === 'weekly') return '每週專題';
+    if (t === 'monthly') return '家長月報';
     if (t === 'article') return '教練專欄';
     if (t === 'digest') return '產業摘要';
     if (t === 'reference') return '官方參考';
@@ -70,9 +71,12 @@
       allCards.forEach(function (card) {
         var text = (card.textContent || '').toLowerCase();
         var show = !needle || text.indexOf(needle) !== -1;
-        card.style.display = show ? '' : 'none';
+        card.setAttribute('data-search-hit', show ? '1' : '0');
         if (show) digestVisible += 1;
       });
+    }
+    if (window.BlogFilters && typeof window.BlogFilters.apply === 'function') {
+      window.BlogFilters.apply();
     }
 
     var pageHits = [];
