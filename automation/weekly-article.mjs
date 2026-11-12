@@ -4,7 +4,8 @@
  *
  * 環境變數：
  *   MINIMAX_API_KEY（必填才會產出週報 HTML）
- *   MINIMAX_MODEL（預設 MiniMax-M3）
+ *   MINIMAX_MODEL（預設 MiniMax-M3.1-Flash）
+ *   MINIMAX_REASONING_EFFORT（預設 low；省思考 token）
  *   MINIMAX_API_BASE（預設 https://api.minimax.io；可設 https://api.minimaxi.com/v1）
  */
 import fs from 'fs';
@@ -12,7 +13,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import yaml from 'js-yaml';
 import Parser from 'rss-parser';
-import { minimaxChat } from './minimax-chat.mjs';
+import { minimaxChat, resolveMinimaxModel } from './minimax-chat.mjs';
 import { isSenOrSwimRelevant } from './sen-swim-relevance.mjs';
 import {
   loadSeoConfig,
@@ -371,7 +372,7 @@ ${renderFooter({ variant: 'compact' })}
 
 async function main() {
   const apiKey = process.env.MINIMAX_API_KEY;
-  const model = process.env.MINIMAX_MODEL || 'MiniMax-M3';
+  const model = resolveMinimaxModel();
   const base = process.env.MINIMAX_API_BASE || 'https://api.minimax.io';
 
   if (!apiKey) {

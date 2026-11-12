@@ -27,7 +27,8 @@
 | Secret | 必填 | 說明 |
 |--------|------|------|
 | `MINIMAX_API_KEY` | 週報與每月審計必填；**摘要若要英→繁亦必填**（同一筆） | [MiniMax 平台](https://platform.minimax.io) 取得之 API Key；Bearer 驗證。 |
-| `MINIMAX_MODEL` | 否 | 預設為 `MiniMax-M3`；可改為文件支援之其他模型。 |
+| `MINIMAX_MODEL` | 否 | 預設為 **`MiniMax-M3.1-Flash`**（目前最省 token）。若 Secret 仍設成舊的 `MiniMax-M3`，會覆寫預設；要省用量請刪除該 Secret 或改成 Flash。 |
+| `MINIMAX_REASONING_EFFORT` | 否 | 預設 **`low`**（Flash 最低思考深度，省 reasoning token）。可選 `medium`／`high`／`xhigh`／`max`；**不可**設 `none`（平台會 400）。 |
 | `MINIMAX_API_BASE` | 否 | 預設 `https://api.minimax.io`。部分帳戶／地區需改為 **`https://api.minimaxi.com/v1`** 才能通過驗證（否則可能出現 **401 invalid api key**）；設為此值時腳本會正確接上 `chat/completions`。 |
 | `INDEXNOW_KEY` | 否（建議） | [IndexNow](https://www.indexnow.org/) 金鑰（UUID 或任意字串）。**GitHub Secret 與網站根目錄 `{金鑰}.txt` 必須相同**；digest／週報 workflow 會用此金鑰通知 Bing 等引擎。 |
 

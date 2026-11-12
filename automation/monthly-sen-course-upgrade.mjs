@@ -9,7 +9,7 @@ import fs from 'fs';
 import path from 'path';
 import { spawnSync } from 'child_process';
 import { fileURLToPath } from 'url';
-import { minimaxChat } from './minimax-chat.mjs';
+import { minimaxChat, resolveMinimaxModel } from './minimax-chat.mjs';
 import {
   loadCourseKnowledge,
   saveCourseKnowledge,
@@ -312,7 +312,7 @@ function writePublicExtras(unitId, publicFaqs, publicLinks, ym) {
 
 async function callUpgradeModel({ ym, target, digestItems, unitCatalog }) {
   const apiKey = process.env.MINIMAX_API_KEY;
-  const model = process.env.MINIMAX_MODEL || 'MiniMax-M3';
+  const model = resolveMinimaxModel();
   const base = process.env.MINIMAX_API_BASE || 'https://api.minimax.io';
   if (!apiKey) return { skipped: true };
 

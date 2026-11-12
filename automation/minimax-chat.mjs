@@ -1,6 +1,33 @@
 /**
  * MiniMax Chat Completions（與 weekly-article 相同端點）
+ *
+ * 預設用最省 token 的 Flash + reasoning_effort=low
+ *（Flash 無法關閉 thinking；none 會 HTTP 400）
  */
+
+/** 目前平台最省的文字模型（相對 MiniMax-M3） */
+export const DEFAULT_MINIMAX_MODEL = 'MiniMax-M3.1-Flash';
+
+/** Flash 可調思考深度：low｜medium｜high｜xhigh｜max；省略時平台預設為 max */
+export const DEFAULT_REASONING_EFFORT = 'low';
+
+/** 讀取環境變數或回傳預設模型 */
+export function resolveMinimaxModel(envModel) {
+  const m = String(envModel || process.env.MINIMAX_MODEL || '')
+    .trim();
+  return m || DEFAULT_MINIMAX_MODEL;
+}
+
+/** 讀取環境變數或回傳預設思考深度（僅 Flash 有效） */
+export function resolveReasoningEffort(envEffort) {
+  const e = String(
+    envEffort || process.env.MINIMAX_REASONING_EFFORT || ''
+  )
+    .trim()
+    .toLowerCase();
+  const allowed = new Set(['low', 'medium', 'high', 'xhigh', 'max']);
+  return allowed.has(e) ? e : DEFAULT_REASONING_EFFORT;
+}
 
 /** 部分模型會先輸出思考區塊，解析 JSON／HTML 前應移除 */
 export function stripMinimaxMessageContent(text) {
@@ -97,26 +124,35 @@ export async function minimaxChat({
   user,
   temperature = 0.65,
   max_completion_tokens = 2048,
+  reasoning_effort,
 }) {
   const key = normalizeMinimaxApiKey(apiKey);
   if (!key) throw new Error('Minimax: API key 為空');
 
+  const resolvedModel = resolveMinimaxModel(model);
+  const effort = resolveReasoningEffort(reasoning_effort);
   const url = resolveMinimaxChatCompletionsUrl(base || 'https://api.minimax.io');
+  const body = {
+    model: resolvedModel,
+    messages: [
+      { role: 'system', content: system },
+      { role: 'user', content: user },
+    ],
+    temperature,
+    max_completion_tokens,
+  };
+  // Flash：明確設 low，避免平台預設 max 浪費思考 token
+  if (/flash/i.test(resolvedModel) || effort) {
+    body.reasoning_effort = effort;
+  }
+
   const res = await fetch(url, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
       Authorization: `Bearer ${key}`,
     },
-    body: JSON.stringify({
-      model,
-      messages: [
-        { role: 'system', content: system },
-        { role: 'user', content: user },
-      ],
-      temperature,
-      max_completion_tokens,
-    }),
+    body: JSON.stringify(body),
   });
   const data = await res.json().catch(() => ({}));
   if (!res.ok) {
@@ -128,7 +164,8 @@ export async function minimaxChat({
     const detail = formatMinimaxErrorPayload(data);
     throw new Error(`Minimax API error: ${detail}`);
   }
-  const raw = normalizeMessageContent(data?.choices?.[0]?.message?.content);
+  const msg = data?.choices?.[0]?.message || {};
+  const raw = normalizeMessageContent(msg.content);
   if (!raw) throw new Error('Minimax: empty choices[0].message.content');
   return stripMinimaxMessageContent(raw);
 }

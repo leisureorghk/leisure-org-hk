@@ -76,7 +76,8 @@ git push -u origin main
 
 | Name | 說明 |
 |------|------|
-| `MINIMAX_MODEL` | 不設則腳本用預設模型 `MiniMax-M3`。 |
+| `MINIMAX_MODEL` | 不設則用 **`MiniMax-M3.1-Flash`**（最省）。若已設舊值 `MiniMax-M3`，請改成 Flash 或刪除 Secret。 |
+| `MINIMAX_REASONING_EFFORT` | 不設則用 **`low`**（最少思考 token）。 |
 | `MINIMAX_API_BASE` | 不設則用 `https://api.minimax.io`。若需 **`https://api.minimaxi.com/v1`**（國內／另一線路），請設為該字串（可含結尾 `/v1`）。 |
 
 ### 若出現 `401`／`invalid api key`（錯誤碼 **2049**）

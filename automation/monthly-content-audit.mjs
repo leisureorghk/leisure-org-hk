@@ -10,7 +10,7 @@ import fs from 'fs';
 import path from 'path';
 import { spawnSync } from 'child_process';
 import { fileURLToPath } from 'url';
-import { minimaxChat } from './minimax-chat.mjs';
+import { minimaxChat, resolveMinimaxModel } from './minimax-chat.mjs';
 import { loadSeoConfig, absUrl, pickRelatedLandingPages } from './seo-lib.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -430,7 +430,7 @@ function writeMetaAndLog({ ym, title, description, keywords, slug, sources, chan
 
 async function callModel(sources) {
   const apiKey = process.env.MINIMAX_API_KEY;
-  const model = process.env.MINIMAX_MODEL || 'MiniMax-M3';
+  const model = resolveMinimaxModel();
   const base = process.env.MINIMAX_API_BASE || 'https://api.minimax.io';
   if (!apiKey) return { skipped: true };
 

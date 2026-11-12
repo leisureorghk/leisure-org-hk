@@ -72,7 +72,8 @@ node apply-seo.mjs            # SEO head、sitemap、llms.txt、search-index
 ```bash
 export MINIMAX_API_KEY="你的金鑰"
 export MINIMAX_API_BASE="https://api.minimaxi.com/v1"
-export MINIMAX_MODEL="MiniMax-M3"   # 可選，預設見腳本
+export MINIMAX_MODEL="MiniMax-M3.1-Flash"   # 可選；預設即 Flash（最省）
+export MINIMAX_REASONING_EFFORT="low"       # 可選；預設 low（最少思考 token）
 node build-digest.mjs
 # 或
 node weekly-article.mjs
