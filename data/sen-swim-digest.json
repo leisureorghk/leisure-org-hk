@@ -1,12 +1,64 @@
 {
-  "updatedAt": "2026-11-14T07:27:39.034Z",
+  "updatedAt": "2026-11-15T07:38:27.973Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "史密斯轉投荷蘭令人Sad — 南非游泳總會主席",
+      "title": "為殘疾人士營造公平競技環境",
+      "url": "https://www.bbc.co.uk/news/articles/crz989zyqpqlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T06:40:05.000Z",
+      "summary": "多元運動日讓兒童有機會嘗試電動輪椅足球、輪椅網球、輪椅單車、高爾夫及草地滾球等不同運動。",
+      "sourceName": "BBC 新聞（障礙）",
+      "sourceId": "bbc-disability",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9c91/live/4cc334c0-dd11-11f1-9019-999bcb7fa2d2.jpg",
+          "alt": "Aoibheann, with brown hair and glasses is in a powered wheelchair holding a soft toy. She is wearing a pink cardigan and trousers. Her dad Ethan leans in beside her. He has mid-length hair. He is wearing a black cardigan, a red top and dark trousers. They are in a sports hall which has blue, red, white and black lines marked on the floor."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/dddc/live/98a25000-dd12-11f1-9019-999bcb7fa2d2.jpg",
+          "alt": "Macie with brown hair worn in plaits. She is wearing glasses and is wearing a red top. A red hoop and a red, blue and white target lie flat on the floor. The people behind her are playing boccia. She is in a sports hall which has blue, red, white and black lines marked on the floor. A white basketball net is seen behind her on the wall."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c399/live/ac76a5d0-dd13-11f1-a701-fddedf244c16.jpg",
+          "alt": "Gemma who has dark hair, glasses and a brown top with white stripes beside her child Naoise who has brown hair, and a white top. They are in a sports hall which has blue, red, white and black lines marked on the floor. Other participants behind him are in wheelchairs playing tennis."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ac85/live/cffd89a0-dd14-11f1-9ee9-1b95b66787ea.jpg",
+          "alt": "Thomas, who has short brown hair, is wearing glasses and a grey Super Mario hoodie. He is sitting on a wheelchair in a sports hall which has blue, red, white and black lines marked on the floor. Other participants behind him are in wheelchairs playing tennis."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d67a/live/43dd5b90-dd18-11f1-b4f2-5145cca625ab.jpg",
+          "alt": "Ellie Kirk, with mid-length brown hair, is wearing a green School Games hoodie in a sports hall. Disability Sport NI banners and rows of chairs are visible in the background. The wooden floor is marked with green, red, blue, black and yellow lines."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b3f0/live/b4044e80-ddbb-11f1-9582-1b529d725aaf.jpg",
+          "alt": "Niall Irwin who has light hair is wearing a Disability Sport NI hoodie. Sports equipment such as a red hoop and curling equipment are seen in the background. He is in a sports hall where the wooden floor is marked with green, red, blue, black and yellow lines."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/360e/live/76045f00-d37f-11ef-a118-e59aa5b2fa98.jpg",
+          "alt": "Jennifer is smiling at the camera. She has wavy blond hair and a blue fleece beneath a black waterproof coat. There are machines behind her."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c1d6/live/31e6e480-a4fa-11f0-8e74-1f6664d312e9.jpg",
+          "alt": "A man with red hair looks at the camera. The picture is taken in a sports hall, and he is wearing a green vest, and has a tattoo of flowers and a guitar on his left shoulder."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ff0d/live/8d3f1420-7e79-11f1-ba5d-f54924dede3b.jpg",
+          "alt": "Freya Terris is a young woman with shoulder length light brown hair, which is hanging in loose waves around her face. She is smilling at the camera. She is wearing a burgundy t-shirt and is sitting on a piano stool with her arms crossed. She is sitting in front of a glossy brown piano, and there is a metronome, a plant and a large trophy seen sat around her."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e608/live/aad829d0-e0bd-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "A group of people are wading through a landslide of mud. The mud is thick and up to their knees. Most of the group are wearing hart hats and high vis vests."
+        }
+      ],
+      "bodyZh": "運動如何為殘疾人士拉平競爭環境 - BBC News\n\n讓殘疾人士獲得公平競爭的環境\n\n圖片說明：\n\nEthan表示，女兒Aoibheann開始打草地滾球後，自信明顯增強。\n\n作者：Lili Busby\n\n發布：43分鐘前\n\nAoibheann由小到大都難以找到可以參加的體育會。現在，她參與一項專為殘疾人士設計的草地滾球，並擊敗了多名同學。\n\n爸爸Ethan說，讓Aoibheann「擁有一件屬於自己、只為她而設的活動」，對她帶來了很大的轉變。\n\n父女兩人參加了「青少年殘奧運動同樂日」，活動旨在讓身體殘疾的年輕人認識及體驗多項運動。\n\n參加者可嘗試電動輪椅足球、輪椅網球、輪椅單車、高尔夫球及草地滾球等不同項目。\n\nEthan表示，在可供選擇的運動中，草地滾球「大概是她最喜歡的一項」，並指出這項運動增強了Aoibheann的自信。\n\n草地滾球比賽的目的，是讓每隊或每名選手把球投到最接近白色目標球的位置，規則與法式滾球相似。\n\n他說：「Aoibheann有機會參加的體育會和社交聚會並不多。」\n\n不過，Aoibheann也能與姊妹一起參與草地滾球，因為她們可使用手動輪椅參加比賽。\n\n他說：「大家一起比賽，形勢就完全公平。看到她們一起玩，而Aoibheann能完全投入其中，一點也不會被分隔或孤立，真的很好。」\n\nAoibheann表示，參加青少年殘奧運動同樂日令她開心：「我喜歡認識新朋友和做運動。」\n\n圖片說明：\n\nMacie很享受試玩冰壺和草地滾球。\n\nMacie患有腦麻痺，步行時使用助行器，疲倦時則使用電動輪椅。\n\n她試玩草地滾球和冰壺時都「玩得很開心」，但表示自己最喜歡草地滾球，「因為我就是喜歡拋擲東西」。\n\n媽媽Laura說，這類機會十分重要。由於Macie在主流學校讀書，她尤其在參與運動時，能感受到「自己有一點點不同」。\n\n「能找到一個讓Macie感到自己屬於其中、不覺得自己與別人不同的地方 really好。\n\n「從她的小臉便看得出她非常喜歡。每一小時活動的內容都不一樣，她也有機會使用這些器材。\n\n「這裡的義工都很友善。他們很體貼，確保人人都能參與，也讓每個人感到自在。」\n\n有利建立友誼\n\n圖片說明：\n\nNaoise最喜歡的運動是射箭。\n\nGemma第一次與女兒一起參加運動同樂日。\n\nNaoise患有腦麻痺及左側偏癱，影響身體左邊，意味着「她做需要協調的事情時，只須多花一點力氣」。\n\nGemma說：「讓Naoise接觸適合各種能力的運動，看看她可以達到甚麼成就，實在非常好。\n\n「我們也會在學校和校外嘗試做一些運動，所以最重要的是能促進友誼、溝通和樂趣。」\n\n試過網球、射箭、籃球和草地滾球後，Naoise說：「我是個運動女孩。」\n\n她最喜歡射箭，「因為媽媽喜歡射箭」。\n\n圖片說明：\n\nThomas試玩了電動輪椅足球和輪椅網球。\n\n八歲的Thomas試玩電動輪椅足球。\n\n談到用電動輪椅推動足球，他說：「有點困難。」\n\n他是否願意再試一次？「當然願意。」\n\n爸爸Barry表示，看到Thomas和其他孩子有機會嘗試各種運動非常好。\n\n「這棒极了……他當然無法參加所有一般人的運動，但能參加這些活動實在很好。」\n\n他說，這次體驗增強了兒子的自信。\n\n公平的競爭環境\n\n圖片說明：\n\n代表Ulster及愛爾蘭出賽的Ellie Kirk向小朋友示範輪椅網球。\n\nEllie Kirk代表愛爾蘭及Ulster參加輪椅網球比賽，她認為讓年輕人接觸運動十分重要。\n\n「我肯定認為，當你的身體能力不及其他人時，要參與運動真的非常困難。」\n\n在活動中，這名17歲選手向小朋友示範如何打輪椅網球。\n\n「以我的身體狀況，我原本絕不可能親自打網球；如今知道輪椅網球為所有人帶來公平的競爭環境，讓我也能打網球，這對我來說非常重要。\n\n「我認為，當你找到一種能為每個人拉平競爭環境的運動，這件事非常重要，也非常好，因為它能建立 people 對自己的信心。」\n\n她表示，每名孩子都應該有參與運動的渠道，不論能力高低。\n\n參與人數下降\n\n圖片說明：\n\nNiall Irwin是Disability Sport NI的區域發展主任。\n\n本月約15名年輕人連同家屬，參加了在Antrim Forum舉行的青少年殘奧運動同樂日，活動由Disability Sport NI籌辦。\n\nDisability Sport NI區域發展主任Niall Irwin表示，活動讓人接觸以前可能未試過的各種運動。\n\n「對這些可能身體有殘疾的孩子來說，與兄弟姊妹一起參與不同活動實在非常好。」\n\n他補充，自新冠疫情以來，這類運動的參與人數有所下降。\n\n「我們正努力把參與程度恢復過來。我們的工作就是讓更多人參與消閒及精英層面的運動。\n\n「這些發展途徑一直存在，但我們要讓大家知道，每個人都有參與的可能。」\n\n相關主題\n\n北愛爾蘭\n\n安特里姆\n\n青少年與殘疾\n\n更多相關報道\n\n殘疾運動員開設「改變人生」健身室\n\n發布：2025年1月16日\n\n輪椅欖球「給了我另一次機會」\n\n發布：2025年10月10日\n\n我以單手通過八級鋼琴考試\n\n發布：7月13日\n\n影片精選\n\n觀看BBC選出的精彩片段\n\n上一個\n\n下一個\n\nAI能否在山泥傾瀉中拯救生命？\n\n為甚麼擁有生命保險很重要？\n\n桌上遊戲會否在今年聖誕節重拾熱潮？\n\n地產經紀界別興起「housefishing」\n\n你綁鞋帶的方法錯了嗎？\n\n我們是否太依賴大型科技公司？\n\nPochettino在美國記者會上落淚\n\n系統中斷如何影響醫療服務？\n\n為甚麼士兵在戰爭紀念碑前斥責Pete Hegseth？\n\n北極圈震反轉會否帶來降雪？\n\n「我的窗外是一幅磚牆」：你在紐約的租金是多少？\n\n被禁止進入所有英國Greggs分店的女子避過監禁\n\n白崖後面的二戰秘密地堡\n\n年輕威爾士人對獨立感到幻滅\n\n《Question Time》辯論英國是否已準備好打仗",
+      "featured": false
+    },
+    {
+      "title": "史密絲轉投荷蘭令南非泳會主席感到痛心",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cmy86x3y5dd8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-12T11:40:04.000Z",
-      "summary": "南非游泳總會主席表示，塔蒂雅娜·史密斯決定轉投荷蘭，對南非而言令人「 Sad 」。",
+      "summary": "南非游泳總會主席表示，塔蒂雅娜·史密絲轉為代表荷蘭出賽的决定，對南非而言令人「痛心」。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -15,50 +67,50 @@
           "alt": "Tatjana Smith poses on the podium after winning women’s 100m breaststroke gold at the Paris 2024 Olympic Games"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5c81/live/c40877d0-df90-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "George Ford, Fin Smith &amp; Marcus Smith"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5c34/live/65dcca10-e050-11f1-a701-fddedf244c16.jpg",
+          "alt": "Sara Orchard and Alex Cuthbert react to Wales&#x27; win over New Zealand"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f7ee/live/b0ff8d80-df7d-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Pochettino"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9b18/live/0a8d2780-e07e-11f1-a701-fddedf244c16.jpg",
+          "alt": "Chris Jones &amp; Will Joseph"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/161f/live/7cbdca40-dfba-11f1-a701-fddedf244c16.jpg",
-          "alt": "Andy Robertson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f2fe/live/4287dcd0-e07d-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Will Joseph"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0360/live/b2172820-dfb6-11f1-b441-2b33b063138f.jpg",
-          "alt": "Andy Robertson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c684/live/88f004b0-e076-11f1-b441-2b33b063138f.jpg",
+          "alt": "England manager Thomas Tuchel ahead of the Nations League match with Spain"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c689/live/8e950140-df9f-11f1-b441-2b33b063138f.jpg",
-          "alt": "Harry Kane and the 1966 England World Cup team"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/82e4/live/bea29f90-e045-11f1-b441-2b33b063138f.jpg",
+          "alt": "Lucy Bronze and a small picture of Katie McCabe"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/65c0/live/59833e40-dfa4-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Jana Fernandez on the Women&#x27;s Football Weekly podcast"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/53ec/live/fb2f1ec0-e054-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Wales rugby fan"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/698d/live/17c3d430-df7a-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Chelsea women&#x27;s captain Erin Cuthbert"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e1ef/live/1492fe60-e071-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Declan Rice ahead of the Nations League match with Spain"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/80ee/live/7a99c350-df6e-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "England rugby wheelchair team"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f0b9/live/389ef6e0-e055-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Chris Jones &amp; Wales"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pmsyq3.jpg",
-          "alt": "England celebrate win over France"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2c2f/live/c2792200-e050-11f1-b441-2b33b063138f.jpg",
+          "alt": "Dewi Lake"
         }
       ],
-      "bodyZh": "史密絲轉投荷蘭令人感到傷心——南非游泳總會行政總裁\n\nBBC Sport\n\n圖片來源：Getty Images\n\n圖片說明：塔季雅娜·史密絲在東京2020及巴黎2024兩屆奧運會均贏得一金一銀。\n\n作者：Harry Poole，BBC Sport記者\n\n發布日期：2026年11月12日\n\n南非運動員最多榮譽的奧運選手塔季雅娜·史密絲決定轉投荷蘭，南非游泳總會行政總裁齊基·莫盧西表示，這個決定對國家而言「令人傷心」。\n\n這位雙料奧運冠軍因為父親是荷蘭人而擁有雙重國籍。她周三宣布決定時淚流滿面。\n\n她表示，荷蘭提供的機會能帶來「更完善的頂級運動支援」，而南非運動員「應值得擁有一套讓他們有機會茁壯成長，而不只是勉強求存的制度」。\n\n莫盧西向eNews Channel Africa表示：「當我們收到塔季雅娜的來信時，我們完全理解她的想法。她一直非常慷慨和善心，清楚說明促成這項決定的理由。」\n\n這位游泳總會署理行政總裁補充說：「對國家而言，這是一個非常令人傷心的決定，尤其是我們正準備在12月帶領隊伍前往北京參加短池世界錦標賽。」\n\n史密絲含淚轉投荷蘭\n\n發布日期：2日前\n\n史密絲原名Schoenmaker。她早前表示，財務問題是促使她在巴黎2024奧運會後暫離游泳界的因素之一，其中包括她與南非游泳總會就獎金發生的糾紛。\n\n這位29歲、共贏得四枚奧運獎牌的選手於9月復出，並將於12月1日至6日的世界錦標賽首次代表荷蘭出戰。\n\n史密絲表示，代表荷蘭可讓她「有機會建立更可持續的運動生涯」。\n\n她說：「游泳面對的財務及實際困難，是我上一段運動生涯難以持續的原因之一。」\n\n莫盧西接受Radio 702訪問時承認，在2023年世界錦標賽後，南非游泳總會不應扣起史密絲應得的獎金。\n\n莫盧西表示，情況源於互相抵觸的贊助協議，但「不應該發生」。\n\n莫盧西說，下月將有21名選手代表南非出戰世界賽，其中「可能約有50%會獲得全額資助」，其餘選手則獲得部分支援。\n\n他說：「這是南非體育界整個生態系統的問題，可能需要處理。造成這情況的原因，是各體育總會獲得的資金不足。」\n\n相關主題\n\n游泳\n\n短片\n\n上一則\n\n下一則\n\nFord：英格蘭需要三名正印半翼才可贏得世界盃\n\n情緒激動的Pochettino在美國記者會上眼泛淚光\n\n蘇格蘭球員「相信Pocognoli，並需要耐心等待」\n\n「榜樣」Robertson追平蘇格蘭国家队上陣紀錄\n\nKane還是Charlton：誰是英格蘭史上最偉大的球員？\n\nJana Fernandez：「我們是來認真幹大事的！」\n\n是菁英還是混亂？Cuthbert在高尔夫球場度過起伏的一天\n\nBrown與Coyd談英格蘭贏得世界盃\n\n英格蘭加冕輪椅式欖球聯盟世界冠軍！\n\nPochettino為接受曼聯工作辭去美國隊帥位\n\n「我真心以為我能幫助蘇格蘭出戰世界盃」——McBurnie\n\n完全是胡說八道——Cummins回應Khawaja砂紙指控\n\n「Pochettino與Ferguson的共同點比你想像中更多」\n\n曼聯球迷如何看待Pochettino？\n\nVaughan就砂紙醜聞表示「完全不知道該相信誰」\n\n一枚價值30萬美元的鑽石如何在F1撞車中消失\n\nChelsea的Bompastor與Malard原來相識甚久\n\n焦點故事\n\n迷戀健身兼「控制狂」——曼聯可以期待Pochettino帶來甚麼？\n\n發布：8小時前\n\n法國在激戰中保持冷靜，險勝南非\n\n發布：8小時前\n\n嚴峻考驗：蘇格蘭再次與自身限制抗爭\n\n發布：7小時前\n\nBBC其他版面\n\n我們為何仍要保留君主制？\n\n向1971年「真正啤酒運動」_campaign成立乾杯\n\n一宗歷史谋杀案為DI Calder的團隊帶來新調查\n\nAnthony Joshua談對母親的愛\n\n體育其他版面\n\n嚴峻考驗：蘇格蘭再次與自身限制抗爭\n\n迷戀健身兼「控制狂」——曼聯可以期待Pochettino帶來甚麼？\n\n在F1撞車中失蹤的鑽石究竟去了哪裏？\n\n受Ferguson啟發的Pochettino如何能夠在曼聯開創Carrick未能取得的成績\n\nKane在英格蘭歷來偉大球員中排行第幾？\n\n令Carrick由兩年合約走到15場後被炒的混亂\n\n作弊、醜聞與戲劇性——威爾斯對全黑隊的煎熬\n\n十年兼三個孩子之後……Oliva回歸爭取奧運主辦權\n\nRobertson勢創歷史，但英雄Dalglish永遠才是「皇帝」\n\n英格蘭的Blues兄弟——Bellingham兄弟如何協助拯救伯明翰\n\nFury對Joshua——拳壇史詩般未完的故事\n\n每週體育測驗：曼聯自何時開始有如此糟糕的賽季開局？\n\n投票角逐BBC 2026年女足最佳球員\n\n觀看：Rivals——Fury對Joshua，可於BBC iPlayer播放\n\n「我不敢相信他是我們的一分子」——走進Salah在Trabzon的生活\n\n使用條款\n\n關於BBC\n\n私隱政策\n\nCookie\n\n無障礙支援\n\n家長指引\n\n聯絡BBC\n\n招聘\n\nBBC電郵\n\nBBC廣告\n\n版權所有 © 2026 BBC。BBC概不對外部網站內容負責。\n\n閱讀BBC有關外部連結的方針。",
+      "bodyZh": "塔特jana史密斯轉投荷蘭令人心碎——南非游泳總會行政總裁齊基耶·莫盧西\n\nBBC Sport\n\n圖片來源：Getty Images\n\n圖片說明：塔特jana史密斯在東京2020及巴黎2024兩屆奧運會均贏得一面金牌及一面銀牌。\n\n作者：Harry Poole\nBBC Sport記者\n\n發布日期：2026年11月12日\n\n南非游泳總會行政總裁齊基耶·莫盧西表示，南非獎牌最多的奧運運動員塔特jana史密斯決定轉為代表荷蘭出賽，對國家而言是一個「令人心碎」的消息。\n\n這名雙料奧運冠軍史密斯因為父親是荷蘭人而擁有雙重國籍。她周三宣布決定時淚流滿面。\n\n她表示，這個機會能提供「更佳的高水平運動支援」，而南非運動員「 deserve a system that gives them an opportunity to thrive, not just survive」（ deserve 一套讓他們有機會蓬勃發展，而不只是勉強求存的制度）。\n\n莫盧西向eNews Channel Africa表示：「當我們收到塔特jana的來信時，我們是理解的，因為她一直十分慷慨和善心，清楚說明了促成這項決定的理據。」\n\n他續道：「對國家而言，這是一個非常令人心碎的決定，特別是我們正準備於12月帶領隊伍前往北京參加短池世界錦標賽。」\n\n眼含淚水的史密斯轉投荷蘭\n\n發布日期：3日前\n\n史密斯原名Schoenmaker。她此前曾表示，財務問題是令她在巴黎2024奧運會後暫別游泳界的原因之一，當中包括她與南非游泳總會就獎金發放出現的糾紛。\n\n這名29歲、共贏得四面奧運獎牌的運動員於9月復出，並將於12月1日至6日舉行的世界錦標賽首次代表荷蘭出賽。\n\n史密斯表示，代表荷蘭可讓她「有望建立一段更可持續的事業」。\n\n她說：「游泳界的財務及實際困難，是我過去的運動生涯難以維持的原因之一。」\n\n莫盧西接受史密斯的說法，承認南非游泳總會在2023年世界錦標賽後不應扣起應付給她的獎金。\n\n莫盧西表示，此事源於互相牴觸的贊助協議，但「不應發生」。\n\n談及下月出戰世錦賽的21名南非運動員，莫盧西表示，「大概50%」可獲全額資助，其餘運動員則會獲得部分支援。\n\n莫盧西說：「這是南非體育界生態系統的問題，可能需要處理。這也是體育總會所獲資助不足所造成的結果。」\n\n相關主題\n\n游泳\n\n短片\n\n上一則\n\n下一則\n\n「威爾斯，向你致敬！」 01:15，播放影片\n\n「威爾斯，向你致敬！」\n\n裁判視角：威爾·約瑟夫為英格蘭攻入五球。01:14，播放影片\n\n裁判視角：威爾·約瑟夫為英格蘭攻入五球\n\n威爾·約瑟夫：第六球時我已經沒有氣力。01:03，播放影片\n\n威爾·約瑟夫：第六球時我已經沒有氣力\n\n「我從未在西班牙談論種族主義」——圖赫爾談種族主義處理程序爭議。00:38，播放影片\n\n「我從未在西班牙談論種族主義」——圖赫爾談種族主義處理程序爭議\n\nKatie McCabe作全隊講話時…… 00:33，播放影片\n\nKatie McCabe作全隊講話時……\n\n「簡直不可置信！」威爾斯擊敗全黑。00:32，播放影片\n\n「簡直不可置信！」威爾斯擊敗全黑\n\n「足球絕不應存在種族主義」——賴斯談西班牙賽事前。00:39，播放影片\n\n「足球絕不應存在種族主義」——賴斯談西班牙賽事前\n\n11年來最大爆冷。00:59，播放影片\n\n11年來最大爆冷\n\n威爾斯值得擁有對全黑的歷史性勝利——萊克。00:48，播放影片\n\n威爾斯值得擁有對全黑的歷史性勝利——萊克\n\n頭條新聞\n\n直播\n\n班頓以 century 百球帶領英格蘭以355-6大勝澳洲\n\n12504次觀看\n\n1.3萬次觀看\n\n西班牙一戰將揭示圖赫爾與英格蘭是否已吸取世界盃的教訓\n\n發布於11小時前\n\n澳洲無情奪得女子世界盃創紀錄第四冠\n\n發布於29分鐘前\n\nBBC其他節目\n\n我們為何仍然保留君主制？\n\n敬祝1971年Campaign for Real Ale成立\n\nDI卡爾德團隊就一宗歷史謀殺案展開新調查\n\n安東尼·約書亞談對母親的愛\n\n體育其他內容\n\n「史上最偉大的勝利之一」——威爾斯爆冷擊敗全黑，由全無希望躍升成為英雄\n\n精華：威爾斯73年來首次擊敗紐西蘭。影片\n\n精華：威爾斯73年來首次擊敗紐西蘭\n\n西班牙一戰將揭示圖赫爾與英格蘭是否已吸取世界盃的教訓\n\nF1撞車事故中失蹤的鑽石究竟去了哪裏？\n\n痴迷健美及「控制狂」——波切蒂諾能為曼聯帶來甚麼？\n\n amongst 全部英格蘭名將中，凱恩的排名如何？\n\n在BBC iPlayer觀看《The Sandpapergate Scandal》。影片\n\n在BBC iPlayer觀看《The Sandpapergate Scandal》\n\n由簽約兩年至15場後遭解僱，卡里克的混亂時刻\n\n十年及三個孩子之後……奧利瓦重出角逐奧運會主辦權\n\n fury對約書亞——拳壇史詩級未完故事\n\n每週體育測驗：曼聯自何時起創下最差季前賽開局？\n\n在BBC iPlayer觀看《Rivals - Fury v Joshua》。影片\n\n在BBC iPlayer觀看《Rivals - Fury v Joshua》\n\n「我不敢相信他是我們的一分子」——走入薩拉赫在特拉布宗的生活\n\n主頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n使用條款\n\n關於BBC\n\n私隱政策\n\nCookie\n\n無障礙支援\n\n家長指引\n\n聯絡BBC\n\n加入我們\n\nBBC電郵\n\nBBC廣告\n\n版權所有 © 2026 BBC。BBC對外網站內容概不負責。\n\n閱讀BBC處理外部連結的方法。",
       "featured": true
     },
     {
-      "title": "妥瑞症：改變人生、助你抑制抽動的裝置",
+      "title": "妥瑞症：改變生活、助你抑制抽動症的裝置",
       "url": "https://www.bbc.co.uk/news/videos/c94gnv5e31gno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-12T08:27:02.000Z",
-      "summary": "諾丁漢研究人員研發的腕帶裝置，被形容為能「改變人生」。",
+      "summary": "这款由諾丁漢研究人員開發的手腕裝置，被形容為能夠「改變生活」。",
       "sourceName": "BBC 新聞（健康）",
       "sourceId": "bbc-health",
       "images": [
@@ -69,6 +121,18 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/73c6/live/03dda780-adb1-11f0-aa13-0b0479f6f42a.jpg",
           "alt": "Andrea Bisset. A young woman with dark hair in a ponytail, wearing a denim jacket and black shirt sitting outdoors, smiling."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
+          "alt": "Rocket caught in chopsticks with fire coming from below"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b813/live/26acaab0-e058-11f1-b441-2b33b063138f.jpg",
+          "alt": "Composite of Jonathan Head and the Eurovision winner"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dc6c/live/2f1f4eb0-e05c-11f1-a701-fddedf244c16.jpg",
+          "alt": "Scott Colom gives an interview"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0ba3/live/3fa67360-dfaf-11f1-a701-fddedf244c16.jpg",
@@ -89,28 +153,16 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/25a8/live/67083b40-dd9e-11f1-93e1-3b657b665bcf.jpg",
           "alt": "David Walliams in a bright blue suit holds a microphone on stage"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e799/live/03637880-ddac-11f1-b441-2b33b063138f.jpg",
-          "alt": "A man and a woman dressed in camouflage sit in a car with a reporter in the back"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/94fc/live/b02c65a0-dc75-11f1-bbe9-83c09cc9b23f.jpg",
-          "alt": "Russell Brand wearing a suit outside the court during his trial"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4ca0/live/95e26c80-dced-11f1-a701-fddedf244c16.jpg",
-          "alt": "Composite image showing the inside of a damaged building (l) and the  outside of a building being damaged by a digger"
         }
       ],
-      "bodyZh": "妥瑞症：改變人生、助人停止抽動症的裝置 - BBC News\n\nBBC 主頁\n\n跳至內容\n\n無障礙說明\n\n你的帳戶\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n更多選單\n\n更多選單\n\n搜尋 BBC\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n關閉選單\n\nBBC News\n\n選單\n\n首頁\n\n氣候\n\n國際\n\n美國及加拿大\n\n英國\n\n商業\n\n科技\n\n科學\n\n娛樂及藝術\n\n健康\n\n更多\n\n圖片報道\n\nBBC Verify\n\nNewsbeat\n\n英格蘭\n\n各地\n\n諾丁漢\n\n妥瑞症：改變人生、助人停止抽動症的裝置\n\n如要播放這段影片，您需要在瀏覽器中啟用 JavaScript。\n\n無法播放這段影片\n\n妥瑞症：改變人生、助人停止抽動症的裝置\n\n關閉\n\n諾丁漢大學研究人員研發的一款腕上裝置，正以「瞬間」般的效果改變妥瑞症患者的生活。\n\n這款小型裝置透過向手腕的正中神經傳送電脈衝發揮作用。試驗顯示，這些電脈衝可改變大腦內參與運動控制部分的活動。\n\n妥瑞症是一種神經發展障礙，症狀通常由童年開始出現。\n\n這款裝置的使用者包括來自柴郡、15 歲的 Ollie；他約兩年前開始出現不自主的頸部運動。\n\nBBC 的 Navtej Johal 為你報道。\n\n更多相關內容\n\n分節\n\n諾丁漢郡\n\n發布\n\n1 日前\n\n分享\n\n關閉面板\n\n分享頁面\n\n複製連結\n\n關於分享\n\n相關主題\n\n諾丁漢大學\n\n追蹤\n\n諾丁漢大學\n\n健康\n\n追蹤\n\n健康\n\n妥瑞症\n\n追蹤\n\n妥瑞症\n\n閱讀說明\n\n探索更多\n\n妥瑞症：改變人生、助人停止抽動症的裝置。影片，00:00:51\n\n妥瑞症：改變人生、助人停止抽動症的裝置\n\n分節\n\n諾丁漢郡\n\n發布\n\n1 日前\n\n0:51\n\n接下來播放。爆紅的學車司機主演以妥瑞症為題材的電影。影片，00:00:57\n\n爆紅的學車司機主演以妥瑞症為題材的電影\n\n分節\n\n蘇格蘭\n\n發布\n\n2025 年 10 月 20 日\n\n接下來播放\n\n0:57\n\n編輯精選\n\n觀看：《Children in Need 2026……》90 秒版。影片，00:01:30\n\n觀看：《Children in Need 2026……》90 秒版\n\n分節\n\n英國\n\n發布\n\n8 小時前\n\n1:30\n\n黃仁勳已辭職，Nvidia 下一步如何？影片，00:01:14\n\n黃仁勳已辭職，Nvidia 下一步如何？\n\n分節\n\n美國及加拿大\n\n發布\n\n1 日前\n\n1:14\n\n「我們必須運轉」：在無人機持續威脅下，走進已遭破壞的烏克蘭發電廠。影片，00:01:23\n\n「我們必須運轉」：在無人機持續威脅下，走進已遭破壞的烏克蘭發電廠\n\n分節\n\n國際\n\n發布\n\n1 日前\n\n1:23\n\n「我感到自己被操控」：女子指稱 Walliams 在她年少時曾性操縱她。影片，00:02:11\n\n「我感到自己被操控」：女子指稱 Walliams 在她年少時曾性操縱她\n\n分節\n\n文化\n\n發布\n\n2 日前\n\n2:11\n\n關於針對 David Walliams 的指控，我們知道甚麼？影片，00:01:49\n\n關於針對 David Walliams 的指控，我們知道甚麼？\n\n分節\n\n文化\n\n發布\n\n3 日前\n\n1:49\n\n「如果你叫我跑，就跑」：BBC 隨烏克蘭無人機部隊守護前线城市。影片，00:01:36\n\n「如果你叫我跑，就跑」：BBC 隨烏克蘭無人機部隊守護前线城市\n\n分節\n\n歐洲\n\n發布\n\n3 日前\n\n1:36\n\n「毫無情緒」：Russell Brand 被判刑期間，法庭上發生了甚麼？影片，00:01:05\n\n「毫無情緒」：Russell Brand 被判刑期間，法庭上發生了甚麼？\n\n分節\n\n文化\n\n發布\n\n4 日前\n\n1:05\n\n觀看：男子用挖掘機撞毀中國政府建築物。影片，00:00:53\n\n觀看：男子用挖掘機撞毀中國政府建築物\n\n分節\n\n亞洲\n\n發布\n\n3 日前\n\n0:53\n\n俄羅斯主要獨立報章遭迫遷後停刊。影片，00:01:21\n\n俄羅斯主要獨立報章遭迫遷後停刊\n\n分節\n\n歐洲\n\n發布\n\n4 日前\n\n1:21\n\n誰是 Nvidia 調查核心、涉嫌為中國間諜的人士？影片，00:01:19\n\n誰是 Nvidia 調查核心、涉嫌為中國間諜的人士？\n\n分節\n\n亞洲\n\n發布\n\n4 日前\n\n1:19\n\n觀看：罕有片段揭示法國毒品集團招募兒童策動暴力。影片，00:02:39\n\n觀看：罕有片段揭示法國毒品集團招募兒童策動暴力\n\n分節\n\n國際\n\n發布\n\n4 日前\n\n2:39\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\nCookie 政策\n\n無障礙說明\n\n家長指引\n\n聯絡 BBC\n\n招聘\n\nBBC 電子郵件\n\n廣告\n\n版權 © 2026 BBC。BBC 概不負責外部網站的內容。\n\n閱讀我們處理外部連結的方法。",
+      "bodyZh": "杜氏症：改變人生、助人抑制抽動的裝置\n\n要播放這段影片，您的瀏覽器必須開啟 JavaScript。\n\n此影片無法播放\n\n杜氏症：改變人生、助人抑制抽動的裝置\n\n諾丁漢大學研究人員研發的一款腕戴式裝置，正以「即時」见效的方式，改變杜氏症患者的生活。\n\n這款小型裝置透過向手腕的正中神經傳送電脈衝運作。試驗顯示，這種方法能改變大腦中參與運動控制部位的活動。\n\n杜氏症是一種神經發展障礙，症狀通常由童年開始出現。\n\n使用這款裝置的人包括來自柴郡、15 歲的 Ollie。他約於兩年前開始出現不自主的頸部動作。\n\nBBC 的 Navtej Johal 為您報道。\n\n更多相关内容\n\n諾丁漢郡\n\n發布\n\n2 日前\n\n分享\n\n關閉面板\n\n分享頁面\n\n複製連結\nn\n\n關於分享\n\n相關專題\n\n諾丁漢大學\n\n追蹤\n\n諾丁漢大學\n\n健康\n\n追蹤\n\n健康\n\n杜氏症\n\n追蹤\n\n杜氏症\n\n閱讀描述\n\n探索更多\n\n杜氏症：改變人生、助人抑制抽動的裝置。影片，00:00:51\n\n杜氏症：改變人生、助人抑制抽動的裝置\n\n諾丁漢郡\n\n發布\n\n2 日前\n\n0:51\n\n接下來播放。走紅的學車者主演以杜氏症為題材的電影。影片，00:00:57\n\n走紅的學車者主演以杜氏症為題材的電影\n\n蘇格蘭\n\n發布於 2025 年 10 月 20 日\n\n接下來播放\n\n0:57\n\n編輯推薦\n\n「你敢相信嗎？」：SpaceX 從太空返回地球時接住部分星艦火箭。影片，00:01:10\n\n「你敢相信嗎？」：SpaceX 從太空返回地球時接住部分星艦火箭\n\n美國及加拿大\n\n發布於 8 小時前\n\n1:10\n\n菲律賓在首屆 Eurovision Song Contest Asia 奪冠。影片，00:01:21\n\n菲律賓在首屆 Eurovision Song Contest Asia 奪冠\n\n亞洲\n\n發布於 12 小時前\n\n1:21\n\n密西西比州新任參議員如何在特朗普的核心選區勝出，以及他下一步會做甚麼。影片，00:03:44\n\n密西西比州新任參議員如何在特朗普的核心選區勝出，以及他下一步會做甚麼\n\n美國及加拿大\n\n發布於 2 日前\n\n3:44\n\n觀看：Children in Need 2026……90 秒看完。影片，00:01:30\n\n觀看：Children in Need 2026……90 秒看完\n\n英國\n\n發布於 1 日前\n\n1:30\n\n黃仁勳已辭職，接下來 Nvidia 會怎樣？影片，00:01:14\n\n黃仁勳已辭職，接下來 Nvidia 會怎樣？\n\n美國及加拿大\n\n發布於 2 日前\n\n1:14\n\n「我們必須繼續運轉」：走進持續受無人機威脅、已經殘破不堪的烏克蘭發電廠。影片，00:01:23\n\n「我們必須繼續運轉」：走進持續受無人機威脅、已經殘破不堪的烏克蘭發電廠\n\n世界\n\n發布於 2 日前\n\n1:23\n\n「我覺得自己受到操縱」：女子指控 Walliams 在她還是少女時對她作出性／感情操控。影片，00:02:11\n\n「我覺得自己受到操縱」：女子指控 Walliams 在她還是少女時對她作出性／感情操控\n\n文化\n\n發布於 3 日前\n\n2:11\n\n我們目前知道甚麼關於針對 David Walliams 的指控。影片，00:01:49\n\n我們目前知道甚麼關於針對 David Walliams 的指控\n\n文化\n\n發布於 4 日前\n\n1:49\n\n「如果我叫你跑，就跑」：BBC 跟隨烏克蘭無人機小隊，見證他們守護前線城市。影片，00:01:36\n\n「如果我叫你跑，就跑」：BBC 跟隨烏克蘭無人機小隊，見證他們守護前線城市\n\n歐洲\n\n發布於 4 日前\n\n1:36\n\n「毫無情緒」：Russell Brand 被判刑時，法院內發生了甚麼。影片，00:01:05\n\n「毫無情緒」：Russell Brand 被判刑時，法院內發生了甚麼\n\n文化\n\n發布於 5 日前\n\n1:05\n\n觀看：男子用挖掘機猛擊中國政府建築物。影片，00:00:53\n\n觀看：男子用挖掘機猛擊中國政府建築物\n\n亞洲\n\n發布於 4 日前\n\n0:53\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\nCookie\n\n無障礙協助\n\n家長指引\n\n聯絡 BBC\n\n招聘\n\nBBC 電郵\n\n廣告\n\n版權 © 2026 BBC。BBC 概不為外部網站的內容負責。\n\n閱讀我們處理外部連結的方法。",
       "featured": false
     },
     {
-      "title": "若失去殘疾車位，我的自閉症兒子或被困家中",
+      "title": "若我們失去殘疾人士專用車位，自閉症兒子或被困家中",
       "url": "https://www.bbc.co.uk/news/articles/cmglwd0ek2yro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-10T06:04:51.000Z",
-      "summary": "傑克經常擅自離家，過去曾損壞鄰居的汽車，引起外界對安全的憂慮。",
+      "summary": "杰克經常擅自離家，過去曾損壞鄰居的車輛，引發外界對安全的憂慮。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -139,30 +191,30 @@
           "alt": "A hut made from wood is pictured with solar panels, windows and a door."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e028/live/d98c8330-dfc2-11f1-a701-fddedf244c16.jpg",
-          "alt": "Laura cress"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e608/live/aad829d0-e0bd-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "A group of people are wading through a landslide of mud. The mud is thick and up to their knees. Most of the group are wearing hart hats and high vis vests."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f7ee/live/b0ff8d80-df7d-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Pochettino"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/513a/live/3d889cc0-e0bd-11f1-b441-2b33b063138f.jpg",
+          "alt": "A man wearing headphones sits in front of a microphone."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4b27/live/bc2f05c0-dfbc-11f1-a701-fddedf244c16.jpg",
-          "alt": "Hugh Pym"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/59ff/live/54425090-e000-11f1-a701-fddedf244c16.jpg",
+          "alt": "A young child smiles and looks at a new tablet computer which it appears she has received for Christmas"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1388/live/f531a5e0-df52-11f1-b441-2b33b063138f.jpg",
-          "alt": "Pete Hegseth with a camouflage tie"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d4f5/live/7cc8e070-dfff-11f1-a701-fddedf244c16.jpg",
+          "alt": "Two people standing outside a house and looking up at it"
         }
       ],
-      "bodyZh": "彭布羅克郡自閉症少年如家人失去殘疾停車位或會「被困家中」\n\nBBC Wales 記者 Elen Davies 報道\n\n發布：2026年11月9日\n更新：2026年11月10日\n\n一名自閉症少年的母親擔心，如果家中專用的街上殘疾停車位被取消，兒子可能會失去獨立生活的能力。\n\nClaire Gray 是兒子 Jack 的全職照顧者。Jack 是一名 16 歲、患有重度自閉症的少年。Claire 說，這個與藍badge 停車位不同的專用停車位，改變了 Jack 的人生。\n\nJack 有走失的傾向，過去也曾損壞鄰居的汽車，因此家人擔心，若沒有這個停車位，他的安全便會受到威脅。\n\n這個位於Claire 住所門外、只准他們一家使用的專用殘疾停車位，是彭布羅克郡議會在2022年推行試驗計劃時提供的。議會表示，計劃的未來安排將適時決定。\n\nClaire 說，過去因為她帶 Jack 步行往返汽車時總覺得危險，所以不會與他一起外出。\n\n「他的言語能力偏低，患有重度自閉症，也有各種不同的健康問題。」她說，「處處都是挑戰。」\n\n由於住所沒有車路，附近停車位也有限，Claire 說她往往不得不把車停在遠離家門的街道。\n\n「我們會駛上駛下，他的焦慮便會增加，也會變得非常激動。」她說，「不幸地，Jack 情緒失控時曾撞擊鄰居的汽車並造成損壞。」\n\n圖片說明：Jack 的專用街上殘疾停車位就在家人住所外面。\n\n彭布羅克郡共有16個專用的街上殘疾停車位。只有持牌人可在該處泊車；這與標準藍badge停車位不同，後者可供任何合資格司機或照顧者使用。\n\nClaire 說：「有這個位置，literally等於替他打開了整個世界。他不用上學；我們接他回家後，如果不能泊車，便不能外出，還要擔心他之後會出現甚麼行為。\n\n「我們可以回到家後說：『好，我們現在去青年中心，或者去見外婆和外公。』\n\n「它令我照顧Jack 輕鬆得多，也讓我覺得可以給他本應享有的人生，讓他外出、享受生活。否則，我便覺得自己是在把他困在屋裏，而那種感覺很難受。」\n\n圖片說明：聖誕裝飾自7月起已經掛起，因為有助安撫Jack。\n\n2025年11月，彭布羅克郡議會的 scrutiny committee 檢視了試驗計劃。官員提出關注，指按法律規定，停車限制必須適用於一組使用者，而不能只供個別人士使用。\n\n委員會同意改為提供可由任何合資格藍badge持牌人使用的車位。\n\n一旦要與其他合資格藍badge持牌人共用車位，Claire 和 Jack 將不能再確保住所外有位置供他們使用。\n\n「我們又會被困在屋裏，成為屋裏的囚犯。」Claire 說。\n\n改用藍badge車位，亦可能意味着要在上午9時至下午5時期間每3小時移動汽車一次。Claire 說，在生活本已困難的情况下，這會增加更多麻煩。\n\n「我裝了攝影機看着他，因為他會吞膠或玻璃，幾乎甚麼都會吞下去；我已經要擔心他的安全，哪裏還有力氣再 worries about moving a car？」她說。\n\n「這只會為一個本已壓力很大的情況增加更多壓力。」\n\n圖片說明：Claire 表示，由於兒子的特殊需要，他必須維持日常規律；停車位置遠離住所可能令他的情緒失控。\n\nDisability Wales 表示，住所附近缺乏停車位可能造成問題。\n\n協會的 Leandra Craine 說：「例如，如果只須走一小段路便能到達汽車，再前往預約地點，這是非常重要的。\n\n「人可能會產生一種令人不知所措的憂慮：『我究竟能否回家，並真的走到家門前？』如果實際上走不到家門，這甚至可能令不敢外出、想要獨立生活的人連離開住所的意欲也受到影響。」\n\n該慈善機構表示，對彭布羅克郡議會在 scrutiny meeting 檢視試驗計劃前未有進行平等影響評估感到失望。\n\n議會表示：「在決定計劃的未來安排時，cabinet 將評估並考慮平等影響，以及所有其他相關資料。」\n\n威爾斯另外兩個郡——Rhondda Cynon Taf 和 Neath Port Talbot——均向合資格居民提供專用的街上殘疾停車位。英格蘭亦有其他類似的計劃。\n\n彭布羅克郡議會表示，尚未作出最終決定，現時供個別人士使用的安排仍然有效。\n\nClaire 說：「請、請大家只想一想個別人士。這些人之所以獲配車位，是因為他們真的有此需要。\n\n「大部分人可能會說，那只不過是一個停車位；但對他〔Jack〕來說，那是走進社區的鑰匙。」",
+      "bodyZh": "彭布羅克郡 autistic 青少年若失去專用殘疾停車位，或會「被困家中」——BBC News\n\n彭布羅克郡一名 autistic 少年之母擔心，如果 family's on-street parking bay 被取消，兒子或會失去獨立生活的能力。\n\nClaire Gray 是 16 歲兒子 Jack 的全職照顧者。她表示，這個停車位與一般藍色徽章車位不同，並已徹底改變 Jack 的生活。\n\nJack 有離家走失的傾向，過去亦曾損壞鄰居的汽車，因此家人擔心若沒有這個停車位，他的安全會受到威脅。\n\n這個位於住所外面、只准他們一家使用的專用殘疾停車位，是彭布羅克郡議會在 2022 年試行計劃中提供的。議會表示，日後會適時決定這項計劃的未來安排。\n\nClaire 說，過去她不敢帶 Jack 外出，因為要步行接送他往返汽車時，她總感到有危險。\n\n「他的言語能力很低，患有嚴重 autism，也有多種不同的健康問題，」她說。「每件事都是一項挑戰。」\n\n由於家中沒有車道，附近可供停車的地方也有限，Claire 說她往往要把車停在遠離住所的街道上。\n\n「我們會駛來駛去，他的焦慮會越來越強，也會變得非常烦躁不安，」她說。「不幸的是，Jack 情緒失控時曾撞到鄰居的汽車，把車弄壞。」\n\n圖片說明：Jack 的專用街道殘疾停車位就在住所外面。\n\n彭布羅克郡共有 16 個專用的街道殘疾停車位。只有持牌人士可在該處泊車；一般藍色徽章車位則可供任何合資格的駕駛者或照顧者使用。\n\nClaire 說：「有這個車位，簡直是為他打開了整個世界。他現在不用上學；我們回家後，以前也無法外出，因為找不到車位泊車，還要擔心他外出後的行為。\n\n「我們回家後可以說：『好，我們去青年中心，或者去見外婆和外公。』\n\n「照顧 Jack 對我來說容易得多，我覺得自己可以給他應有的生活，讓他外出、享受人生。否則我就覺得自己把他困在屋裏，而這很難受。」\n\n圖片說明：聖誕節裝飾自 7 月起已經掛上，因為有助安撫 Jack。\n\n2025 年 11 月，彭布羅克郡議會的 scrutiny committee 檢視這項試行計劃。職員指出，按法律規定，停車限制必須適用於一組使用者，而非個別人士。\n\n委員會同意改為提供一般藍色徽章車位，讓任何合資格的藍色徽章持有人使用。\n\n如果車位須與其他合資格的藍色徽章持有人共用，Claire 和 Jack 將不再保證能在住所外面找到車位。\n\n「我們又會被困在屋裏，成為屋內的囚徒，」Claire 說。\n\nClaire 指出，改用藍色徽章車位還可能意味著要在上午 9 時至下午 5 時期間，每隔 3 小時移動一次汽車。對於生活本已困難的她，這無疑增加了更多麻煩。\n\n「我安裝了監察他的攝影機，因為他會吃塑膠或玻璃，什麼都吃；我還要擔心移動汽車的事，」她說。「這只會為一個本已壓力很大的情況增加更多壓力。」\n\n圖片說明：Claire 說，由於兒子的需要建立固定規律，把車停在遠離住所的地方會令他情緒失控。\n\nDisability Wales 表示，住所附近缺乏泊車位可能造成問題。\n\n「例如，如果只需走一小段路便能到達汽車，再前往預約的地方，這真的非常重要，」該協會的 Leandra Craine 說。\n\n「人可能會產生一種令人不堪重負的焦慮：『我究竟能否回家，並真的走到自己的門口？』如果他們實際上走不到家門，這甚至可能令他們不想離開住所，無法獨立生活。」\n\n該慈善機構表示，對彭布羅克郡議會在 scrutiny meeting 檢視試行計劃前未有進行 equality impact assessment 感到失望。\n\n議會表示：「在決定計劃的未來安排時，cabinet 將評估並考慮 equality impacts，以及所有其他相關資料。」\n\n威爾斯另外兩郡——Rhondda Cynon Taf 和 Neath Port Talbot——均為合資格居民提供專用的街道殘疾停車位。英格蘭其他地方亦有運作相近的計劃。\n\n彭布羅克郡議會表示，尚未作出最終決定，現行讓個別人士使用專用車位的安排仍然有效。\n\nClaire 說：「請、請大家只想想這些個人。他們之所以獲分配車位，是因為他們真的需要。\n\n「大部分人或會說這只不過是一個停車位，但對他〔Jack〕來說，這是他走進社區的鑰匙。」",
       "featured": false
     },
     {
-      "title": "全access：殘疾新聞與精神健康",
+      "title": "無障礙：殘疾新聞與心理健康",
       "url": "https://www.bbc.co.uk/sounds/play/p0plb3xx?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-05T00:01:00.000Z",
-      "summary": "同時探討一宗涉及人工智能「修飾」面容有別人士照片的調查。",
+      "summary": "並有調查探討人工智能「美化」面部有-differs人士照片的情況。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -175,20 +227,32 @@
           "alt": ""
         }
       ],
-      "bodyZh": "《無障礙無限》：殘疾新聞與精神健康——露絲・馬德利：進軍荷里活與飾演茱迪・休曼——BBC Sounds\n\n首頁\n\n無障礙連結\n\n跳至內容\n\n無障礙說明\n\nBBC 帳戶\n\n通知\n\n首頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\nFood\n\n首頁\n\n新聞\n\n體育\n\n商業\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音訊\n\n影片\n\n直播\n\n更多選單\n\n搜尋 Sounds\n\n首頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\nFood\n\n首頁\n\n新聞\n\n體育\n\n商業\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音訊\n\n影片\n\n直播\n\n關閉選單\n\nBBC Sounds\n\nSounds 首頁\n\n選單\n\n首頁\n\n音樂\n\nPodcast\n\n我的 Sounds\n\n在英國以外收聽 BBC Podcast、Radio 4 及 World Service，請使用 BBC.com 或全新的 BBC App。\n\n了解如何收聽其他 BBC 電台\n\n節目資料\n\nSounds\n\n·\n\n2026年11月5日\n\n·\n\n39 分鐘\n\n演員露絲・馬德利：進軍荷里活與飾演茱迪・休曼\n\n《無障礙無限》：殘疾新聞與精神健康\n\n播放\n\n加入書籤\n\n加入書籤\n\n訂閱\n\n訂閱\n\n可觀看超過一年\n\n英國演員露絲・馬德利或許是你熟悉的電視面孔，但如今她已成為荷里活女主角，我們感到非常興奮！\n\n露絲在電影《做休曼》（Being Heumann）中飾演美國殘疾人權利運動先鋒茱迪・休曼，與曾四度獲提名奧斯卡最佳男主角的馬克・魯法洛合作。\n\n電影講述茱迪帶領 Government Building（政府大樓）內規模最長的靜坐抗議，爭取殘疾人獲得融入社會的權利，不再遭受歧視。這場運動的成果包括在聯邦建築物設置斜坡、讓殘疾學生可以入讀一般學校，以及興建路緣石通道。\n\n荷里活帶來魅力與璀璨，我們也會聽到有哪些頂尖時裝設計師爭相希望露絲穿著他們的作品，以及電影中的親密場面指導員如何確保每場性感戲碼都拍得恰到好處。\n\n如果 AI 修改一張照片，令你顯得「正常」，你會有甚麼感受？面部有差異的 Rhiannon 便曾遇到這種情況，因此 BBC Wales 調查了問題的嚴重程度。節目亦會預告一檔聚焦英國殘疾人權利運動的新 Podcast。\n\n主持及製作：Emma Tracey\n\n節目製作人，以及主持人的朋友：Beth Rose\n\n錄音室經理：Jonny Hall\n\n聲音設計：Mike Regaard\n\n編輯：Damon Rose\n\n節目網站\n\n顯示較少內容\n\n更多集數\n\n威爾斯語\n\n愛爾蘭語\n\n蘇格蘭蓋爾語\n\nBBC Sounds 說明\n\n聯絡、私隱及資料\n\n登入說明\n\n電子通訊\n\n探索 BBC\n\n首頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\nFood\n\n首頁\n\n新聞\n\n體育\n\n商業\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音訊\n\n影片\n\n直播\n\n更多選單\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\n私隱政策\n\nCookie\n\nCookie\n\n無障礙說明\n\n家長指引\n\n聯絡 BBC\n\n提出編輯投訴\n\n招聘\n\nBBC 電子郵件\n\n刊登廣告\n\n版權 © 2026 BBC。\n\nBBC 概不負責外部網站的內容。\n\n閱讀我們有關外部連結的方針。",
+      "bodyZh": "《Access All：殘障新聞與心理健康》—— actress Ruth Madeley：進軍荷里活兼演繹 Judy Heumann - BBC Sounds\n\n首頁\n\n無障礙連結\n\n跳至內容\n\n無障礙說明\n\nBBC 帳戶\n\n通知\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n餐飲\n\n主頁\n\n新聞\n\n體育\n\n商界\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音訊\n\n影片\n\n直播\n\n更多選單\n\n搜尋 Sounds\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n餐飲\n\n主頁\n\n新聞\n\n體育\n\n商界\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音訊\n\n影片\n\n直播\n\n關閉選單\n\nBBC Sounds\n\nSounds 主頁\n\n選單\n\n主頁\n\n音樂\n\n podcasts\n\n我的 Sounds\n\n使用 BBC.com 或全新的 BBC App，就可以在英國以外收聽 BBC  podcast、Radio 4 及 World Service。\n\n了解如何收聽其他 BBC 電台\n\n節目詳情\n\nSounds\n\n· 2026年11月5日\n\n· 39分鐘\n\nActress Ruth Madeley：進軍荷里活兼演繹 Judy Heumann\n\nAccess All：殘障新聞與心理健康\n\n播放\n\n加入書籤\n\n加入書籤\n\n訂閱\n\n訂閱\n\n可於一年後收聽\n\n英國女演員 Ruth Madeley 可能是大家熟悉的電視面孔，但她如今已成為荷里活的女主角，我們深感振奮！\n\nRuth 在電影《Being Heumann》中飾演美國殘障人權運動之母 Judy Heumann，與曾四度獲提名奧斯卡最佳男配角的 Mark Ruffalo 合作。\n\n故事講述 Judy 帶領史上最長的一場政府大樓靜坐，確保殘疾人士獲得融入社會的權利，不再受到歧視；相關成果包括在聯邦建築物設置斜道、讓殘疾人士可以入讀普通學校，以及興建路緣石。\n\n荷里活充滿魅力，因此我們也會聽到頂尖時裝設計師如今爭相希望 Ruth 穿上他們的作品，以及幕後的親密戲統籌如何確保所有性感場面都拍攝得恰到好處。\n\n如果 AI 修飾一張照片，令你看似「正常」，你會有何感受？面部有差異的 Rhiannon 就有這種經歷，BBC Wales 為此調查問題的嚴重程度。此外，亦請留意一則介紹英國殘障人權運動的新 podcast。\n\n主持及製作：Emma Tracey\n\n節目製作人，以及主持人的朋友：Beth Rose\n\n錄音室經理：Jonny Hall\n\n聲音設計：Mike Regaard\n\n編輯：Damon Rose\n\n節目網站\n\n顯示較少內容\n\n更多集數\n\n威爾斯語\n\n愛爾蘭語\n\n蘇格蘭蓋爾語\n\nBBC Sounds 說明\n\n聯絡、隱私及資料\n\n登入說明\n\n電子通訊\n\n探索 BBC\n\n主頁\n\n新聞\n\n體育\n\n天氣\n\niPlayer\n\nSounds\n\nBitesize\n\nCBeebies\n\nCBBC\n\n餐飲\n\n主頁\n\n新聞\n\n體育\n\n商界\n\n科技\n\n健康\n\n文化\n\n藝術\n\n旅遊\n\n地球\n\n音訊\n\n影片\n\n直播\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\n私隱政策\n\nCookie\n\nCookie\n\n無障礙說明\n\n家長指引\n\n聯絡 BBC\n\n作出編投訴\n\n招聘\n\nBBC 電子郵件\n\n刊登廣告\n\n版權 © 2026 BBC。\n\nBBC 概不負責外部網站的內容。\n\n閱覽我們的外部連結政策。",
       "featured": false
     },
     {
-      "title": "「我多年來都難以獲得本地的ADHD服務」",
+      "title": "「我多年來都難以取得 ADHD 服務」",
       "url": "https://www.bbc.co.uk/news/videos/crly0x8wqn4qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T06:48:24.000Z",
-      "summary": "28歲的喬丹表示，在家人提出疑慮後，他一直難以在當地獲得ADHD服務。",
+      "summary": "28 歲的 Jordan 表示，家人提出憂慮後，他一直難以在當地取得 ADHD 服務。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/20e2/live/d7bf2bb0-cef7-11f1-93e1-3b657b665bcf.jpg",
           "alt": "A man with short brown hair and facial hair. He is wearing a black t-shirt and is standing in front of a body of water and some green trees."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
+          "alt": "Rocket caught in chopsticks with fire coming from below"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b813/live/26acaab0-e058-11f1-b441-2b33b063138f.jpg",
+          "alt": "Composite of Jonathan Head and the Eurovision winner"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dc6c/live/2f1f4eb0-e05c-11f1-a701-fddedf244c16.jpg",
+          "alt": "Scott Colom gives an interview"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0ba3/live/3fa67360-dfaf-11f1-a701-fddedf244c16.jpg",
@@ -213,80 +277,16 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e799/live/03637880-ddac-11f1-b441-2b33b063138f.jpg",
           "alt": "A man and a woman dressed in camouflage sit in a car with a reporter in the back"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/94fc/live/b02c65a0-dc75-11f1-bbe9-83c09cc9b23f.jpg",
-          "alt": "Russell Brand wearing a suit outside the court during his trial"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4ca0/live/95e26c80-dced-11f1-a701-fddedf244c16.jpg",
-          "alt": "Composite image showing the inside of a damaged building (l) and the  outside of a building being damaged by a digger"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b69a/live/f62b4ff0-dc64-11f1-a701-fddedf244c16.jpg",
-          "alt": "Steve Rosenberg standing next to man carrying boxes"
         }
       ],
-      "bodyZh": "「我多年來都難以取得 ADHD 服務」 - BBC News\n\nBBC 主頁\n\n略至內容\n\n無障礙協助\n\n你的帳戶\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n更多選單\n\n更多選單\n\n搜尋 BBC\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n關閉選單\n\nBBC News\n\n選單\n\n首頁\n\n氣候\n\n世界\n\n美國及加拿大\n\n英國\n\n商業\n\n科技\n\n科學\n\n娛樂及藝術\n\n健康\n\n更多\n\n圖片\n\nBBC Verify\n\nNewsbeat\n\n北愛爾蘭\n\n北愛爾蘭政治\n\n「我多年來都難以取得 ADHD 服務」\n\n要播放這段影片，你需要在瀏覽器中啟用 JavaScript。\n\n這段影片無法播放\n\n「我多年來都難以取得 ADHD 服務」\n\n關閉\n\n在此閱讀更多內容。\n\n次分類\n\n北愛爾蘭\n\n發布日期\n\n10月25日\n\n分享\n\n關閉面板\n\n分享頁面\n\n複製連結\n\n關於分享\n\n相關主題\n\n北愛爾蘭\n\n追蹤\n\n北愛爾蘭\n\nADHD\n\n追蹤\n\nADHD\n\n閱讀描述\n\n編輯推薦\n\n「我多年來都難以取得 ADHD 服務」影片，00:00:53\n\n「我多年來都難以取得 ADHD 服務」\n\n次分類\n\n北愛爾蘭\n\n發布日期\n\n10月25日\n\n0:53\n\n接下來播放。觀看：Children in Need 2026……90秒看完。影片，00:01:30\n\n觀看：Children in Need 2026……90秒看完\n\n次分類\n\n英國\n\n發布於 8 小時前\n\n接下來播放\n\n1:30\n\n黃仁勳已辭職，Nvidia 下一步會怎樣？影片，00:01:14\n\n黃仁勳已辭職，Nvidia 下一步會怎樣？\n\n次分類\n\n美國及加拿大\n\n發布於 1 天前\n\n1:14\n\n「我們必須運作」：在持續受到無人機威脅下，走進已遭破壞的烏克蘭發電廠。影片，00:01:23\n\n「我們必須運作」：在持續受到無人機威脅下，走進已遭破壞的烏克蘭發電廠\n\n次分類\n\n世界\n\n發布於 1 天前\n\n1:23\n\n「我覺得自己被操控」：女子聲稱 Walliams 在她還是青少年時對她進行性 grooming。影片，00:02:11\n\n「我覺得自己被操控」：女子聲稱 Walliams 在她還是青少年時對她進行性 grooming\n\n次分類\n\n文化\n\n發布於 2 天前\n\n2:11\n\n關於對 David Walliams 的指控，我們目前知道甚麼？影片，00:01:49\n\n關於對 David Walliams 的指控，我們目前知道甚麼？\n\n次分類\n\n文化\n\n發布於 3 天前\n\n1:49\n\n「如果我叫你们跑，就跑」：BBC 跟隨一支烏克蘭無人機部隊，協助保衛前线城市。影片，00:01:36\n\n「如果我叫你们跑，就跑」：BBC 跟隨一支烏克蘭無人機部隊，協助保衛前线城市\n\n次分類\n\n歐洲\n\n發布於 3 天前\n\n1:36\n\n「沒有情緒」：Russell Brand 被判刑時，法院內發生了甚麼？影片，00:01:05\n\n「沒有情緒」：Russell Brand 被判刑時，法院內發生了甚麼？\n\n次分類\n\n文化\n\n發布於 4 天前\n\n1:05\n\n觀看：男子用挖掘機砸毀中國政府建築物。影片，00:00:53\n\n觀看：男子用挖掘機砸毀中國政府建築物\n\n次分類\n\n亞洲\n\n發布於 3 天前\n\n0:53\n\n俄羅斯主要獨立報紙在遭逼遷後停刊。影片，00:01:21\n\n俄羅斯主要獨立報紙在遭逼遷後停刊\n\n次分類\n\n歐洲\n\n發布於 4 天前\n\n1:21\n\n誰是 Nvidia 調查中居於核心位置、涉嫌為中國間諜的人士？影片，00:01:19\n\n誰是 Nvidia 調查中居於核心位置、涉嫌為中國間諜的人士？\n\n次分類\n\n亞洲\n\n發布於 4 天前\n\n1:19\n\n觀看：罕有片段揭示法國毒品集團招募兒童策動暴力的情况。影片，00:02:39\n\n觀看：罕有片段揭示法國毒品集團招募兒童策動暴力的情况\n\n次分類\n\n世界\n\n發布於 4 天前\n\n2:39\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\nCookies\n\n無障礙協助\n\n家長指引\n\n聯絡 BBC\n\n招聘\n\nBBC 電郵\n\n廣告\n\n版權 © 2026 BBC。BBC 對外部網站的內容概不負責。\n\n閱讀我們處理外部連結的方式。",
+      "bodyZh": "「多年來，我一直努力尋找 ADHD 支援服務」— BBC News\n\nBBC 首頁\n\n略至內容\n\n無障礙支援\n\n你的帳戶\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作與生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n更多選單\n\n更多選單\n\n搜尋 BBC\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作與生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n關閉選單\n\nBBC News\n\n選單\n\n首頁\n\n氣候\n\n世界\n\n美國及加拿大\n\n英國\n\n商業\n\n科技\n\n科學\n\n娛樂及藝術\n\n健康\n\n更多\n\n圖片報道\n\nBBC Verify\n\nNewsbeat\n\n北愛爾蘭\n\n北愛爾蘭政治\n\n「多年來，我一直努力尋找 ADHD 支援服務」\n\n如要播放此影片，你需要在瀏覽器中啟用 JavaScript。\n\n此影片無法播放\n\n「多年來，我一直努力尋找 ADHD 支援服務」\n\n關閉\n\n在此閱讀更多。\n\n分節\n\n北愛爾蘭\n\n發布日期\n\n10月25日\n\n分享\n\n關閉面板\n\n分享頁面\n\n複製連結\n\n關於分享\n\n相關主題\n\n北愛爾蘭\n\n追蹤\n\n北愛爾蘭\n\nADHD\n\n追蹤\n\nADHD\n\n閱讀描述\n\n編輯推介\n\n「多年來，我一直努力尋找 ADHD 支援服務」影片，00:00:53\n\n「多年來，我一直努力尋找 ADHD 支援服務」\n\n分節\n\n北愛爾蘭\n\n發布日期\n\n10月25日\n\n0:53\n\n接下來播放：「你敢相信嗎？」：SpaceX 從太空接住部分 Starship 火箭並帶回地球。影片，00:01:10\n\n「你敢相信嗎？」：SpaceX 從太空接住部分 Starship 火箭並帶回地球\n\n分節\n\n美國及加拿大\n\n發布於\n\n9小時前\n\n接下來播放\n\n1:10\n\n菲律賓在首屆 Eurovision Song Contest Asia 中奪冠。影片，00:01:21\n\n菲律賓在首屆 Eurovision Song Contest Asia 中奪冠\n\n分節\n\n亞洲\n\n發布於\n\n13小時前\n\n1:21\n\n密西西比州新任參議員如何在特朗普的核心選區勝出，以及他下一步會做甚麼。影片，00:03:44\n\n密西西比州新任參議員如何在特朗普的核心選區勝出，以及他下一步會做甚麼\n\n分節\n\n美國及加拿大\n\n發布於\n\n9小時前\n\n3:44\n\n觀看：Children in Need 2026……90秒速覽。影片，00:01:30\n\n觀看：Children in Need 2026……90秒速覽\n\n分節\n\n英國\n\n發布於\n\n1日前\n\n1:30\n\n黃仁勳已辭職，Nvidia 下一步會怎樣？影片，00:01:14\n\n黃仁勳已辭職，Nvidia 下一步會怎樣？\n\n分節\n\n美國及加拿大\n\n發布於\n\n2日前\n\n1:14\n\n「我們必須繼續運作」：在持續受到無人機威脅下，探訪已被破壞的烏克蘭發電廠。影片，00:01:23\n\n「我們必須繼續運作」：在持續受到無人機威脅下，探訪已被破壞的烏克蘭發電廠\n\n分節\n\n世界\n\n發布於\n\n2日前\n\n1:23\n\n「我感到自己受到操控」：女子指稱 Walliams 在她仍是青少年時對她作出培育性誘騙。影片，00:02:11\n\n「我感到自己受到操控」：女子指稱 Walliams 在她仍是青少年時對她作出培育性誘騙\n\n分節\n\n文化\n\n發布於\n\n3日前\n\n2:11\n\n關於針對 David Walliams 的指控，我們知道甚麼？影片，00:01:49\n\n關於針對 David Walliams 的指控，我們知道甚麼？\n\n分節\n\n文化\n\n發布於\n\n4日前\n\n1:49\n\n「如果你叫我去跑，就跑」：BBC 跟隨一支烏克蘭無人機部隊，參與保衞前線城市。影片，00:01:36\n\n「如果你叫我去跑，就跑」：BBC 跟隨一支烏克蘭無人機部隊，參與保衞前線城市\n\n分節\n\n歐洲\n\n發布於\n\n4日前\n\n1:36\n\n「毫無波動」：Russell Brand 被判刑期間，法院內發生甚麼？影片，00:01:05\n\n「毫無波動」：Russell Brand 被判刑期間，法院內發生甚麼？\n\n分節\n\n文化\n\n發布於\n\n5日前\n\n1:05\n\n觀看：男子用挖掘機撞毀中國政府建築物。影片，00:00:53\n\n觀看：男子用挖掘機撞毀中國政府建築物\n\n分節\n\n亞洲\n\n發布於\n\n4日前\n\n0:53\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\n工作與生活\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\n聲音\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\nCookie\n\n無障礙支援\n\n家長指引\n\n聯絡 BBC\n\n招聘\n\nBBC 電郵通訊\n\n在我們刊登廣告\n\n版權 © 2026 BBC。BBC 概不負責外部網站的內容。\n\n閱讀我們有關外部連結的方針。",
       "featured": false
     },
     {
-      "title": "學生創作特別歌曲，讓同學擁有發聲的機會",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qpjge5lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T05:17:18.000Z",
-      "summary": "東貝爾法斯特米切爾豪斯特殊學校的許多學生不會說話，但这不代表他們無法溝通。",
-      "sourceName": "BBC 新聞（障礙）",
-      "sourceId": "bbc-disability",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/694b/live/138ab7d0-ce36-11f1-a86f-f78305ec9987.jpg",
-          "alt": "Gemma has brown curly hair, glasses and a green top."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/2c5b/live/61754ff0-ce36-11f1-a86f-f78305ec9987.jpg",
-          "alt": "Katie-Louise has a green top on. She has brown straight hair and has her hand in her mouth."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/47b7/live/ca189300-ce36-11f1-a86f-f78305ec9987.jpg",
-          "alt": "Caelainn has short ginger hair and black glasses. He is wearing a red jumper with a white polo underneath. He is smiling."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/b556/live/4ffbef30-ce37-11f1-a86f-f78305ec9987.jpg",
-          "alt": "Matthew  is wearing a red zip-up jacket and is sitting in a wheelchair. He is looking away from the camera. He has dark coloured hair."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a5c0/live/12eef790-ce37-11f1-a86f-f78305ec9987.jpg",
-          "alt": "Miriam Donnan has brown hair. She is wearing glasses and a multi-coloured top."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0cec/live/2ede5790-97ee-11f1-9bd9-d1c2814d5e5d.jpg",
-          "alt": "A woman in a grey top has her hand around a girl with long brown hair, wearing a red t-shirt. The woman has black glasses and long brown hair. They both smile as they look of-camera to the right. Behind them is a white-walled kitchen with a grey fridge in the middle."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/fc20/live/9d00cda0-5074-11f1-89a3-d1f559421220.jpg",
-          "alt": "Jamiee-Leigh is smiling at the camera and has long ginger hair. She is wearing a bright green top."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/747/cpsprodpb/c19d/live/c4d0b290-08f4-11f1-8b6c-9b488ac81030.jpg",
-          "alt": "Sheenah McCann with her son Joe. Joe has short dark hair and a moustache. He is wearing a teal coloured polo-shirt. Sheenagh has curly dark hair and is wearing red framed glasses and a blue top."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
-          "alt": "A composite image of two bedrooms side by side. On the left, the image has been AI-enhanced, giving the room warm lighting and luxurious decor. On the right the bed is unmade, the lighting is drab, there is no luxurious decor."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/5d70/live/511a4930-d9f8-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "A head-and-shoulders image of Charlie Clarke, who has long, brown hair and wears a brown-and-white striped top and yellow glasses with a white beaded chain on them."
-        }
-      ],
-      "bodyZh": "貝爾法斯特：學生創作歌曲，讓不能說話的同學發聲——BBC新聞\n\n作者：Robbie Meredith\nBBC新聞北愛爾蘭教育及藝術記者\n\n發布日期：2026年10月23日\n\n這是一首為難以用言語表達的年輕人而創作的特別歌曲。\n\n位於東貝爾法斯特的Mitchell House Special School有不少不會用言語表達的學生，但这並不代表他們無法溝通。\n\n為傳達這個信息，學生們創作並錄唱了一首名為《My Voice》的歌曲，希望讓更多人認識到，使用替代性溝通方式——例如Makaton手語、眼動裝置和電子溝通設備——的人士同樣有自己的聲音。\n\n《My Voice》的歌詞及音樂由Mitchell House School的「Moon」班共同創作，成員包括11至13歲的學生。\n\n其中一段歌詞唱道：「有時我的聲音充滿自信，有時我的聲音平靜沉穩；有時我使用我的溝通器，告訴你我是誰。」\n\n12歲的Gemma是歌曲的主創之一。她表示，希望讓更多人明白，每個人溝通的方式並不相同。\n\nGemma說：「這首歌的意思是，我們想告訴大家，不管你以甚麼方式運用自己的聲音，那都是重要的。這正是我們學校的校訓，也是我們希望體現的精神。\n\n「對我個人來說，這一點尤其重要，因為我有很多不會用言語表達的朋友，我希望人們明白，他們其實並非『沒有聲音』。\n\n「是那些不了解他們的人，才認為他們不會用言語表達。」\n\n11歲的Katie-Louise使用電子溝通設備參與創作。她向BBC新聞北愛爾蘭表示：「我們正在慶祝每一種不同的溝通方式。\n\n「今個月，我們與Ryan老師一起創作了這首歌曲，展示我們如何以不同方式溝通，以及我們每一個聲音都很重要。」\n\n學校副學生會長Matthew以眼動方式與學生會長Caelainn溝通。\n\n眼動裝置讓使用者透過眼睛移動操作電腦或平板電腦與人溝通，也可以利用卡片作為視覺提示。\n\nCaelainn說：「Matthew通常會使用卡片回答是或否的問題。」\n\n不過，Matthew也能以眼睛操作電子溝通設備。\n\nCaelainn解釋：「如果Matthew向任何一個方向看，裝置便會偵測他的眼球動作。\n\n「我在這裡16年，一直覺得能夠服務這所學校是一種福氣。這裡真的很棒，所有孩子都很出色。他們十分友善，待人尊重，也懂得顧及別人的需要。」\n\nMitchell House校長Miriam Donnan表示，學校很榮幸能向外界分享學生以不同方式溝通的情況。\n\n由於Mitchell House在促進及替代性溝通（augmentative and alternative communication，AAC）方面的工作，該校已獲英國全國性兒童言語、語言及溝通支援機構Elklan評為「溝通友善環境」（Communication Friendly Setting）。這是北愛爾蘭僅有兩所取得這項認證的學校之一。\n\nMiriam Donnan說：「我們想告訴全世界，溝通不只限於言語。\n\n「我們在校內與言語治療部門緊密合作，真正推廣多種不同的溝通方式。我們希望慶祝並與每一個人分享這些成果。\n\n「所以，這首歌的主意是全班自行想出來的，歌詞也是他們與Ryan老師共同創作的。這是一首非常動人的作品，彰顯每一個聲音都很重要。」\n\nGemma亦希望讓所有人知道，與不會用言語表達的人溝通時，有時需要多一點耐性和體諒。\n\n她說：「讓人明白我們必須花時間並保持耐性，才能了解別人如何溝通，這真的非常重要。」\n\n相關主題：北愛爾蘭、特殊需要、貝爾法斯特、青年與殘疾、北愛爾蘭教育",
-      "featured": false
-    },
-    {
-      "title": "抗癌倡議者古德本將為橄欖球賽開球",
+      "title": "抗癌倡議者 Goodburn 將為欖球賽獻上比賽球",
       "url": "https://www.bbc.co.uk/sport/articles/cqn49jxjg19eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T13:45:55.000Z",
-      "summary": "游泳冠軍及腦癌研究倡議者阿奇・古德本將於下月代表蘇格兰，在對陣澳洲的六國錦標賽中把賽事欖球傳給球員。",
+      "summary": "游泳冠軍及腦癌研究倡議者 Archie Goodburn 將於下月蘇格蘭對澳洲的 Nations Championship 賽事中獻上比賽球。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -295,49 +295,50 @@
           "alt": "Archie Goodburn in action in the pool"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5c81/live/c40877d0-df90-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "George Ford, Fin Smith &amp; Marcus Smith"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5c34/live/65dcca10-e050-11f1-a701-fddedf244c16.jpg",
+          "alt": "Sara Orchard and Alex Cuthbert react to Wales&#x27; win over New Zealand"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f7ee/live/b0ff8d80-df7d-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Pochettino"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9b18/live/0a8d2780-e07e-11f1-a701-fddedf244c16.jpg",
+          "alt": "Chris Jones &amp; Will Joseph"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/161f/live/7cbdca40-dfba-11f1-a701-fddedf244c16.jpg",
-          "alt": "Andy Robertson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f2fe/live/4287dcd0-e07d-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Will Joseph"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0360/live/b2172820-dfb6-11f1-b441-2b33b063138f.jpg",
-          "alt": "Andy Robertson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c684/live/88f004b0-e076-11f1-b441-2b33b063138f.jpg",
+          "alt": "England manager Thomas Tuchel ahead of the Nations League match with Spain"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c689/live/8e950140-df9f-11f1-b441-2b33b063138f.jpg",
-          "alt": "Harry Kane and the 1966 England World Cup team"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/82e4/live/bea29f90-e045-11f1-b441-2b33b063138f.jpg",
+          "alt": "Lucy Bronze and a small picture of Katie McCabe"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/65c0/live/59833e40-dfa4-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Jana Fernandez on the Women&#x27;s Football Weekly podcast"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/53ec/live/fb2f1ec0-e054-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Wales rugby fan"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/698d/live/17c3d430-df7a-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Chelsea women&#x27;s captain Erin Cuthbert"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e1ef/live/1492fe60-e071-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Declan Rice ahead of the Nations League match with Spain"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/80ee/live/7a99c350-df6e-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "England rugby wheelchair team"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f0b9/live/389ef6e0-e055-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Chris Jones &amp; Wales"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pmsyq3.jpg",
-          "alt": "England celebrate win over France"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2c2f/live/c2792200-e050-11f1-b441-2b33b063138f.jpg",
+          "alt": "Dewi Lake"
         }
       ],
+      "bodyZh": "Archie Goodburn：抗癌倡議者將為蘇格蘭對澳洲的比賽獻球——BBC Sport\n\nBBC Sport\n\n英格蘭\n\n蘇格蘭\n\n威爾斯\n\n北愛爾蘭\n\n欖球聯會\n\n賽果與賽程\n\n積分榜\n\n所有隊伍\n\n英格蘭\n\n蘇格蘭\n\n威爾斯\n\n愛爾蘭\n\n抗癌倡議者 Goodburn 將為欖球比賽獻球\n\n圖片來源：Getty Images\n\n圖片說明：Archie Goodburn 是英國冠軍及歐洲銅牌得主。\n\n發布日期：2026年10月21日\n\n游泳冠軍兼腦癌研究倡議者 Archie Goodburn 將於下月蘇格蘭在「國錦標」迎戰澳洲的比賽中，負責獻出比賽球。\n\n這名在愛丁堡出生的 25 歲青年，近來已向首相 Andy Burnham 及蘇格蘭首席大臣 John Swinney 陳述，支持加強腦癌治療及研究的倡議。\n\n這位蘇格蘭 50 米蛙泳紀錄保持者，對能夠在母城 Murrayfield 擔任貴賓深感欣喜。澳洲「袋鼠隊」將於 11 月 15 日星期日到訪作賽。\n\n他說：「這對我來說簡直是世上最美好的事。我過往曾在最多 10,000 人面前表演，那次是在愛丁堡城堡外廣場舉行的愛丁堡軍樂節。\n\n「那時我只有 12 歲，演唱了《What a Wonderful World!》獨唱。現如今竟能有機會在超過 60,000 人面前獻出比賽球，實在難以置信。」\n\n相關內容\n\n世界盃熱身賽：蘇格蘭將作客迎戰「全黑隊」\n\n發布日期：10月21日\n\nGoodburn 曾在 Stewart's-Melville College 司職盲翼側翼前衛，其後專注於現時參與的游泳項目。他於 2024 年確診罕有腦腫瘤「少突膠質細胞瘤」（oligodendroglioma），手術後已重返競技游泳。\n\nMurrayfield 的觀眾將有機會向兩間致力抗擊腦癌的慈善機構捐款：Brain Tumour Research 及 Astro Brain Tumour Fund。\n\nGoodburn 補充說：「這項行動對我而言非常重要。腦癌是英國 40 岁以下 cancer 患者的最大致命癌症，而過去約 25 年來，它只獲得全國癌症研究預算不足 2% 的撥款。\n\n「事情正開始轉變，而這類倡議可以帶來改變。」\n\n相關主題\n\n欖球聯會\n\nScottish Rugby\n\nScotland Rugby Union\n\n游泳\n\n網上相關連結\n\nScottish Rugby Union\n\n短片\n\n上一個\n\n下一個\n\n「威爾斯，請受全體一敬！」\n\n片段：Will Joseph 為英格蘭攻入五個達陣。\n\n片段：Will Joseph 為英格蘭攻入五個達陣\n\nWill Joseph：第六個達陣時我已經力竭。\n\n片段：Will Joseph 為英格蘭攻入五個達陣\n\n我從未在西班牙談論種族主義——Tuchel 回應反種族主義程序爭議\n\n片段：我從未在西班牙談論種族主義——Tuchel 回應反種族主義程序爭議\n\nKatie McCabe 為隊友發表講話……\n\n片段：Katie McCabe 為隊友發表講話……\n\n威爾斯擊敗「全黑隊」時，片段中的反應「簡直难以置信！」\n\n片段：威爾斯擊敗「全黑隊」時，反應「簡直难以置信！」\n\n足球界不應存在種族主義——Rice 在西班牙賽事前表示。\n\n片段：足球界不應存在種族主義——Rice 在西班牙賽事前表示\n\n11 年來最大冷門。\n\n片段：11 年來最大冷門\n\nLake：威爾斯以歷史性勝利擊敗「全黑隊」。\n\n片段：Lake：威爾斯以歷史性勝利擊敗「全黑隊」\n\n其他精選內容\n\n英格蘭以 355-6 擊敗澳洲，Banton 攻入一記百分棒\n\n西班牙測試賽將揭示 Tuchel 與英格蘭是否已吸收世界盃的教訓\n\n西班牙謙遜的巨星 Simon 如何成為世界最佳門將\n\n為何我們至今仍要保留君主制？\n\n向 1971 年「Campaign for Real Ale」成立致敬\n\n一宗陳年命案為 DI Calder 的隊伍帶來新調查\n\nAnthony Joshua 談對母親的愛\n\n蘇格蘭體育其他焦點\n\n蘇格蘭如何躋身世界盃：由創造歷史的人親述\n\n蘇格蘭男子代表隊賽事將於 BBC 直播\n\nTeam GB 如何在冰壺軍備競賽中領先\n\nMcTominay 離開曼聯後如何成為 Napoli _icon\n\n成為 Team Scotland 一分子為何如此特別？\n\n體育其他焦點\n\n「史上最偉大的勝利之一」——威爾斯震驚「全黑隊」，由出局者搖身成為英雄\n\n精華：威爾斯 73 年來首次擊敗新西蘭。影片\n\n精華：威爾斯 73 年來首次擊敗新西蘭\n\n西班牙測試賽將揭示 Tuchel 與英格蘭是否已吸收世界盃的教訓\n\nF1 撞車事故中失蹤的鑽石後來去了哪裏？\n\n瘋迷健身兼「控制狂」——Pochettino 接手曼聯後可望帶來甚麼？\n\nKane 在英格蘭歷代最佳球員中排名多少？\n\n於 BBC iPlayer 觀看《The Sandpapergate Scandal》。影片\n\n於 BBC iPlayer 觀看《The Sandpapergate Scandal》\n\nCarrick 由簽約兩年至 15 場後被解僱的混亂過程\n\n十年兼三個孩子之後……Oliva 重返奧運申報行列\n\nFury 對 Joshua——拳壇史詩般未完的故事\n\n每週體育測驗：曼聯這次開季表現，是哪個年代以來最差？\n\n於 BBC iPlayer 觀看《Rivals - Fury v Joshua》。影片\n\n於 BBC iPlayer 觀看《Rivals - Fury v Joshua》\n\n「我不能相信他是我們的一分子」——走進 Salah 在 Trabzon 的生活\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\nCookie 政策\n\n無障礙支援\n\n家長指引\n\n聯絡 BBC\n\n招聘\n\nBBC 電郵\n\nBBC 廣告\n\n版權 © 2026 BBC。BBC 概不負責外部網站的內容。\n\n閱讀我們有關外部連結的方針。",
       "featured": false
     },
     {
-      "title": "公布腦癌檢討前，泳將阿奇・古德本向首相道謝",
+      "title": "腦癌檢討公布之際，游泳選手 Archie Goodburn 感謝首相",
       "url": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-14T19:04:46.000Z",
-      "summary": "這名患有無法切除腦部腫瘤的蘇格蘭運動員，曾在《BBC早餐》節目中含淚促請當局增加腦癌研究投資。",
+      "summary": "這名患有多個無法切除腦部腫瘤的蘇格蘭選手，曾在 BBC Breakfast 節目上含淚呼籲增加腦癌研究投資。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -354,42 +355,42 @@
           "alt": "Archie Goodburn"
         },
         {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e608/live/aad829d0-e0bd-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "A group of people are wading through a landslide of mud. The mud is thick and up to their knees. Most of the group are wearing hart hats and high vis vests."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/513a/live/3d889cc0-e0bd-11f1-b441-2b33b063138f.jpg",
+          "alt": "A man wearing headphones sits in front of a microphone."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/59ff/live/54425090-e000-11f1-a701-fddedf244c16.jpg",
+          "alt": "A young child smiles and looks at a new tablet computer which it appears she has received for Christmas"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d4f5/live/7cc8e070-dfff-11f1-a701-fddedf244c16.jpg",
+          "alt": "Two people standing outside a house and looking up at it"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5ebe/live/c4100ef0-dffe-11f1-b441-2b33b063138f.jpg",
+          "alt": "A woman looking into the camera and explaining how to time shoe laces"
+        },
+        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e028/live/d98c8330-dfc2-11f1-a701-fddedf244c16.jpg",
           "alt": "Laura cress"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f7ee/live/b0ff8d80-df7d-11f1-93e1-3b657b665bcf.jpg",
           "alt": "Pochettino"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4b27/live/bc2f05c0-dfbc-11f1-a701-fddedf244c16.jpg",
-          "alt": "Hugh Pym"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1388/live/f531a5e0-df52-11f1-b441-2b33b063138f.jpg",
-          "alt": "Pete Hegseth with a camouflage tie"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8f40/live/b38f4b00-df7b-11f1-b441-2b33b063138f.jpg",
-          "alt": "A person with a snow shovel"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7624/live/a4c41ac0-df02-11f1-b441-2b33b063138f.png",
-          "alt": "Two women sit on a bench, one holds a microphone"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4706/live/ab4d1e30-deb9-11f1-b441-2b33b063138f.jpg",
-          "alt": "Overhead view of a woman reaching into a refrigerated store display stocked with drinks and packaged products."
         }
       ],
-      "bodyZh": "游泳選手阿奇・古本（Archie Goodburn）感謝首相　政府宣布檢視腦癌工作\n\nBBC News\n\n作者：Katy Scott、Claire Thomson（BBC Scotland）\n\n發布日期：2026年10月14日\n\n英國政府宣布採取新措施改善腦癌患者的護理，游泳選手阿奇・古本（Archie Goodburn）為此付出的努力取得成果。\n\n這名蘇格蘭運動員兩年前被診斷出三個無法手術切除的腦腫瘤；他曾在電視上感人肺腑地呼籲增加腦癌研究投資，其後與首相 Andy Burnham 會面。\n\n會面後，Burnham 宣布委任新的全英腦癌臨床研究主任，並承諾檢視腦癌方面的進展及採取行動，讓患者更早獲得治療。\n\n25歲的古本感謝首相，並表示他的三項要求都「在某程度上獲得答應」，但仍須「進一步充實」具體細節。\n\n首相形容這名游泳選手是「我們所有人的榜樣」，並表示很高興歡迎他到訪唐寧街。\n\nBurnham 說：「他熱情地談到腦癌方面需要改變，而他是對的：無論在這裡還是其他地方，進度一直都不理想。\n\n「面對這種疾病的家庭不能再等。」\n\n古本在2026年格拉斯哥英聯運動會（Commonwealth Games）躋身50米蛙泳決賽。\n\n他表示，備戰2024年奧運選拔賽期間出現手腳麻木及癲癇症狀，因此接受醫學檢查。其後，他被診斷出三個大型少突膠質細胞瘤（oligodendroglioma），這種罕見癌症可影響腦部及脊髓。\n\n這名在愛丁堡出生的運動員接受化學治療及放射治療，以處理腫瘤，但醫生發現無法以手術將其切除。\n\n檢討工作將由格拉斯哥大學臨床腫瘤學教授 Anthony Chalmers 帶領，評估自2018年以來腦癌研究領域取得的進展。\n\n檢討旨在找出「仍然阻礙進度」的因素。\n\n唐寧街表示，檢討之後將制訂全國癌症計劃，目標是讓新療法「更快從實驗室走進患者生活」。\n\n聲明補充，首相已要求藥物監管機構——藥品及醫療產品規管局（Medicines and Healthcare Products Regulatory Agency，MHRA）——提早完成對罕見病藥物規則的檢討。\n\n他促請監管機構在兩年內而非三年內完成檢討，並盡早落實可能有助患者更快取得新療法的規則變更。\n\n古本今年早些時候接受 BBC Breakfast 節目訪問時表示，世界各地進行的試驗在英國並未獲得採用，這是「不公平及不合理的」。\n\n政府補充，患者、家屬及慈善團體將共同設計推動更多人士參加臨床試驗的方案，並由同樣出席唐寧街會面的衞生大臣 Yvette Cooper 帶領。\n\n會面後，古本說：「他們聽取了全國各地數以千計的聲音，以及多年來一直懇求改變的數以千計家庭的心聲。\n\n「三項要求都已在某程度上獲得答應，但部分具體細節仍須進一步充實。\n\n「我認為到了這個階段，自己已不能再要求更多，因此我向 Andy Burnham 抽出時間與我會面，表達衷心感謝。」\n\n英國政府發言人表示，這次宣布的措施適用於整個英國，因為相關研究機構——國民醫療及社會護理研究所（National Institute for Health and Social Care Research，NIHR）——在若干資助計劃中與多個分權政府的行政機構合作。\n\n衞生及社會服務屬蘇格蘭分權範疇。\n\n蘇格蘭首席部長 John Swinney 最近亦曾與古本會面，他指出蘇格蘭政府支持更多臨床試驗的承諾。\n\n他說：「我們透過蘇格蘭成人神經腫瘤學網絡（Scottish Adult Neuro-Oncology Network），支持由全國層面牽頭腦癌工作。\n\n「該網絡匯聚臨床醫生、患者及志愿機構代表，改善全蘇格蘭腦癌患者的護理。\n\n「我們會審慎考慮蘇格蘭可進一步扮演的角色，讓腦癌患者更快由研究階段過渡至治療階段。」\n\n慈善機構 Brain Tumour Research 表示，這種疾病是在英國最有可能奪去40歲以下患者生命的癌症。\n\n該機構指出，慈善團體提供全國腦腫瘤研究總投資的不足75%，政府出資則佔25%。\n\n消息宣布後，行政總裁 Dan Knowles 感謝古本為提高外界對這種疾病的認識而作出的「不懈努力」。\n\n他說：「我們樂觀地期望，這次重新聚焦能確保實驗室內的發現，最終惠及迫切需要更多治療選擇的患者。」\n\n由愛丁堡西南選區議員 Scott Arthur 提出的《罕見癌症法案》（Rare Cancers Bill）於今年較早時成為法律。\n\n法案旨在透過誘因鼓勵Rare cancers的研究及投資。罕見癌症的定義，是每2,000人中少於1人受影響的癌症類型。\n\n但古本此前表示，法案力度仍屬不足，若能設立專責腦癌工作的主任，便可更集中於特定研究及試驗。\n\nArthur 指出，這項法案對推動腦癌所需研究至關重要，而古本與 Burnham 的會面可望帶動該領域進一步工作。\n\n他在會面前說：「這個領域確實有機會拆除一直以來為慈善團體、臨床醫生及研究人員所知的種種研究障礙。\n\n「我曾多次與阿奇會面，深知他是腦腫瘤患者及社群的出色倡議者。\n\n「我希望他與首相的會面，能成為取得具體進展的一刻。」",
+      "bodyZh": "游泳運動員阿奇・古德本致謝首相，並宣布進行腦癌檢討——BBC News\n\nBBC 蘇格蘭分部記者 Katy Scott 及 Claire Thomson 報道\n\n2026年10月14日發布\n\n英國政府宣布採取新措施之際，游泳運動員阿奇・古德本（Archie Goodburn）為改善腦癌患者照護而作出的努力取得成果。\n\n這名蘇格蘭運動員兩年前確診三個無法手術切除的腦腫瘤；在電視上哽咽呼籲增加腦癌研究投資後，他與首相 Andy Burnham 會面。\n\n會面後，Burnham 宣布委任新的全國腦癌臨床主任，並承諾檢視腦癌研究的進展，以及採取行動，讓患者更早接受治療。\n\n25歲的古德本感謝首相，並表示他的三項要求都「在某種程度上獲得答應」，但仍須「補充具體內容」並敲實細節。\n\n首相形容這名游泳運動員是「我們所有人的榜樣」，並表示很高興歡迎他到唐寧街。\n\nBurnham 說：「他熱情地談到腦癌亟須改變，而他說得對：無論在這裏還是其他地方，取得的進展都不夠理想。\n\n「面對這種疾病的家庭等不起。」\n\n古德本在2026年格拉斯哥英聯邦運動會 swimming 50米蛙泳項目晉身決賽。\n\n他表示，備戰2024年奧運會選拔賽期間出現四肢麻木及癲癇，因而接受醫學檢查。\n\n其後他確診患有三個大型少突膠質細胞瘤（oligodendroglioma），這是一種可影響腦部及脊髓的罕見癌症。\n\n這名愛丁堡出生的運動員接受化學治療及放射治療對付腫瘤，但醫生發現無法以手術切除。\n\n檢討將由格拉斯哥大學臨床腫瘤學系教授 Anthony Chalmers 主持，評估自2018年以來腦癌研究及照護取得的進展。\n\n檢討旨在找出「仍然阻碍進展的因素」。\n\n唐寧街表示，隨後將制定全國癌症計劃，希望讓新治療「更快由實驗室惠及患者」。\n\n政府補充，首相已要求藥物監管機構——藥品及醫療產品監管局（Medicines and Healthcare Products Regulatory Agency，MHRA）——盡快完成罕見疾病藥物規則的檢討。\n\n他促請監管機構在兩年內而非三年內完成檢討，並提前推行可能有助患者更快取得新治療的規則修訂。\n\n古德本今年較早時在《BBC Breakfast》節目表示，全球各地進行的試驗在英國未能參與，此情況「不公平及不公道」。\n\n政府表示，患者、家庭及慈善機構將共同設計推動措施，讓更多人參加臨床試驗；出席唐寧街會面的衛生大臣 Yvette Cooper 將負責統籌。\n\n會面後，古德本說：「他們聽取了全國各地數以千計的聲音，以及多年來一直懇求改變的數以千計個家庭的訴求。\n\n「三項要求都已在某種程度上獲得答應，細節方面仍有一些需要補充。\n\n「到這個階段，我認為自己已不能再要求更多，因此我向 Andy Burnham 抽出時間與我們會面，表達衷心感謝。」\n\n英國政府發言人表示，這次措施適用於整個英國，因為涉及的 研究機構——英國健康及社會護理研究院（National Institute for Health and Social Care Research，NIHR）——會在若干資助計劃中與多個地方分權政府合作。\n\n在蘇格蘭，醫療及社會服務屬分權事務。蘇格蘭首席大臣 John Swinney 最近亦曾與古德本會面，他指出蘇格蘭政府支持擴大臨床試驗的承諾。\n\n他說：「我們很自豪能透過蘇格蘭成人神經腫瘤學網絡（Scottish Adult Neuro-Oncology Network），支持全國層面的腦癌領導工作。\n\n「該網絡把臨床醫生、患者及志願界代表凝聚起來，改善全蘇格蘭腦癌患者的照護。\n\n「我們會審慎考慮蘇格蘭可進一步扮演的角色，讓腦癌患者更快由研究階段進入治療階段。」\n\n圖片來源：PA Media\n\n圖片說明：阿奇・古德本於2024年被確診患有三個少突膠質細胞瘤腫瘤。\n\n慈善機構 Brain Tumour Research 表示，在英國所有癌症中，這種疾病對40歲以下患者的殺傷力最大。\n\n該機構指出，在腦腫瘤研究的全國總投資中，慈善機構出資接近75%，政府出資則佔25%。\n\n消息公布後，行政總裁 Dan Knowles 感謝古德本為提高外界對這種疾病的認識而作出的「不懈努力」。\n\n他說：「我們樂觀地期望，這次重新聚焦能確保實驗室中的發現，真正惠及極度需要更多治療選擇的患者。」\n\n由愛丁堡西南選區議員 Scott Arthur 領導的《罕見癌症法案》（Rare Cancers Bill）於今年較早時成為法律。\n\n法案旨在鼓勵 researches 及投資 rare 癌症治療；罕見癌症的定義是每2,000人中少於1人受影響。\n\n不過，古德本此前表示，法例仍「未夠」，而設立專責腦癌主任可讓特定研究及試驗獲得更集中、更充分的資源。\n\nArthur 在會面前說，這項法例對推動這種疾病所需的研究至關重要，而古德本與 Burnham 的會面可望帶動該領域進一步工作。\n\n他說：「這個界別確實有機會拆除研究障礙；這些障礙數十年來一直是慈善機構、臨床醫生及研究人員所知的問題。\n\n「我曾多次與阿奇會面，知道他是腦腫瘤社群一位出色的倡議者。\n\n「我希望他與首相的會面，能成為取得實質進展的一刻。」\n\n相關報道\n\n《這名英聯邦運動會游泳運動員或許看不到40歲》——2025年6月25日發布\n\n《獎牌夢未能成真，但我的另一個夢是對抗腦癌》——7月27日發布\n\n（本文節錄；完整內容請參閱「閱讀原文」。）",
       "featured": false
     },
     {
-      "title": "「就像我的哥哥們一樣」：腦麻痺男孩利用眼動追蹤技術通過英國普通中學教育考試",
+      "title": "「就像我的兩個哥哥一樣」：腦麻痺男孩借助眼動追蹤技術通過 GCSE",
       "url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
       "publishedAt": "2026-10-02T17:18:06.000Z",
-      "summary": "柏特里克・麥凱布克服重重困難通過GCSE，展現特殊教育需要及殘障支援體系的限制與可能性。",
+      "summary": "Patrick McCabe 在 Cheshire 的 Fallibroome Academy 就讀，使用眼動追蹤技術完成 GCSE，展現特殊教育需要及殘疾制度的限制與可能性。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -434,14 +435,14 @@
           "alt": ""
         }
       ],
-      "bodyZh": "「就像我的哥哥們一樣」：腦麻痺男孩靠眼動追蹤技術通過GCSE\n\nPatrick McCabe利用眼動追蹤technology應考GCSE，並剛開始修讀A-level。\n照片：Christopher Thomond／The Guardian\n\nPatrick McCabe以非凡毅力考取GCSE的成就，已成為一個近乎传奇的故事。這名16歲男孩患有腦麻痺，需花上4個月才能利用眼動追蹤技術完成考試。如今，Patrick已開始修讀A-level課程，包括法文、商業及傳媒研究，新的挑戰正在前方。\n\n初秋陽光下，Patrick一眼便能認出：在柴郡麥克勒斯菲爾德Fallibroome Academy，同學們簇擁着他的輪椅，一同在課室之間穿梭，邊走邊聊天、歡笑和說笑。\n\n面對面交談時，Patrick淘氣、 thoughtful、善於表達、机智、聰明而誠實。他使用增強及替代溝通（AAC）裝置，向《衛報》表示，整體而言，校園生活是很好的經歷。他出生於瑞士，6歲時隨家人移回英國，此後一直就讀當地的普通主流學校，因為他希望像其他人一樣學習。\n\n「最好的是，就像我的哥哥們一樣，我一直都能學習、掌握技能，並獲得對身邊世界的認識。」他說，「即使有些日子我不太想去學校，我仍認為學習的機會幫助我成長，培養獨立思考能力。」\n\n過程並不容易。「最困難的事情，是建立有意義的人際關係；溝通障礙確實存在。」Patrick說，「人們未必熟悉Eyegaze眼動追蹤技術，在交友方面，也未必願意或有能力給它一個機會。」\n\nPatrick與母親Jo。\n照片：Christopher Thomond／The Guardian\n\n在很多方面，Patrick正好體現工黨政府對有特殊教育需要及殘疾（SEND）學生的抱負。當局即將推出的改革以融合教育為基礎，讓兒童及青少年留在所在地區的普通學校，而非特殊學校，並由校內提供一切所需的專業支援。\n\n但Patrick的經歷亦顯示，若英格蘭的教育及評核要真正做到融合，必須進行大規模改變。他的家人和學校表示，現行考試距離真正人人可及仍很遠；關鍵的專業支援並非總能取得，而最根本的是，經費永遠不足。\n\n「我們所要求的，不過是讓Patrick有機會展示自己的知識，並獲得與其他學生相比較為公平的環境。」校長Ross Martland說。學校和Patrick的母親Jo曾與各考試局交涉，爭取確保他獲得公平機會。\n\n然而，最終的考試安排聽來仍談不上公平。同學們在年初花時間溫習時，Patrick的考試已於2月2日展開，其後每天上午持續至6月5日。這需要他作出非凡努力，亦令他身心耗竭、感到挫敗，有時更是不適。\n\n「使用眼動追蹤技術時，我覺得自己必須更努力才能表達所知道的東西。」Patrick說。\n照片：Christopher Thomond／The Guardian\n\n一道30分的題目，即使只是整份考卷其中一部分，也可能花上6小時作答。Patrick全程獲得CandLE支援；這個機構協助全英使用AAC技術的學生接受教育。他通過全部7科GCSE，並取得升讀中六所需的成績，足證其決心。\n\n「為GCSE溫習非常疲累，因為本來就需要額外時間和努力。」Patrick說，「即使我明白科目內容，也覺得自己必須更努力才能表達所知。這在身體和精神上都很累。我需要多休息一會兒，但仍想盡力展示自己學會了甚麼。」\n\nMartland全力支持政府的SEND改革方向。「我認為這些計劃是正確的。從道德和價值觀來看 absolutely right。」他指出，問題在於經費，並警告：「如果沒有足夠資源，我擔心這會令學校承受顯著壓力。」\n\n據報，英格蘭持SEND計劃的學生人數可能倍增至每10人中有1人，各校爭相取得支援。\n\n在Fallibroome就讀期間，Patrick一直得到一群盡責的教學助理協助；他們不僅支援他的課堂學習，也幫助他處理個人照護需要。Patrick的一名教學助理Rachel Crew說：「我們為Patrick，以及所有SEND學生感到極其自豪。」\n\nPatrick表示，升讀中六的銜接進展順利。他已卸下深綠色校服，改穿剪裁醒目的藍色西裝，並說學校正竭盡所能支援他。\n\n他形容媽媽「非常了不起」，並認為使用眼動追蹤技術的肢體殘疾學生應以更合適的方式接受評核，以免再遇到額外障礙。不過，他擔心的並不只考試。「坦白說，我仍然關注 friendships 的問題。」他說。\n\n那麼，Patrick下一步有何打算？完成A-level後，他希望在大學修讀傳媒。「我覺得這很有趣，亦想進入這個行業。」他媽媽初步提議 nearby 的薩爾福德，Patrick則正考慮200英里外的伯恩茅斯。他會感到氣餒嗎？完全不會。「我對這段經歷感到期待。」",
+      "bodyZh": "「就像我的兩個哥哥一樣」：腦癱男孩借助視線追蹤技術通過 GCSE 考試\n\nPatrick McCabe 使用視線追蹤技術參加 GCSE 考試，並剛開始修讀 A-level 課程。\n\n攝影：Christopher Thomond／The Guardian\n\n特殊教育需要\n\nPatrick McCabe 在初秋陽光下格外惹人注目。在柴郡麥克斯菲爾德 Fallibroome Academy，同學們簇擁着他的輪椅，一同穿梭於課室之間，邊走邊聊天、歡笑、說笑。\n\n今年暑假，他以非凡成就通過 GCSE 考試，成為一個近乎傳奇的故事。這名16歲男孩患有腦癱，並花了4個月時間借助視線追蹤技術完成考試。如今，Patrick 已開始修讀 A-level 課程，包括法語、商業及傳媒研究，新的挑戰正在前方。\n\n面對面交談時，Patrick 淘氣、擅思、能言善辭，既機智又誠懇。他使用輔助及替代溝通（AAC）裝置告訴《衛報》，整體而言，校園生活相當愉快。他在瑞士出生，6歲時隨家人移居英格蘭；其後一直入讀當地的普通學校，因為他希望像其他人一樣學習。\n\n「最美好的是，就像我的兩個哥哥一樣，我可以學習、掌握技能，並認識周圍的世界。」他說，「即使有些日子我不太想上學〔學校〕，我認為學習的機會幫助我成長，讓我建立獨立思考能力。」\n\n過程並不容易。「最困難的是建立有意義的人際關係，而溝通障礙確實存在。」Patrick 說，「人們未必熟悉 Eyegaze 視線追蹤技術，在友誼方面，也未必願意或有能力給它一個機會。」\n\nPatrick 與母親 Jo。\n\n攝影：Christopher Thomond／The Guardian\n\n在許多方面，Patrick 正體現工黨政府對有特殊教育需要及殘疾學生的政策抱負。即将推出的改革以融合教育為基礎，讓兒童及青少年留在所屬地區的普通學校，而非特殊學校，並在需要時獲得所有必要專業支援。\n\n然而，Patrick 的故事也說明，若英格蘭的教育及評核要真正具包容性，便需要多麼龐大的改變。他的經歷顯示，遠非所有學生都能順利參加考試；他的家人和學校指出，關鍵專業支援並非時常供應，而最重要的是，經費從來都不足夠。\n\n校長 Ross Martland 說：「我們所要求的，只是讓 Patrick 有機會展示自己的知識，並在考試方面獲得與其他學生相近的公平條件。」學校和 Patrick 的母親 Jo 曾與考試局交涉，爭取給他公平參與的機會。\n\n結果聽來一點也不公平。同學在年初花時間溫習時，Patrick 的考試已於2月2日展開，並持續至6月5日，每天上午舉行。這需要他付出極大的努力，令他筋疲力盡、感到挫敗，有時甚至身體不適。\n\n「使用視線追蹤技術時，我感到自己必須更努力才能表達所知的內容。」Patrick 說。\n\n攝影：Christopher Thomond／The Guardian\n\n一道30分的題目，即使只是整份考試其中一部分，也可能要花上6小時作答。CandLE 一直全程支援 Patrick；這個組織協助全英使用 AAC 技術的學生接受教育。他能通過全部7科 GCSE，取得升讀六年級中學所需的成績，足證其決心。\n\n「溫習 GCSE 非常疲累，因為本身便需要額外時間和努力。」Patrick 說，「即使我理解科目內容，也覺得必須更努力才能表達出來。這在體力及精神上都很累。我需要額外休息，但仍然想盡力做到最好，展示自己學會了甚麼。」\n\n每個工作日提供\n\nFirst Edition\n\n《衛報》的晨間電子報拆解每日重要新聞，講解正在發生甚麼，以及事件為何重要。\n\n訂閱電子報\n\nMartland 全面支持政府的融合教育抱負。他說：「我認為這些計劃的方向是正確的。從道德和價值觀角度而言，這 absolutely 是正確的。」問題在於經費；他補充說：「如果資源配置不足，我擔心這會令學校承受顯著壓力。」\n\n閱讀更多：英格蘭持 SEND 計劃的學生人數料倍增至每10名學生有1名，家長爭相尋求支援\n\nPatrick 在 Fallibroome 就讀期間，一直與一支盡心盡力的教學助理團隊合作。他們不僅協助他在課堂上學習，也照顧他的個人需要。與他合作的一名教學助理 Rachel Crew 說：「我們為 Patrick，以及所有持 SEND 計劃的學生感到無比自豪。」\n\nPatrick 表示，適應六年級中學的轉銜進展順利。他已脫下那套墨綠色校服，換上剪裁醒目的藍色西裝；他說，學校正盡一切所能支援他。\n\n他形容媽媽「好得不得了」，並認為，使用視線追蹤技術的肢體殘疾學生應以更合適的方式接受評核，以免再面對額外障礙。但令他不擔心的不只是考試。「坦白說，我最擔心的仍然是友誼。」\n\n那麼，Patrick 下一步有何打算？完成 A-level 後，他希望到大學修讀傳媒。「我覺得這很有趣，亦想進入這個行業。」媽媽暫時建議他考慮附近的薩爾福德；Patrick 則正留意200英里外的伯恩茅斯。他是否感到卻步？完全不會。「我對這段經歷感到期待。」\n\n相關主題：特殊教育需要、殘疾、英格蘭、柴郡、學校、工黨",
       "featured": false
     },
     {
-      "title": "少年大橋克服新冠疫情，創世界紀錄",
+      "title": "少年 Ohashi 克服 Covid 創世界紀錄",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/ckzdzm06n2pyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T15:12:12.000Z",
-      "summary": "17歲的大橋忍在亞洲運動會200米蛙泳賽以世界紀錄奪得個人第二面金牌。",
+      "summary": "17 歲的 Shin Ohashi 亞運會以 200 米蛙式刷新世界紀錄，摘得個人第二面金牌。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -458,42 +459,42 @@
           "alt": "A headshot show Tatjana Smith smiling broadly as she holds up her 100m breaststroke gold medal during the medal ceremony at the Paris 2024 Olympic Games"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5c81/live/c40877d0-df90-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "George Ford, Fin Smith &amp; Marcus Smith"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5c34/live/65dcca10-e050-11f1-a701-fddedf244c16.jpg",
+          "alt": "Sara Orchard and Alex Cuthbert react to Wales&#x27; win over New Zealand"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f7ee/live/b0ff8d80-df7d-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Pochettino"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9b18/live/0a8d2780-e07e-11f1-a701-fddedf244c16.jpg",
+          "alt": "Chris Jones &amp; Will Joseph"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/161f/live/7cbdca40-dfba-11f1-a701-fddedf244c16.jpg",
-          "alt": "Andy Robertson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f2fe/live/4287dcd0-e07d-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Will Joseph"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0360/live/b2172820-dfb6-11f1-b441-2b33b063138f.jpg",
-          "alt": "Andy Robertson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c684/live/88f004b0-e076-11f1-b441-2b33b063138f.jpg",
+          "alt": "England manager Thomas Tuchel ahead of the Nations League match with Spain"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c689/live/8e950140-df9f-11f1-b441-2b33b063138f.jpg",
-          "alt": "Harry Kane and the 1966 England World Cup team"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/82e4/live/bea29f90-e045-11f1-b441-2b33b063138f.jpg",
+          "alt": "Lucy Bronze and a small picture of Katie McCabe"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/65c0/live/59833e40-dfa4-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Jana Fernandez on the Women&#x27;s Football Weekly podcast"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/53ec/live/fb2f1ec0-e054-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Wales rugby fan"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/698d/live/17c3d430-df7a-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Chelsea women&#x27;s captain Erin Cuthbert"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e1ef/live/1492fe60-e071-11f1-93e1-3b657b665bcf.jpg",
+          "alt": "Declan Rice ahead of the Nations League match with Spain"
         }
       ],
-      "bodyZh": "亞運會：Shin Ohashi，17歲，刷新200米蛙泳世界紀錄 - BBC Sport\n\nBBC 主頁\n\n略過內容\n\n無障礙說明\n\n你的帳戶\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\nSounds\n\n更多選單\n\n更多選單\n\n搜尋 BBC\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\nSounds\n\n關閉選單\n\nBBC Sport\n\n選單\n\n首頁\n\n足球\n\n板球\n\n一級方程式\n\n欖球聯盟\n\n網球\n\n高爾夫\n\n單車\n\n田徑\n\n更多\n\n體育項目 A 至 Z\n\n美式足球\n\n田徑\n\n籃球\n\n拳擊\n\n板球\n\n單車\n\n飛鏢\n\n殘疾人體育\n\n足球\n\n一級方程式\n\n蓋爾式運動\n\n高爾夫\n\n體操\n\n賽馬\n\n綜合格鬥術\n\n賽車\n\n無板籃球\n\n欖球聯盟\n\n欖球聯會\n\n桌球\n\n游泳\n\n網球\n\n完整體育項目 A 至 Z\n\n更多體育內容\n\n英格蘭\n\n蘇格蘭\n\n威爾斯\n\n北愛爾蘭\n\n問答遊戲\n\n新聞摘要\n\n說明及常見問題\n\n游泳\n\nTeenager Ohashi overcomes Covid to set world record\n\n圖片來源：Getty Images\n\n圖片說明：Shin Ohashi 本周初亦與中國的 Dong Zhihao 共同贏得100米蛙泳金牌\n\n作者：\n\nFfion Wynne\n\nBBC Sport 記者\n\n發布日期：\n\n2026年9月24日\n\n日本 teenage 泳手 Shin Ohashi 在亞運會打破200米蛙泳世界紀錄，雖然他在賽前備戰期間感染了 Covid-19。\n\n現年17歲的 Ohashi 以2分4秒83秒奪金，輕鬆打破由中國 Qin Haiyang 在2023年世界錦標賽創出的2分05秒48紀錄。\n\nOhashi 是本屆賽事中第二位成為焦點的少年天才；中國的 Yu Zidi（13歲）周三贏得個人第三金。\n\n這是 Ohashi 在本屆賽事的第二金；本周初，他與中國的 Dong Zhihao 共同贏得100米蛙泳冠軍。\n\nOhashi 獲勝後說：「說到 Covid，畢竟它在心理上曾令我有些不安。但反過來說，身體方面，我認為能讓身體好好休息一段時間、作為恢復期，對我是有好處的。」\n\nOhashi 去年在世界青年錦標賽贏得五金；法國的 Leon Marchand 曾在2024年巴黎奧運會成為泳池焦點，他形容這名小將是一名「令人害怕」的新星。\n\n另一方面，19歲的 Zhang Zhanshuo 隨中國隊贏得4乘100米自由泳接力，奪取個人本屆第六金。\n\n相關主題\n\n游泳\n\n更多相關報道\n\nYu，13歲，在亞運會完成金牌帽子戲法\n\n發布日期：9月23日\n\n「我失去了對游泳的熱愛」——Smith 宣布退役\n\n發布日期：9月22日\n\n短片\n\n上一個\n\n下一個\n\n1:21\n\nFord：英格蘭需要3個飛鏢半場入球才能贏得世界盃。00:01:21，播放影片\n\nFord：英格蘭需要3個飛鏢半場入球才能贏得世界盃\n\n0:21\n\nPochettino 在美國隊記者會上情緒激動落淚。00:00:21，播放影片\n\nPochettino 在美國隊記者會上情緒激動落淚\n\n0:40\n\n蘇格蘭球員「相信 Pocognoli，並需要有耐性」。00:00:40，播放影片\n\n蘇格蘭球員「相信 Pocognoli，並需要有耐性」\n\n0:38\n\n「榜樣」Robertson 追平蘇格蘭上陣紀錄。00:00:38，播放影片\n\n「榜樣」Robertson 追平蘇格蘭上陣紀錄\n\n1:46\n\nKane 還是 Charlton：誰是英格蘭史上最強球員？00:01:46，播放影片\n\nKane 還是 Charlton：誰是英格蘭史上最強球員？\n\n1:04\n\nJana Fernandez：「我們是來辦正事的！」00:01:04，播放影片\n\nJana Fernandez：「我們是來辦正事的！」\n\n0:32\n\n優雅還是混亂？Cuthbert 起伏不定的 Golf 賽事。00:00:32，播放影片\n\n優雅還是混亂？Cuthbert 起伏不定的 Golf 賽事\n\n0:27\n\nBrown 與 Coyd 談英格蘭贏得世界盃。00:00:27，播放影片\n\nBrown 與 Coyd 談英格蘭贏得世界盃\n\n0:58\n\n英格蘭奪得 Wheelchair RL 世界冠軍！00:00:58，播放影片\n\n英格蘭奪得 Wheelchair RL 世界冠軍！\n\n0:47\n\nPochettino 為美國隊出局接任 Man Utd 教職辯護。00:00:47，播放影片\n\nPochettino 為美國隊出局接任 Man Utd 教職辯護\n\n0:51\n\n「我真的認為自己能幫助蘇格蘭出戰世界盃」——McBurnie。00:00:51，播放影片\n\n「我真的認為自己能幫助蘇格蘭出戰世界盃」——McBurnie\n\n0:51\n\n完全是胡說八道——Cummins 回應 Khawaja 沙紙爭議。00:00:51，播放影片\n\n完全是胡說八道——Cummins 回應 Khawaja 沙紙爭議\n\n0:55\n\n「Pochettino 與 Ferguson 的共通點比你想像的更多」。00:00:55，播放影片\n\n「Pochettino 與 Ferguson 的共通點比你想像的更多」\n\n1:04\n\nMan Udt 球迷認為 Pochettino 表現如何？00:01:04，播放影片\n\nMan Udt 球迷認為 Pochettino 表現如何？\n\n0:44\n\nVaughan 對沙紙醜聞「完全不知應相信誰」。00:00:44，播放影片\n\nVaughan 對沙紙醜聞「完全不知應相信誰」\n\n1:05\n\n一顆價值30萬美元的鑽石如何在 F1 撞車中消失。00:01:05，播放影片\n\n一顆價值30萬美元的鑽石如何在 F1 撞車中消失\n\n1:16\n\nChelsea 的 Bompastor 與 Malard 淵源甚深。00:01:16，播放影片\n\nChelsea 的 Bompastor 與 Malard 淵源甚深\n\n頭條新聞\n\n熱衷健身兼「控制狂」——Man Udt 對 Pochettino 可以有何期望？\n\n發布於：8小時前\n\nWarner 指 Cricket Airport 試圖「掩蓋真相」\n\n發布於：6分鐘前\n\n法國保持冷靜，以一球之差擊敗南非\n\n發布於：8小時前\n\nBBC 其他內容\n\n我們為何仍然保留君主制？\n\n向1971年「Campaign for Real Ale」成立致敬\n\n一宗historic murder 引發 DI Calder 團隊的新調查\n\nAnthony Joshua 談對母親的愛\n\n其他體育內容\n\n蘇格蘭再次受困於自身局限，前路艱難\n\n熱衷健身兼「控制狂」——Man Udt 對 Pochettino 可以有何期望？\n\n在 F1 撞車中失蹤的鑽石後來去了哪裏？\n\n受 Ferguson 啟發的 Pochettino 如何在 Man Udt 取得 Carrick 未能取得的成功\n\nKane 在英格蘭歷來最佳球員中排名如何？\n\nCarrick 從簽約兩年至15場後被解僱的混亂過程\n\n欺詐、醜聞與戲劇性——威爾斯對 All Blacks 的痛苦之戰\n\n十年兼三個孩子之後……Oliva 再次爭取奧運代表資格\n\nRobertson 勢創歷史，但英雄 Dalglish 永远是王者\n\n英格蘭的 Blues 兄弟——Bellingham 兄弟如何協助拯救 Birmingham\n\nFury 對 Joshua——拳壇史詩般未完的故事\n\n每週體育測驗：Man Udt 自何時起最差開季？\n\n投選 BBC 2026年最佳女足球員\n\n觀看：Rivals——BBC iPlayer 上的 Fury 對 Joshua。影片\n\n觀看：Rivals——BBC iPlayer 上的 Fury 對 Joshua\n\n「我不敢相信他是我們的一分子」——走進 Salah 在 Trabzon 的生活\n\n首頁\n\n新聞\n\n體育\n\n地球\n\nReel\n\nWorklife\n\n旅遊\n\n文化\n\n未來\n\n音樂\n\n電視\n\n天氣\n\nSounds\n\n使用條款\n\n關於 BBC\n\n私隱政策\n\nCookie 政策\n\n無障礙說明\n\n家長指引\n\n聯絡 BBC\n\n招聘\n\nBBC 電郵\n\n廣告\n\n版權 © 2026 BBC。BBC 毋須為外部網站內容負責。\n\n閱讀 BBC 對外部連結的處理方法。",
+      "bodyZh": "亞運會：Shin Ohashi，17歲，刷新200米蛙泳世界紀錄 — BBC Sport\n\nBBC Sport\n\n游泳\n\n少年泳手 Ohashi 克服 Covid 創世界紀錄\n\n圖片來源：Getty Images\n\n圖片說明：Shin Ohashi 本周早前與中國的董子皓分享100米蛙泳金牌\n\n作者：Ffion Wynne\nBBC Sport 記者\n\n發布：2026年9月24日\n\n日本少年泳手 Shin Ohashi 雖然在賽事前感染 Covid-19，仍在亞運會刷新200米蛙泳世界紀錄。\n\n17歲的 Ohashi 以2分4秒83秒奪冠，輕鬆打破由中國泳手秦海洋在2023年世界錦標賽創下的2分05秒48紀錄。\n\nOhashi 是本屆賽事第二位引起轟動的少年神童；中國的余子迪早前在周三贏得個人第三金，當時年僅13歲。\n\n這是他在本屆亞運會奪得的第二面金牌；本周早前，他與中國的董子皓分享100米蛙泳冠軍。\n\nOhashi 奪冠後說：「說到 Covid，畢竟它在心理上確實曾令我有點不安。但反過來看，身體方面，我認為能夠在這段康復期好好休息，其實對我是好事。」\n\nOhashi 去年在世界青年錦標賽贏得五金；法國泳手 Léon Marchand 曾在2024年巴黎奧運會成為泳池焦點，他形容這名小將是一位「令人害怕」的明日之星。\n\n另一方面，19歲的張展碩在中國隊奪得4乘100米自由泳接力冠軍時，贏得本屆賽事第六金。\n\n相關專題\n\n游泳\n\n更多相關報道\n\n余子迪以13歲之齡完成亞運會三金壯舉\n\n發布：9月23日\n\n「我失去了對游泳的熱愛」——Smith 宣布退役\n\n發布：9月22日\n\n體育新聞精選\n\n「威爾斯，全場鞠躬！」\n\n片段：Comm Cam：Will Joseph 為英格蘭攻入五球。\n\n片段：Will Joseph：我到第六球時已經筋疲力盡。\n\n片段：我從未在西班牙談論種族主義——Tuchel 談種族主義應對程序爭議。\n\n片段：Katie McCabe 向隊友發表講話時……\n\n片段：威爾斯擊敗全黑時「簡直難以置信」。\n\n片段：足球不應存在種族主義——Rice 在對西班牙賽事前說。\n\n片段：11年來最大冷門。\n\n片段：Lake 稱威爾斯值得以歷史性勝利擊敗全黑。\n\n頭條新聞\n\n直播\n\n英格蘭在 Banton 攻入一百年後，以355分6個失望擊敗澳洲\n\n西班牙測試賽將揭示 Tuchel 與英格蘭是否已吸取世界盃教訓\n\n發布：11小時前\n\n西班牙謙遜的巨星 Simon 如何成為世界最佳門將\n\n發布：8分鐘前\n\nBBC 其他內容\n\n我們為何至今仍有君主制？\n\n向1971年「真啤酒運動」成立致敬\n\nDI Calder 團隊就一宗歷史案件展開新調查\n\nAnthony Joshua 談對母親的愛\n\n其他體育新聞\n\n「史上最偉大的勝利之一」——威爾斯擊敗全黑，由逆境殺士搖身成為英雄\n\n片段：威爾斯73年來首次擊敗新西蘭。\n\n西班牙測試賽將揭示 Tuchel 與英格蘭是否已吸取世界盃教訓\n\nF1 撞車事故中失蹤的鑽石去了哪裏？\n\n熱衷健身兼「控制狂」——曼聯可期待 Pochettino 帶來甚麼？\n\nKane 在英格蘭歷來最佳球員中排名如何？\n\n在 BBC iPlayer 觀看《The Sandpapergate Scandal》。\n\n從兩年合約到上任15場便被解僱，Carrick 經歷了甚麼？\n\n十年兼三個孩子之後——Oliva 重返奧運會爭標行列\n\nFury 對 Joshua——拳壇史詩式未完故事\n\n每週體育測驗：曼聯自何時起有過如此糟糕的賽季開局？\n\n在 BBC iPlayer 觀看《Rivals：Fury 對 Joshua》。\n\n「我不敢相信他是我們的一分子」——走進 Salah 在 Trabzon 的生活\n\nBBC\n\n主頁｜新聞｜體育｜地球｜Reel｜Worklife｜旅遊｜文化｜未來｜音樂｜電視｜天氣｜Sounds\n\n使用條款｜關於 BBC｜私隱政策｜Cookie｜無障礙支援｜家長指引｜聯絡 BBC｜招聘｜BBC 電子郵件｜BBC 廣告\n\n版權 © 2026 BBC。BBC 概不負責外部網站的內容。閱覽我們處理外部連結的方法。",
       "featured": false
     },
     {
-      "title": "研究逾190萬人，發現ADHD與腸胃問題有顯著關聯",
+      "title": "研究190萬人發現 ADHD 與腸胃問題存在顯著關聯",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
       "publishedAt": "2026-09-11T11:26:08.000Z",
-      "summary": "研究人員分析逾190萬人的數據，發現ADHD與消化問題大幅增加有關。ADHD患者出現便秘的可能性接近兩倍、腸易激綜合症的機率高58%，而大便失禁的機率則超過四倍。",
+      "summary": "研究人員分析逾190萬人的資料，發現 ADHD 與消化問題比率大幅上升相關。ADHD 患者出現便秘的可能性接近雙倍、腸躁症的可能性高58%，糞失禁的可能性則超過四倍。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -506,14 +507,14 @@
           "alt": "Striking Link Between ADHD and Gut Problems"
         }
       ],
-      "bodyZh": "研究逾190萬人　發現ADHD與腸胃問題存在顯著關聯\n\n華威大學研究人員分析23項研究、涵蓋超過190萬人的數據後，發現注意缺陷過度活躍症（ADHD）與消化系統健康問題之間存在顯著關聯。\n\n整體而言，ADHD患者出現胃腸道症狀的可能性，比沒有ADHD的人高出接近50%。個別疾病與ADHD的關聯更為明顯：ADHD患者出現便秘的可能性接近兩倍，患腸躁症（IBS）的可能性增加58%，而出現糞失禁（無法控制排便）的可能性則超過四倍。\n\nADHD與腸道問題的關聯證據日益增加\n\n據估計，ADHD影響全球約5%的兒童及3至4%的成年人，而正式診斷比率在過去40年間大幅上升。\n\n腸胃問題早已在自閉症 Spectrum disorder 患者身上有充分紀錄。與此同時，科學家亦逐步累積「腸腦軸」的證據，顯示消化系統健康與更廣泛的神經發展疾病之間存在聯繫。不過，直至目前，研究人員對ADHD患者出現胃腸道症狀的普遍程度仍缺乏全面掌握。\n\n這項新研究刊登於《Journal of Attention Disorders》，是首項專門檢視ADHD與胃腸道症狀關聯的系統性回顧。研究團隊整合了美國、瑞典、德國及南韓等國家進行的研究證據，受試者年齡介乎2至65歲。\n\n華威醫學院醫學生、共同第一作者Sarah Blake表示：「我們檢視的幾乎每種腸道症狀，包括便秘、IBS，甚至消化不良，似乎都與ADHD有關。這些症狀可對日常生活造成實際影響，但如果焦點只放在ADHD本身，便很容易被忽略。」\n\n這種關聯可能如何解釋？\n\n研究人員尚未确切掌握ADHD與消化問題為何似乎存在關聯，但有幾項因素可能參其中。\n\nADHD相關特徵，例如衝動及不規律的飲食模式，可能影響消化系統健康。治療ADHD所用的藥物亦可能引起胃腸道副作用，包括便秘。\n\n另一個可能因素是腸道微生物群。先前證據顯示，ADHD與腸道細菌組成上的差異有關；這些差異或可透過迷走神經影響消化系統與大腦之間的溝通。迷走神經是連接腸道與大腦的主要途徑之一。\n\n醫生或需關注ADHD以外的症狀\n\n研究人員指出，照顾ADHD患者的臨床醫生應留意患者可能同時存在胃腸道症狀，並考慮在診症時詢問患者有否消化問題。\n\n如果胃腸道症狀較為複雜，患者也可能從營養師或 gastroenterologist 的支援中受益。\n\n重要的是，這項發現確立的是一種關聯，並不能證明ADHD本身會導致消化問題。尚需進行更多研究，以釐清這種聯繫有多少可能涉及潛在生物學因素，又有多少可能與藥物或其他影響因素有關。\n\n華威醫學院副教授兼臨床教授Saran Shantikumar醫生表示：「我們目前仍不能說ADHD會導致這些腸道問題，也未能確定究竟是哪些因素促成這種聯繫，但這種模式十分引人注目，足以引起關注。照顧ADHD患者的臨床醫生可能需要詢問患者有否胃腸道症狀，尤其是這些症狀可能影響生活質素時。」\n\n相關主題\n\n健康與醫學\n\n胃腸道問題\n\n腸躁症\n\n疾病與病況\n\n當代醫療\n\n思維與大腦\n\n自閉症\n\n學習障礙\n\n精神健康\n\n社會心理學\n\n期刊參考資料\n\nSarah Blake、Hugo Cannon及Saran Shantikumar：《注意缺陷過度活躍症與胃腸道症狀的關聯：系統性回顧及Meta-analysis》（The Association Between Attention-Deficit Hyperactivity Disorder and Gastrointestinal Symptoms: A Systematic Review and Meta-Analysis），《Journal of Attention Disorders》，2026年；DOI：10.1177/10870547261469626。\n\n資料來源：華威大學（University of Warwick）。",
+      "bodyZh": "對190萬人的研究發現 ADHD 與腸胃問題之間存在顯著關聯｜ScienceDaily\n\n跳至主要內容\n\n你掌握最新研究新聞的來源\n\n關注我們：\n\nFacebook\n\nX/Twitter\n\n訂閱：\n\nRSS 資訊源\n\n電子報\n\n新！\n\n免費登記我們的電子報。\n\n來自研究機構的科學新聞\n\n對190萬人的研究發現 ADHD 與腸胃問題之間存在顯著關聯\n\n日期：2026年9月11日\n\n來源：華威大學（University of Warwick）\n\n摘要：\n\n研究人員分析超過190萬人的數據後發現，ADHD 與消化問題發生率顯著偏高有關。ADHD 患者出現便秘的機會接近沒有 ADHD 者的兩倍，出現腸躁症（IBS）的機會高出58%，出現遺糞症（失去便意控制）的機會則超過四倍。\n\n完整報道\n\n一項涉及190萬人的大型研究揭示，ADHD 與多種腸胃問題之間存在出人意料的關聯。圖片來源：Shutterstock\n\n華威大學的研究人員分析23項研究、超過190萬人的數據後，發現 ADHD 與消化系統健康之間存在顯著關聯。\n\n整體而言，ADHD 患者出現胃腸道症狀的可能性，比沒有 ADHD 的人高出近50%。若干個別病症的關聯更為明顯。ADHD 患者出現便秘的機會接近兩倍，出現腸躁症的機會增加58%，而出現遺糞症（失去便意控制）的機會則超過四倍。\n\nADHD 與腸道關聯的證據日益增加\n\n據估計，ADHD 全球約影響5%的兒童及3至4%的成年人，而過去40年間的已報告診斷率急劇上升。\n\n腸胃問題早已在自閉症譜系障礙人士中得到充分記錄。與此同時，科學家亦累積了愈來愈多證據，證實存在連接消化健康與更廣泛神經發展障礙的「腸—腦軸」。然而，直至目前，研究人員對 ADHD 患者出現胃腸道症狀的頻率仍未能有完整掌握。\n\n這項發表於《Journal of Attention Disorders》的新研究，是首項專門聚焦 ADHD 與胃腸道症狀的系統性回顧。研究人員整合了美國、瑞典、德國及南韓等國家 studies 的證據。受試者年齡介乎2至65歲。\n\n華威醫學院醫學生、共同第一作者 Sarah Blake 表示：「我們檢視的幾乎每一種腸道症狀——包括便秘、IBS，甚至消化不良——似乎都與 ADHD 有關。這些症狀可對日常生活造成實際影響，但如果焦點只放在 ADHD 本身，便很容易忽略它們。」\n\n這種關聯可能有何解釋？\n\n研究人員尚未确切知道 ADHD 與消化問題為何 seemingly 互相關連，但可能有數項因素參與其中。\n\nADHD 相關特徵，例如容易衝動和不規律的飲食模式，可能影響消化健康。用于治療 ADHD 的藥物亦可能引起胃腸道副作用，包括便秘。\n\n另一個可能因素是腸道微生物組。既往證據顯示，ADHD 與腸道細菌的差異有關；這些差異可能透過迷走神經影響消化系統與大腦之間的溝通。迷走神經是身體連接腸道與大腦的主要通路之一。\n\n醫生或須關注 ADHD 症狀以外的問題\n\n研究人員表示，照顧 ADHD 患者的臨床醫生應 awareness 到患者可能同時有胃腸道症狀，並應考慮在應診時詢問患者有否消化問題。\n\n出現較複雜胃腸道症狀的人士，也可能從營養師或腸胃科醫生提供的支援中受惠。\n\n重要的是，這項發現確立的是一種關聯，並不能證明 ADHD 本身會引致消化問題。仍需進行更多研究，以確定這種關聯有多少涉及潛在生物學因素，以及有多少可能與藥物或其他影響因素有關。\n\n華威醫學院副教授暨臨床教授 Saran Shantikumar 醫生表示：「我們目前仍不能斷定 ADHD 會引致這些腸道問題，也不能確定究竟是甚麼因素促成這種關聯，但這種模式相當顯著，足以引起關注。照顧 ADHD 患者的臨床醫生可考慮詢問胃腸道症狀，尤其是當這些症狀可能影響生活質素時。」\n\n相關主題\n\n健康與醫學\n\n胃腸道問題\n\n腸躁症\n\n疾病與病況\n\n當代醫療\n\n思維與大腦\n\n自閉症\n\n學習障礙\n\n心理健康\n\n社會心理學\n\n相關詞彙\n\n便秘\n\n腸躁症\n\n不飽和脂肪\n\n鉛中毒\n\n注意力缺陷過動症\n\n胃\n\nADHD 爭議\n\n科學方法\n\n報道來源：\n\n華威大學提供的資料。\n\n註：內容可能經編輯，以調整風格及篇幅。\n\n期刊參考資料：\n\nSarah Blake、Hugo Cannon、Saran Shantikumar：《注意力缺陷過動症與胃腸道症狀的關聯：系統性回顧及荟萃分析》（The Association Between Attention-Deficit Hyperactivity Disorder and Gastrointestinal Symptoms: A Systematic Review and Meta-Analysis）。《Journal of Attention Disorders》，2026年；DOI：10.1177/10870547261469626\n\n引用本頁：\n\nMLA\n\nAPA\n\nChicago\n\n華威大學。「對190萬人的研究發現 ADHD 與腸胃問題之間存在顯著關聯。」ScienceDaily。ScienceDaily，2026年9月11日。www.sciencedaily.com/releases/2026/09/260911003840.htm。\n\n華威大學。（2026年9月11日）《對190萬人的研究發現 ADHD 與腸胃問題之間存在顯著關聯》。ScienceDaily。取自2026年11月14日，www.sciencedaily.com/releases/2026/09/260911003840.htm\n\n華威大學。「對190萬人的研究發現 ADHD 與腸胃問題之間存在顯著關聯。」ScienceDaily。www.sciencedaily.com/releases/2026/09/260911003840.htm（2026年11月14日查閱）。\n\n相關報道\n\n新型纖維補充劑或可幫助數百萬名腸躁症患者\n\n2026年11月14日——科學家研發出一款具前景的新型纖維補充劑，可改善腸躁症（IBS）患者的腸道健康，而且不會加劇腹脹、疼痛或其他消化症狀。\n\n科學家終於解釋慢性便秘療法經常失效的原因\n\n2026年2月19日——研究人員發現一對新辨識的細菌可能是慢性便秘的隱藏成因。兩種微生物會分解結腸的保護性黏液層，令糞便乾燥堅硬。\n\n超越腸道：針對大腦開拓 IBS 治療新領域\n\n2025年2月5日——腸躁症（IBS）是一種成因不明的常見消化系統疾病，影響全球約10%人口。研究人員現已發現，阿片類藥物.delta受體激動劑可發揮作用。\n\n阿米替林有助紓緩 IBS 症狀\n\n2023年10月16日——新研究發現，阿米替林可改善在普通科診所求診的腸躁症患者症狀。這種價格廉宜且容易處方的藥物，通常用於治療抑鬱症。\n\nADHD 與年長司機發生車禍之間存在強烈關聯\n\n2023年10月4日——一項研究分析注意力缺陷過動症（ADHD）的盛行率及其與年長司機交通意外風險的關聯，發現有 ADHD 的年長司機發生車禍的風險較高。\n\n致病細菌利用腸道黏液層中的糖感染腸道，研究揭示\n\n2023年7月3日——新研究顯示，構成腸道保護性黏液層一部分的唾液酸，可為腸道內致病細菌提供養分，結果或可成為治療介入的潛在目標。",
       "featured": false
     },
     {
-      "title": "在 ADHD 特徵下成長的潛在健康影響",
+      "title": "在具有 ADHD 特徵的環境中成長所帶來的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項歷時數十年的大型研究顯示，兒童期的 ADHD 徵兆可能帶來超越校園與行為層面的後果。研究追蹤近 11,000 人由童年至中年，發現 10 歲時有明顯 ADHD 特徵者，到了中年較可能出現多項生理健康問題及健康相關殘疾。",
+      "summary": "一項歷時數十年的大型研究顯示，兒童期的 ADHD 徵兆可能帶來遠超學業和行為範疇的影響。研究人員追蹤近1.1萬人由童年至中年，發現10歲時有明顯 ADHD 特徵者，日後出現多種生理健康問題及健康相關殘疾的可能性較高。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -526,14 +527,14 @@
           "alt": "ADHD in Childhood Can Affect Adult Health"
         }
       ],
-      "bodyZh": "帶有 ADHD 特徵長大的隱藏健康影響｜ScienceDaily\n\n您獲取最新科研消息的來源\n\n關注：\n\nFacebook\n\nX/Twitter\n\n訂閱：\n\nRSS  feeds\n\n電子通訊\n\n立即註冊我們免費的電子通訊。\n\n來自研究機構的科學新聞\n\n帶有 ADHD 特徵長大的隱藏健康影響\n\n日期：2026年1月24日\n\n來源：倫敦大學學院（University College London）\n\n摘要：一項歷時數十年、規模龐大的研究顯示，兒童時期的 ADHD 徵兆，其影響可能遠超學業與行為範圍。研究人員追蹤近 11,000 人由童年直至中年，發現 10 歲時有明顯 ADHD 特徵的人，到 40 多歲中期時較可能出現多項身體健康問題及健康相關殘疾。\n\n分享：\n\nFacebook\n\nTwitter\n\nPinterest\n\nLinkedIn\n\n電郵\n\n全文\n\n倫敦大學學院（UCL）及利物浦大學研究人員領導的一項大型長itudinal研究顯示，兒童時期的 ADHD 特徵，與中年時較高的身體健康問題及殘疾風險有關。\n\n研究人員追蹤近 11,000 人由童年直至中年，發現 10 歲時有明顯 ADHD 特徵的人，到 46 歲時較可能出現身體健康問題及健康相關殘疾。\n\n研究人員表示，結果很可能反映 ADHD 所伴隨的各種健康風險，也反映 ADHD 患者在成年後整個人生階段所接受的治療與支援所造成的長遠影響。\n\n研究發表於《JAMA Network Open》，是探討兒童 ADHD 特徵如何與日後身體健康相連的規模最大、持續時間最長的研究之一。\n\n證據顯示終生健康挑戰\n\n資深作者、UCL 心理學及語言科學教授 Joshua Stott 表示：「我們在令人關注的證據基礎上再加一項結果，顯示 ADHD 患者在整個人生歷程中，較可能出現差於平均水平的健康狀況。\n\n「ADHD 患者在獲得適當支援下仍可蓬勃發展，但這類支援往往不足，一方面是缺乏切合個別需要的支援服務，另一方面則是 ADHD 仍普遍未被充分診斷，尤其是中年及年長人士，其需要往往未獲處理。」\n\nADHD 如何影響日常功能\n\nADHD 患者在注意力方面會有差異，過動或衝動程度亦會增加。許多患者精力充沛，可以高度專注於自己感興趣的活動，但未必能持續專注於例行或較欠吸引力的任務。\n\n這些挑戰可能影響規劃、時間管理及衝動控制。長期而言，可能令升學和工作變得更困難，並增加日後在社交及職業方面遇到困難的風險。\n\nADHD 始於童年，現時人們普遍明白它往往會持續至成年。然而，在英國，成年人接受治療的比例低於其他高收入國家，支援服務亦仍然有限。\n\n數十年健康結果追蹤\n\n為探討長遠影響，研究人員分析了 UCL 主持的「1970 British Cohort Study」中 10,930 名參與者的資料；這項研究由出生開始追蹤參與者，直至中年。\n\n研究在參與者 10 歲時，以家長及老師填寫的行為問卷評估 ADHD 特徵。無論參與者曾否獲得正式 ADHD 診斷，研究人員均採用這些量度進行分析。\n\n慢性疾病及殘疾比率較高\n\n研究發現，童年時 ADHD 特徵程度較高的人，到 46 歲時較可能報告身體健康問題。他們報告兩項或以上病症（包括偏頭痛、背部問題、癌症、癲癇或糖尿病）的機率高出 14%。\n\n在 10 歲時 ADHD 特徵明顯偏高的人當中，42% 報告中年期至少患有兩項身體健康問題；相比之下，ADHD 特徵評分較低者的相應比例為 37%。\n\n童年 ADHD 特徵較高的人，也較可能在 46 歲時報告身體健康相關殘疾，即因身體健康問題而影響工作或其他日常活動。\n\n健康差異背後的可能原因\n\n研究人員發現，較差的身體健康結果，部分與 ADHD 患者較高的心理健康問題比率、較高 BMI 及吸煙率有關。\n\n過往研究亦顯示，ADHD 患者較可能經歷具壓力的人生事件及社會排斥，亦較少能及時接受醫療篩查及治療。\n\n兒童 ADHD 特徵與身體健康相關殘疾之間的關聯，在女性身上似乎較男性強。\n\nStott 教授補充：「所有這些潛在解釋因素都與以下事實相符：ADHD 令衝動控制更困難，對即時滿足及回報的需求更強烈；加上 ADHD 患者面對的社會劣勢，亦令其心理健康在部分程度上較差。」\n\n對支援及公共衞生的啟示\n\n同一研究團隊去年發表的另一項研究，報告了 ADHD 成年患者的預期壽命可能有所縮短的情況，不過這項發現並不屬於本次研究的範圍。\n\n第一作者 Amber John 博士原先在 UCL 開始這項工作，其後轉往利物浦大學。她強調妥善支援的重要性：「必須指出，ADHD 患者是一個多元群體，各有不同的長處及經歷，大多數人仍能過健康而長壽的人生。\n\n「然而，許多人面對難以取得及時診斷及適當支援的重大障礙。這一點十分重要，因為為 ADHD 患者提供適當支援及滿足其需要，有助改善其身心健康結果。\n\n「此外，公共衞生策略應考慮 ADHD 人士的需要，例如讓 ADHD 患者更容易使用篩查計劃及接受持續健康監察。」\n\n相關主題\n\n健康與醫學\n\n糖尿病\n\n注意力不足症\n\n疾病與病況\n\n個人化醫療\n\n心智與大腦\n\nADD 與 ADHD\n\n學習障礙\n\n頭痛\n\n教育心理學\n\n相關詞彙\n\n心理學\n\n工作狂\n\n學習殘疾\n\n解剖學\n\n攻擊行為\n\n精神疾病\n\n邊緣系統\n\n教育\n\n報道來源\n\n資料由倫敦大學學院提供。\n\n註：內容或會因篇幅及風格需要而經編輯。\n\n期刊參考資料：\n\nJoshua Stott、Elizabeth O'Nions、Lucy Corrigan、Joanne Cotton、Warren James Donnellan、Danielle Nimmons、Henry Shelford、Céline El Baou、Gavin R. Stewart、Rachael W. Cheung、Roopal Desai、Douglas G. J. McKechnie、Aphrodite Eshetu、Rob Saunders、Jae Won Suh、William Mandy、Darya Gaysina、Philip Asherson、Jessica Agnew-Blais 及 Amber John，《Attention-Deficit/Hyperactivity Disorder Traits in Childhood and Physical Health in Midlife》，JAMA Network Open，2026；9(1)：e2554802。DOI：10.1001/jamanetworkopen.2025.54802\n\n引用本文：\n\n倫敦大學學院。《帶有 ADHD 特徵長大的隱藏健康影響》。ScienceDaily，2026年1月24日。https://www.sciencedaily.com/releases/2026/01/260124073920.htm\n\n倫敦大學學院。（2026年1月24日）。《帶有 ADHD 特徵長大的隱藏健康影響》。ScienceDaily。擷取日期：2026年11月13日。https://www.sciencedaily.com/releases/2026/01/260124073920.htm\n\n探索更多\n\n以下是 ScienceDaily 的相關報道：\n\n中年時的維他命 D 水平，可能影響數十年後的大腦健康\n\n2026年4月7日——一項追蹤近 800 人長達 16 年的研究顯示，中年時的維他命 D 水平，對長遠腦部健康的影響可能比過往認為的更大。研究中維他命 D 水平較高的人士……\n\n career 中期真的存在危機嗎？新研究指出，只有高技術工人的工作滿意度呈 U 形軌跡\n\n2025年1月9日——與長期以來認為 career 中期危機纏繞所有人的看法相反，新研究顯示，工作滿意度呈 U 形走勢的，其實只有管理及專業人員……\n\n新研究指出，在同一學年內，年幼學生較年長同學更常被診斷為 ADHD\n\n2024年6月6日——新研究發現，教師可能把與年齡相關的兒童不成熟徵兆，誤認為是注意力不足／過動症（ADHD）或自閉症譜系障礙……\n\n新措施改善注意力不足過動症的偵測與評估\n\n2024年4月1日——注意力不足過動症（ADHD）是最常見的兒童神經行為障礙，學齡兒童的患病率約為 7%至10%。ADHD 對……\n\n30 年研究把兒童期肥胖及體格狀況與中年認知能力相連\n\n2022年6月16日——一項追蹤 1985 年童年兒童超過 30 年、共涉及 1,200 多人的新研究，探討兒童期體格及肥胖對中年認知的影響，結果顯示……\n\n研究建議，現有殘疾或認知障礙人士接受中風治療，同樣安全有效\n\n2022年3月28日——一項研究檢視發現，以溶解血塊藥物及以機械方式移除血塊治療缺血性中風，對原本已有殘疾或認知障礙的成年人……\n\nSCITECHDAILY.com 熱門報道\n\n一個沒有暗物質的宇宙？激進新模型挑戰現代宇宙學\n\n科學家以維他命 B12 研發突破性可充電電池\n\n地球逾 10 億年的歷史出現空白——科學家或終於知道原因\n\n科學家發現隱藏的免疫系統差異，或可解釋肥胖對男女影響不同\n\n列印\n\n電郵\n\n分享\n\n本小時最新消息\n\n過熱岩漿或能推動熔岩噴泉\n\n暗能量的過去隱藏轉折\n\n地球或會放大極端太陽風暴\n\n烏鴉作出決定的速度是人類兩倍\n\nAI 令仿生視覺更接近成為現實\n\nNASA 證實火星岩石含有有機碳\n\n繪製地球失落古代生命的藏寶圖\n\n三種蝴蝶擬態成一種\n\n地球水源可能形成於火焰中\n\n宇宙如何逃離黑暗時代\n\n本週熱門主題\n\n健康與醫學\n\n替代醫學\n\n唐氏綜合症\n\n健身\n\n心智與大腦\n\n智能\n\n消費者行為\n\n抑鬱症\n\n生活與健康\n\n健身\n\n健康老齡化\n\n營養\n\n冷門與 quirky\n\n健康與醫學\n\n抗癌口香糖可把 HPV 水平降低逾 93%\n\n阿茲海默病或會在腦部以外出現早期警號\n\n腸道細菌耗盡纖維後，或會開始吞噬腸道內壁\n\n心智與大腦\n\n科學家發現烏鴉作出決定的速度是人類兩倍\n\n科學家終於發現我們熱愛苦咖啡的原因\n\n科學家發現與記憶喪失有關的神秘「孤獨」腦波\n\n生活與健康\n\n較強的流感疫苗與阿茲海默病風險降低近 55% 有關\n\n再見，蛀牙？科學家創造可再生牙釉質的凝膠\n\n簡單的每日纖維補充劑減輕關節炎痛，並改善肌力\n\n首頁\n\n頂級科學新聞\n\n最新新聞\n\n健康\n\n瀏覽健康科學領域所有最新頂級新聞，或探索下列主題：\n\n健康與醫學\n\n過敏\n\n癌症\n\n感冒與流感\n\n糖尿病\n\n心臟病等更多主題\n\n心智與大腦\n\nADD 與 ADHD\n\n阿茲海默病\n\n頭痛\n\n智能\n\n心理學等更多主題\n\n生活與健康\n\n育兒\n\n兒童發展\n\n壓力\n\n營養\n\n健身等更多主題\n\n科技\n\n瀏覽所有最新頂級新聞（節錄；完整內容請見「閱讀原文」）",
+      "bodyZh": "帶有 ADHD 特徵長大的隱藏健康影響｜ScienceDaily\n\n日期：2026年1月24日\n\n來源：University College London\n\n摘要：一項歷時數十年的大型研究顯示，兒童時期的 ADHD 徵兆，其影響可能遠超學業和行為範疇。研究人員追蹤近 11,000 人由童年直至中年，發現 10 歲時有明顯 ADHD 特徵的人，到 40 多歲中期時較可能出現多項生理健康問題及與健康相關的殘疾。\n\n完整報道\n\n由 University College London（UCL）及 University of Liverpool 研究人員領導的一項大型長期研究顯示，兒童時期的 ADHD 特徵與中年期間較高的生理健康問題及殘疾風險有關。\n\n10 歲時呈現 ADHD 特徵的兒童，到 46 歲時較可能出現生理健康問題及與健康相關的殘疾。\n\n研究人員指出，結果很可能反映多項與注意力缺陷過度活躍症（ADHD）有關的健康風險，也反映 ADHD 患者在成年後所接受的治療與支援對其長期健康狀況的影響。\n\n研究刊登於《JAMA Network Open》，是探討兒童 ADHD 特徵與日後生理健康之間關係規模最大、持續時間最長的研究之一。\n\n證據顯示終生健康挑戰\n\nUCL 心理學及語言科學部資深作者 Joshua Stott 教授表示：「我們在這項研究中進一步擴大了令人關注的證據，顯示 ADHD 患者在整個人生階段的整體健康狀況較可能差於平均水平。\n\n「ADHD 患者在獲得適當支援下可以蓬勃成長，但目前往往欠缺這類支援。這既是由於針對個人需要的支援服務不足，也是因為 ADHD 仍未獲得充分診斷，尤其在中年人和長者之中，導致他們的需要未獲處理。」\n\nADHD 如何影響日常功能\n\nADHD 患者在注意力方面會出現差異，並可能表現出較高程度的多動或衝動。許多患者精力充沛，能高度專注於自己感興趣的活動，但可能難以持續專注於日常或較缺乏吸引力的任務。\n\n這些挑戰可能影響規劃、時間管理及衝動控制。隨着時間推移，學業和工作可能變得更困難，亦可能增加日後在社交及職業方面遇到困難的風險。\n\nADHD 於童年開始，雖然現時已廣泛認識到它通常會持續至成年，但英國成年患者接受治療的程度低於其他高收入國家，支援服務也仍然有限。\n\n跨越數十年的健康結果追蹤\n\n為了解長期影響，研究人員分析了由 UCL 主導的 1970 British Cohort Study 中 10,930 名參與者的數據。這項研究自參與者出生起一直追蹤他們至中年。\n\n研究在參與者 10 歲時，以家長及教師填寫的行為問卷評估其 ADHD 特徵。不論參與者曾否獲得正式 ADHD 診斷，研究人員均採用同一套評估方法。\n\n慢性疾病及殘疾比例較高\n\n研究發現，童年時 ADHD 特徵程度較高的人，到 46 歲時較可能報告生理健康問題。他們報告患有兩項或以上病症（包括偏頭痛、背部問題、癌症、癲癇或糖尿病）的機率高出 14%。\n\n在 10 歲時 ADHD 特徵較明顯的參與者中，42% 報告在中年時至少患有兩項生理健康問題；相比之下，ADHD 特徵評分較低者的相應比例為 37%。\n\n童年 ADHD 特徵較高者，到 46 歲時亦較可能報告與生理健康有關的殘疾，即因身體健康問題而影響工作或其他日常活動。\n\n健康差異背後的可能原因\n\n研究人員發現，較差的生理健康結果，部分與 ADHD 人士較高的心理健康問題比例、較高的 BMI，以及較高的吸煙率有關。\n\n過往研究亦顯示，ADHD 人士較可能經歷壓力事件及社交排斥，亦較不可能及時接受醫療檢查和治療。\n\n童年 ADHD 特徵與生理健康相關殘疾之間的關聯，在女性中似乎較男性強。\n\nStott 教授補充：「所有這些潛在解釋因素，均符合以下事實：ADHD 會令衝動控制更困難，對即時滿足和獎勵的需求更強烈，亦與較差的心理健康有關，部分原因是 ADHD 人士在社會上處於不利地位。」\n\n對支援及公共健康的啟示\n\n同一研究團隊去年發表的另一項研究，曾報告成年 ADHD 患者的預期壽命可能較短，但該發現並不屬於今次研究的一部分。\n\n首席作者 Amber John 醫生在 UCL 開始這項工作，其後轉往 University of Liverpool。她強調適當支援的重要性：「必須指出，ADHD 人士是一個多元群體，各有不同的強項和經歷，而大多數人仍能過上長壽及健康的生活。\n\n「然而，許多人面對種種障礙，未能及時獲得診斷和適當支援。這一點十分重要，因為為 ADHD 人士提供合適支援及滿足其需要，有助改善他們的身體及心理健康結果。\n\n「此外，公共健康策略應考慮 ADHD 人士的需要，例如讓 ADHD 患者更容易使用篩查服務及接受持續健康監察。」\n\n研究來源：University College London。內容可能因風格及篇幅需要而經編輯。\n\n期刊參考資料：\n\nJoshua Stott、Elizabeth O’Nions、Lucy Corrigan、Joanne Cotton、Warren James Donnellan、Danielle Nimmons、Henry Shelford、Céline El Baou、Gavin R. Stewart、Rachael W. Cheung、Roopal Desai、Douglas G. J. McKechnie、Aphrodite Eshetu、Rob Saunders、Jae Won Suh、William Mandy、Darya Gaysina、Philip Asherson、Jessica Agnew-Blais、Amber John，《Attention-Deficit/Hyperactivity Disorder Traits in Childhood and Physical Health in Midlife》，《JAMA Network Open》，2026；9（1）：e2554802。DOI：10.1001/jamanetworkopen.2025.54802",
       "featured": false
     },
     {
-      "title": "研究發現：運用 ADHD 優勢有助改善心理健康",
+      "title": "研究發現 ADHD 的強項與較佳心理健康有關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示 ADHD 較光明的一面：成年人若能察覺並運用自身優勢，會更開心、更健康，压力也較少。ADHD 人士較常將創意、幽默及高度專注等特質視作個人優勢。整體而言，運用這些優勢與更好的生活品質及較少精神健康問題有關。",
+      "summary": "新研究揭示 ADHD 較光明的一面：成年人若能識別並運用自己的強項，會感到更開心、更健康，壓力亦較低。ADHD 患者較常將創意、幽默和高度專注視為個人強項；整體而言，運用這些強項與較佳生活質素及較少心理健康問題有關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -549,10 +550,10 @@
       "featured": false
     },
     {
-      "title": "ADHD 藥物的作用方式與我們想像的不同",
+      "title": "ADHD 藥物的運作方式與我們想像的不同",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD 興奮劑似乎主要不是藉著提升專注力發揮作用，而是喚醒大腦。腦部掃描顯示，這些藥物會啟動獎賞及警覺系統，幫助兒童對原本會避開的任務保持興趣，甚至扭轉與睡眠不足相關的腦部活動模式。研究人員表示，這可能令 ADHD 的診斷更加複雜。",
+      "summary": "ADHD 興奮劑似乎主要不是靠 sharpen 專注力，而是透過喚醒大腦發揮作用。腦部掃描顯示，藥物會啟動獎勵及警覺系統，幫助兒童保持對原本會避開的任務的興趣。藥物甚至能逆轉與睡眠 deprivation 相關的腦部模式；研究人員指這或會令 ADHD 診斷更複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -571,7 +572,7 @@
       "title": "機構警告：多國未能防止兒童遭受暴力",
       "url": "https://www.who.int/news/item/18-06-2020-countries-failing-to-prevent-violence-against-children-agencies-warn",
       "publishedAt": "2020-06-18T13:00:57.000Z",
-      "summary": "世界衛生組織（WHO）、UNICEF及聯合國今日發布新報告指出，全球約一半兒童每年遭受身體、性或心理暴力，導致受傷、殘疾甚至死亡；原因是各國未能落實既有的兒童保護策略。",
+      "summary": "全球一半兒童，即每年約10億名兒童，受肢體、性或心理暴力影響，並因而受傷、殘疾甚至死亡，原因是各國未能落實既有的兒童保護策略。這是世衞組織（WHO）、聯合國兒童基金會（UNICEF）及聯合國今日發布的新報告所指出的情況。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
@@ -591,10 +592,10 @@
       "featured": false
     },
     {
-      "title": "為面臨疾病死亡威脅的1100萬名兒童帶來希望",
+      "title": "為面對疾病死亡威脅的1,100萬名兒童帶來希望",
       "url": "https://www.who.int/news/item/26-05-2003-efdef5c2-0e18-435f-a4d3-37757f7b178f",
       "publishedAt": "2020-03-19T09:17:06.000Z",
-      "summary": "世界衛生大會有力支持兒童及青少年健康的新策略方向。該策略整合了減少兒童死亡及長期殘疾的關鍵措施，並旨在減少每年140萬名青少年的死亡。去年死亡兒童及青少年的數目是前一年的兩倍。",
+      "summary": "世界衛生大會大力支持兒童及青少年健康的新策略方向，結合減少兒童死亡及長期殘疾的關鍵措施。策略亦旨在減少每年140萬名青少年死亡。去年死於疾病的兒童及青少年人數是去年的兩倍。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
