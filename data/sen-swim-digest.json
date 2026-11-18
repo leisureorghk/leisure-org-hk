@@ -1,12 +1,114 @@
 {
-  "updatedAt": "2026-11-17T08:51:32.711Z",
-  "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
+  "updatedAt": "2026-11-18T08:14:33.481Z",
+  "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；非繁中標題／摘要經 API 譯為繁中；詳情頁長文翻譯預設關閉以節省用量，圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "Young adults with learning disabilities make Last Leg TV wrestling debut",
+      "title": "自閉症男孩的羊驼農場成為特殊教育學童的安全港",
+      "url": "https://www.bbc.co.uk/news/articles/cr2klx1ke5dgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T06:05:34.000Z",
+      "summary": "農場的羊驼及瓦萊黑鼻羊令當地學校的學生感到放鬆和快樂。",
+      "sourceName": "BBC 新聞（障礙）",
+      "sourceId": "bbc-disability",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/825/cpsprodpb/1856/live/8bba3d60-e1d8-11f1-b8c8-67fa35f5afdb.jpg",
+          "alt": "Hayden wearing a black coat and hoodie and headphones putting his thumb up to the camera while the brown and cream alpacas are in the background."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/48d9/live/a762eda0-e1d8-11f1-b8c8-67fa35f5afdb.jpg",
+          "alt": "Hayden with black headphones and coat leaning on a brown wooden fence alongside his mum Caroline who has long brown hair, glasses, black coat and orange hat. The alpacas, which are brown and white, are in the background."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0a91/live/d2310710-e1d8-11f1-b8c8-67fa35f5afdb.jpg",
+          "alt": "A brown alpaca with white bits of fur on its&#x27; face. It has a rainbow collar and a pink lead attached."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/30f5/live/0549ee00-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+          "alt": "Laura Fisher has long blonde hair and is wearing a checked blazer and black top."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/944/cpsprodpb/bd1d/live/82fbaa00-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+          "alt": "Hayden holding one of the alpacas, a cream one, on a pink lead. There is a brown alpaca"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/3527/live/660f6020-aa08-11f1-afb5-a367f96884d3.jpg",
+          "alt": "Four golden retriever puppies sitting beside each other in the boot of a car. They are small and fluffy with dark eyes and black noses."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9ff9/live/84a211d0-adf6-11f1-ad53-0d91a06f3150.jpg",
+          "alt": "Two girls, one with dark hair and one with light hair kneel down beside a dog for a photo"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/e73f/live/e41de9c0-e134-11f0-aae2-2191c0e48a3b.png",
+          "alt": "A cocker spaniel sits beside a outdoor Christmas tree. In front of the tree are two stuffed toys."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/be4e/live/84536ea0-b319-11f0-8982-ab3cc4bf0a4d.jpg",
+          "alt": "A white labradoodle with a purple harness around the nose. The dog also has a green and purple bandanna around the neck."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7e9c/live/2863cff0-e31e-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A woman staring straight into the camera"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "title": "拉姆塞－皮蒂領銜，國際游泳聯盟復辦賽事慎勿操之過急",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/ck1wvzryg015o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T17:17:18.000Z",
+      "summary": "亞當．拉姆塞－皮蒂將領銜國際游泳聯盟復辦的全明星賽；主辦方承諾吸取過往財經問題的教訓，不會「過度擴張」。",
+      "sourceName": "BBC 運動（游泳）",
+      "sourceId": "bbc-swimming",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/beb5/live/2f9cb0b0-d1e5-11f1-8e07-c79267b33d55.jpg",
+          "alt": "Head and shoulders view of a wet-faced Adam Ramsay-Peaty, wearing black, blue and purple swimming goggles, pulled up above his eyes, plus a largely red swimming cap featuring a union jack flag image and GBR RAMSAY-PEATY in white lettering"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5dec/live/8971e410-e2d5-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Rachel Furness reacts to Northern Ireland winning group"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d1a5/live/4dc3cf10-e2a7-11f1-8226-87dfa5049e9a.jpg",
+          "alt": "Andoni Iraola and Maghull FC youth players"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f834/live/07355320-e2b1-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Rassie Erasmus"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5fef/live/fb1fcb60-e297-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Keira Bevan, Kane, Hulk Hogan and John Cena"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2a74/live/2e000760-e29e-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "French Football Federation president Philippe Diallo announces his bid for Fifa presidency"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e4c1/live/8a22e000-e292-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Sarina Wiegman and Burna Boy"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2ba1/live/8e129fb0-e2b1-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Kya Placide smiles"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/efd7/live/2d853470-e2d2-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Lauren Price Michaela Kotaskova"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/be29/live/c7795730-e2a7-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Gareth Thomas puts in a tackle against New Zealand"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "title": "有學習障礙的年輕人首次亮相《最後一腿》電視摔角節目",
       "url": "https://www.bbc.co.uk/news/articles/cqgm398dywmro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-16T15:12:14.000Z",
-      "summary": "Members of the Tuned In Project showcased their wrestling skills on Channel 4's The Last Leg.",
+      "summary": "Tuned In Project成員在第四頻道《最後一腿》節目中展示摔角技巧。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -16,7 +118,7 @@
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/cb94/live/c0a57220-e1be-11f1-a339-49d4d3ed4c86.jpg",
-          "alt": "A number of the Tune In project get a picture with host Adam Willis, who is holding a Tuned In Project belt"
+          "alt": "A number of the Tune In project get a picture with host Adam Hills, who is holding a Tuned In Project belt"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/27f8/live/db8e7150-e1bd-11f1-a339-49d4d3ed4c86.jpg",
@@ -43,21 +145,21 @@
           "alt": "A young woman with long hair is singing in front of a microphone, she has her left arm raised in the air."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f57b/live/a7959160-e20f-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A mugshot of hacker Arion Kurtaj. He has short dark hair and is wearing a grey round-necked shirt."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7c5d/live/a6306ef0-e2c6-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "A picture of a health information poster in California. It has the title Measles Alert in red capital letters."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dcb2/live/c3a0f8b0-e1db-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Robert Pattinson has long brown hair and stubble looking past the camera."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5cd7/live/c4b49740-e2ba-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "The Wales rugby team, bathed in red light and standing in a line, watch the New Zealand team performing the haka under a spotlight on the Principality Stadium pitch."
         }
       ],
       "featured": false
     },
     {
-      "title": "Tourette's film I Swear wins three Scottish Baftas",
+      "title": "Tourette症電影《我發誓》勇奪三項蘇格蘭 BAFTA 獎",
       "url": "https://www.bbc.co.uk/news/articles/crgqx11wkzy8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-16T12:04:13.000Z",
-      "summary": "The film about Tourette syndrome campaigner John Davidson won Best Film, Best Director and Best Actor.",
+      "summary": "講述Tourette症倡議者約翰．戴維森的電影，贏得最佳電影、最佳導演及最佳男演員獎。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -78,37 +180,37 @@
           "alt": "John Davidson"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f57b/live/a7959160-e20f-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A mugshot of hacker Arion Kurtaj. He has short dark hair and is wearing a grey round-necked shirt."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7e9c/live/2863cff0-e31e-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A woman staring straight into the camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dcb2/live/c3a0f8b0-e1db-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Robert Pattinson has long brown hair and stubble looking past the camera."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/39b8/live/0760bb60-e31e-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "A BBC correspondent standing in a river and collecting water"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c046/live/bf8da1a0-e24f-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A large black and yellow drone is hovering in the sky. A skyscraper can be seen behind it in the distance."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9957/live/3bc7f440-e31e-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A picture of a chicken tikka pie"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/46de/live/c2e89700-e250-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Susan Calman is sitting down looking to the side of the camera. She is speaking into a radio microphone and is wearing black headphones."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7c5d/live/a6306ef0-e2c6-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "A picture of a health information poster in California. It has the title Measles Alert in red capital letters."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/cee3/live/d7013550-e1ef-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "UK Prime Minister Andy Burnham sits in front of two large flags. The one on the left is the Union Jack and the other is the European Union flag."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5cd7/live/c4b49740-e2ba-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "The Wales rugby team, bathed in red light and standing in a line, watch the New Zealand team performing the haka under a spotlight on the Principality Stadium pitch."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/850f/live/673680a0-e1a3-11f1-a83a-71a20ac9b219.jpg",
-          "alt": "A teenager looks off into the distance with dark brown hair and a nose ring."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/94f7/live/713fd510-e2b6-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Louise Gough, a woman with dark hair, stands in a zip-up top and jeans holding a champagne glass next to a dark curtain with gold helium balloons next to it."
         }
       ],
       "featured": false
     },
     {
-      "title": "Tourette's film I Swear the big winner at the Scottish Baftas",
+      "title": "Tourette症電影《我發誓》成蘇格蘭 BAFTA 大贏家",
       "url": "https://www.bbc.co.uk/news/videos/cvrlg3dp98rlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-16T11:59:21.000Z",
-      "summary": "The film about Tourette syndrome campaigner John Davidson won Best Film, Best Director and Best Actor.",
+      "summary": "講述Tourette症倡議者約翰．戴維森的電影，贏得最佳電影、最佳導演及最佳男演員獎。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -156,84 +258,10 @@
       "featured": false
     },
     {
-      "title": "Special needs overhaul in England could bring in new avenues for extra support",
-      "url": "https://www.theguardian.com/education/2026/nov/16/families-rights-appeal-support-send-overhaul-england",
-      "publishedAt": "2026-11-16T06:00:35.000Z",
-      "summary": "Planned reforms could include appeals to ombudsman or review panel for parents dissatisfied with provisions Families of children with special needs may get new avenues to appeal for extra support at school, under major concessions being considered for the government’s overhaul of special needs education in England. The move comes as the government’s reforms ",
-      "sourceName": "《衛報》教育",
-      "sourceId": "guardian-education",
-      "images": [
-        {
-          "src": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=education",
-          "alt": ""
-        },
-        {
-          "src": "https://i.guim.co.uk/img/media/681dfa3b17c9c913ee0e3c919781fa3616c07b1d/479_0_2917_2333/master/2917.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none",
-          "alt": "Children writing in exercise books"
-        },
-        {
-          "src": "https://i.guim.co.uk/img/media/10b4e02333ee97ecf51d5e814fd324a88832fb17/1177_0_2998_3000/2998.jpg?width=100&amp;dpr=2&amp;s=none&amp;crop=1%3A1",
-          "alt": ""
-        }
-      ],
-      "featured": false
-    },
-    {
-      "title": "Levelling the playing field for those with disabilities",
-      "url": "https://www.bbc.co.uk/news/articles/crz989zyqpqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T06:40:05.000Z",
-      "summary": "The multi-sports day allowed children to try out different sports such as powerchair football, wheelchair tennis, wheelchair cycling, golf and boccia.",
-      "sourceName": "BBC 新聞（障礙）",
-      "sourceId": "bbc-disability",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9c91/live/4cc334c0-dd11-11f1-9019-999bcb7fa2d2.jpg",
-          "alt": "Aoibheann, with brown hair and glasses is in a powered wheelchair holding a soft toy. She is wearing a pink cardigan and trousers. Her dad Ethan leans in beside her. He has mid-length hair. He is wearing a black cardigan, a red top and dark trousers. They are in a sports hall which has blue, red, white and black lines marked on the floor."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/dddc/live/98a25000-dd12-11f1-9019-999bcb7fa2d2.jpg",
-          "alt": "Macie with brown hair worn in plaits. She is wearing glasses and is wearing a red top. A red hoop and a red, blue and white target lie flat on the floor. The people behind her are playing boccia. She is in a sports hall which has blue, red, white and black lines marked on the floor. A white basketball net is seen behind her on the wall."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c399/live/ac76a5d0-dd13-11f1-a701-fddedf244c16.jpg",
-          "alt": "Gemma who has dark hair, glasses and a brown top with white stripes beside her child Naoise who has brown hair, and a white top. They are in a sports hall which has blue, red, white and black lines marked on the floor. Other participants behind him are in wheelchairs playing tennis."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ac85/live/cffd89a0-dd14-11f1-9ee9-1b95b66787ea.jpg",
-          "alt": "Thomas, who has short brown hair, is wearing glasses and a grey Super Mario hoodie. He is sitting on a wheelchair in a sports hall which has blue, red, white and black lines marked on the floor. Other participants behind him are in wheelchairs playing tennis."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d67a/live/43dd5b90-dd18-11f1-b4f2-5145cca625ab.jpg",
-          "alt": "Ellie Kirk, with mid-length brown hair, is wearing a green School Games hoodie in a sports hall. Disability Sport NI banners and rows of chairs are visible in the background. The wooden floor is marked with green, red, blue, black and yellow lines."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b3f0/live/b4044e80-ddbb-11f1-9582-1b529d725aaf.jpg",
-          "alt": "Niall Irwin who has light hair is wearing a Disability Sport NI hoodie. Sports equipment such as a red hoop and curling equipment are seen in the background. He is in a sports hall where the wooden floor is marked with green, red, blue, black and yellow lines."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/360e/live/76045f00-d37f-11ef-a118-e59aa5b2fa98.jpg",
-          "alt": "Jennifer is smiling at the camera. She has wavy blond hair and a blue fleece beneath a black waterproof coat. There are machines behind her."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c1d6/live/31e6e480-a4fa-11f0-8e74-1f6664d312e9.jpg",
-          "alt": "A man with red hair looks at the camera. The picture is taken in a sports hall, and he is wearing a green vest, and has a tattoo of flowers and a guitar on his left shoulder."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ff0d/live/8d3f1420-7e79-11f1-ba5d-f54924dede3b.jpg",
-          "alt": "Freya Terris is a young woman with shoulder length light brown hair, which is hanging in loose waves around her face. She is smilling at the camera. She is wearing a burgundy t-shirt and is sitting on a piano stool with her arms crossed. She is sitting in front of a glossy brown piano, and there is a metronome, a plant and a large trophy seen sat around her."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f57b/live/a7959160-e20f-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A mugshot of hacker Arion Kurtaj. He has short dark hair and is wearing a grey round-necked shirt."
-        }
-      ],
-      "featured": false
-    },
-    {
-      "title": "Smith's Netherlands switch sad - SA swimming boss",
+      "title": "史密斯轉投荷蘭令人感到傷心——南非游泳總會主席",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cmy86x3y5dd8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-12T11:40:04.000Z",
-      "summary": "Tatjana Smith's decision to switch allegiance to the Netherlands is \"sad\" for South Africa, says the head of the nation's swimming federation.",
+      "summary": "塔蒂雅娜·史密斯決定轉投荷蘭，南非游泳總會主席表示，此事對南非而言「令人傷心」。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -242,49 +270,49 @@
           "alt": "Tatjana Smith poses on the podium after winning women’s 100m breaststroke gold at the Paris 2024 Olympic Games"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/71d4/live/d1b00480-e20a-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Andy Robertson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5dec/live/8971e410-e2d5-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Rachel Furness reacts to Northern Ireland winning group"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6902/live/c423a320-e210-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Sebastien Pocognoli"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d1a5/live/4dc3cf10-e2a7-11f1-8226-87dfa5049e9a.jpg",
+          "alt": "Andoni Iraola and Maghull FC youth players"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b77b/live/4316cde0-e213-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "John McGinn"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f834/live/07355320-e2b1-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Rassie Erasmus"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7a0f/live/a4be3e30-e1fe-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Chris Sutton &amp; Thomas Tuchel"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5fef/live/fb1fcb60-e297-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Keira Bevan, Kane, Hulk Hogan and John Cena"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0bdf/live/07013c20-e1f3-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Pochettino says he&#x27;ll look to US when bringing players to United"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2a74/live/2e000760-e29e-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "French Football Federation president Philippe Diallo announces his bid for Fifa presidency"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c4dd/live/f739dfe0-e1ed-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Fan in front of BBC Sport microphone"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e4c1/live/8a22e000-e292-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Sarina Wiegman and Burna Boy"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2d8d/live/640ade20-ddbc-11f1-b441-2b33b063138f.jpg",
-          "alt": "Wayne Rooney in the jungle with a picture of Wayne Rooney and Micah Richards looking at eachother"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2ba1/live/8e129fb0-e2b1-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Kya Placide smiles"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ce07/live/60c62560-e1d8-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Rob Green on James Trafford"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/efd7/live/2d853470-e2d2-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Lauren Price Michaela Kotaskova"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5a28/live/6c302250-e1da-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "FA Cup trophy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/be29/live/c7795730-e2a7-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Gareth Thomas puts in a tackle against New Zealand"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
-      "title": "Cancer campaigner Goodburn to deliver rugby match ball",
+      "title": "抗癌倡議者古德本將為欖球賽獻上比賽球",
       "url": "https://www.bbc.co.uk/sport/articles/cqn49jxjg19eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T13:45:55.000Z",
-      "summary": "Champion swimmer and brain cancer research campaigner Archie Goodburn will deliver the match ball for Scotland's Nations Championship match against Australia next month.",
+      "summary": "游泳冠軍、腦癌研究倡議者阿奇·古德本將於下月為蘇格蘭對澳洲的國錦賽獻上比賽球。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -293,49 +321,49 @@
           "alt": "Archie Goodburn in action in the pool"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/71d4/live/d1b00480-e20a-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Andy Robertson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5dec/live/8971e410-e2d5-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Rachel Furness reacts to Northern Ireland winning group"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6902/live/c423a320-e210-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Sebastien Pocognoli"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d1a5/live/4dc3cf10-e2a7-11f1-8226-87dfa5049e9a.jpg",
+          "alt": "Andoni Iraola and Maghull FC youth players"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b77b/live/4316cde0-e213-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "John McGinn"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f834/live/07355320-e2b1-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Rassie Erasmus"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7a0f/live/a4be3e30-e1fe-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Chris Sutton &amp; Thomas Tuchel"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5fef/live/fb1fcb60-e297-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Keira Bevan, Kane, Hulk Hogan and John Cena"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0bdf/live/07013c20-e1f3-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Pochettino says he&#x27;ll look to US when bringing players to United"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2a74/live/2e000760-e29e-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "French Football Federation president Philippe Diallo announces his bid for Fifa presidency"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c4dd/live/f739dfe0-e1ed-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Fan in front of BBC Sport microphone"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e4c1/live/8a22e000-e292-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Sarina Wiegman and Burna Boy"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2d8d/live/640ade20-ddbc-11f1-b441-2b33b063138f.jpg",
-          "alt": "Wayne Rooney in the jungle with a picture of Wayne Rooney and Micah Richards looking at eachother"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2ba1/live/8e129fb0-e2b1-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Kya Placide smiles"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ce07/live/60c62560-e1d8-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Rob Green on James Trafford"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/efd7/live/2d853470-e2d2-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Lauren Price Michaela Kotaskova"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5a28/live/6c302250-e1da-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "FA Cup trophy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/be29/live/c7795730-e2a7-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Gareth Thomas puts in a tackle against New Zealand"
         }
       ],
       "featured": false
     },
     {
-      "title": "Swimmer Archie Goodburn thanks prime minister as brain cancer review announced",
+      "title": "腦癌檢討公布　泳將阿奇·古德本感謝首相",
       "url": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-14T19:04:46.000Z",
-      "summary": "The Scottish athlete, who has inoperable brain tumours, previously made a tearful plea for more investment in brain cancer research on BBC Breakfast.",
+      "summary": "這名患不可手術腦腫瘤的蘇格蘭運動員，曾在《BBC Breakfast》節目中含淚呼籲增加腦癌研究投資。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -352,41 +380,41 @@
           "alt": "Archie Goodburn"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f57b/live/a7959160-e20f-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A mugshot of hacker Arion Kurtaj. He has short dark hair and is wearing a grey round-necked shirt."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7e9c/live/2863cff0-e31e-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A woman staring straight into the camera"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dcb2/live/c3a0f8b0-e1db-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Robert Pattinson has long brown hair and stubble looking past the camera."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/94f7/live/713fd510-e2b6-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Louise Gough, a woman with dark hair, stands in a zip-up top and jeans holding a champagne glass next to a dark curtain with gold helium balloons next to it."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c046/live/bf8da1a0-e24f-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A large black and yellow drone is hovering in the sky. A skyscraper can be seen behind it in the distance."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/59fe/live/7392ed00-e2db-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "A large number of red crabs seen together on a path through the forest."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/46de/live/c2e89700-e250-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Susan Calman is sitting down looking to the side of the camera. She is speaking into a radio microphone and is wearing black headphones."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/39b8/live/0760bb60-e31e-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "A BBC correspondent standing in a river and collecting water"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/cee3/live/d7013550-e1ef-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "UK Prime Minister Andy Burnham sits in front of two large flags. The one on the left is the Union Jack and the other is the European Union flag."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9957/live/3bc7f440-e31e-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A picture of a chicken tikka pie"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/850f/live/673680a0-e1a3-11f1-a83a-71a20ac9b219.jpg",
-          "alt": "A teenager looks off into the distance with dark brown hair and a nose ring."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7c5d/live/a6306ef0-e2c6-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "A picture of a health information poster in California. It has the title Measles Alert in red capital letters."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6062/live/27177e50-e1b4-11f1-9a3f-99aca912798e.jpg",
-          "alt": "James Trafford"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5cd7/live/c4b49740-e2ba-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "The Wales rugby team, bathed in red light and standing in a line, watch the New Zealand team performing the haka under a spotlight on the Principality Stadium pitch."
         }
       ],
       "featured": false
     },
     {
-      "title": "‘Just like my big brothers’: boy with cerebral palsy passes GCSEs with eye-tracking technology",
+      "title": "「就像我的兩個哥哥」：腦麻痺男孩借助眼動追蹤技術通過GCSE",
       "url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
       "publishedAt": "2026-10-02T17:18:06.000Z",
-      "summary": "Patrick McCabe’s herculean feat shows limits and possibilities of special educational needs and disabilities system Patrick McCabe is instantly recognisable in the early autumn sunshine, his wheelchair surrounded by fellow pupils at Fallibroome Academy in Macclesfield, Cheshire as they move from lesson to lesson, chatting, laughing and joking around. His ext",
+      "summary": "帕特里克·麥凱布在特殊教育需要及殘疾支援體系下完成GCSE，展現了這套體系的局限與可能性。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -434,61 +462,10 @@
       "featured": false
     },
     {
-      "title": "Teenager Ohashi overcomes Covid to set world record",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/ckzdzm06n2pyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T15:12:12.000Z",
-      "summary": "Shin Ohashi, 17, claims his second gold medal of the Asian Games with a world record in the 200m breaststroke.",
-      "sourceName": "BBC 運動（游泳）",
-      "sourceId": "bbc-swimming",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/796b/live/91d692f0-b827-11f1-9173-8b6ede38f022.jpg",
-          "alt": "Shin Ohashi with his gold medal after winning the 200m breaststroke at the Asian Games"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9302/live/5e71f350-b732-11f1-9f81-a10976817ca3.jpg",
-          "alt": "China swimmer Yu Zidi in the water during a race"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/570d/live/93710940-b5db-11f1-bc1f-3f186ca4140c.jpg",
-          "alt": "A headshot show Tatjana Smith smiling broadly as she holds up her 100m breaststroke gold medal during the medal ceremony at the Paris 2024 Olympic Games"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/71d4/live/d1b00480-e20a-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Andy Robertson"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6902/live/c423a320-e210-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Sebastien Pocognoli"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b77b/live/4316cde0-e213-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "John McGinn"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7a0f/live/a4be3e30-e1fe-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Chris Sutton &amp; Thomas Tuchel"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0bdf/live/07013c20-e1f3-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Pochettino says he&#x27;ll look to US when bringing players to United"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c4dd/live/f739dfe0-e1ed-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Fan in front of BBC Sport microphone"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/2d8d/live/640ade20-ddbc-11f1-b441-2b33b063138f.jpg",
-          "alt": "Wayne Rooney in the jungle with a picture of Wayne Rooney and Micah Richards looking at eachother"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "title": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
+      "title": "研究190萬人發現ADHD與腸胃問題有顯著關聯",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
       "publishedAt": "2026-09-11T11:26:08.000Z",
-      "summary": "Researchers analyzing data from more than 1.9 million people found that ADHD is associated with substantially higher rates of digestive problems. People with ADHD had nearly double the odds of constipation, 58% higher odds of irritable bowel syndrome, and more than four times the odds of encopresis.",
+      "summary": "研究人員分析逾190萬人的資料，發現ADHD與消化問題大幅增加有關；患者便秘機率接近兩倍、腸躁症機率高58%，糞便失禁機率更超過四倍。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -504,10 +481,10 @@
       "featured": false
     },
     {
-      "title": "The hidden health impact of growing up with ADHD traits",
+      "title": "成长期间带有 ADHD 特征所带来的隐藏健康影响",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "A large, decades-long study suggests that signs of ADHD in childhood may have consequences that extend well beyond school and behavior. Researchers followed nearly 11,000 people from childhood into midlife and found that those with strong ADHD traits at age 10 were more likely to experience multiple physical health problems and health-related disability by t",
+      "summary": "一项历时数十年的大型研究显示，儿童时期的 ADHD 特征可能带来远超学业和行為範圍的影響。近 11,000 人由童年接受追蹤至中年，結果顯示 10 歲時有明顯 ADHD 特征者，日後較易出現多種健康問題及健康相關殘障。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -523,10 +500,10 @@
       "featured": false
     },
     {
-      "title": "Researchers find ADHD strengths linked to better mental health",
+      "title": "研究發現 ADHD 的優點與更佳心理健康有關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "New research reveals a brighter side of ADHD, showing that adults who recognize and use their strengths feel happier, healthier, and less stressed. People with ADHD were more likely to identify traits like creativity, humor, and hyperfocus as personal strengths. Across the board, using these strengths was linked to better quality of life and fewer mental hea",
+      "summary": "新研究揭示 ADHD 較明亮的一面：成年人若能認識並運用自己的優點，往往更快樂、更健康，压力也較低。ADHD 患者較容易視創意、幽默和高度專注等特質為個人優點，而運用這些優點與較佳生活質素及較少心理健康問題有關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -542,10 +519,10 @@
       "featured": false
     },
     {
-      "title": "ADHD drugs don’t work the way we thought",
+      "title": "ADHD 藥物的運作方式與我們原先所想不同",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD stimulants appear to work less by sharpening focus and more by waking up the brain. Brain scans revealed that these medications activate reward and alertness systems, helping children stay interested in tasks they would normally avoid. The drugs even reversed brain patterns linked to sleep deprivation. Researchers say this could complicate ADHD diagnose",
+      "summary": "腦部掃描顯示，ADHD 興奮劑主要透過喚醒大腦、活化獎賞及警覺系統發揮作用，幫助兒童對通常會避開的任務保持興趣。藥物甚至可逆轉與睡眠不足有關的腦部模式，研究人員指這或會令 ADHD 診斷更複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -561,10 +538,10 @@
       "featured": false
     },
     {
-      "title": "Countries failing to prevent violence against children, agencies warn",
+      "title": "機構警告：多國未能防止兒童遭受暴力",
       "url": "https://www.who.int/news/item/18-06-2020-countries-failing-to-prevent-violence-against-children-agencies-warn",
       "publishedAt": "2020-06-18T13:00:57.000Z",
-      "summary": "Half of the world’s children, or approximately 1 billion children each year are affected by physical, sexual or psychological violence, suffering injuries, disabilities and death, because countries have failed to follow established strategies to protect them. This is according to a new report published today by the World Health Organization (WHO), UNICEF, UN",
+      "summary": "世界衛生組織、聯合國兒童基金會等機構發表報告指出，全球約半數兒童，即每年約 10 億名兒童，身體、性或心理上遭受暴力，並因而受傷、殘障甚至死亡，原因正是多國未落實既有的兒童保護策略。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
@@ -574,20 +551,20 @@
         },
         {
           "src": "https://www.who.int/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-blue.svg",
-          "alt": "Home"
+          "alt": ""
         },
         {
           "src": "https://www.who.int/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg",
-          "alt": "Home"
+          "alt": ""
         }
       ],
       "featured": false
     },
     {
-      "title": "Hope for 11 million children facing death from illnesses",
+      "title": "1100 萬名因疾病面臨死亡的兒童終見希望",
       "url": "https://www.who.int/news/item/26-05-2003-efdef5c2-0e18-435f-a4d3-37757f7b178f",
       "publishedAt": "2020-03-19T09:17:06.000Z",
-      "summary": "The World Health Assembly has given a powerful endorsement to new strategic directions for child and adolescent health. The strategy brings together crucial elements to reduce childhood deaths and long term disability. It also aims to reduce the 1.4 million adolescent deaths each year. Last year, the number of children and adolescents who died was double the",
+      "summary": "世界衛生大會大力支持新的兒童及青少年健康策略，透過整合關鍵措施，減少兒童死亡及長期殘障，並冀望每年降低 140 萬名青少年死亡。兒童及青少年死亡人數目前較過往水平高出一倍。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
@@ -597,11 +574,11 @@
         },
         {
           "src": "https://www.who.int/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-blue.svg",
-          "alt": "Home"
+          "alt": ""
         },
         {
           "src": "https://www.who.int/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg",
-          "alt": "Home"
+          "alt": ""
         }
       ],
       "featured": false
