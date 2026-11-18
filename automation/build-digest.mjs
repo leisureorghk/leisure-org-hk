@@ -176,12 +176,22 @@ function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
+/** 標題／摘要已大致是繁中時略過翻譯，省 token */
+function looksMostlyChinese(text) {
+  const s = String(text || '');
+  if (s.length < 8) return false;
+  const han = (s.match(/[\u4e00-\u9fff]/g) || []).length;
+  const latin = (s.match(/[A-Za-z]/g) || []).length;
+  return han >= 6 && han >= latin * 1.2;
+}
+
 async function translateDigestOneItem(it, { apiKey, base, model }) {
+  if (looksMostlyChinese(`${it.title || ''} ${it.summary || ''}`)) return it;
   const system = `你是繁體中文（香港）翻譯。只輸出一個 JSON 物件，僅含鍵 title、summary；不要 markdown、不要其它字。
-將下列英文標題與摘要譯為繁體中文；summary 壓縮在 280 個中文字以內；專有名詞可保留英文。`;
+將下列英文標題與摘要譯為繁體中文；summary 壓縮在 160 個中文字以內；專有名詞可保留英文。`;
   const user = JSON.stringify({
-    title: (it.title || '').slice(0, 500),
-    summary: (it.summary || '').slice(0, 900),
+    title: (it.title || '').slice(0, 180),
+    summary: (it.summary || '').slice(0, 360),
   });
   const raw = await minimaxChat({
     apiKey,
@@ -190,7 +200,7 @@ async function translateDigestOneItem(it, { apiKey, base, model }) {
     system,
     user,
     temperature: 0.2,
-    max_completion_tokens: 2048,
+    max_completion_tokens: 600,
   });
   const obj = looseJsonParse(raw);
   if (!obj || typeof obj !== 'object') return it;
@@ -211,19 +221,30 @@ async function translateDigestItems(items, { apiKey, base, model }) {
   const batchSize = 5;
   const out = [...items];
   const ctx = { apiKey, base, model };
+  const needIdx = [];
+  items.forEach((it, i) => {
+    if (!looksMostlyChinese(`${it.title || ''} ${it.summary || ''}`)) needIdx.push(i);
+  });
+  if (!needIdx.length) {
+    console.error('translate: 全部項目已似繁中，略過標題／摘要翻譯。');
+    return out;
+  }
+  console.error(`translate: 需翻譯 ${needIdx.length}/${items.length} 則`);
 
-  for (let off = 0; off < items.length; off += batchSize) {
-    const slice = items.slice(off, off + batchSize);
+  for (let pos = 0; pos < needIdx.length; pos += batchSize) {
+    const idxs = needIdx.slice(pos, pos + batchSize);
+    const slice = idxs.map((i) => items[i]);
     const payload = slice.map((it) => ({
-      title: (it.title || '').slice(0, 500),
-      summary: (it.summary || '').slice(0, 900),
+      title: (it.title || '').slice(0, 180),
+      summary: (it.summary || '').slice(0, 360),
     }));
     const n = payload.length;
+    const off = idxs[0];
 
     const system = `你是繁體中文（香港）翻譯助理。只輸出一個 JSON 物件，不要 markdown、不要前言。
 格式嚴格如下（rows 陣列長度必須為 ${n}，順序與輸入相同）：
 {"rows":[{"title":"…","summary":"…"}, … 共 ${n} 個元素]}
-每個 title、summary 為對應輸入的繁體中文譯文；summary 請壓縮在 280 個中文字以內。`;
+每個 title、summary 為對應輸入的繁體中文譯文；summary 請壓縮在 160 個中文字以內。`;
 
     const user = `請翻譯下列 in 陣列（長度 ${n}），輸出符合上述格式的 JSON：\n${JSON.stringify({ in: payload })}`;
 
@@ -236,7 +257,7 @@ async function translateDigestItems(items, { apiKey, base, model }) {
         system,
         user,
         temperature: 0.25,
-        max_completion_tokens: 8192,
+        max_completion_tokens: 1600,
       });
       const rows = extractTranslatedRows(raw, n);
       if (rows && rows.length === n) {
@@ -244,8 +265,9 @@ async function translateDigestItems(items, { apiKey, base, model }) {
         for (let j = 0; j < n; j++) {
           const t = String(rows[j]?.title || '').trim();
           const sum = String(rows[j]?.summary || '').trim();
-          if (t) out[off + j] = { ...out[off + j], title: t };
-          if (sum) out[off + j] = { ...out[off + j], summary: sum };
+          const at = idxs[j];
+          if (t) out[at] = { ...out[at], title: t };
+          if (sum) out[at] = { ...out[at], summary: sum };
         }
       } else {
         console.error(`translate batch: 無法解析或長度不符（期望 ${n}）`);
@@ -255,10 +277,11 @@ async function translateDigestItems(items, { apiKey, base, model }) {
     }
 
     if (!batchOk) {
-      console.error(`translate: 改逐筆翻譯第 ${off + 1}–${off + n} 則`);
-      for (let j = 0; j < slice.length; j++) {
+      console.error(`translate: 改逐筆翻譯（批次起始 index ${off}）`);
+      for (let j = 0; j < idxs.length; j++) {
+        const at = idxs[j];
         try {
-          out[off + j] = await translateDigestOneItem(out[off + j], ctx);
+          out[at] = await translateDigestOneItem(out[at], ctx);
         } catch (e) {
           console.error('translate one:', e.message || e);
         }
@@ -277,8 +300,8 @@ async function translateBodyToZh(plain, { apiKey, base, model }) {
   const chunk = String(plain || '').trim();
   if (!chunk || chunk.length < 80) return '';
   const system = `你是繁體中文（香港）翻譯。只輸出一個 JSON 物件，僅含鍵 bodyZh；不要 markdown、不要其它字。
-bodyZh 為譯文正文：段落之間用兩個換行 \\n\\n 分隔；保留數字、專有名詞可夾英文；總長建議在 6000 個中文字以內，可節譯次要細節但保留主論點與結論。`;
-  const user = `請翻譯以下英文／多語正文為繁體中文（香港書面語）：\n\n${chunk.slice(0, 14000)}`;
+bodyZh 為譯文正文：段落之間用兩個換行 \\n\\n 分隔；保留數字、專有名詞可夾英文；總長建議在 1800 個中文字以內，可節譯次要細節但保留主論點與結論。`;
+  const user = `請翻譯以下英文／多語正文為繁體中文（香港書面語）：\n\n${chunk.slice(0, 5000)}`;
   try {
     const raw = await minimaxChat({
       apiKey,
@@ -287,7 +310,7 @@ bodyZh 為譯文正文：段落之間用兩個換行 \\n\\n 分隔；保留數�
       system,
       user,
       temperature: 0.25,
-      max_completion_tokens: 12000,
+      max_completion_tokens: 2500,
     });
     const obj = looseJsonParse(stripMinimaxMessageContent(raw));
     if (!obj || typeof obj !== 'object') return '';
@@ -355,10 +378,17 @@ async function enrichDigestItemsWithDetail(items, {
     const images = extractImagesFromHtml(html, it.url, 10);
     const plain = extractPlainFromHtml(html, plainMaxChars);
     let bodyZh = '';
-    if (apiKey && i < maxIdx && plain.length > 400) {
-      console.error(`translate body ${i + 1}/${items.length} (${String(it.url || '').slice(0, 60)}…)`);
-      bodyZh = await translateBodyToZh(plain, { apiKey, base, model });
-      await sleep(450);
+    // 預設關閉長文翻譯（digestDetailTranslateMax=0）；DIGEST_TRANSLATE_BODY=1 時至少譯前 3 則
+    const envBodyOn = String(process.env.DIGEST_TRANSLATE_BODY || '').trim() === '1';
+    const bodyLimit = maxIdx > 0 ? maxIdx : envBodyOn ? 3 : 0;
+    if (apiKey && i < bodyLimit && plain.length > 400) {
+      if (looksMostlyChinese(plain.slice(0, 400))) {
+        bodyZh = plain.slice(0, 4000);
+      } else {
+        console.error(`translate body ${i + 1}/${items.length} (${String(it.url || '').slice(0, 60)}…)`);
+        bodyZh = await translateBodyToZh(plain, { apiKey, base, model });
+        await sleep(450);
+      }
     }
     out.push({
       ...rest,
@@ -489,7 +519,9 @@ async function main() {
   const out = {
     updatedAt: new Date().toISOString(),
     disclaimer: apiKey
-      ? '僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。'
+      ? digestDetailTranslateMax > 0
+        ? '僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要經 API 譯為繁中；詳情頁「全文」係自 RSS 內嵌 HTML 擷取並譯為繁中（可能節錄），圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。'
+        : '僅收錄與 SEN／游泳相關之公開 RSS 項目；非繁中標題／摘要經 API 譯為繁中；詳情頁長文翻譯預設關閉以節省用量，圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。'
       : '僅收錄與 SEN／游泳相關之公開 RSS 項目；標題與摘要為各來源原文。設定 MINIMAX_API_KEY 後可由排程譯為繁中；詳情頁可顯示 RSS 內嵌圖片（若有）。',
     items,
   };

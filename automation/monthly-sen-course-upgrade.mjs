@@ -86,22 +86,18 @@ function collectDigestForMonth(ym) {
       const t = Date.parse(it.publishedAt || it.updatedAt || '');
       return Number.isFinite(t) && t >= start.getTime() && t < end.getTime();
     })
-    .slice(0, 24)
+    .slice(0, 8)
     .map((it) => ({
-      title: String(it.title || '').slice(0, 120),
-      url: String(it.url || '').slice(0, 300),
-      summary: String(it.summary || it.bodyZh || '').slice(0, 280),
-      sourceName: String(it.sourceName || '').slice(0, 60),
-      publishedAt: it.publishedAt || '',
+      title: String(it.title || '').slice(0, 80),
+      summary: String(it.summary || '').slice(0, 140),
+      sourceName: String(it.sourceName || '').slice(0, 40),
     }));
   // 若當月不足，取最新若干則作升級線索
   if (items.length < 4) {
-    return (digest.items || []).slice(0, 16).map((it) => ({
-      title: String(it.title || '').slice(0, 120),
-      url: String(it.url || '').slice(0, 300),
-      summary: String(it.summary || it.bodyZh || '').slice(0, 280),
-      sourceName: String(it.sourceName || '').slice(0, 60),
-      publishedAt: it.publishedAt || '',
+    return (digest.items || []).slice(0, 8).map((it) => ({
+      title: String(it.title || '').slice(0, 80),
+      summary: String(it.summary || '').slice(0, 140),
+      sourceName: String(it.sourceName || '').slice(0, 40),
     }));
   }
   return items;
@@ -317,28 +313,25 @@ async function callUpgradeModel({ ym, target, digestItems, unitCatalog }) {
   if (!apiKey) return { skipped: true };
 
   const system = `你是香港「特殊需要人士游泳教師證書課程」教材編輯。只用繁體中文（香港書面語）。
-任務：根據公開 SEN／教育／游泳摘要，升級指定單元，使之更現代化、可教學（情境→原則→池邊執行）。
+任務：根據公開 SEN／教育／游泳摘要，精簡升級指定單元（情境→原則→池邊執行）。
 硬性規則：
 - 只輸出一個 JSON，不要 markdown。
 - 禁止療效承諾、診斷、改藥、收費／電話。
-- 不可抄襲外文全文；sources 只列標題與 URL。
-- keypoints[].body 必須含「情境：」「原則：」「池邊做法：」。
-- 公開 FAQ 須家長向、精簡、不作診斷。
-- 僅當摘要明確指向現有單元未涵蓋的教學主題，才填 newChapter；否則 newChapter 為 null。
+- 不可抄襲外文全文；sources 最多 3 則，只列標題與 URL。
+- keypoints[].body 必須含「情境：」「原則：」「池邊做法：」；每則 body ≤280字。
+- 公開 FAQ 須家長向、精簡、最多 3 則。
+- cantoneseScript、needSvg、images、newChapter 一律省略或 null（由本機處理）。
 JSON：
 {
-  "summary": "本月升級摘要 ≤80字",
+  "summary": "本月升級摘要 ≤60字",
   "unitPatch": {
     "selfStudyIntro": "",
     "objectives": ["",""],
-    "keypoints": [{"id":"","title":"","body":"情境：…原則：…池邊做法：…","source":"","figures":[]}],
+    "keypoints": [{"id":"","title":"","body":"情境：…原則：…池邊做法：…","source":""}],
     "do": [""],
     "avoid": [""],
     "glossary": [{"term":"","def":"","anchor":""}],
-    "cantoneseScript": "粵語講稿",
-    "images": [],
-    "sources": [{"title":"","url":""}],
-    "needSvg": {"fileName":"upgrade-xxx.svg","title":"","topic":""}
+    "sources": [{"title":"","url":""}]
   },
   "newChapter": null,
   "publicFaqs": [{"q":"","a":""}],
@@ -351,19 +344,19 @@ JSON：
     slug: target.slug,
     title: target.title,
     category: target.category,
-    selfStudyIntro: target.selfStudyIntro,
-    objectives: target.objectives,
-    keypoints: (target.keypoints || []).map((k) => ({
+    selfStudyIntro: String(target.selfStudyIntro || '').slice(0, 220),
+    objectives: (target.objectives || []).slice(0, 4),
+    keypoints: (target.keypoints || []).slice(0, 6).map((k) => ({
       id: k.id,
       title: k.title,
-      body: String(k.body || '').slice(0, 400),
+      body: String(k.body || '').slice(0, 220),
     })),
-    do: target.do,
-    avoid: target.avoid,
-  }).slice(0, 7000)}
-現有單元目錄：${JSON.stringify(unitCatalog).slice(0, 2500)}
-本月公開摘要：${JSON.stringify(digestItems).slice(0, 5000)}
-請升級目標單元，補強現代化教學要點；可新增 1–2 個 keypoints。只輸出 JSON。`;
+    do: (target.do || []).slice(0, 4),
+    avoid: (target.avoid || []).slice(0, 4),
+  }).slice(0, 3500)}
+現有單元目錄：${JSON.stringify(unitCatalog).slice(0, 1200)}
+本月公開摘要：${JSON.stringify(digestItems).slice(0, 1800)}
+請升級目標單元；最多新增 1–2 個 keypoints。只輸出 JSON。`;
 
   const raw = await minimaxChat({
     apiKey,
@@ -372,7 +365,7 @@ JSON：
     system,
     user,
     temperature: 0.4,
-    max_completion_tokens: 4096,
+    max_completion_tokens: 2560,
   });
   return extractJsonPayload(raw) || {};
 }
@@ -452,7 +445,8 @@ async function main() {
     }
   }
 
-  // 教學圖
+  // 教學圖：預設只用本機範本（省 MiniMax token）；設 MINIMAX_COURSE_SVG=1 才允許模型畫 SVG
+  const allowAiSvg = String(process.env.MINIMAX_COURSE_SVG || '').trim() === '1';
   const needSvg = patch.needSvg && typeof patch.needSvg === 'object' ? patch.needSvg : null;
   if (needSvg && needSvg.fileName) {
     try {
@@ -463,6 +457,7 @@ async function main() {
         title: needSvg.title || upgraded.title,
         topic: needSvg.topic || parsed.summary || upgraded.title,
         unitId: upgraded.id,
+        allowAi: allowAiSvg,
       });
       upgraded.images = [...new Set([...(upgraded.images || []), svg.fileName])].slice(0, 8);
       knowledge.units[idx] = upgraded;

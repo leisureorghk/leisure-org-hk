@@ -30,6 +30,8 @@
 | `MINIMAX_MODEL` | 否 | 預設為 **`MiniMax-M3.1-Flash`**（目前最省 token）。若 Secret 仍設成舊的 `MiniMax-M3`，會覆寫預設；要省用量請刪除該 Secret 或改成 Flash。 |
 | `MINIMAX_REASONING_EFFORT` | 否 | 預設 **`low`**（Flash 最低思考深度，省 reasoning token）。可選 `medium`／`high`／`xhigh`／`max`；**不可**設 `none`（平台會 400）。 |
 | `MINIMAX_API_BASE` | 否 | 預設 `https://api.minimax.io`。部分帳戶／地區需改為 **`https://api.minimaxi.com/v1`** 才能通過驗證（否則可能出現 **401 invalid api key**）；設為此值時腳本會正確接上 `chat/completions`。 |
+| `MINIMAX_COURSE_SVG` | 否 | 設為 `1` 才用 MiniMax 畫課程 SVG；**預設關閉**（本機範本圖）。 |
+| `DIGEST_TRANSLATE_BODY` | 否 | 設為 `1` 才強制詳情頁長文翻譯；預設跟隨 `feed-sources.yaml` 的 `digestDetailTranslateMax`（現為 **0＝關閉**）。 |
 | `INDEXNOW_KEY` | 否（建議） | [IndexNow](https://www.indexnow.org/) 金鑰（UUID 或任意字串）。**GitHub Secret 與網站根目錄 `{金鑰}.txt` 必須相同**；digest／週報 workflow 會用此金鑰通知 Bing 等引擎。 |
 
 未設定 `MINIMAX_API_KEY` 時，`automation/weekly-article.mjs`、`automation/monthly-content-audit.mjs` 與 `automation/monthly-sen-course-upgrade.mjs` 會**安靜結束**（exit 0），不會更新內容檔案。`build-digest.mjs` 則不會翻譯，摘要 JSON 內標題／摘要維持 RSS 原文。
@@ -51,8 +53,8 @@ digest、週報與每月審計 workflow 皆支援 **Actions 手動執行**（`wo
 
 1. **每日 digest**：已自動 push 至 `main` 並部署 Pages；若需抽查，可在 Actions 日誌或 `data/sen-swim-digest.json` 的 `updatedAt` 確認。
 2. **每週專題**：務必由機構負責人閱讀全文；頁面已含「非抄襲／參考來源」聲明，仍可能有事實錯誤。
-3. **每月內容審計**：會改常駐說明與 FAQ 補充，但凍結收費／聯絡；建議抽查 `data/monthly-audit-log.json` 與當月 `monthly-insights-YYYY-MM.html`。
-4. **每月 SEN 教師課程升級**：會改寫 `Learn/特殊需要人士教師課程` 內選定單元（備份於 `history/YYYY-MM/`）、更新 `course-knowledge.json`，並精簡寫入對應 `sen-*.html` FAQ。建議抽查 `data/sen-course-upgrade-log.json` 與該月升級單元 HTML；不自動重錄粵語 MP3（講稿文字會更新）。網上經 **[教練分享區](./coach-share.html)**（登入碼護欄）進入；教材隨 `main`／Pages 部署一併上線。
+3. **每月內容審計**：會改常駐說明與 FAQ 補充，但凍結收費／聯絡；hub 區塊改由本機產生（省 token），模型只產月報與 `sen-guide` extras。建議抽查 `data/monthly-audit-log.json` 與當月 `monthly-insights-YYYY-MM.html`。
+4. **每月 SEN 教師課程升級**：會改寫 `Learn/特殊需要人士教師課程` 內選定單元（備份於 `history/YYYY-MM/`）、更新 `course-knowledge.json`，並精簡寫入對應 `sen-*.html` FAQ。預設不呼叫 MiniMax 畫 SVG、不強制重產粵語講稿。建議抽查 `data/sen-course-upgrade-log.json` 與該月升級單元 HTML。網上經 **[教練分享區](./coach-share.html)**（登入碼護欄）進入；教材隨 `main`／Pages 部署一併上線。
 5. **著作權**：摘要僅使用 RSS 之標題與短描述並連結至原文；站內不轉載全文。週報為模型依摘要**改寫與在地化**之文稿，文末列出參考連結。
 
 ## 本機執行

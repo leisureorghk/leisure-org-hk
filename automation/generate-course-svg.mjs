@@ -53,7 +53,7 @@ function escapeXml(s) {
 }
 
 /**
- * @param {{ fileName: string, title: string, topic: string, unitId?: string }} opts
+ * @param {{ fileName: string, title: string, topic: string, unitId?: string, allowAi?: boolean }} opts
  * @returns {Promise<{ fileName: string, path: string, source: 'minimax'|'fallback' }>}
  */
 export async function generateCourseSvg(opts) {
@@ -70,18 +70,20 @@ export async function generateCourseSvg(opts) {
   const apiKey = process.env.MINIMAX_API_KEY;
   const model = resolveMinimaxModel();
   const base = process.env.MINIMAX_API_BASE || 'https://api.minimax.io';
+  const allowAi =
+    opts.allowAi === true || String(process.env.MINIMAX_COURSE_SVG || '').trim() === '1';
 
   let svg = null;
   let source = 'fallback';
 
-  if (apiKey && !FORBIDDEN.test(`${opts.title} ${opts.topic}`)) {
+  if (allowAi && apiKey && !FORBIDDEN.test(`${opts.title} ${opts.topic}`)) {
     try {
       const raw = await minimaxChat({
         apiKey,
         base,
         model,
         temperature: 0.35,
-        max_completion_tokens: 2048,
+        max_completion_tokens: 1200,
         system: `你是特殊教育游泳教師教材插畫師。只輸出一個完整 SVG（viewBox="0 0 960 300"），不要 markdown。
 規則：扁平教學示意、繁中短標籤、色系 #0e7490 / #fde68a / #f8fafc；禁止寫實人臉、照片、學員可辨識影像、script、外部連結。`,
         user: `單元 ${opts.unitId || ''}：${opts.title}\n主題：${opts.topic}\n請產出教學 SVG。`,

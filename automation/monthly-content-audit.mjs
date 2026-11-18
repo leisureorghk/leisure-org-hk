@@ -2,7 +2,8 @@
  * 每月內容審計：消化當月週報與 RSS 摘要，補齊常駐頁並產出家長月報。
  *
  * 環境變數：MINIMAX_API_KEY（必填才會呼叫模型）
- *   MINIMAX_MODEL、MINIMAX_API_BASE（與週報相同）
+ *   MINIMAX_MODEL、MINIMAX_REASONING_EFFORT、MINIMAX_API_BASE（與週報相同）
+ * 省 token：本機產生 hubHtml；模型只產月報＋sen-guide extras；輸入／輸出已縮限。
  *
  * 執行：node monthly-content-audit.mjs
  */
@@ -36,6 +37,8 @@ const LANDING_FILES = [
   'sen-swim-classroom.html',
 ];
 const SEO_FILES = [...HUB_FILES, ...LANDING_FILES, 'blog.html'];
+/** 月審 AI 只更新這一頁的 extras（其餘保留舊資料） */
+const PRIMARY_LANDING = 'sen-guide.html';
 const INTERNAL_HREF =
   /^(?:[a-z0-9][-a-z0-9]*\.html)(?:[?#][^\s"']*)?$/i;
 const FROZEN_RE =
@@ -145,13 +148,13 @@ function outlinePage(file) {
   const h2 = [...html.matchAll(/<h2[^>]*>([\s\S]*?)<\/h2>/gi)]
     .map((m) => stripHtml(m[1]))
     .filter(Boolean)
-    .slice(0, 12);
+    .slice(0, 5);
   const faqs = [...html.matchAll(/class="faq-question"[^>]*>([\s\S]*?)<\/button>/gi)]
     .map((m) => stripHtml(m[1]))
-    .slice(0, 12);
+    .slice(0, 4);
   const faqH3 = [...html.matchAll(/<h3>([^<]{4,80})<\/h3>\s*<p>/g)]
     .map((m) => stripHtml(m[1]))
-    .slice(0, 8);
+    .slice(0, 4);
   return { file, h1, h2, faqs: faqs.length ? faqs : faqH3 };
 }
 
@@ -168,7 +171,7 @@ function collectMonthSources(ym) {
     .map((e) => ({
       slug: e.slug,
       title: e.title,
-      description: (e.description || '').slice(0, 180),
+      description: (e.description || '').slice(0, 100),
       publishedAt: e.publishedAt,
     }));
 
@@ -196,29 +199,20 @@ function collectMonthSources(ym) {
   const digest = readJson(path.join(root, 'data', 'sen-swim-digest.json'), { items: [] });
   const digestItems = (digest.items || [])
     .filter((it) => inRange(it.publishedAt, start, end))
-    .slice(0, 24)
+    .slice(0, 10)
     .map((it) => ({
-      title: it.title,
-      summary: String(it.summary || '').slice(0, 220),
+      title: String(it.title || '').slice(0, 80),
+      summary: String(it.summary || '').slice(0, 120),
       sourceName: it.sourceName,
-      publishedAt: it.publishedAt,
     }));
 
-  const seo = loadSeoConfig(root);
-  const seoBrief = (seo.pages || [])
-    .filter((p) => SEO_FILES.includes(p.file))
-    .map((p) => ({
-      file: p.file,
-      description: p.description,
-      keywords: p.keywords,
-    }));
-
+  // 只送 hub + 主要 landing 大綱，減少輸入 token
+  const outlineFiles = [...HUB_FILES, PRIMARY_LANDING];
   return {
     ym,
     weekly,
     digestItems,
-    outlines: [...HUB_FILES, ...LANDING_FILES].map(outlinePage),
-    seoBrief,
+    outlines: outlineFiles.map(outlinePage),
   };
 }
 
@@ -231,8 +225,14 @@ function defaultHubHtml(ym, weekly, digestItems, file) {
     .join('');
   const report = `monthly-insights-${esc(ym)}.html`;
   const heading =
-    file === 'blog.html' ? '家長月報' : file === 'services.html' ? '本月課程相關重點' : '本月家長重點';
-  return `<h2>${heading}（${esc(ym)}）</h2>
+    file === 'blog.html'
+      ? `最新月報（${ym}）`
+      : file === 'services.html'
+        ? `最新月報（${ym}）｜分段教學與安全支援`
+        : file === 'resources.html'
+          ? `最新月報（${ym}）｜理解需要，按步伐學習`
+          : `最新月報（${ym}）｜由專注到水中有信心`;
+  return `<h2>${esc(heading)}</h2>
 <p>本月教練專欄新增 ${n} 篇專題，產業摘要收錄 ${d} 則與 SEN／游泳相關的公開資訊。歡迎先讀月報，再按孩子需要進入專頁。</p>
 <p id="monthly-insights-latest"><a href="${report}">閱讀 ${esc(ym)} 家長月報</a></p>
 ${links ? `<ul>${links}</ul>` : ''}`;
@@ -269,7 +269,7 @@ function mergeLandingExtras(parsed, ym) {
   const skipped = [];
   const applied = [];
   const incoming = parsed.landingExtras || parsed.landings || {};
-  for (const file of LANDING_FILES) {
+  for (const file of [PRIMARY_LANDING]) {
     const raw = incoming[file];
     if (!raw || typeof raw !== 'object') continue;
     const faqs = (Array.isArray(raw.faqs) ? raw.faqs : [])
@@ -301,38 +301,35 @@ function mergeLandingExtras(parsed, ym) {
   return { applied, skipped };
 }
 
-function applySeoUpdates(parsed) {
+/** 本機用月報 meta 更新資源頁 SEO，不經模型輸出 seoUpdates */
+function applyLocalSeoFromInsights({ title, description, keywords }) {
   const skipped = [];
   const applied = [];
-  const updates = Array.isArray(parsed.seoUpdates) ? parsed.seoUpdates : [];
-  if (!updates.length) return { applied, skipped };
   const cfgPath = path.join(root, 'data', 'seo-config.json');
+  if (!fs.existsSync(cfgPath)) return { applied, skipped };
   const cfg = JSON.parse(fs.readFileSync(cfgPath, 'utf8'));
-  for (const u of updates.slice(0, 12)) {
-    const file = String(u.file || '');
-    if (!SEO_FILES.includes(file)) {
-      skipped.push({ file, reason: 'not-whitelisted' });
-      continue;
-    }
-    const page = (cfg.pages || []).find((p) => p.file === file);
-    if (!page) {
-      skipped.push({ file, reason: 'not-in-seo-config' });
-      continue;
-    }
-    const desc = String(u.description || '').trim().slice(0, 160);
-    const kw = String(u.keywords || '').trim().slice(0, 180);
-    if ((desc && FROZEN_RE.test(desc)) || (kw && FROZEN_RE.test(kw))) {
-      skipped.push({ file, reason: 'frozen-pattern' });
-      continue;
-    }
-    if (desc && desc.length >= 40) page.description = desc;
-    if (kw && kw.length >= 8) page.keywords = kw;
-    applied.push(file);
+  const page = (cfg.pages || []).find((p) => p.file === 'resources.html');
+  if (!page) {
+    skipped.push({ file: 'resources.html', reason: 'not-in-seo-config' });
+    return { applied, skipped };
   }
-  if (applied.length) {
-    cfg.site.contentLastmod = new Date().toISOString().slice(0, 10);
-    fs.writeFileSync(cfgPath, JSON.stringify(cfg, null, 2) + '\n', 'utf8');
+  const desc = String(description || '').trim().slice(0, 160);
+  const kw = Array.isArray(keywords)
+    ? keywords.map((k) => String(k).trim()).filter(Boolean).slice(0, 8).join(', ')
+    : String(keywords || '').trim().slice(0, 180);
+  if (desc && FROZEN_RE.test(desc)) {
+    skipped.push({ file: 'resources.html', reason: 'frozen-pattern' });
+    return { applied, skipped };
   }
+  if (desc && desc.length >= 40) {
+    page.description = `新天地SEN家長資源：${desc}`;
+    if (page.description.length > 160) page.description = page.description.slice(0, 157) + '…';
+  }
+  if (kw && kw.length >= 8 && !FROZEN_RE.test(kw)) page.keywords = kw;
+  cfg.site.contentLastmod = new Date().toISOString().slice(0, 10);
+  fs.writeFileSync(cfgPath, JSON.stringify(cfg, null, 2) + '\n', 'utf8');
+  applied.push('resources.html');
+  void title;
   return { applied, skipped };
 }
 
@@ -435,31 +432,25 @@ async function callModel(sources) {
   if (!apiKey) return { skipped: true };
 
   const system = `你是香港「新天地」SEN 游泳中心的內容編輯。只用繁體中文（香港書面語）。
-任務：根據本月新增資訊，補齊網站常駐頁，幫助家長與參加者更快找到重點。
+任務：根據本月新增資訊，產出精簡家長月報與 sen-guide 補充 FAQ。
 硬性規則：
-- 只輸出一個 JSON 物件，不要 markdown 說明。
+- 只輸出一個 JSON 物件，不要 markdown。
 - 禁止編造收費、優惠、地址、電話、診斷或藥物建議。
 - 禁止抄襲外文；第三方資訊只作主題線索。
-- hubHtml 只能用 p,ul,li,strong,em,a,h2,h3；連結必須是站內 .html 檔名。
-- landingExtras 的 faqs 每頁最多 3 則；不要重複頁上已有問句。
+- 不要輸出 hubHtml、seoUpdates（由本機產生）。
+- landingExtras 只可含 sen-guide.html；faqs 最多 3 則；links 最多 3 則。
 JSON 結構：
 {
   "insightsTitle": "≤36字月報標題",
-  "insightsDescription": "70-120字 SEO 描述",
+  "insightsDescription": "70-110字 SEO 描述",
   "insightsKeywords": ["SEN游泳","家長資源"],
-  "insightsHtml": "月報正文 HTML（h2/p/ul，600-900字）",
-  "hubHtml": {
-    "index.html": "插入首頁的本月重點 HTML",
-    "services.html": "插入服務頁的本月重點 HTML",
-    "resources.html": "插入家長資源頁的本月重點 HTML"
-  },
+  "insightsHtml": "月報正文 HTML（只用 h2,p,ul,li,a；400-550字）",
   "landingExtras": {
     "sen-guide.html": { "faqs": [{"q":"","a":""}], "links": [{"href":"blog.html","label":"教練專欄"}] }
-  },
-  "seoUpdates": [{ "file": "resources.html", "description": "", "keywords": "" }]
+  }
 }`;
 
-  const user = `本月（香港 ${sources.ym}）新增：\n週報：${JSON.stringify(sources.weekly).slice(0, 3500)}\n摘要：${JSON.stringify(sources.digestItems).slice(0, 4500)}\n現有頁大綱：${JSON.stringify(sources.outlines).slice(0, 5000)}\nSEO 現況：${JSON.stringify(sources.seoBrief).slice(0, 2500)}\n請只輸出 JSON。`;
+  const user = `本月（香港 ${sources.ym}）新增：\n週報：${JSON.stringify(sources.weekly).slice(0, 1800)}\n摘要：${JSON.stringify(sources.digestItems).slice(0, 2200)}\n現有頁大綱：${JSON.stringify(sources.outlines).slice(0, 2200)}\n請只輸出 JSON。`;
 
   const raw = await minimaxChat({
     apiKey,
@@ -468,7 +459,7 @@ JSON 結構：
     system,
     user,
     temperature: 0.4,
-    max_completion_tokens: 4096,
+    max_completion_tokens: 2560,
   });
   return extractJsonPayload(raw) || {};
 }
@@ -538,10 +529,9 @@ async function main() {
   fs.writeFileSync(path.join(root, slug), page, 'utf8');
   changes.push(slug);
 
-  const hubHtml = parsed.hubHtml && typeof parsed.hubHtml === 'object' ? parsed.hubHtml : {};
+  // hub 區塊一律本機產生，節省模型輸出 token
   for (const file of HUB_FILES) {
-    const fallback = defaultHubHtml(ym, sources.weekly, sources.digestItems, file);
-    const html = hubHtml[file] || fallback;
+    const html = defaultHubHtml(ym, sources.weekly, sources.digestItems, file);
     const r = applyHubBlock(file, html);
     if (r.ok) changes.push(file);
     else skipped.push({ file, reason: r.reason });
@@ -559,7 +549,7 @@ async function main() {
     changes.push('generate-content-pages');
   }
 
-  const seo = applySeoUpdates(parsed);
+  const seo = applyLocalSeoFromInsights({ title, description, keywords });
   changes.push(...seo.applied.map((f) => `seo:${f}`));
   skipped.push(...seo.skipped);
 

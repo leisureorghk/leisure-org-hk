@@ -74,6 +74,9 @@ export MINIMAX_API_KEY="你的金鑰"
 export MINIMAX_API_BASE="https://api.minimaxi.com/v1"
 export MINIMAX_MODEL="MiniMax-M3.1-Flash"   # 可選；預設即 Flash（最省）
 export MINIMAX_REASONING_EFFORT="low"       # 可選；預設 low（最少思考 token）
+# 可選恢復較貴功能：
+# export DIGEST_TRANSLATE_BODY=1            # 詳情頁長文翻譯（預設關）
+# export MINIMAX_COURSE_SVG=1               # 課程 AI SVG（預設用本機範本）
 node build-digest.mjs
 # 或
 node weekly-article.mjs

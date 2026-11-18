@@ -442,12 +442,21 @@ async function main() {
     {"question":"家長會問的問題1","answer":"簡短實務回答"},
     {"question":"家長會問的問題2","answer":"簡短實務回答"}
   ],
-  "bodyHtml": "文章主體 HTML 片段（只用 h2,h3,p,ul,li,strong,em；約 900–1300 字；第一個 h2 可與 title 呼應但勿重複整段）"
-}`;
+  "bodyHtml": "文章主體 HTML 片段（只用 h2,h3,p,ul,li,strong,em；約 700–900 字；第一個 h2 可與 title 呼應但勿重複整段）"
+}
+faqs 最多 2 則。`;
 
   const user = `以下是本週隨機選出、且已篩選為與 SEN 或游泳相關的公開 RSS 摘要（僅作靈感，請勿抄寫句子）：\n\n${refText}\n\n請依規定只輸出 JSON。`;
 
-  const rawOut = await minimaxChat({ apiKey, base, model, system, user });
+  const rawOut = await minimaxChat({
+    apiKey,
+    base,
+    model,
+    system,
+    user,
+    temperature: 0.65,
+    max_completion_tokens: 2048,
+  });
   let parsed = extractJsonPayload(rawOut);
 
   let titlePlain;
