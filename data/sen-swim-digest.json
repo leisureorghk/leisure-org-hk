@@ -1,12 +1,90 @@
 {
-  "updatedAt": "2026-11-19T08:27:07.828Z",
+  "updatedAt": "2026-11-20T08:07:35.439Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；非繁中標題／摘要經 API 譯為繁中；詳情頁長文翻譯預設關閉以節省用量，圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "幫助特殊教育需要學生的羊駝農場",
+      "title": "曼徹斯特轉籍激勵Morgan再奪獎牌",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/c6x20gd79g99o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T17:32:21.000Z",
+      "summary": "什羅普郡泳將奧利·摩根表示，轉到曼徹斯特令他重拾動力，回復爭奪獎牌的狀態。",
+      "sourceName": "BBC 運動（游泳）",
+      "sourceId": "bbc-swimming",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0756/live/dd1e2e80-e42d-11f1-a630-a951c13e48b7.jpg",
+          "alt": "Ollie Morgan of Team England poses for a photo after winning the silver medal in the men&#x27;s 200m backstroke on day three of the Glasgow 2026 Commonwealth Games at Tollcross International Swimming Centre"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/52d4/live/6a14aed0-e46b-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Nikita Parris on Arsenal"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a956/live/abf9f000-e44b-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Thomas Frank"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6206/live/aa0442e0-e43d-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Referee&#x27;s hand"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7e9e/live/8b99c8a0-e43f-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Pictured are Lauren James (England) Player, Carla Ward (Republic of Ireland) Head Coach, Rhian Wilkinson (Wales) Head Coach and Caroline Weir (Scotland) Captain"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/98e7/live/13329270-e43f-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Bruno Guimaraes returns to St James&#x27; Park this weekend"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/74e7/live/ff2991b0-e435-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Daniel Farke"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4c33/live/ea7b7eb0-e429-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Michele Kang split with GTA 6 game cover"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4478/live/4fa95f30-e42c-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Tiger Woods"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/14ac/live/c743da10-e42d-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Lauren Price Michaela Kotaskova"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "title": "「我們不製造失學兒」：獲全球最佳學校獎項表揚的倫敦學校",
+      "url": "https://www.theguardian.com/education/2026/nov/19/london-swiss-cottage-school-worlds-best-school-awards",
+      "publishedAt": "2026-11-19T14:46:13.000Z",
+      "summary": "教育大臣表示，這所位於瑞士小屋、服務有複雜需要兒童的學校，讓「每名孩子都感到自己有所屬」。Maria認為最難的是哀傷：兒子令她哀悼曾想像的生活，也要接受養育他的孤獨。",
+      "sourceName": "《衛報》教育",
+      "sourceId": "guardian-education",
+      "images": [
+        {
+          "src": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=education",
+          "alt": ""
+        },
+        {
+          "src": "https://i.guim.co.uk/img/media/8cdde37815a1efa3a597539758194c77fe9c86e9/761_0_7453_5964/master/7453.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none",
+          "alt": "Headteacher Syra Sowe, in a dark navy jacket and green shirt, proudly stands before her Swiss Cottage school"
+        },
+        {
+          "src": "https://i.guim.co.uk/img/media/e30b8efd88e0b467e6ce87b6f76553a5bb0c2bff/1072_699_7046_5637/master/7046.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none",
+          "alt": "Maria (left, wearing glasses and a zebra-print jacket) stands proudly beside her son Alex, who is wearing a green long-sleeved top and glasses"
+        },
+        {
+          "src": "https://i.guim.co.uk/img/media/98516292d8706d9cec4a3961e836d9b2df37f407/1036_0_7920_6336/master/7920.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none",
+          "alt": "Two children with special needs in wheelchairs and similar aids are attended by three teachers at Swiss Cottage school"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "title": "幫助特殊教育需要兒童的羊駝農莊",
       "url": "https://www.bbc.co.uk/news/videos/cmj6lzll35gjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-18T10:15:53.000Z",
-      "summary": "一名同時患有自閉症及專注力不足過度活躍症的男孩，將自家羊駝農場打造成其他特殊教育需要兒童的安全港。",
+      "summary": "一名同時患有自閉症及注意力不足過度活躍症的男孩，將自家羊駝農莊打造成其他特殊教育需要兒童的安全港。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -15,12 +93,24 @@
           "alt": "An alpaca is looking at the camera. Another is eating."
         },
         {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f353/live/34533260-e445-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Putin, Xi and Trump standing next to eachother"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4dea/live/12de9420-e441-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Split image: (left) Anna Holligan outside the ICJ, (right) ICJ president Yuji Iwasawa in court during the hearing."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a28b/live/b131cb70-e43b-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Joanne Young outside Winchester Court. She is wearing blue and speaking to the press"
+        },
+        {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1e88/live/842b0ae0-e39d-11f1-a094-5fdc692f3e33.jpg",
           "alt": "Princess Kate in a maternity ward before a crib and doctor. She is wearing a red blazer."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Split-screen showing a close-up of correspondent Jonathan Beale inside tunnel on the left, and two soldiers inside tunnel on the right"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/16fe/live/c4ae1b30-e405-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A Ukrainian solider inside a tunnel system"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/210f/live/3ab82110-e251-11f1-99b6-a35a62fa4264.jpg",
@@ -37,27 +127,15 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0861/live/f40b1380-e200-11f1-ba8d-01314a590f72.jpg",
           "alt": "A split screen of Pope Leo about to be hit by a rosary on the left and Pope Leo being hit by a rosary on the right."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/890e/live/2da1ec70-e1db-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "The Princess of Wales smiling towards the camera while in India. In the background are some men wearing orange turbans playing the drums"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5608/live/04a6f4e0-e1a5-11f1-b0a4-450a350911f4.jpg",
-          "alt": "A young girl looks to the right with a neutral expression"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/655a/live/29ee8330-e1a0-11f1-a83a-71a20ac9b219.jpg",
-          "alt": "Pope Leo is pictured in a helicopter cockpit wearing white robes with two pilots beside him"
         }
       ],
       "featured": true
     },
     {
-      "title": "一名少年養殖的羊駝如何幫助有特殊需要的兒童",
+      "title": "Teenager的羊駝如何幫助有額外需要的兒童",
       "url": "https://www.bbc.co.uk/news/articles/cr2klx1ke5dgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-18T06:05:34.000Z",
-      "summary": "農場的羊駝及瓦萊黑鼻羊令本地學校學生變得放鬆而開心。",
+      "summary": "農莊的羊駝及瓦萊黑鼻羊，讓當地學校的學生變得放鬆和快樂。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -98,17 +176,17 @@
           "alt": "A white labradoodle with a purple harness around the nose. The dog also has a green and purple bandanna around the neck."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/81e3/live/89943a70-e3d8-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A count down on a tv at 00:00 with a crowd of people cheering in the room"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4c4a/live/971d1190-e44f-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "A block of flats with orange bricks and blue windows. There is a metal bridge leading to the building."
         }
       ],
       "featured": false
     },
     {
-      "title": "拉姆齊－皮蒂領銜，復活的國際游泳聯盟避免過度擴張",
+      "title": "Ramsay-Peaty領銜　重生的ISL慎防操之過急",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/ck1wvzryg015o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T17:17:18.000Z",
-      "summary": "亞當．拉姆齊－皮蒂將領銜國際游泳聯盟重燃火花的全明星賽；主辦方誓言吸取過往財政問題的教訓，不會「過度擴張」。",
+      "summary": "亞當·拉姆塞-皮蒂將領銜國際游泳聯賽重啟的全明星賽；主辦方因過往財務問題，誓言不會「操之過急」。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -117,49 +195,49 @@
           "alt": "Head and shoulders view of a wet-faced Adam Ramsay-Peaty, wearing black, blue and purple swimming goggles, pulled up above his eyes, plus a largely red swimming cap featuring a union jack flag image and GBR RAMSAY-PEATY in white lettering"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5905/live/68c56c00-e37a-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "BBC Sport&#x27;s Olly Foster takes a closer look at the bankruptcy of LIV Golf"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/52d4/live/6a14aed0-e46b-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Nikita Parris on Arsenal"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f205/live/e7469190-ddca-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Nottingham Forest fan Ellie Molloson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a956/live/abf9f000-e44b-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Thomas Frank"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/faef/live/c07431c0-e3a7-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Thierry Henry, Cristiano Ronaldo and Karim Benzema"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6206/live/aa0442e0-e43d-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Referee&#x27;s hand"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4219/live/72424450-e38f-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Cameron Bancroft looking sullen with a cap and glasses on"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7e9e/live/8b99c8a0-e43f-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Pictured are Lauren James (England) Player, Carla Ward (Republic of Ireland) Head Coach, Rhian Wilkinson (Wales) Head Coach and Caroline Weir (Scotland) Captain"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1087/live/2d499bb0-e37a-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Marc White"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/98e7/live/13329270-e43f-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Bruno Guimaraes returns to St James&#x27; Park this weekend"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1543/live/e151a240-e36d-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Mauricio Pochettino"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/74e7/live/ff2991b0-e435-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Daniel Farke"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d2a3/live/6873e510-e384-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Vitor Matos leaves Swansea City in place of Strasbourg"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4c33/live/ea7b7eb0-e429-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Michele Kang split with GTA 6 game cover"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab0d/live/9c564c70-e356-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Jason Gillespie says we&#x27;re close to finding out what actually happened in 2018"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4478/live/4fa95f30-e42c-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Tiger Woods"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4b0a/live/93264080-e381-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Vivianne Miedema on the BBC Women&#x27;s Football Weekly podcast"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/14ac/live/c743da10-e42d-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Lauren Price Michaela Kotaskova"
         }
       ],
       "featured": false
     },
     {
-      "title": "有學習障礙的青年在《最後一腿》電視節目亮相摔角",
+      "title": "有學習障礙的年輕人首次亮相《Last Leg》電視摔角節目",
       "url": "https://www.bbc.co.uk/news/articles/cqgm398dywmro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-16T15:12:14.000Z",
-      "summary": "Tuned In Project的成員在第四頻道節目《最後一腿》中展示摔角技巧。",
+      "summary": "Tuned In Project 成員在第四頻道的《The Last Leg》節目中展示摔角技巧。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -196,21 +274,21 @@
           "alt": "A young woman with long hair is singing in front of a microphone, she has her left arm raised in the air."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/81e3/live/89943a70-e3d8-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A count down on a tv at 00:00 with a crowd of people cheering in the room"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7dca/live/cba5ec80-e4ad-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "An image of the spacecraft near Mercury"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/afd5/live/95fdbbc0-e387-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A woman with a shopping trolley stood outside a supermarket with her phone in her right hand and a receipt in her left."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/25e1/live/809f7e00-e4ac-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Yasmin Rufo interviewing a woman in the street with blonde hair who is making a hand gesture with her left hand"
         }
       ],
       "featured": false
     },
     {
-      "title": "關於圖雷特症的電影《我發誓》勇奪三項蘇格蘭 BAFTA 大獎",
+      "title": "關於妥瑞症的电影《I Swear》勇奪三項蘇格蘭 BAFTA 獎",
       "url": "https://www.bbc.co.uk/news/articles/crgqx11wkzy8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-16T12:04:13.000Z",
-      "summary": "講述圖雷特症倡議者約翰．戴維森的電影贏得最佳電影、最佳導演及最佳男演員獎。",
+      "summary": "講述妥瑞症倡議者 John Davidson 的電影，奪得最佳電影、最佳導演及最佳男演員獎。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -231,37 +309,37 @@
           "alt": "John Davidson"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/81e3/live/89943a70-e3d8-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A count down on a tv at 00:00 with a crowd of people cheering in the room"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4c4a/live/971d1190-e44f-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "A block of flats with orange bricks and blue windows. There is a metal bridge leading to the building."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/afd5/live/95fdbbc0-e387-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A woman with a shopping trolley stood outside a supermarket with her phone in her right hand and a receipt in her left."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/cda2/live/bec5b7d0-e43e-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "A number of women look up to the sky, with one in particular focus gritting her teeth."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d82d/live/8173d8f0-e383-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Sheep in a snowy field"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/48d8/live/45cd6560-e463-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "A close-up of a woman with dark brown hair dressed in blue top"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4b36/live/e2bd6fd0-e384-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "A yellow speed camera to the left of a residential road with cars going past."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/67af/live/93857dd0-e44d-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "The fruit and vegetables isle of a supermarket"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6913/live/b09f67d0-e37d-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "A man wearing a blue cap, sunglasses and a white t-shirt."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e068/live/efad3840-e41c-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Jordan Middler - bald man with a beard and glasses, smiling"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9c57/live/d88d5240-e35d-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Donald Trump looks directly at the camera while him and Xi Jinping hug"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9aeb/live/59248370-e439-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Trump, Xi and Putin all walk down a corridor wearing suits."
         }
       ],
       "featured": false
     },
     {
-      "title": "史密斯轉投荷蘭令人Sad——南非游泳總會主席",
+      "title": "南非游泳總會主席稱 Smith 轉投荷蘭令人Sad",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cmy86x3y5dd8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-12T11:40:04.000Z",
-      "summary": "南非游泳總會主席表示，塔蒂亞娜·史密斯轉投荷蘭對南非而言「令人Sad」。",
+      "summary": "南非游泳總會主席表示，Tatjana Smith 決定轉為荷蘭代表，對南非而言是「令人sad」的消息。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -270,49 +348,49 @@
           "alt": "Tatjana Smith poses on the podium after winning women’s 100m breaststroke gold at the Paris 2024 Olympic Games"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5905/live/68c56c00-e37a-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "BBC Sport&#x27;s Olly Foster takes a closer look at the bankruptcy of LIV Golf"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/52d4/live/6a14aed0-e46b-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Nikita Parris on Arsenal"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f205/live/e7469190-ddca-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Nottingham Forest fan Ellie Molloson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a956/live/abf9f000-e44b-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Thomas Frank"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/faef/live/c07431c0-e3a7-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Thierry Henry, Cristiano Ronaldo and Karim Benzema"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6206/live/aa0442e0-e43d-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Referee&#x27;s hand"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4219/live/72424450-e38f-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Cameron Bancroft looking sullen with a cap and glasses on"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7e9e/live/8b99c8a0-e43f-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Pictured are Lauren James (England) Player, Carla Ward (Republic of Ireland) Head Coach, Rhian Wilkinson (Wales) Head Coach and Caroline Weir (Scotland) Captain"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1087/live/2d499bb0-e37a-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Marc White"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/98e7/live/13329270-e43f-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Bruno Guimaraes returns to St James&#x27; Park this weekend"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1543/live/e151a240-e36d-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Mauricio Pochettino"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/74e7/live/ff2991b0-e435-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Daniel Farke"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d2a3/live/6873e510-e384-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Vitor Matos leaves Swansea City in place of Strasbourg"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4c33/live/ea7b7eb0-e429-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Michele Kang split with GTA 6 game cover"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab0d/live/9c564c70-e356-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Jason Gillespie says we&#x27;re close to finding out what actually happened in 2018"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4478/live/4fa95f30-e42c-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Tiger Woods"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4b0a/live/93264080-e381-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Vivianne Miedema on the BBC Women&#x27;s Football Weekly podcast"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/14ac/live/c743da10-e42d-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Lauren Price Michaela Kotaskova"
         }
       ],
       "featured": false
     },
     {
-      "title": "抗癌倡議者古德本將為欖球賽開球",
+      "title": "癌症倡議者 Goodburn 將為欖球賽事開球",
       "url": "https://www.bbc.co.uk/sport/articles/cqn49jxjg19eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T13:45:55.000Z",
-      "summary": "游泳冠軍及腦癌研究倡議者阿奇·古德本將於下月為蘇聯對澳洲的國足錦標賽獻上賽球。",
+      "summary": "游泳冠軍及腦癌研究倡議者 Archie Goodburn 將於下月代表Scotland出戰對澳洲的 Nations Championship 賽事，負責開球。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -321,100 +399,49 @@
           "alt": "Archie Goodburn in action in the pool"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5905/live/68c56c00-e37a-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "BBC Sport&#x27;s Olly Foster takes a closer look at the bankruptcy of LIV Golf"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/52d4/live/6a14aed0-e46b-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Nikita Parris on Arsenal"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f205/live/e7469190-ddca-11f1-93e1-3b657b665bcf.jpg",
-          "alt": "Nottingham Forest fan Ellie Molloson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a956/live/abf9f000-e44b-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Thomas Frank"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/faef/live/c07431c0-e3a7-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Thierry Henry, Cristiano Ronaldo and Karim Benzema"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6206/live/aa0442e0-e43d-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Referee&#x27;s hand"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4219/live/72424450-e38f-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Cameron Bancroft looking sullen with a cap and glasses on"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7e9e/live/8b99c8a0-e43f-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Pictured are Lauren James (England) Player, Carla Ward (Republic of Ireland) Head Coach, Rhian Wilkinson (Wales) Head Coach and Caroline Weir (Scotland) Captain"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1087/live/2d499bb0-e37a-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Marc White"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/98e7/live/13329270-e43f-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Bruno Guimaraes returns to St James&#x27; Park this weekend"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1543/live/e151a240-e36d-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Mauricio Pochettino"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/74e7/live/ff2991b0-e435-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Daniel Farke"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d2a3/live/6873e510-e384-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Vitor Matos leaves Swansea City in place of Strasbourg"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4c33/live/ea7b7eb0-e429-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Michele Kang split with GTA 6 game cover"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab0d/live/9c564c70-e356-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Jason Gillespie says we&#x27;re close to finding out what actually happened in 2018"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4478/live/4fa95f30-e42c-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Tiger Woods"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4b0a/live/93264080-e381-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Vivianne Miedema on the BBC Women&#x27;s Football Weekly podcast"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/14ac/live/c743da10-e42d-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Lauren Price Michaela Kotaskova"
         }
       ],
       "featured": false
     },
     {
-      "title": "腦癌檢討公布之際，游泳選手阿奇·古德本向首相道謝",
-      "url": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T19:04:46.000Z",
-      "summary": "這名患有無法手術切除的腦腫瘤的蘇格蘭選手，曾在《BBC早餐》節目中含淚呼籲增加腦癌研究投資。",
-      "sourceName": "BBC 運動（游泳）",
-      "sourceId": "bbc-swimming",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7add/live/d23d0210-c70a-11f1-a86b-b5b222c3559c.jpg",
-          "alt": "Archie Goodburn following his Men&#x27;s 50m Breaststroke final at the Tollcross International Swimming Centre during day four of the 2026 Commonwealth Games in Glasgow. He is leaning out of the water on a red lane guide. He is wearing a white swimming cap with blue writing on it and goggles on his forehead."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/142e/live/fec80360-51a5-11f0-8485-7bd50fa63665.jpg",
-          "alt": "Archie Goodburn"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/0df4/live/042f98d0-89ff-11f1-b8ee-9b3c26ad07bb.jpg",
-          "alt": "Archie Goodburn"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/81e3/live/89943a70-e3d8-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A count down on a tv at 00:00 with a crowd of people cheering in the room"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/afd5/live/95fdbbc0-e387-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A woman with a shopping trolley stood outside a supermarket with her phone in her right hand and a receipt in her left."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d82d/live/8173d8f0-e383-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Sheep in a snowy field"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4b36/live/e2bd6fd0-e384-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "A yellow speed camera to the left of a residential road with cars going past."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6913/live/b09f67d0-e37d-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "A man wearing a blue cap, sunglasses and a white t-shirt."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9c57/live/d88d5240-e35d-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Donald Trump looks directly at the camera while him and Xi Jinping hug"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/fd3a/live/b9918f20-e34c-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Billie Eilish wears a navy blue cap and a blue jersey, holding a microphone during performance."
-        }
-      ],
-      "featured": false
-    },
-    {
-      "title": "「就像我的哥哥們」：腦麻痺男孩靠視線追蹤技術通過GCSE",
+      "title": "「就像我的哥哥們一樣」：腦麻痺男孩透過眼動追蹤技術通過 GCSE",
       "url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
       "publishedAt": "2026-10-02T17:18:06.000Z",
-      "summary": "派翠克·麥克凱布在特殊教育及殘疾支援體系下完成GCSE，展現了體系的限制與可能。",
+      "summary": "Patrick McCabe 在 Cheshire _macclesfield 的 Fallibroome Academy 克服重重挑戰，使用眼動追蹤技術通過 GCSE，展現特殊教育需要及殘障制度的限制與可能性。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -462,10 +489,10 @@
       "featured": false
     },
     {
-      "title": "190萬人研究發現ADHD與腸胃問題有顯著關聯",
+      "title": "研究190萬人發現 ADHD 與腸胃問題存在顯著關聯",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
       "publishedAt": "2026-09-11T11:26:08.000Z",
-      "summary": "研究分析逾190萬人資料，發現ADHD患者的消化問題比率大幅較高，患便秘的機會接近兩倍、腸易激綜合症高58%，糞便失禁更超過四倍。",
+      "summary": "研究人員分析逾190萬人的資料，發現 ADHD 與較高消化問題比率有關。ADHD 患者便秘機率接近兩倍、腸躁症機率高58%，遺糞症機率則超過四倍。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -481,10 +508,10 @@
       "featured": false
     },
     {
-      "title": "帶著 ADHD 特徵長大的隱藏健康影響",
+      "title": "帶 ADHD 特徵成長的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項歷時數十年、涉及近 11,000 人的大型研究顯示，兒童時期的 ADHD 特徵可能帶來超越學業與行為的長遠健康影響。10 歲時有明顯 ADHD 特徵者，到了中年較可能出現多種生理健康問題及健康相關殘障。",
+      "summary": "一項歷時數十年的大型研究顯示，兒童期的 ADHD 徵狀或會帶來超越學業和行為的後果。研究者追蹤近1.1萬人至中年，發現10歲時 ADHD 特徵明顯者，日後較易出現多種生理健康問題及健康相關殘障。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -500,10 +527,10 @@
       "featured": false
     },
     {
-      "title": "研究發現 ADHD 的優勢與更好的心理健康有關",
+      "title": "研究發現 ADHD 優點與更佳心理健康有關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示 ADHD 較光明的一面：成年人若能認識並運用自己的優勢，通常更愉快、更健康，壓力亦較低。ADHD 患者較容易將創意、幽默和高度專注視作個人長處；運用這些長處與更好的生活質素及較少心理健康問題有關。",
+      "summary": "新研究揭示 ADHD 較光明的一面：成年人若能認識並運用自身優點，往往更快乐、更健康，壓力也較低。ADHD 患者較常將創意、幽默及高度專注視為個人優點，而運用這些優點與較佳生活品質及較少心理健康問題有關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -519,10 +546,10 @@
       "featured": false
     },
     {
-      "title": "ADHD 藥物的運作方式與我們想像的不同",
+      "title": "ADHD 藥物的運作方式與原先想像不同",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "腦部掃描顯示，ADHD 興奮劑主要不是靠提升專注力，而是喚醒大腦，啟動獎賞與警覺系統，令兒童對通常會避開的任務保持興趣。藥物甚至可逆轉與睡眠不足相關的腦部模式，並可能令 ADHD 診斷更複雜。",
+      "summary": "ADHD 興奮劑似乎主要藉喚醒大腦，而非直接提升專注力。腦部掃描顯示，藥物會啟動獎賞及警覺系統，幫助兒童對通常會避開的任務保持興趣，甚至逆轉與睡眠不足相關的腦部模式，或令 ADHD 診斷更複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -541,7 +568,7 @@
       "title": "機構警告：多國未能防止兒童遭受暴力",
       "url": "https://www.who.int/news/item/18-06-2020-countries-failing-to-prevent-violence-against-children-agencies-warn",
       "publishedAt": "2020-06-18T13:00:57.000Z",
-      "summary": "全球約一半兒童，即每年約 10 億名兒童，遭受身體、性或心理暴力，並因而受傷、殘疾甚至死亡，原因是各國未能落實既有的兒童保護策略。報告由世界衛生組織、UNICEF 等機構聯合發布。",
+      "summary": "全球一半兒童，即每年約10億名兒童，遭受身體、性或心理暴力，並因各國未落實既有保護策略而受傷、殘疾甚至死亡。這是世衞組織、兒童基金會及聯合國最新報告所指出的情況。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
@@ -561,10 +588,10 @@
       "featured": false
     },
     {
-      "title": "為面對疾病死亡威脅的 1,100 萬名兒童帶來希望",
+      "title": "為面對疾病死亡威脅的1,100萬名兒童帶來希望",
       "url": "https://www.who.int/news/item/26-05-2003-efdef5c2-0e18-435f-a4d3-37757f7b178f",
       "publishedAt": "2020-03-19T09:17:06.000Z",
-      "summary": "世界衛生大會大力支持新的兒童及青少年健康策略，冀整合減少兒童死亡和長期殘疾的重要措施，並降低每年 140 萬名青少年死亡的數字。去年兒童及青少年死亡人數是……的兩倍。",
+      "summary": "世界衛生大會大力支持兒童及青少年健康的新策略方向，匯集減少兒童死亡和長期殘疾的關鍵措施，並旨在每年減少140萬名青少年死亡。去年死亡兒童及青少年的數字是前一年的兩倍。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
