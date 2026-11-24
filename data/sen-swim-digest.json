@@ -1,14 +1,65 @@
 {
-  "updatedAt": "2026-11-23T08:38:13.201Z",
+  "updatedAt": "2026-11-24T10:42:11.072Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；非繁中標題／摘要經 API 譯為繁中；詳情頁長文翻譯預設關閉以節省用量，圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "為何越來越多年輕蘇格蘭人申領殘疾福利？",
+      "title": "福利檢討建議加快向部分殘疾人士付款",
+      "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T10:04:13.000Z",
+      "summary": "蒂姆斯檢討將建議病情嚴重的人士毋須重新評估，即可繼續領取個人獨立付款（PIP）。",
+      "sourceName": "BBC 新聞（障礙）",
+      "sourceId": "bbc-disability",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8b31/live/c83edc60-e7d1-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "A woman in a wheelchair sits at a desk at home wearing a green jacket and jeans filling out paperwork"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/a16e/live/80c12ba0-e771-11f1-ae0a-d1908652a433.png",
+          "alt": "A woman with long brown hair and glasses wearing a green coat is holding a coffee cup and using a power wheelchair on a path in a park while looking at the camera."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/4ce5/live/469aac50-e7d8-11f1-99a1-253766e7ad8b.png",
+          "alt": "Your Voice banner image. Your Voice is written in white against a purple background."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1c3b/live/8a42d0e0-b10a-11f1-b1d1-571ed4d7ff2c.jpg",
+          "alt": "Close up shot of a person looking at bills and receipts on a table next to a laptop. They are wearing a blue shirt and white t-shirt A yellow mug is in the foreground"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/fa84/live/7e5f5ec0-03c7-11f0-9bb2-ab6d3a01d537.jpg",
+          "alt": "Close up shot of a person looking at bills and receipts on a table next to a calculator in their kitchen. They are wearing a blue jumper and the kitchen sink is in the background."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1a76/live/fbd49eb0-e1e2-11f1-9f14-b33806cfd783.jpg",
+          "alt": "A man and a woman wearing hard hats, safety glasses and high-visibility workwear stand beside large industrial machinery inside a factory. One person holds a tablet while the other points towards equipment on a metal workbench."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0245/live/7d6ef820-e7d9-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "BBC correspondent Lily Jamali, wearing a red coat and scarf, speaks to the camera."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/859a/live/6238eb60-e7cf-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "A close-up image of the head of a black and tan-coloured Doberman puppy. It is wearing a leather collar."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8df4/live/41ad3670-e7df-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A man in a yellow raincoat, a black fleece and a baseball cap. He is in a rural location."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ba10/live/93447fc0-e717-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "A supermoon rises over Richmond Park in  London framed by a small tree on the left and larger tree on the right. In the foreground, a footpath winds through green lawns."
+        }
+      ],
+      "featured": false
+    },
+    {
+      "title": "為何越來越多蘇格蘭年輕人申領殘疾福利？",
       "url": "https://www.bbc.co.uk/news/articles/cw8r7kmgd8dxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-22T09:28:24.000Z",
       "summary": "自新冠疫情以來，蘇格蘭申領殘疾福利的人數急升，原因何在？",
-      "sourceName": "BBC 新聞（健康）",
-      "sourceId": "bbc-health",
+      "sourceName": "BBC 新聞（障礙）",
+      "sourceId": "bbc-disability",
       "images": [
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/cfb5/live/97b8bb40-e4d1-11f1-b045-89fda867dd9a.jpg",
@@ -35,29 +86,29 @@
           "alt": "An image of Mairi McAllan - a young woman with shoulder-length brown hair, wearing a bright pink blazer - speaking in the Scottish Parliament chamber"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6fd7/live/3e379260-e708-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "A dark horse standing on grass infront of a modern building"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0245/live/7d6ef820-e7d9-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "BBC correspondent Lily Jamali, wearing a red coat and scarf, speaks to the camera."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0796/live/d4c02a50-e6a2-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Climate and science journalist Esme"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/859a/live/6238eb60-e7cf-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "A close-up image of the head of a black and tan-coloured Doberman puppy. It is wearing a leather collar."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab0c/live/65ced080-e718-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Six Mexican soldiers escort three men across the tarmac at an airport. The man being held in front it wearing black trousers, a black T-shirt and a black bar has been added to the photo obscuring his eyes."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/271a/live/ce8b56f0-e7d3-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A woman smiling at the camera, in a selfie pose. She wears a black and white-striped jumper and green, sunflower lanyard."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ba10/live/93447fc0-e717-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "A supermoon rises over Richmond Park in  London framed by a small tree on the left and larger tree on the right. In the foreground, a footpath winds through green lawns."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8df4/live/41ad3670-e7df-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A man in a yellow raincoat, a black fleece and a baseball cap. He is in a rural location."
         }
       ],
       "featured": false
     },
     {
-      "title": "搬到曼徹斯特激勵Morgan再奪獎牌",
+      "title": "摩根：搬到曼徹斯特激勵自己再奪獎牌",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/c6x20gd79g99o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-19T17:32:21.000Z",
-      "summary": "什羅普郡游泳選手奧利·摩根表示，搬到曼徹斯特有助激勵自己重返奪牌狀態。",
+      "summary": "什羅普郡泳手奧利·摩根表示，搬到曼徹斯特有助激勵自己恢復奪獎牌狀態。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -66,82 +117,75 @@
           "alt": "Ollie Morgan of Team England poses for a photo after winning the silver medal in the men&#x27;s 200m backstroke on day three of the Glasgow 2026 Commonwealth Games at Tollcross International Swimming Centre"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/127a/live/c713c100-e6ac-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Renee Slegers"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d7e0/live/2205e6b0-e7f2-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Mark Chapman and Conor Coady laugh, reacting to the viral Gary Neville face slap on Sky Sports"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/764a/live/ceb02310-e6cd-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Mauricio Pochettino &amp; Paul Robinson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/43c9/live/d4a399c0-e7e3-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Everton fan Sarah Halpin"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3cc2/live/fdc6eae0-e69a-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "George Russell"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/38f4/live/934e16b0-e759-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Infantino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/991c/live/f0574600-e6b0-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Man Utd fan Jay Motty"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7421/live/fd304360-e74e-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "British heavyweight boxer Tyson Fury"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5bda/live/89a7ea10-e6b8-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Liverpool fan Abigail Rudkin"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f077/live/a72f9c00-e793-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Levi Colwill and Jordan Henderson applaud the Chelsea fans after losing 4-1 to Leeds United"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7091/live/a34ed380-e68f-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Cole Palmer with his hand out questioningly as he holds the ball at his feet"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a378/live/b867aba0-e75e-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Marc Marquez"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/903c/live/8fdaab30-dd2f-11f1-b441-2b33b063138f.jpg",
-          "alt": "Hull City footballer Oli McBurnie and team-mate Nobel Mendy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7417/live/34f87d60-e756-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Mikel Arteta"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/be2a/live/30282bf0-ded7-11f1-a701-fddedf244c16.jpg",
-          "alt": "U2: Tracks of my Years"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0710/live/8db87360-e733-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Katie George"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0lmfqv8.jpg",
-          "alt": ""
-        }
-      ],
-      "featured": true
-    },
-    {
-      "title": "「我們不會製造NEET」：獲世界最佳學校獎項肯定的倫敦學校",
-      "url": "https://www.theguardian.com/education/2026/nov/19/london-swiss-cottage-school-worlds-best-school-awards",
-      "publishedAt": "2026-11-19T14:46:13.000Z",
-      "summary": "這所服務有複雜需要兒童的瑞士小屋學校，是每名孩子都感到有歸屬感的地方。Maria面對兒子有複雜需要，最難的是哀悼未能實現的人生，以及接受養育他的孤獨現實。",
-      "sourceName": "《衛報》教育",
-      "sourceId": "guardian-education",
-      "images": [
-        {
-          "src": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=education",
-          "alt": ""
-        },
-        {
-          "src": "https://i.guim.co.uk/img/media/8cdde37815a1efa3a597539758194c77fe9c86e9/761_0_7453_5964/master/7453.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none",
-          "alt": "Headteacher Syra Sowe, in a dark navy jacket and green shirt, proudly stands before her Swiss Cottage school"
-        },
-        {
-          "src": "https://i.guim.co.uk/img/media/e30b8efd88e0b467e6ce87b6f76553a5bb0c2bff/1072_699_7046_5637/master/7046.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none",
-          "alt": "Maria (left, wearing glasses and a zebra-print jacket) stands proudly beside her son Alex, who is wearing a green long-sleeved top and glasses"
-        },
-        {
-          "src": "https://i.guim.co.uk/img/media/98516292d8706d9cec4a3961e836d9b2df37f407/1036_0_7920_6336/master/7920.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none",
-          "alt": "Two children with special needs in wheelchairs and similar aids are attended by three teachers at Swiss Cottage school"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8c52/live/005312c0-e745-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Enzo Maresca"
         }
       ],
       "featured": false
     },
     {
-      "title": "幫助特殊教育需要孩子的羊駝農場",
+      "title": "幫助特殊教育需要兒童的羊駝農場",
       "url": "https://www.bbc.co.uk/news/videos/cmj6lzll35gjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-18T10:15:53.000Z",
-      "summary": "一名同時患有自閉症及ADHD的男孩，將自家羊駝農場打造成其他特殊教育需要兒童的安全港。",
+      "summary": "一名患有自閉症兼注意力不足過度活躍症的男孩，將自家羊駝農場打造成其他特殊教育需要兒童的安全港。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9245/live/c3b356e0-e299-11f1-99a1-253766e7ad8b.jpg",
           "alt": "An alpaca is looking at the camera. Another is eating."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dd69/live/495b9350-e7d3-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Split screen. Left, Jensen Huang, CEO of Nvidia, mid-speech against a blue background. Right, a company sign reading &#x27;Nvidia&#x27;."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3d08/live/65108220-e7df-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Body cam footage showing Meza Flores being detained"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/eefc/live/333ecef0-e7e4-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Left, Kate Middleton looking out onto green hills. Right, Middleton is speaking to someone off-camera."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/caf3/live/63f423d0-e76a-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Left, a woman with brown hair. Right, Jensen Huang."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1816/live/87274fe0-e74b-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Screen grab from video taken during the street rotests in France"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg",
@@ -158,35 +202,15 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d960/live/d9b714f0-e5bd-11f1-a094-5fdc692f3e33.jpg",
           "alt": "Sarah Rainsford at centre of frame"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ddea/live/8dcffdf0-e50d-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Protesters march in front of the Colosseum as part of a general strike, in Rome, Italy, 20 November 2026. A 24-hour general strike, called by Italy&#x27;s largest trade union confederation CGIL, alongside other labour groups, is taking place nationwide to protest the government&#x27;s budget bill and its economic and social policies."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5b70/live/4733dfb0-e512-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Split screen. Left, Rafael Rojas is seen. Right, image of Vice City."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/764b/live/acd646d0-e4ba-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Split screen image. On the left, UK and EU flags. On the right, Chris Mason."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f353/live/34533260-e445-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Putin, Xi and Trump standing next to eachother"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4dea/live/12de9420-e441-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Split image: (left) Anna Holligan outside the ICJ, (right) ICJ president Yuji Iwasawa in court during the hearing."
         }
       ],
-      "featured": false
+      "featured": true
     },
     {
-      "title": "Teenager的羊駝如何幫助有額外需要的兒童",
+      "title": "一名少年飼養的羊駝如何幫助有額外需要的兒童",
       "url": "https://www.bbc.co.uk/news/articles/cr2klx1ke5dgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-18T06:05:34.000Z",
-      "summary": "農場的羊駝及瓦萊黑鼻羊，讓當地學校的學生放鬆而快樂。",
+      "summary": "農場的羊駝和瓦萊黑鼻羊令当地學校的學生感到放鬆和快樂。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -227,17 +251,17 @@
           "alt": "A white labradoodle with a purple harness around the nose. The dog also has a green and purple bandanna around the neck."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6fd7/live/3e379260-e708-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "A dark horse standing on grass infront of a modern building"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0245/live/7d6ef820-e7d9-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "BBC correspondent Lily Jamali, wearing a red coat and scarf, speaks to the camera."
         }
       ],
       "featured": false
     },
     {
-      "title": "拉姆齊－皮蒂領銜　復活的國際游泳聯盟避免操之過急",
+      "title": "拉姆齊－皮蒂領銜復活的國際游泳聯盟冀望勿操之過急",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/ck1wvzryg015o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T17:17:18.000Z",
-      "summary": "亞當・拉姆齊－皮蒂將領銜國際游泳聯隊復出表演賽；主辦方承諾吸取過往財政問題，不會「操之過急」。",
+      "summary": "亞當・拉姆齊－皮蒂將領銜國際游泳聯盟復辦的全明星賽；主辦方承諾在過去出現財務問題後，不會「過度操縐」。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -246,151 +270,49 @@
           "alt": "Head and shoulders view of a wet-faced Adam Ramsay-Peaty, wearing black, blue and purple swimming goggles, pulled up above his eyes, plus a largely red swimming cap featuring a union jack flag image and GBR RAMSAY-PEATY in white lettering"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/127a/live/c713c100-e6ac-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Renee Slegers"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d7e0/live/2205e6b0-e7f2-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Mark Chapman and Conor Coady laugh, reacting to the viral Gary Neville face slap on Sky Sports"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/764a/live/ceb02310-e6cd-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Mauricio Pochettino &amp; Paul Robinson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/43c9/live/d4a399c0-e7e3-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Everton fan Sarah Halpin"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3cc2/live/fdc6eae0-e69a-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "George Russell"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/38f4/live/934e16b0-e759-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Infantino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/991c/live/f0574600-e6b0-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Man Utd fan Jay Motty"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7421/live/fd304360-e74e-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "British heavyweight boxer Tyson Fury"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5bda/live/89a7ea10-e6b8-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Liverpool fan Abigail Rudkin"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f077/live/a72f9c00-e793-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Levi Colwill and Jordan Henderson applaud the Chelsea fans after losing 4-1 to Leeds United"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7091/live/a34ed380-e68f-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Cole Palmer with his hand out questioningly as he holds the ball at his feet"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a378/live/b867aba0-e75e-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Marc Marquez"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/903c/live/8fdaab30-dd2f-11f1-b441-2b33b063138f.jpg",
-          "alt": "Hull City footballer Oli McBurnie and team-mate Nobel Mendy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7417/live/34f87d60-e756-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Mikel Arteta"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/be2a/live/30282bf0-ded7-11f1-a701-fddedf244c16.jpg",
-          "alt": "U2: Tracks of my Years"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0710/live/8db87360-e733-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Katie George"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0lmfqv8.jpg",
-          "alt": ""
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8c52/live/005312c0-e745-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Enzo Maresca"
         }
       ],
       "featured": false
     },
     {
-      "title": "有學習障礙的年輕人首次亮相《最後一腿》電視摔角節目",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm398dywmro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T15:12:14.000Z",
-      "summary": "Tuned In Project成員在第四頻道《最後一腿》節目中展示摔角技巧。",
-      "sourceName": "BBC 新聞（障礙）",
-      "sourceId": "bbc-disability",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/850/cpsprodpb/be8d/live/87c0fc40-e1c3-11f1-8a52-0b287ff76f43.png",
-          "alt": "A number of the Tune In Project members pictured in the ring with Last Leg host Josh Widdicombe."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/cb94/live/c0a57220-e1be-11f1-a339-49d4d3ed4c86.jpg",
-          "alt": "A number of the Tune In project get a picture with host Adam Hills, who is holding a Tuned In Project belt"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/27f8/live/db8e7150-e1bd-11f1-a339-49d4d3ed4c86.jpg",
-          "alt": "Sean Curran is wearing a red jumper and standing in a gym. \nHe has short brown hair and is smiling."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/822/cpsprodpb/818a/live/21a04560-e1c3-11f1-8a52-0b287ff76f43.png",
-          "alt": "A number of people on stage pinning an opponent as a referee in the background counts down the pin fall. A red chair is also visible beside the downed opponent."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/462d/live/ff6ebfc0-e1be-11f1-a339-49d4d3ed4c86.jpg",
-          "alt": "Members of the Tuned IN project pictured outside the studio ahead of their show."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/876/cpsprodpb/e510/live/1f942c40-e1c4-11f1-8a52-0b287ff76f43.png",
-          "alt": "A man is seen holding a woman, who is upside down in his arms, performing a wrestling move. A number of shocked onlookers, including Josh Widdicombe, are seen in the ring watching on."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a132/live/ba5c37d0-1436-11ef-aaba-c118de1aaa36.jpg",
-          "alt": "Wrestlers"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/baa1/live/55be2840-7c41-11f1-8ccc-df652c9169a7.jpg",
-          "alt": "A young woman with long hair is singing in front of a microphone, she has her left arm raised in the air."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6fd7/live/3e379260-e708-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "A dark horse standing on grass infront of a modern building"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0796/live/d4c02a50-e6a2-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Climate and science journalist Esme"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "title": "圖雷特氏症電影《我發誓》勇奪三項蘇格蘭 BAFTA 大獎",
-      "url": "https://www.bbc.co.uk/news/articles/crgqx11wkzy8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T12:04:13.000Z",
-      "summary": "講述圖雷特氏症倡議者約翰・戴維森生平的电影，贏得最佳電影、最佳導演及最佳男演員獎。",
-      "sourceName": "BBC 新聞（障礙）",
-      "sourceId": "bbc-disability",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4290/live/bde170f0-e18e-11f1-952d-674f3722bb9f.jpg",
-          "alt": "John Bell, young man in a white shirt, Sophie Skelton, a young woman in a green dress, Sam Heughan, a man in dark blue Highland dress and Matthew B Roberts, in dinner suit and black tie, stand in a row in front of the Bafta Scotland backdrop. They look happy to be there."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/ab7d/live/5c595f90-e18f-11f1-952d-674f3722bb9f.jpg",
-          "alt": "Stephen Libby is a young an with a moustache, ear rings and a gold chain. He is wearing a red and black tartan suit and  a low-cut black T-shirt and is smiling in front of the Bafta Scotland backdrop."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/d433/live/4ec2f740-9539-11f0-ad73-8b4a30771edb.jpg",
-          "alt": "A photo from the film of the actor on the balcony of a high flat looking out"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/46C0/production/_107821181_john_doddie.jpg",
-          "alt": "John Davidson"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6fd7/live/3e379260-e708-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "A dark horse standing on grass infront of a modern building"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0796/live/d4c02a50-e6a2-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Climate and science journalist Esme"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab0c/live/65ced080-e718-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Six Mexican soldiers escort three men across the tarmac at an airport. The man being held in front it wearing black trousers, a black T-shirt and a black bar has been added to the photo obscuring his eyes."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ba10/live/93447fc0-e717-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "A supermoon rises over Richmond Park in  London framed by a small tree on the left and larger tree on the right. In the foreground, a footpath winds through green lawns."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c24a/live/91937990-e705-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Woman points at mammogram image on computer screen"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7acb/live/d7520380-e6c8-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Split-screen showing Strictly judges Craig Revel Horwood and Motsi Mabuse during show on the left, and BBC journalist Simon Jones outside BBC office on the right"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "title": "南非游泳總會主席：史密斯的選擇轉投荷蘭令人傷心",
+      "title": "南非游泳總會主席：史密斯轉投荷蘭令人傷心",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cmy86x3y5dd8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-12T11:40:04.000Z",
-      "summary": "塔蒂雅娜・史密斯決定轉而代表荷蘭出賽。南非游泳總會主席表示，此事對南非而言「令人傷心」。",
+      "summary": "塔蒂亞娜・史密斯決定轉投荷蘭，對南非而言「令人傷心」，該國游泳總會主席表示。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -399,49 +321,49 @@
           "alt": "Tatjana Smith poses on the podium after winning women’s 100m breaststroke gold at the Paris 2024 Olympic Games"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/127a/live/c713c100-e6ac-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Renee Slegers"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d7e0/live/2205e6b0-e7f2-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Mark Chapman and Conor Coady laugh, reacting to the viral Gary Neville face slap on Sky Sports"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/764a/live/ceb02310-e6cd-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Mauricio Pochettino &amp; Paul Robinson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/43c9/live/d4a399c0-e7e3-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Everton fan Sarah Halpin"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3cc2/live/fdc6eae0-e69a-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "George Russell"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/38f4/live/934e16b0-e759-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Infantino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/991c/live/f0574600-e6b0-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Man Utd fan Jay Motty"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7421/live/fd304360-e74e-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "British heavyweight boxer Tyson Fury"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5bda/live/89a7ea10-e6b8-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Liverpool fan Abigail Rudkin"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f077/live/a72f9c00-e793-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Levi Colwill and Jordan Henderson applaud the Chelsea fans after losing 4-1 to Leeds United"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7091/live/a34ed380-e68f-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Cole Palmer with his hand out questioningly as he holds the ball at his feet"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a378/live/b867aba0-e75e-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Marc Marquez"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/903c/live/8fdaab30-dd2f-11f1-b441-2b33b063138f.jpg",
-          "alt": "Hull City footballer Oli McBurnie and team-mate Nobel Mendy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7417/live/34f87d60-e756-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Mikel Arteta"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/be2a/live/30282bf0-ded7-11f1-a701-fddedf244c16.jpg",
-          "alt": "U2: Tracks of my Years"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0710/live/8db87360-e733-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Katie George"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0lmfqv8.jpg",
-          "alt": ""
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8c52/live/005312c0-e745-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Enzo Maresca"
         }
       ],
       "featured": false
     },
     {
-      "title": "抗癌倡議者古德本將為欖球賽獻上比賽球",
+      "title": "抗癌倡議者古德本將為欖球賽揭幕獻球",
       "url": "https://www.bbc.co.uk/sport/articles/cqn49jxjg19eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-21T13:45:55.000Z",
-      "summary": "游泳冠軍兼腦癌研究倡議者阿奇・古德本，將於下月為蘇格蘭對澳洲的國錦標賽獻上比賽球。",
+      "summary": "游泳冠軍及腦癌研究倡議者阿奇・古德本將於下月蘇聯對澳洲的國際錦標賽揭幕禮獻上賽事用球。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -450,49 +372,49 @@
           "alt": "Archie Goodburn in action in the pool"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/127a/live/c713c100-e6ac-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Renee Slegers"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d7e0/live/2205e6b0-e7f2-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Mark Chapman and Conor Coady laugh, reacting to the viral Gary Neville face slap on Sky Sports"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/764a/live/ceb02310-e6cd-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Mauricio Pochettino &amp; Paul Robinson"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/43c9/live/d4a399c0-e7e3-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Everton fan Sarah Halpin"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3cc2/live/fdc6eae0-e69a-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "George Russell"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/38f4/live/934e16b0-e759-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Infantino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/991c/live/f0574600-e6b0-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Man Utd fan Jay Motty"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7421/live/fd304360-e74e-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "British heavyweight boxer Tyson Fury"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5bda/live/89a7ea10-e6b8-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Liverpool fan Abigail Rudkin"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/f077/live/a72f9c00-e793-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Levi Colwill and Jordan Henderson applaud the Chelsea fans after losing 4-1 to Leeds United"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7091/live/a34ed380-e68f-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Cole Palmer with his hand out questioningly as he holds the ball at his feet"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a378/live/b867aba0-e75e-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Marc Marquez"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/903c/live/8fdaab30-dd2f-11f1-b441-2b33b063138f.jpg",
-          "alt": "Hull City footballer Oli McBurnie and team-mate Nobel Mendy"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7417/live/34f87d60-e756-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Mikel Arteta"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/be2a/live/30282bf0-ded7-11f1-a701-fddedf244c16.jpg",
-          "alt": "U2: Tracks of my Years"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0710/live/8db87360-e733-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Katie George"
         },
         {
-          "src": "https://ichef.bbci.co.uk/images/ic/480x270/p0lmfqv8.jpg",
-          "alt": ""
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8c52/live/005312c0-e745-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Enzo Maresca"
         }
       ],
       "featured": false
     },
     {
-      "title": "「就像我的哥哥們一樣」：腦麻痺男孩靠眼球追蹤技術通過 GCSE 考試",
+      "title": "「就像我的哥哥們一樣」：腦麻痺男孩透過眼球追蹤技術通過普通中等教育證書考試",
       "url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
       "publishedAt": "2026-10-02T17:18:06.000Z",
-      "summary": "Patrick McCabe 在柴郡麥克萊斯菲爾德的 Fallibroome Academy 讀書。學校在支援有特殊教育需要及殘疾的學生方面，既展現局限，也提供可能。",
+      "summary": "派翠克・麥克凱布借助眼球追蹤技術通過GCSEs，其成就既反映特殊教育及傷殘支援制度的局限，也展示其無限可能。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -540,10 +462,10 @@
       "featured": false
     },
     {
-      "title": "研究 190 萬人發現 ADHD 與腸胃問題有顯著關聯",
+      "title": "研究190萬人：注意力不足多動症與腸胃問題存在顯著關聯",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
       "publishedAt": "2026-09-11T11:26:08.000Z",
-      "summary": "研究人員分析逾 190 萬人的資料，發現 ADHD 與較高比率的消化問題相關。ADHD 患者出現便秘、腸躁症及糞失禁的可能性分別接近兩倍、高 58% 及逾四倍。",
+      "summary": "研究人員分析逾190萬人的數據，發現ADHD與消化問題比率顯著較高。患者的便秘機率接近兩倍、腸躁症機率高58%，糞便失禁機率更超過四倍。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -559,10 +481,10 @@
       "featured": false
     },
     {
-      "title": "帶著 ADHD 特徵成長的隱藏健康影響",
+      "title": "在ADHD特徵下成長的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項歷時數十年、涉及近 1.1 萬人的研究顯示，兒童時期的 ADHD 特徵可能帶來遠超學業與行為的後果。10 歲時 ADHD 特徵強烈者，到了中年較易出現多種健康問題及健康相關殘障。",
+      "summary": "一項歷時數十年、涉及近1.1萬人的研究顯示，兒童期的ADHD特徵可能影響日後身心健康。10歲時有明顯ADHD特徵的人士，較易在中年出現多種健康問題及健康相關殘疾。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -578,10 +500,10 @@
       "featured": false
     },
     {
-      "title": "研究發現 ADHD 的優點與更佳心理健康有關",
+      "title": "研究發現ADHD優勢與較佳心理健康有關",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究顯示 ADHD 也有正面一面。成年人如能認識並運用自己的優點，會感到更開心、更健康及壓力更小。ADHD 患者較常將創意、幽默及高度專注視為個人優點，而運用這些優點與較佳生活質素及較少心理健康問題有關。",
+      "summary": "新研究揭示ADHD較正面的一面。成年人如能認識並運用自身優勢，往往感到更開心、更健康，压力亦較低。ADHD患者常將創意、幽默及高度專注視為個人優勢；運用這些優勢與較佳生活質素及較少心理健康問題有關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -597,10 +519,10 @@
       "featured": false
     },
     {
-      "title": "ADHD 藥物的運作方式與我們所想不同",
+      "title": "ADHD藥物的運作方式與原先想像不同",
       "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
       "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD 興奮劑似乎主要不是提升專注力，而是喚醒大腦。腦部掃描顯示，藥物會啟動獎勵與警覺系統，幫助兒童保持對原本會避開的任務的興趣，甚至扭轉與睡眠不足相關的腦部模式。這可能令 ADHD 的診斷更複雜。",
+      "summary": "腦部掃描顯示，ADHD興奮劑主要透過喚醒大腦，而非單純提高專注力。這些藥物可啟動獎賞及警覺系統，幫助兒童對原本會避開的任務保持興趣，甚至逆轉與睡眠不足相關的腦部模式，可能令ADHD診斷更複雜。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -616,10 +538,10 @@
       "featured": false
     },
     {
-      "title": "機構警告：多國未能防止兒童遭受暴力",
+      "title": "各國未能防止兒童遭受暴力，機構發出警告",
       "url": "https://www.who.int/news/item/18-06-2020-countries-failing-to-prevent-violence-against-children-agencies-warn",
       "publishedAt": "2020-06-18T13:00:57.000Z",
-      "summary": "世衛組織、兒童基金會及聯合國今日發表新報告指出，全球約半數兒童每年遭受身體、性或心理暴力，約十億人受影響，並因而受傷、殘疾甚至死亡，原因是多國未能落實既定保護策略。",
+      "summary": "世界衛生組織、聯合國兒童基金會等機構指出，全球約一半兒童每年遭受身體、性或心理暴力，造成傷殘、殘疾甚至死亡，反映各國未能落實既有的兒童保護策略。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
@@ -639,10 +561,10 @@
       "featured": false
     },
     {
-      "title": "1100萬名因疾病面臨死亡兒童迎來希望",
+      "title": "為面對疾病死亡風險的1,100萬名兒童帶來希望",
       "url": "https://www.who.int/news/item/26-05-2003-efdef5c2-0e18-435f-a4d3-37757f7b178f",
       "publishedAt": "2020-03-19T09:17:06.000Z",
-      "summary": "世界衛生大會有力支持兒童及青少年健康的新策略方向，整合減少兒童死亡及長期殘疾的重要措施，並旨在減少每年140萬宗青少年死亡。",
+      "summary": "世界衛生大會支持新的兒童及青少年健康策略，透過整合重要措施，減少兒童死亡及長期殘疾。策略亦旨在每年減少140萬宗青少年死亡，兒童及青少年死亡人數有望大幅下降。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
