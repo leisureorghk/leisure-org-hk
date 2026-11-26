@@ -1,18 +1,26 @@
 {
-  "updatedAt": "2026-11-25T09:36:30.235Z",
+  "updatedAt": "2026-11-26T09:12:10.035Z",
   "disclaimer": "僅收錄與 SEN／游泳相關之公開 RSS 項目；非繁中標題／摘要經 API 譯為繁中；詳情頁長文翻譯預設關閉以節省用量，圖片連結指向原站；請以「閱讀原文」核對內容與版權歸屬。",
   "items": [
     {
-      "title": "我們如何更深入了解神經多樣性與相關診斷？",
-      "url": "https://www.bbc.co.uk/news/videos/cq5y17dr42gdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T20:06:00.000Z",
-      "summary": "Chris 博士、Xand 博士與劍橋大學 Duncan Astle 教授一起討論神經多樣性及其診斷。",
+      "title": "為何在英國國民保健服務（NHS）取得 ADHD 或自閉症診斷如此困難？",
+      "url": "https://www.bbc.co.uk/news/videos/c3j4rwxr1zgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T08:44:13.000Z",
+      "summary": "Lynne Balmain 說，等待 ADHD 評估不僅造成經濟壓力，也影響她的心理健康與身心狀況。",
       "sourceName": "BBC 新聞（健康）",
       "sourceId": "bbc-health",
       "images": [
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/43f4/live/5dd7d130-e83d-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "Cartoon image of a brain with red lines shooting out of it"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/85a2/live/358e2e50-e972-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Splitscreen showing a head and shoulders shot of a blonde woman with glasses in the top half, and a woman wearing black looking through papers on a sofa in the bottom half."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab64/live/3e820a50-e8f4-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Gordon Ramsay and the Stig in a fast car."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7c45/live/c86e5fb0-e8b4-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Laura Bicker on the left and Pakistani astronaut Muhammad Zeeshan Ali on the right"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9a39/live/eef14440-e89b-11f1-99a1-253766e7ad8b.jpg",
@@ -41,23 +49,187 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/eefc/live/333ecef0-e7e4-11f1-a094-5fdc692f3e33.jpg",
           "alt": "Left, Kate Middleton looking out onto green hills. Right, Middleton is speaking to someone off-camera."
+        }
+      ],
+      "featured": true
+    },
+    {
+      "title": "數千人輪候 ADHD 及自閉症評估，長久等候堪稱「悲劇」",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T06:20:47.000Z",
+      "summary": "全科醫生警告，輪候 ADHD 和自閉症評估時間長，令最有需要的人士未能獲得診斷。",
+      "sourceName": "BBC 新聞（健康）",
+      "sourceId": "bbc-health",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/825/cpsprodpb/90b6/live/c066d7c0-e8eb-11f1-8808-1d4222955d7e.jpg",
+          "alt": "GP Dr Marianne McCallum, with her hair tied back and wearing glasses in her office, is smiling at the camera wearing a grey polo neck jumper."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/caf3/live/63f423d0-e76a-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Left, a woman with brown hair. Right, Jensen Huang."
+          "src": "https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/6bde/live/e7e207a0-e825-11f1-93d4-6d580946ad80.png",
+          "alt": "Lynne Balmain has short hair and is wearing a black spotted top. She is one of thousands of adults waiting for an NHS assessment for ADHD"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1816/live/87274fe0-e74b-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Screen grab from video taken during the street rotests in France"
+          "src": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f256/live/d3242250-ddf6-11f1-8445-15eb55286f71.jpg",
+          "alt": "Self-help magazines on display in a shop showing titles &quot;Live better with ADHD&quot;, &quot;Understanding ADHD&quot; and &quot;Understanding OCD."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/88e5/live/15d63a00-16b8-11f0-8a1e-3ff815141b98.jpg",
+          "alt": "Stock image - generic - of schoolgirl talking to counsellor. She is wearing a school uniform and sitting on a white sofa looking at the counsellor who is a blurred figure in the image."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6db0/live/598ca860-f79a-11f0-a485-a772fcde70e9.jpg",
+          "alt": "Mother Abbie McNeill has long, blonde hair and is wearing a dark green, V-neck jumper and a silver necklace. She is looking at her son Dalton, who is cuddled into her and has short, wavy, blond hair. Dalton is wearing a purple and green knitted jumper and has a dummy in his mouth."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d956/live/a0e782f0-e96d-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A group of people outside a front door of a property in Gloucester, drinking"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3a69/live/6f362e30-e960-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A man in running clothes, a beanie hat and mittens breathes in the cold air on a frosty morning."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/576e/live/bade5ff0-e92a-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Mauricio Pochettino"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/aa0b/live/e1e4e6e0-e926-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Shows an asteroid in space"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/462a/live/17c5cea0-e8ff-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Nitrous oxide canisters"
         }
       ],
       "featured": false
     },
     {
-      "title": "福利檢討建議加快向部分殘疾人士發放款項",
+      "title": "英國、法國及德國推出全新游泳賽事",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/cmdx1l4xly5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T17:00:58.000Z",
+      "summary": "Aquatics GB 聯同法國及德國籌辦新的三國盃賽事，並表示是時候讓「精英游泳競賽 evolve」。",
+      "sourceName": "BBC 運動（游泳）",
+      "sourceId": "bbc-swimming",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/5a77/live/91aa2a90-e8e1-11f1-a3b9-79c60ec9ab33.jpg",
+          "alt": "Adam Peaty"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/462a/live/17c5cea0-e8ff-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Nitrous oxide canisters"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/576e/live/bade5ff0-e92a-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Mauricio Pochettino"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8e98/live/0806d3d0-e91b-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Bruno Fernandes &amp; Ashley Young"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d17f/live/366e7640-e8f0-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Man catches ball on motorbike"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dbe6/live/936301b0-e92f-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "BBC Football pundit Stephen Warnock on Real Madrid and England&#x27;s Jude Bellingham"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e74f/live/be6a5df0-e90b-11f1-b9b5-17bef7133655.jpg",
+          "alt": "BBC Sport&#x27;s Elizabeth Conway and Jude Bellingham"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6da6/live/0acee8f0-e925-11f1-9ad5-d90638539be9.jpg",
+          "alt": "Andoni Iraola, Alexander Isak and Florian Wirtz"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c2fd/live/f28f8c50-e92d-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Mauricio Pochettino gives a &#x27;thumbs up&#x27;"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7a10/live/7a2e2380-e922-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Ashley Young"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "title": "史丹福科學家發現 ADHD 與焦慮症背後有三種隱藏腦部類型",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
+      "publishedAt": "2026-11-25T04:11:59.000Z",
+      "summary": "以人工智能分析數千名兒童腦部掃描結果，發現三種與 ADHD 及焦慮症相關的腦部類型，既不符合傳統診斷，亦可能於確診前出現，有助早期偵測及個人化治療。",
+      "sourceName": "《科學日報》心理與大腦",
+      "sourceId": "sciencedaily-mental",
+      "images": [
+        {
+          "src": "https://www.sciencedaily.com/images/sd-logo.png",
+          "alt": "ScienceDaily"
+        },
+        {
+          "src": "https://www.sciencedaily.com/images/1920/human-head-adhd-mental-health.webp",
+          "alt": "3 Hidden Brain Types Behind ADHD and Anxiety"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "title": "如何更深入理解神經多樣性與診斷？",
+      "url": "https://www.bbc.co.uk/news/videos/cq5y17dr42gdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T20:06:00.000Z",
+      "summary": "Chris 與 Xand 醫生聯同劍橋大學 Duncan Astle 教授，探討神經多樣性及其診斷。",
+      "sourceName": "BBC 新聞（健康）",
+      "sourceId": "bbc-health",
+      "images": [
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/43f4/live/5dd7d130-e83d-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Cartoon image of a brain with red lines shooting out of it"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab64/live/3e820a50-e8f4-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Gordon Ramsay and the Stig in a fast car."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7c45/live/c86e5fb0-e8b4-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Laura Bicker on the left and Pakistani astronaut Muhammad Zeeshan Ali on the right"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9a39/live/eef14440-e89b-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Composite image of Beau Lamarre holding up a surfboard bag in a shop, and Beau Lamarre dressed as an UberEats rider on a Sydney street"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e7a2/live/8db90f50-e896-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A split screen of BBC correspondent dressed in a royal blue shirt speaking in front a bookcase and a man in a wheelchair dressed in an orange jail suit."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a1d6/live/4d05a030-e82e-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Left, hands hold a phone with Meta&#x27;s chatbot on the screen. Right, Zoe Kleinman."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4db3/live/cd8ebeb0-e8a8-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A man in grey prison sweats."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/59b8/live/43f09a20-e808-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Jensen Huang returns to the office  and photographed with hand on heart with photographers and reporters  present"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3d08/live/65108220-e7df-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Body cam footage showing Meza Flores being detained"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/eefc/live/333ecef0-e7e4-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Left, Kate Middleton looking out onto green hills. Right, Middleton is speaking to someone off-camera."
+        }
+      ],
+      "featured": false
+    },
+    {
+      "title": "福利檢討建議加快部分殘疾人士的付款",
       "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-24T10:04:13.000Z",
-      "summary": "Timms 檢討將建議病情嚴重者毋須再接受評估，便可繼續領取個人獨立繳款（Pip）。",
+      "summary": "蒂姆斯檢討將建議，患嚴重疾病者毋須再接受評審即可領取個人獨立付款。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -82,33 +254,33 @@
           "alt": "A man and a woman wearing hard hats, safety glasses and high-visibility workwear stand beside large industrial machinery inside a factory. One person holds a tablet while the other points towards equipment on a metal workbench."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1ce2/live/4522bc70-e853-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Pope Francis waves. He is dressed in his white cassock and wearing a rosary."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d956/live/a0e782f0-e96d-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A group of people outside a front door of a property in Gloucester, drinking"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9766/live/b97d62b0-e861-11f1-a330-6153c8fb2fad.jpg",
-          "alt": "Jude Bellingham"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3a69/live/6f362e30-e960-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A man in running clothes, a beanie hat and mittens breathes in the cold air on a frosty morning."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0088/live/711b1050-e89b-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Woman shown on CCTV to be setting a fire outside BBC offices at the Forum in Norwich using a homemade device."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/576e/live/bade5ff0-e92a-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Mauricio Pochettino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a00e/live/853bf1c0-e897-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "A felt sculpture of the human brain on a purple background, with red threads extending from the brain."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/aa0b/live/e1e4e6e0-e926-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Shows an asteroid in space"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/17ba/live/2a3d9cf0-e898-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "A woman with long brown hair looks out from between two piles of toilet rolls."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/462a/live/17c5cea0-e8ff-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Nitrous oxide canisters"
         }
       ],
       "featured": false
     },
     {
-      "title": "為何更多蘇格蘭年輕人申領殘疾福利？",
+      "title": "為何更多年輕蘇格蘭人申領殘疾福利？",
       "url": "https://www.bbc.co.uk/news/articles/cw8r7kmgd8dxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-22T09:28:24.000Z",
-      "summary": "自新冠疫情以來，申領殘疾福利的蘇格蘭人數急升，原因何在？",
+      "summary": "自新冠疫情以來，蘇格蘭申領殘疾福利的人數急升，原因究竟是甚麼？",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -137,29 +309,29 @@
           "alt": "An image of Mairi McAllan - a young woman with shoulder-length brown hair, wearing a bright pink blazer - speaking in the Scottish Parliament chamber"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1ce2/live/4522bc70-e853-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Pope Francis waves. He is dressed in his white cassock and wearing a rosary."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d956/live/a0e782f0-e96d-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A group of people outside a front door of a property in Gloucester, drinking"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9766/live/b97d62b0-e861-11f1-a330-6153c8fb2fad.jpg",
-          "alt": "Jude Bellingham"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/3a69/live/6f362e30-e960-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A man in running clothes, a beanie hat and mittens breathes in the cold air on a frosty morning."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0088/live/711b1050-e89b-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Woman shown on CCTV to be setting a fire outside BBC offices at the Forum in Norwich using a homemade device."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/576e/live/bade5ff0-e92a-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Mauricio Pochettino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a00e/live/853bf1c0-e897-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "A felt sculpture of the human brain on a purple background, with red threads extending from the brain."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/aa0b/live/e1e4e6e0-e926-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Shows an asteroid in space"
         }
       ],
       "featured": false
     },
     {
-      "title": "Morgan 稱搬到曼徹斯特激勵自己再奪獎牌",
+      "title": "摩根指搬到曼徹斯特激勵自己摘獎",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/c6x20gd79g99o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-19T17:32:21.000Z",
-      "summary": "什羅普郡泳手 Ollie Morgan 表示，搬到曼徹斯特令他重拾動力，再造奪牌佳績。",
+      "summary": "什羅普郡泳手奧利・摩根表示，搬到曼徹斯特有助激勵自己重返摘獎狀態。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -168,55 +340,63 @@
           "alt": "Ollie Morgan of Team England poses for a photo after winning the silver medal in the men&#x27;s 200m backstroke on day three of the Glasgow 2026 Commonwealth Games at Tollcross International Swimming Centre"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9766/live/b97d62b0-e861-11f1-a330-6153c8fb2fad.jpg",
-          "alt": "Jude Bellingham"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/462a/live/17c5cea0-e8ff-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Nitrous oxide canisters"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pprmdl.jpg",
-          "alt": "Man City fan Steven McInerney"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6dc3/live/0610a500-e85e-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Pat Nevin on Enzo Fernandez, Elliot Anderson and Ayyoub Bouaddi"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pprnlh.jpg",
-          "alt": "Aston Villa fan Amy Finley"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9d1b/live/32300c10-e8aa-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "NZ netballers"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pprs2w.jpg",
-          "alt": "West Ham fan Josh Birdi"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a3f5/live/aa8c4330-e851-11f1-aa88-031e8213533d.jpg",
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/576e/live/bade5ff0-e92a-11f1-a094-5fdc692f3e33.jpg",
           "alt": "Mauricio Pochettino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/150f/live/0a8ade20-e840-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Florian Wirtz and Jurgen Klopp"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8e98/live/0806d3d0-e91b-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Bruno Fernandes &amp; Ashley Young"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/415a/live/8e67d870-e83f-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Serge Vittoz"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d17f/live/366e7640-e8f0-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Man catches ball on motorbike"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dbe6/live/936301b0-e92f-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "BBC Football pundit Stephen Warnock on Real Madrid and England&#x27;s Jude Bellingham"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e74f/live/be6a5df0-e90b-11f1-b9b5-17bef7133655.jpg",
+          "alt": "BBC Sport&#x27;s Elizabeth Conway and Jude Bellingham"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6da6/live/0acee8f0-e925-11f1-9ad5-d90638539be9.jpg",
+          "alt": "Andoni Iraola, Alexander Isak and Florian Wirtz"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c2fd/live/f28f8c50-e92d-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Mauricio Pochettino gives a &#x27;thumbs up&#x27;"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7a10/live/7a2e2380-e922-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Ashley Young"
         }
       ],
       "featured": false
     },
     {
-      "title": "協助特殊教育需要兒童的羊駝農場",
+      "title": "羊駝農場為特殊教育需要兒童提供支援",
       "url": "https://www.bbc.co.uk/news/videos/cmj6lzll35gjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-18T10:15:53.000Z",
-      "summary": "一名同時患有自閉症及注意缺陷多動症的男孩，將自家羊駝農場打造成其他特殊教育需要兒童的安全港。",
+      "summary": "一名同時患有自閉症及注意力不足過度活躍症的男孩，將自家羊駝農場打造成其他特殊教育需要兒童的安全港。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9245/live/c3b356e0-e299-11f1-99a1-253766e7ad8b.jpg",
           "alt": "An alpaca is looking at the camera. Another is eating."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ab64/live/3e820a50-e8f4-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Gordon Ramsay and the Stig in a fast car."
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7c45/live/c86e5fb0-e8b4-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Laura Bicker on the left and Pakistani astronaut Muhammad Zeeshan Ali on the right"
         },
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9a39/live/eef14440-e89b-11f1-99a1-253766e7ad8b.jpg",
@@ -245,23 +425,15 @@
         {
           "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/eefc/live/333ecef0-e7e4-11f1-a094-5fdc692f3e33.jpg",
           "alt": "Left, Kate Middleton looking out onto green hills. Right, Middleton is speaking to someone off-camera."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/caf3/live/63f423d0-e76a-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Left, a woman with brown hair. Right, Jensen Huang."
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1816/live/87274fe0-e74b-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Screen grab from video taken during the street rotests in France"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
-      "title": "一名少年養的羊駝如何幫助有額外需要的兒童",
+      "title": "少年養殖的羊駝如何幫助有特殊需要兒童",
       "url": "https://www.bbc.co.uk/news/articles/cr2klx1ke5dgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-18T06:05:34.000Z",
-      "summary": "農場的羊駝及瓦萊黑鼻羊令當地學校的學生放鬆又開心。",
+      "summary": "農場的羊駝及白鼻黑頭羊令本地學校學生放鬆愉快。",
       "sourceName": "BBC 新聞（障礙）",
       "sourceId": "bbc-disability",
       "images": [
@@ -302,17 +474,17 @@
           "alt": "A white labradoodle with a purple harness around the nose. The dog also has a green and purple bandanna around the neck."
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/1ce2/live/4522bc70-e853-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Pope Francis waves. He is dressed in his white cassock and wearing a rosary."
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d956/live/a0e782f0-e96d-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "A group of people outside a front door of a property in Gloucester, drinking"
         }
       ],
       "featured": false
     },
     {
-      "title": "拉姆齊－皮蒂領銜復活的國際游泳聯盟避免操之過急",
+      "title": "拉姆齊-皮蒂領銜復活的國際游泳聯盟明星賽，主辦方慎防操之過急",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/ck1wvzryg015o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T17:17:18.000Z",
-      "summary": "亞當·拉姆齊－皮蒂將領銜國際游泳聯盟重啟的全明星賽；主辦方誓言不會因過往的財政問題而「過度延伸」。",
+      "summary": "亞當·拉姆齊-皮蒂將領銜國際游泳聯盟復出後的明星賽。主辦方因過往曾面對財政問題，誓言不會「過度操縱」。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -321,49 +493,49 @@
           "alt": "Head and shoulders view of a wet-faced Adam Ramsay-Peaty, wearing black, blue and purple swimming goggles, pulled up above his eyes, plus a largely red swimming cap featuring a union jack flag image and GBR RAMSAY-PEATY in white lettering"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9766/live/b97d62b0-e861-11f1-a330-6153c8fb2fad.jpg",
-          "alt": "Jude Bellingham"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/462a/live/17c5cea0-e8ff-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Nitrous oxide canisters"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pprmdl.jpg",
-          "alt": "Man City fan Steven McInerney"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6dc3/live/0610a500-e85e-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Pat Nevin on Enzo Fernandez, Elliot Anderson and Ayyoub Bouaddi"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pprnlh.jpg",
-          "alt": "Aston Villa fan Amy Finley"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9d1b/live/32300c10-e8aa-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "NZ netballers"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pprs2w.jpg",
-          "alt": "West Ham fan Josh Birdi"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a3f5/live/aa8c4330-e851-11f1-aa88-031e8213533d.jpg",
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/576e/live/bade5ff0-e92a-11f1-a094-5fdc692f3e33.jpg",
           "alt": "Mauricio Pochettino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/150f/live/0a8ade20-e840-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Florian Wirtz and Jurgen Klopp"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8e98/live/0806d3d0-e91b-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Bruno Fernandes &amp; Ashley Young"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/415a/live/8e67d870-e83f-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Serge Vittoz"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d17f/live/366e7640-e8f0-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Man catches ball on motorbike"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dbe6/live/936301b0-e92f-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "BBC Football pundit Stephen Warnock on Real Madrid and England&#x27;s Jude Bellingham"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e74f/live/be6a5df0-e90b-11f1-b9b5-17bef7133655.jpg",
+          "alt": "BBC Sport&#x27;s Elizabeth Conway and Jude Bellingham"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6da6/live/0acee8f0-e925-11f1-9ad5-d90638539be9.jpg",
+          "alt": "Andoni Iraola, Alexander Isak and Florian Wirtz"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c2fd/live/f28f8c50-e92d-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Mauricio Pochettino gives a &#x27;thumbs up&#x27;"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7a10/live/7a2e2380-e922-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Ashley Young"
         }
       ],
       "featured": false
     },
     {
-      "title": "南非游泳總會主席稱史密斯轉投荷蘭令人感傷",
+      "title": "南非游泳總會主席：史密斯轉投荷蘭令人傷心",
       "url": "https://www.bbc.co.uk/sport/swimming/articles/cmy86x3y5dd8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-12T11:40:04.000Z",
-      "summary": "塔佳娜·史密斯決定轉而代表荷蘭出賽，南非游泳總會主席表示對此感到「sad」。",
+      "summary": "塔蒂亞娜·史密斯決定轉投荷蘭隊，南非游泳總會主席表示對此感到「傷心」。",
       "sourceName": "BBC 運動（游泳）",
       "sourceId": "bbc-swimming",
       "images": [
@@ -372,100 +544,49 @@
           "alt": "Tatjana Smith poses on the podium after winning women’s 100m breaststroke gold at the Paris 2024 Olympic Games"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9766/live/b97d62b0-e861-11f1-a330-6153c8fb2fad.jpg",
-          "alt": "Jude Bellingham"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/462a/live/17c5cea0-e8ff-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Nitrous oxide canisters"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pprmdl.jpg",
-          "alt": "Man City fan Steven McInerney"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6dc3/live/0610a500-e85e-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Pat Nevin on Enzo Fernandez, Elliot Anderson and Ayyoub Bouaddi"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pprnlh.jpg",
-          "alt": "Aston Villa fan Amy Finley"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9d1b/live/32300c10-e8aa-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "NZ netballers"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pprs2w.jpg",
-          "alt": "West Ham fan Josh Birdi"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a3f5/live/aa8c4330-e851-11f1-aa88-031e8213533d.jpg",
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/576e/live/bade5ff0-e92a-11f1-a094-5fdc692f3e33.jpg",
           "alt": "Mauricio Pochettino"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/150f/live/0a8ade20-e840-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Florian Wirtz and Jurgen Klopp"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/8e98/live/0806d3d0-e91b-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "Bruno Fernandes &amp; Ashley Young"
         },
         {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/415a/live/8e67d870-e83f-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Serge Vittoz"
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/d17f/live/366e7640-e8f0-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Man catches ball on motorbike"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/dbe6/live/936301b0-e92f-11f1-99b6-a35a62fa4264.jpg",
+          "alt": "BBC Football pundit Stephen Warnock on Real Madrid and England&#x27;s Jude Bellingham"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/e74f/live/be6a5df0-e90b-11f1-b9b5-17bef7133655.jpg",
+          "alt": "BBC Sport&#x27;s Elizabeth Conway and Jude Bellingham"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6da6/live/0acee8f0-e925-11f1-9ad5-d90638539be9.jpg",
+          "alt": "Andoni Iraola, Alexander Isak and Florian Wirtz"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c2fd/live/f28f8c50-e92d-11f1-99a1-253766e7ad8b.jpg",
+          "alt": "Mauricio Pochettino gives a &#x27;thumbs up&#x27;"
+        },
+        {
+          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/7a10/live/7a2e2380-e922-11f1-a094-5fdc692f3e33.jpg",
+          "alt": "Ashley Young"
         }
       ],
       "featured": false
     },
     {
-      "title": "抗癌倡議者古德本將為欖球賽獻上比賽球",
-      "url": "https://www.bbc.co.uk/sport/articles/cqn49jxjg19eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T13:45:55.000Z",
-      "summary": "游泳冠軍及腦癌研究倡議者阿奇·古德本將於下月代表蘇格蘭出戰對澳洲的國際錦標賽，並獻上比賽球。",
-      "sourceName": "BBC 運動（游泳）",
-      "sourceId": "bbc-swimming",
-      "images": [
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/981/cpsprodpb/12fe/live/5cdc5800-cd53-11f1-b962-b7ff822cde72.jpg",
-          "alt": "Archie Goodburn in action in the pool"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9766/live/b97d62b0-e861-11f1-a330-6153c8fb2fad.jpg",
-          "alt": "Jude Bellingham"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pprmdl.jpg",
-          "alt": "Man City fan Steven McInerney"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6dc3/live/0610a500-e85e-11f1-99a1-253766e7ad8b.jpg",
-          "alt": "Pat Nevin on Enzo Fernandez, Elliot Anderson and Ayyoub Bouaddi"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pprnlh.jpg",
-          "alt": "Aston Villa fan Amy Finley"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9d1b/live/32300c10-e8aa-11f1-a094-5fdc692f3e33.jpg",
-          "alt": "NZ netballers"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pprs2w.jpg",
-          "alt": "West Ham fan Josh Birdi"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/a3f5/live/aa8c4330-e851-11f1-aa88-031e8213533d.jpg",
-          "alt": "Mauricio Pochettino"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/150f/live/0a8ade20-e840-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Florian Wirtz and Jurgen Klopp"
-        },
-        {
-          "src": "https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/415a/live/8e67d870-e83f-11f1-99b6-a35a62fa4264.jpg",
-          "alt": "Serge Vittoz"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "title": "「就像我的兩個哥哥一樣」：腦麻痺男孩靠眼動追蹤技術通過英國普通中學教育證書考試",
+      "title": "「就像我的哥哥們一樣」：腦麻痺男孩借助眼動追蹤技術通過英國普通中學考試",
       "url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
       "publishedAt": "2026-10-02T17:18:06.000Z",
-      "summary": "派特里克·麥凱布以眼動追蹤技術通過 GCSE，展現特殊教育需要及殘障制度的局限與可能。",
+      "summary": "柏特里克·麥凱布在切爾郡法利布魯姆學院就讀，並利用眼動追蹤技術協助學習，最終通過 GCSE 考試。這項成就既反映特殊教育制度的局限，也展示其無限可能。",
       "sourceName": "《衛報》教育",
       "sourceId": "guardian-education",
       "images": [
@@ -513,10 +634,10 @@
       "featured": false
     },
     {
-      "title": "190萬人研究發現 ADHD 與腸胃問題存在顯著關聯",
+      "title": "研究190萬人：ADHD與腸胃問題存在顯著關聯",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
       "publishedAt": "2026-09-11T11:26:08.000Z",
-      "summary": "研究人員分析逾190萬人資料，發現 ADHD 與較高消化系統問題比率相關。ADHD 患者便秘機率接近兩倍、腸躁症機率高58%，糞便失禁機率更超過四倍。",
+      "summary": "研究人員分析逾190萬人的數據，發現ADHD與消化問題顯著相關。ADHD患者出現便秘、腸躁症及糞失禁的可能性分別接近兩倍、高58%及超過四倍。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -532,10 +653,10 @@
       "featured": false
     },
     {
-      "title": "成長過程中帶有 ADHD 特徵的隱藏健康影響",
+      "title": "ADHD特徵成長可能帶來的隱藏健康影響",
       "url": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
       "publishedAt": "2026-01-24T12:39:20.000Z",
-      "summary": "一項歷時數十年的大型研究顯示，兒童期的 ADHD 徵狀可能帶來遠超學業與行為的影響。追蹤近1.1萬人至中年後發現，10歲時 ADHD 特徵明顯者較易出現多種健康問題及健康相關殘障。",
+      "summary": "一項歷時數十年、涵蓋近1.1萬人的研究發現，10歲時有明顯ADHD特徵者，到中年出現多種健康問題及健康相關殘障的機會較高。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -551,10 +672,10 @@
       "featured": false
     },
     {
-      "title": "研究發現 ADHD 的強項與較佳心理健康有關",
+      "title": "研究發現 ADHD 的優勢有助改善心理健康",
       "url": "https://www.sciencedaily.com/releases/2025/12/251223084852.htm",
       "publishedAt": "2025-12-31T15:51:21.000Z",
-      "summary": "新研究揭示 ADHD 較光明的一面：能認識並運用自身強項的成年人更愉快、健康及少受壓力。ADHD 患者較常將創意、幽默和高度專注視為個人強項；運用這些強項與較佳生活質素及較少心理健康問題有關。",
+      "summary": "研究顯示，成人若能認識並運用自己的 ADHD 優勢，會感到更開心、更健康，压力亦較小。ADHD 患者較常將創意、幽默和高度專注等特質視為個人優勢；運用這些優勢與較佳的生活質素及較少的精神健康問題有關。",
       "sourceName": "《科學日報》心理與大腦",
       "sourceId": "sciencedaily-mental",
       "images": [
@@ -570,29 +691,10 @@
       "featured": false
     },
     {
-      "title": "ADHD 藥物的運作方式與過往想像不同",
-      "url": "https://www.sciencedaily.com/releases/2025/12/251225235942.htm",
-      "publishedAt": "2025-12-26T04:59:42.000Z",
-      "summary": "ADHD 興奮劑似乎主要不是讓人更專注，而是喚醒大腦。腦部掃描顯示藥物會啟動獎勵及警覺系統，幫助兒童維持對通常會避開任務的興趣，甚至逆轉與睡眠不足相關的腦部模式，可能令 ADHD 診斷更複雜。",
-      "sourceName": "《科學日報》心理與大腦",
-      "sourceId": "sciencedaily-mental",
-      "images": [
-        {
-          "src": "https://www.sciencedaily.com/images/sd-logo.png",
-          "alt": "ScienceDaily"
-        },
-        {
-          "src": "https://www.sciencedaily.com/images/1920/glitch-brain.webp",
-          "alt": "ADHD Drugs Don’t Work the Way We Thought"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "title": "各國未能防止針對兒童的暴力，機構發出警告",
+      "title": "多國未能防止兒童遭受暴力，機構發出警告",
       "url": "https://www.who.int/news/item/18-06-2020-countries-failing-to-prevent-violence-against-children-agencies-warn",
       "publishedAt": "2020-06-18T13:00:57.000Z",
-      "summary": "全球一半兒童，即每年約10億名兒童，受肢體、性或心理暴力影響，並因而受傷、殘疾甚至死亡，原因是各國未落實既有保護策略。報告由世衛、UNICEF及聯合國相關機構發布。",
+      "summary": "全球每年約半數兒童，即約10億名兒童，遭受身體、性或心理暴力，並因而受傷、殘疾甚至死亡，原因是各國未有落實既有保護策略。報告由世界衛生組織、聯合國兒童基金會等機構發布。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
@@ -612,10 +714,10 @@
       "featured": false
     },
     {
-      "title": "為面臨疾病死亡風險的1100萬名兒童帶來希望",
+      "title": "1100萬名因疾病面臨死亡的兒童有望獲得希望",
       "url": "https://www.who.int/news/item/26-05-2003-efdef5c2-0e18-435f-a4d3-37757f7b178f",
       "publishedAt": "2020-03-19T09:17:06.000Z",
-      "summary": "世界衛生大會有力支持兒童及青少年健康的新策略方向，匯集減少兒童死亡和長期殘疾的關鍵措施，並旨在每年減少140萬名青少年死亡。去年兒童及青少年死亡人數是去年的兩倍",
+      "summary": "世界衛生大會大力支持兒童及青少年健康的新策略，透過整合關鍵措施，減少兒童死亡和長期殘疾，並冀望每年減少140萬名青少年死亡。",
       "sourceName": "世衛新聞",
       "sourceId": "who-news",
       "images": [
