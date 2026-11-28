@@ -2,6 +2,37 @@
   "note": "由 automation/monthly-sen-course-upgrade.mjs 每月寫入。",
   "runs": [
     {
+      "at": "2026-11-28T11:03:26.944Z",
+      "ym": "2026-11",
+      "unitId": "2.8",
+      "slug": "2-8-communication",
+      "newChapterId": null,
+      "summary": "本月聚焦以功能階段規劃AAC、工具配合及池邊即時回應。",
+      "sources": [
+        {
+          "title": "PECS官方網站",
+          "url": "https://www.pecs.com/"
+        },
+        {
+          "title": "香港匡智會",
+          "url": "https://www.hkec.org.hk/"
+        },
+        {
+          "title": "香港教育局：特殊教育需要",
+          "url": "https://www.edb.gov.hk/en/edu-system/special-educational-support/"
+        }
+      ],
+      "changes": [
+        "backup:/home/runner/work/leisure-org-hk/leisure-org-hk/Learn/特殊需要人士教師課程/history/2026-11/2-8-communication",
+        "course-knowledge.json",
+        "unit:2-8-communication",
+        "extras:sen-swim-communication.html",
+        "generate-content-pages",
+        "sen-course-upgrade-state.json"
+      ],
+      "ok": true
+    },
+    {
       "at": "2026-10-28T09:06:33.152Z",
       "ym": "2026-10",
       "unitId": "4.3",

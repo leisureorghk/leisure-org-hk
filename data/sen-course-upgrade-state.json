@@ -6,7 +6,6 @@
     "maxNewChaptersPerMonth": 1
   },
   "queue": [
-    "2.8",
     "2.9",
     "4.4",
     "CP",
@@ -27,17 +26,25 @@
     "4.5",
     "2.8b",
     "U-list",
-    "4.3"
+    "4.3",
+    "2.8"
   ],
   "lastRun": {
-    "at": "2026-10-28T09:06:33.152Z",
-    "ym": "2026-10",
-    "unitId": "4.3",
-    "slug": "4-3-safety",
+    "at": "2026-11-28T11:03:26.944Z",
+    "ym": "2026-11",
+    "unitId": "2.8",
+    "slug": "2-8-communication",
     "newChapterId": null,
-    "summary": ""
+    "summary": "本月聚焦以功能階段規劃AAC、工具配合及池邊即時回應。"
   },
   "history": [
+    {
+      "ym": "2026-11",
+      "unitId": "2.8",
+      "slug": "2-8-communication",
+      "newChapterId": null,
+      "at": "2026-11-28T11:03:26.944Z"
+    },
     {
       "ym": "2026-10",
       "unitId": "4.3",
